@@ -1,0 +1,25 @@
+Right now it sits at $0.55.
+But the volume exploded from mere 100k to 700k in no time in these days.
+I have been holding this gem for a while and check this out:There was an AMA from the founder and apparently this is ETH big:https://docs.google.com/document/d/1dlWKNyddgNSUgk0D9WeM_NYP7XYfLhM1W5hZ_z2LniA/It talks about antshares, not NEO, and says this:"Antshares was using ideas from other blockchain projects (...) The difference between us and them is that the ultimate goal of Asch is to build an application platform from the very beginning, a scalable and secure platform based on side-chains for developers is our objective.Antshares was using ideas from other blockchain projects"-Based Qingfang Shan, Founder of Asch>Antshares (NEO) was using ideas from other blockchain projects>Antshares (NEO) was using ideas from other blockchain projects>Antshares (NEO) was using ideas from other blockchain projectsvs.>Ultimate goal of Asch is to build an application platform from the very beginning
+Also Asch recently announced a strategic alliance with Bottos, a decentralized AI company.
+>What is ASCH Asch is an efficient, flexible and safe decentralized application platform, which was initially designed to lower the threshold / barrier to entry for developers.
+With the use of JavaScript as its application programming language, the platform makes use of relational databases to store data, drawing similarities between developing a DAPP and developing a traditional web application.
+This type of platform carries a great deal of appeal to developers, as well as small and medium enterprises, since its ease of use results in greater productivity, fuelling and facilitating a more prosperous ecosystem in the process.
+Asch is open in design and is not limited to any particular niche market such as finance, document storage, copyright certification, etc.
+The APIs which it provides are underlying and abstract, and they can be combined freely so as to facilitate a variety of applications.
+In terms of the consensus mechanism, Asch has inherited and enhanced the DPOS algorithm, simultaneously reducing the probability of forking and double spending by a significant degree.
+Furthermore, Asch's side chain, i.e.
+the application mode, not only improves scalability by delaying the expansion of the blockchain, but also makes DAPPs more flexible and personalized.
+Asch is a forward-looking, low-cost and one-stop application solution, which is believed to be a new generation of incubator for decentralized application.
+not enough memetic shilling for it to even be close to what antshares was
+I like the project, they are scurrying about, writing code instead of posing with skateboards at corporate lobbies.If they keep it up people will continue to flock.
+Holy shit happened to the market cap on Oct 26th?
+Maybe but at the end this is the only thing that matters 4370161The team contacted CMC to ask them how they compute circulating supply, because apparently that number is wrong.
+That drop is explained because circulating supply dropped according to CMC.
+That's why I believe this should be more known.
+BTW this is what they showed to some investors
+Last pic of the presentation.
+Thanks for the explanation.
+Is Jubi the only exchange with this at the moment?
+Nope, right now is in Kucoin and Bit-z.
+The opening to western markets is just beginning.

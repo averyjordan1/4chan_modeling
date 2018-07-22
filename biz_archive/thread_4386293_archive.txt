@@ -1,0 +1,10 @@
+Chainlink allows ETH to run oracles.but who cares?
+Can anyone answer this simple question?
+Gaylink won't moon until people know why.
+Can you red pill me on link?
+I'm about to drop 50% of my stack in but my only issue is, is the use case for the token enough?
+Are think "link is a scam" FUD posts warranted?
+its a scam in that it dumped 75% from peak, where people got 'tricked' into buyingnow is a good place to buy, it wont go lower.
+eh, I guess on-chain transactions, like maybe converting one token to another, or keeping somekind of database, would be super secure.
+But The second you introduce off-chain data the Oracle's significance goes from virtually 100% trustworthy, to just a slightly higher hurdle for fraud.I mean it doesn't solve what I call the "API Problem" - like whatever is feeding data into the contract, how do we know that it's not being manipulated with to produce false outputs?
+How do we know after a transaction happens, the conditions off-chain are reversed?

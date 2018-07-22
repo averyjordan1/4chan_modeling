@@ -1,0 +1,25 @@
+got a formula?
+Purchase price x .75 is a little above your liq price.
+It depends on the leverage you got.
+Need more info
+Assuming 2x...
+surely there's a general formula taking into account leverage, equity, maintenance margin etc
+You get liquidated when your losses exceed what you have in your account.Example: you have $5000 in your account.
+You leverage it 1:10 to short bitcoin at $8k.Now, unexpectedly bitcoin moons to $8400.
+You don't get liquidated because your losses (10x$400 = $4000) are still covered by your funds.
+If it moons beyond $8500, you'd be fucked.It may vary slightly from exchange to exchange, but this is typically the rule.
+If you don't want to put your entire stash on the line every time you make a trade, set a stop loss at a lower price.
+that's a nice, clear example.
+So if you don't get liquidated then you continue trading against your full $5000 in that case right?
+it's not like if you short, but the price goes up instead (but doesn't liquidate you) that it will "deplete" some of your funds?
+It's only when it reaches that liquidation point right where you lose it all at once?
+You typically only get liquidated when you're at a point where you lose everything.
+That's why it's such a big deal.When an exchange liquidates you, they deprive you of the opportunity to wait and see if your trade recovers.
+In and of itself this is a pretty shitty thing to do and they will only do it when they're at a direct risk of losing money.So if you don't get liquidated then you continue trading against your full $5000 in that case right?This differs per exchange.
+I don't usually trade with leverage.
+The only place I've ever done it is Plus 500 and there a part of your funds is reserved for each leverage trade.I now have a realize my example is not completely right because if you have $5000 and you leverage it 10:1, that means you can only open a position of 10x$5000 = $50,000 worth of Bitcoin.
+But you'd still get liquidated if that position of 50k moves such that your losses exceed 5k.
+yeah I know but I'm looking for a formula so I can calculate how much I need to deposit to maximise leverage because I often know what the bottom is +/- a marginlike say i know 6000 is the bottom and i only have $100 what is the maximum leverage I can put on so that I don't get liquidated by being 5% off the mark
+Liquidation just acts as a kind of insurance for the exchange, so they don't have to deal with people who can't pay their debts.
+If you short in other financial markets and the price goes up you could have infinite losses, requiring you to sell your house or whatever, but since most exchanges are based on the seychelles or something like that they couldn't really force you to pay your debts without liquidation.
+Yes, exactly.

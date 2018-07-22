@@ -1,0 +1,5 @@
+https://imgur.com/a/GYdvMThese are pictures of my node and miner.
+It has been mining for about 15 hours now.
+The pool I'm connected to has a latency of around 80, my hashrate is around 40-48 MH/s, but the payout is an abysmal 0.0045vtc.My payout seems abnormally low compared to the other miners in my pool.
+Does anyone know what's wrong?
+Bump

@@ -1,0 +1,8 @@
+Ok, so im interested in starting staking.I hva access to decent hardware (32 cores, 64GB ram) and know vmware and linux enough to get this going.On top of that i have a /27 pubic ip subnet for a totalt of 30 different VM's.Im thinking the upcoming Zen Secure nodes for 42 ZEN (about $1000) for each masternode might be my first try.
+Would only affort to start with 8.Any other suggestions?
+What else can i stake?
+Any cheap promising masternodes coins around?
+Odn 10k ODN for decentraliZed nodes for encrypted messenger app.
+10% ROI yearling PoS.
+Can stake on raspberri pi 24/7 with low cost electricity
+I could probably run 8x of them on the same VMs right?

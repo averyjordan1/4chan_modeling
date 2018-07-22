@@ -1,0 +1,28 @@
+Conspiracy time.This whole ordeal has been very crazy, and what's troubling me is that I believe this has all been to clog up the mempool of BTC to a large degree, because a few of the top mining groups have disappeared and are making BCH until the hard fork.Now bear with me, the fees are now approaching quite large numbers, and as soon as the majority returns to mining BTC, there will be a huge increase in profit due to the fees approaching the numbers they are, and they don't seem to be stopping.Now, I might be entirely wrong here, but when BCH isn't more profitable to mine and the mining pool returns to BTC majority, wouldn't that mean a huge increase in BTC price when everyone who bought BCH rushes back to BTC?
+I mean, for instance, BTC.TOP had 10% of all blocks the last 4 days, but none within the last 48 hours.
+That means that if BTC were to moon, and they return to mine it, the fees that have been added will see an increase in value, and right now the fees are worth 10,000,000 almost, and will continue to rise until the pool gets back in full force?
+So, I'm no math wiz, but if they had 10% of the last 4 days, and none in the last 48, they must have a pretty large part of the total mining force.And if they return, and BTC spikes, won't they see a very large profit from the fees?And if they do manage to confirm a fourth of that, that's a lot of fucking money...?Could this be part of the plan we're seeing or am I just totally fucking retarded?
+Wait, the fees are already at 10,200,000 almost.Any math geniuses here who wants to figure out what that would be worth if BTC goes back up to 7, or even reaches 8k?
+I'm retarded...but this makes sense
+You don't seem to understand the situation.
+There is the regular difficulty adjustment coming up in 1 hour or so, which will make BTC much more profitable.About 24h after that, there will be the hard fork, where the difficulty adjustment algorithm (DAA) will be changed completely to something that adapts very rapidly.
+It is impossible to tell what the difficulty will be 2-3 days from now.
+Well, would their return (and others) to the BTC Mining pool allow them to crunch through all the unconfirmed transactions before the DAA hard fork?Meaning, they can take all the profit from the fees, and if it ends with BCH being the more profitable, they just convert all the earnings from the fees to BCH and goes back mining there...?
+Yes, for a day or 2 the miners will most likely be on BTC and take all them big fees to themselves.
+So imagine the profits if BCH dethrones BTC after that, and all those earnings from a sudden spike in BTC value will convert to BCH and then moon that out of the galaxy..?Am I crazy for thinking this might've been part of the plan all along?
+Also, am I crazy to think that some of the major players with BTC have been working with this by actually putting in thousands of BTC into the unconfirmed transactions.I mean, when this started everybody panicked that what-his-name transferred his BTC to an exchange, well, what nobody seemed to care was that he put them in the chain well below the current sat/B, I mean, if you're transferring 3k BTC you can afford to put the sat/B at a rate that will allow it to go through, right?So why, if you have that much, and know that much, are you putting it WELL below sat/B?
+Unless to fill and clog up the chain, and allowing the fees being earned to increase?
+Also, they all did multiple transactions with low fees, which just seemed to cause panic amongst people that "they'd be selling all their 40k btc" or whatever.
+So then they started selling, at a higher sat/B to get theirs through, and it just kept getting higher.Don't they also then stand to make a profit?
+The small fees they put in will be so much less than the total increase in worth of the thousands of coins they just clogged up the chain with?Total shot in the dark or..?
+I mean, people are selling 1 BTC at 4.4k sat/b in sheer panic, all while transfers of 3k BTC is sitting comfortably at 430 sat/B?
+If they really planned on dumping, they would never risk putting it into a chain that they'd know could take ages to confirm..?
+And jesus christ people, everybody who was planning on jumping ship now has their transactions stuck in the mempool on the way to the exchange, when BTC suddenly spikes in price they'll just send the BTC back to their wallets, paying whatever sat/B is needed to not get it stuck in the mempool again.Meaning the calculated profit of mining BNC will be slightly higher than believed due to the fee staying at a higher sat/B than normal?
+What's going on in this thread
+Conspiracy theories man, and if I'm right, we will see BCH crash down to $500ish, and we'll see BTC spike to over $8k.
+Steadily rising as every single unconfirmed transaction is confirmed, and we will end up with a much higher average sat/B fee which will in turn increase BTC mining profit even more.
+4324887And the sat/B will continue to increase as everybody transfers back their funds from the exchange, with a higher than needed sat/B to make sure it doesn't get stuck again.Boom.
+i like what you did there
+And I like that .gif, now let's see if I'm right.
+BTC.TOP is back on the pool.And what's happening with the unconfirmed transactions?
+They're dropping.Spike soon.

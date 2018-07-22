@@ -1,0 +1,6 @@
+What's the best way to storeLINKGAS/NEOI'm using Trezor for BTC and ETH but need something as good for NEO so that I can stake it and receive my GAS and also need it for link, I don't trust the exchanges or online wallets
+Nano ledger s now works with Neo/Gas Too bad you choose the wrong hw wallet
+Also LINK is an erc20 token, store it on your eth address and and access it from Myetherwallet+hw wallet
+haha nigga coinnnn..
+haha nigga coinnnn..
+haha nigga coinnnn..

@@ -1,0 +1,59 @@
+The 20billion of Tether added by special deposit.74% of hash power is based out of China.The Chinese are going to 51% attack and crash bitcoin with no survivors.Isn't it time you got into a more, distributed, ASIC resistant coin?
+https://medium.com/@homakov/how-to-destroy-bitcoin-with-51-pocked-guide-for-governments-83d9bdf2ef6b
+Shutting down the miners would be the stupidest thing to do.
+Bitcoin doesn’t depend on miners for survival, it depends on them for security.
+So if you make miners go away, difficulty adjustment will kick in and soon miners in other countries will continue securing the network.Instead, to kill Bitcoin, you need to do one big nasty 51% attack.Step 1.
+Buy a lot of it.Find all big crypto exchanges around, register fully verified accounts, 10–40 on each exchange.
+So we have about 100 exchanges and 40 accounts on each.
+Great.
+Let’s buy $100M worth of Bitcoins.
+You’re the government, you can afford it for national security, can’t you?Bitcoin’s market cap at the moment of writing is $95B so that would be 0.1%—a fair enough leverage.Send all the money from exchanges to your own desktop wallets.
+That’s the hardest part: UX of crypto wallets suck so much there’s big chance you will just lose it.
+(partially joking)
+>muh big governments will let another country handle its financial transactions
+Step 2.
+Locate the 51% of miners.71% according to https://www.buybitcoinworldwide.com/mining/china/ are somewhere in China.
+They try to be anonymous, but you are China, and you make people install spy apps on their phones https://thenextweb.com/asia/2017/07/25/chinas-forcing-its-citizens-to-install-a-terrifying-big-brother-app-on-their-phones-or-go-to-jail/ so that shouldn’t be a problem to figure out the largest ones.Hint: They feed on free electricity.
+So ask around.
+Step 3.
+A secret operationNow ask your secret law enforcement division to find as many miners as possible on day X.Since it is a law enforcement operation, your officers are allowed to point guns to miners’ heads.
+That will speed up their thinking process, in case they pretend they don’t know what Bitcoin is and how to do 51%.That’s how gov works when it needs to achieve something.
+And since you’re China, no need to bother trying to look liberal while doing that.
+Step 4.
+Double spending time!Make them do the following: they need to mine ~4,000 transactions ($25,000 each) from your desktop wallets in a single block and broadcast it to everyone.
+These 4,000 transactions will be sending money back to all the accounts you created in Step 1.Normally, exchanges require 6 blocks built on top (confirmations) to consider that transaction final.So now the rest of the network will try to build blocks on top of yours.
+While they are doing that, mine on top of the block before one you just mined.I.e.
+you take blockN, send everyone blockN+1 so they keep working on blockN+2 and blockN+3, but you instead focus on mining a different branch blockN+1B and blockN+2B.You have 51% so most likely you will mine faster than everyone else.
+Once outside miners get 6 confirmations of your block you need to request an exchange of your Bitcoins on all exchanges to something else.
+Litecoin, Ripple, Ethereum, whatever.
+They normally exchange automatically.
+Then you need to send all those altcoins to your desktop wallets again.After changing all BTC to altcoins and requesting altcoins withdrawal, release the other “secret” branch that basically cancels the block with 4,000 transactions you mined.It’s called reorganization: now everyone in the network must accept your chain as the main one, and forget about all the other transactions that are now “orphaned”.
+Step 5.
+Watch the coinmarketcap going to 0This means $100M worth of Bitcoin (which exchanges no longer have) were just exchanged to $100M worth of altcoins, which you do have.
+Congrats on your double-spend operation, you now have $200M worth of cryptocurrencies!
+The price of them is going to 0, but that’s what the original purpose was anyway.You can repeat the process again, but you don’t need to.
+A single attack of this size would destroy faith in cryptocurrencies for next few years.There will be no backlash from other governments—Bitcoin is outside of any jurisdiction or law practice.
+So you can do it both privately or publicly.
+RecapIt’s a rage post, but I’m not against Bitcoin.
+I’m against stupidity we have right now.We need to become paranoid again and get our threat model in place.
+What the actual fuck are you busy with right now?
+Smart contracts?
+Identity on blockchain?
+Exchanging shittokens to shittokens in decentralized fashion?
+ICOs?
+These things are completely irrelevant compared to censorship resistance, one and only important quality of a blockchain.
+The rest of your shit can run on $5 server 1000x times more efficiently.If you don’t need censorship resistance for your task: leave the blockchains alone and get busy with something else!The attack is way easier against Ethereum (step 1. get Vitalik), and the rest of cryptocurrencies you can 51% attack by just buying some ASICs for the cost of one helicopter.
+So if you act, better attack Bitcoin, and see the domino effect.P.S.
+If you’re not China and you don’t have James Bond-level spies in China who can hijack the miners for you, doing 51% against Bitcoin on your own is much tricker.
+So better try to convince China to do it for you.
+check https://discord.gg/dP4sb6e
+Everyone gossips how secure and unstoppable cryptocurrencies are, which kinda makes you sad because you are a govt and like to be in control, right?Bitcoin is indeed way harder to ban than just arrest a couple of individuals and shutting down their server like what happened to Silk Road, E-Gold, Liberty Reserve, and pretty much anyone annoying the authorities.In cryptocurrencies there’s no central server to shut down: every single user runs one (full node) for security (that’s in perfect world, in practice most use a web wallet connected to popular cloud provider).But there are coordinators also known as miners or validators or witnesses that are chosen by some rule.
+In Bitcoin miners find hashes (computationally expensive and needs cheap electricity), and look at that, a well known vulnerability presented right to your nose!
+most of the miners are located in your country.
+what is 51% attack?someone enlighten me
+Bitcoin runs on a consensus.
+If more than half of the miners say that a transaction took place, then that transaction took place, as far as the network is concerned.
+So if you were to control 51% of the mining power....
+You need a lot more than 51% of hashing power to override 6 blocks.
+Here you are my fellow soon-to-be crypto resistance fighter.Start mining today!
+That's all good cause China has 74%, and could get even more if the govt so wishes to commit to this plan and builds more mining farms

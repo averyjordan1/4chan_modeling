@@ -1,0 +1,2 @@
+What type of wallet is this?All transactions are pairs of IN/OUT where the wallet is always left at 0 ETH after an OUT
+bump

@@ -1,0 +1,44 @@
+> Why aren't you pair trading right now anon?
+> Cointegration, unit roots, kalman filters anon > Do you hate free money anon?
+teach me senpai
+I wanted to try apply some models to crypto, but has been too lazy.
+Did it work?
+Gonna start with VAR and VECM.
+*have
+that's nice, I bet it started working very well after segwit2x was called off, and I expect the inverse relationship between the btc and bcc will only become stronger, moving forward
+Opera is such a comfy browser.
+Do you know how they are on spyware?
+Thinking of switching from chrome
+link code plz
+Yo this shit is achievable to anyone who knows basic python within a day.
+Pandas is truly glorious tool.
+Download pandas and jupyter notebooks and go wild, there is so much cool stuff you can do with 10 lines of code and a dataset
+im downloading now.
+would you be willing to upload your project?
+I'm not OP haha but you can find great online tutorials of everything he did.
+The only part of OPs program that isn't visible to us is the csv data he's running it on.
+It's annoying to find csv data of crypto prices.
+If you only care about pandas and not crypto, then use some other widely available good data to mess around.
+if you want crypto specifically, ,maybe OP should share his csv data or you can mess around with the exchange apis to pull it into a csv.
+Bothersome though
+Anon don't be lazy.
+Theres money to be had if you know what you are doing.
+Cointegration, as long as you can establish it between one or multiple pairs works surprisingly well in crypto.
+Most autoregressive models or optimal control models will do you good.
+Grab the data, perform some stat tests, build our model, backtest that shit and you are good to go.
+I tried doing that, but back testing never gave me anything above just holding the most popular coins.
+Did you actually get good results with it?
+I just used poloniex's api to grab the data.
+Bunch of wrappers exist for all kinds of languages if you dont feel like wrapping it your self, just check github
+Oh, so when are you trading, when they're both going in the same direction?
+Pretty interesting.
+Depends on the model anon.
+How were you calculating the hedging ratio?
+You can get decent results if you back up your alpha model with a beta/risk model.A while ago I was fucking around with straight forecasting, still trying to get that to function properly.
+Trading on cointegration is way easier.
+If mean reversion can be established, you simultaneously enter a long and a short position depending on a dynamic hedge ratio (usually an optimal control problem in stochastic calculus)
+Which exchanged allow you to short?
+Can someone explain what I'm looking at and how I would set this up.pic related it's me having no idea what I'm doing but would like to play with something and learn something new today.
+bitfinex does.
+Shorting is not an absolute requirement thoughanon all Im doing above is load two time series csv files, normalize them by looking at percentage returns and then plot them against each other.
+You should look at some tutorials first, for example here https://pandas.pydata.org/pandas-docs/stable/tutorials.html

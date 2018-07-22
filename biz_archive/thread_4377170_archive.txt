@@ -1,0 +1,71 @@
+Why was Blockstream allowed to garner so much influence over Bitcoin?
+Especially with its corporate/deep state ties?
+Well, the ceo invented HashCash and was cited in the Bitcoin Whitepaper.
+And they have some great products in the works.Better questions: Why was Bitmain allowed to stall Segwit for so long?
+Why was mining centralization in a communist county, well known for its shady business practices and government interference and cyber espionage allowed?
+Because it doesn't matter.A lesson they're just about to learn.
+They were censoring all dissent on basically every bitcoin communty, most people still don't know how shady BTC has become.
+How shady BTC has becomeBCH supporters:Roger Ver (Criminal)Kim Dotcom (Criminal)Craig Wright (Criminal)John McAfee (Criminal)Calvin Ayre (Criminal)
+Are you a boomer?
+Are you one of those cucks who think weed should be illegal?
+A union guy?
+A consumer cucukold?
+This is what ive been noticing as well.Bitcoin was pioneered by shady folks.
+I can atleast trust them to act in their own self interests.
+Core on the other hand gets more and more nebulous every day.
+Are you a fucking 14yr old?
+People who are criminals in one form of activity are likely to be criminals in others.Calvin Ayre was on the FBI's top ten most wanted list.
+Craig Wright is pretending to be Satoshi.
+John McAfee murdered someone and is a drug addict.
+Ver stored explosives in a shared residential building.
+Kim Dotcom is an IP thief and a blowhard (although admittedly, he isn't the worst out of the bunch).How the fuck can you say that the fucking nerds of Core are shady, but the guys pumping bcash aren't?
+Bitcoin Cash is the Han Solo of cryptocurrencies.
+BTC is just a rothschild-backed bilderberg coin.
+Calvin Ayre was wanted because he ran an illegal gambling website.McAfee has denied all accusations of his neighbors deathVer was selling fireworks from his house which were sold and shipped in the same fashion by companies like Cabelas and other retailers.He also ran for California State Assembly in 2000 and publicly shit on the BATF by calling them murderers, which might explain why he got convicted for something so mundane.Kim Dotcom is the icing on the cake.This motley crew sounds like Bitcoin personified desu.
+How is this a bad thing?
+The only people missing are DPR, Arron Swartz and Ted Kaczynski.
+You're right about all of them except the Ted Kaczynski one is news to me, so I'm curious.
+More data?
+Last I heard he sent a mail bomb to some innocent computer scientist.
+Doesn't sound like he belongs in the previously mentioned company.Not that it matters because trust is for people that don't have cryptography.
+But you know, curiosity and all that.
+>((((((((((((big blocks))))))))))))
+Yeah hes a piece of shit but hes extremely smart and the ideas he brought to light are more relevant now than they've ever been.
+I mostly threw him in there for variety.
+It was either Ted or Hulk Hogan.
+((((((off chain solutions aka banks))))))
+you are confusing bitcoin with monero.
+Segwit transactions are stealable by the miners.
+It's a matter of time before the backlog of stealable segwit transactions is big enough for a miner to do so.That will be the real shitstorm and the death of segwit coin.
+Not sure where to park my coins either but it's prudent to never send coins with a segwit transaction.
+Why was Blockstream allowed to garner so much influence over Bitcoin?
+Especially with its corporate/deep state ties?Blockstream is not a problem.
+The code is open source and bitcoin is secure.FIAT and the FED is the problem
+
+You can't have a serious discussion on Bcash.
+It's a very complicated topic and only people who know what they are talking about should do it and they should do it where it belongs.
+TL;DR: You can't solve an exponential scaling issue (transaction amount) with a linear solution (blocksize increase).People promoting Bcash are just trying to scam people who can't understand the tech.
+They are scammers and should be treated as such.
+lmao>our ideas are so good we cant even let people discuss themkys corecuck
+There is a huge discussion in the Bitcoins forums about that topic, there are programmer talking about programmer things.
+Feel free to discuss this with people who know what they are talking about.
+"MUH FLIPPENING IMMINENT" is not a good discussion.F.e.
+Adam argued that blocks should be small so a node can also run over tor in a country that banned bitcoins.
+Using sidechains isn't much worse than using an Exchange (just put there what yopu need weekly).
+Most big block supporters use VISA daily average transactions to argue about future of the block size.
+Adam argues far beyond that - he thinks about every person on earth using btc and not just the amount of people using VISA.Go there, read it.
+Don't buy BTC or Bcash - just listen to the arguments and think about what's better.
+Turns out it's like a discussion if poo or honey tastes better.
+Using sidechains isn't much worse than using an Exchangeall of them are regulated af you dumb fuckhttps://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+I know this, it get posted everythime.
+He's making the assumtion that LN will look like random graph which it won't be.
+It will most likely be a network of high liquidity exchanges and the users are connteced to those exchanges.I studied comp sci btw.
+sry 4 pajeet speech, I was too lazy to read the post twice before posting
+blockstream has great products in the works
+(((off chain solutions))) >at all legitimate use of blockchain technology
+quit parroting that bullshit coreblue.
+There is NO good reason to strangle the blocksize whatsoever.
+Don't say centralization cuz thats bullshit too.
+yeah cuz every person on earth is going to be using bitcoin with 20 dollar fees and running their own full node.
+what the hell?Lightning transactions are cheaper than onchain bch transactions.
+The only onchain transaction you would do is one every month or week into your lightning wallet.

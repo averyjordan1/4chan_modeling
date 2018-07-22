@@ -1,0 +1,44 @@
+AHHHHHHHHHHhttps://blockexplorer.com/block/0000000000000000000e16a576d2b9f5bef848faac7711cc0d6e2e6fddae14b1>Number Of Transactions 1>Number Of Transactions 1>Number Of Transactions 1https://blockchain.info/    IT'S OVER
+NOOOOOOOOOOOOO I HAVE MORE LINK
+cashed out to ethereum 10 minutes agoi literally cannot lose
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+WTF WHERE R ALL MY POWR GONEGIVE THEM BAKC
+A block was mined before any transactions were sent.
+So what?
+PLEZZ send me some , I need some for... buy a Tesla 1C1bYjo6bcFQe76KMwrsUEaKuggo6hg5gn
+mempool wasn't empty, there is always transactions to fill
+IT'S OVER.
+DUMP IT ALL.
+EXIT ALL MARKETS
+That's the result of mining a coin idiot
+It's not a law of bitcoin that you have to mine transactions.If some idiots wants to waste money by mining empty blocks, they can.
+H I S T O R I C
+This is the least intelligent post on /biz/ right now
+Jk but 1.049.634€ woaw
+HOLY FUUUUUUUUUCK MY BITCOINS NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!
+Mined by antminer Nov 22, 2017 7:32:16 What about it?
+can somebody explain to a newfag what is happening here?
+Wait what happened?
+4513081BTC is dead now.
+I hope you were invested in BCH.
+Nothing.
+OP is being a tard.
+He has no idea what he's talking about.
+He's not even looking at the correct strings.
+4513081Nothing.
+Literal nothing of value.
+It is just OP's first time seeing an empty block, in reality it has 0 transactions
+i started like yesterday to mine with my shitty gpu and now it's all dead lol?
+i gotta study really how all this blockchain and bitcoin shit works
+In which anon is astonished to learn that empty blocks have hash values too
+MOMMY ITS ALL GONE AAAAH
+4513081Dark times ahead.
+wow the eyes on that wojack are pretty cool actually
+rly??
+OMG??
+yeah nothings going to happen btw
+Lmao
+Happens all the time, especially from Antpool"Empty blocks (blocks with one transaction, the coinbase transaction) usually occur due to SPV mining where the miners have not validated the previous block before building the next block on it.
+This means they don't know what transactions were included in that block so they do not include any transactions in the next block until they have validated the previous block.The other blocks with few transactions may happen if the entire mempool of the miner's node was cleared by the last block and they have only received a few transactions when they began building the next block.
+This may be unlikely, but not impossible."
+nothing newhttps://bitcoinmagazine.com/articles/why-do-some-bitcoin-mining-pools-mine-empty-blocks-1468337739/

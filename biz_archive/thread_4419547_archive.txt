@@ -1,0 +1,10 @@
+Can someone explain how chainlink will scale regarding to the amount of transactions ?
+It uses ethereum so it will never reach the amount of transactions per second that for example visa/mastercard can reach right?
+Until Plasma is implemented but who the fuck knows when that will happen if it does
+Won't it have its own network when it's up and running?
+chainlink is the most theoretical idea right now with so many flaws and scenarios that need to be considered that I wouldn't waste my time trying to think of them all if I were you.
+if only coinye had been allowed to happen.
+imagine the marketcap
+so its a shitcoin?
+jesus christ man I know this sounds like a cliche, but would you just please, please, do the most rudimentary research before posting this shit.
+ChainLink will be blockchain agnostic, which means no, it will not be limited to eth tx times.

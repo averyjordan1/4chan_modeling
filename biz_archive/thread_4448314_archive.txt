@@ -1,0 +1,5 @@
+If you accept the mainstream derping about "banking the unbanked" (which itself is just a PR ruse of the USG's to get their fingers into the blockchain), you'll find yourself wanting to do something stupid about minimum transaction values in the bitcoin network.
+Once you reduce the minimum fee for broadcasting, a whole slew of smaller transactions will want into each block.
+That demand will put upward pressure on the price each transaction must pay for inclusion into each 1MB block, pressure that can only be alleviated by increasing the maximum block size.
+So there you have it: the USG is exploiting your kindhearted desire to make the world a better place for someone to whom you're entirely unrelated to fuck up the blockchain.
+In other news, BTC just hit 8000 while forkcucks cope with muh chaindeath.

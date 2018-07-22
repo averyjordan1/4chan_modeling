@@ -1,0 +1,14 @@
+Check the smart contract of NEO GOLD.
+Try using the transferfrom function in MyEtherWallet and put the address of the largest holder in the sending address and put your address in the receiving end.You're welcome.
+How can I do this without getting vanned?
+whatcha mean?
+Free coins?
+>transferfrom function in MyEtherWallet explain
+doesnt work https://etherscan.io/tx/0xf0c64c332ff2fc85bdad68e91e90ebb06d7ead11a9b2d83bfc017a58bfb949ae
+either way can you tell me what this "transfer from" function is
+Neo Gold is prime for break out!
+Moon soon!
+function transferFrom(address _from, address _to, uint256 _value) returns(bool)  { var _allowance = allowed[_from][msg.sender]; balances[_to] = balances[_to].add(_value); balances[_from] = balances[_from].sub(_value); allowed[_from][msg.sender] = _allowance.sub(_value); Transfer(_from, _to, _value); return true; }
+Moon soon!!!
+NEO GOLD hahahhahahahah Please put your money in this and lose it all.
+This will be pure comedy.

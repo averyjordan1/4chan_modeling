@@ -1,0 +1,73 @@
+Hello, please tell me which language to learn.
+Started relearning Python and fell back in love with programming.
+What is biz' favorite programming language of the future?
+>inb4 etherscam
+C. Once you master C, you can master any other language (except DOGFUCJ) in a couple of days
+Thanks I've been hearing C pop up a lot.
+I started with C++ and it got a little gruesome, but C looks like a good place to start.
+started on python and moved onto java when i got the ropes.
+java's strict so it's got a lot of shortcuts you can use in the IDE which if you've ever tried to code javascript you will LOVE!
+java's good for app development, large scale team projects and game development if that's your thing.
+also good for moneys
+JavaAHHHHHHHHHH WHAT THE FUCK, ANON?!
+Learn:CJava / C#PythonThose three cover your bases.
+Don't learn.
+Learn multiple.
+In no particular order:C, C++, Java, C#, Python, Haskel, JavaScriptNow many of you will say [X] is a dumb language.
+You're right.
+It is.
+However more knowledge is preferable to less, and [X] is used in the real world for various reasons.
+Stop being lazy and learn the basics fuck.
+C or C++ and why is that?
+If you ever want to make Android apps you're basically going to have to learn Java.
+At least for now.
+Unless you use unity or xamarin I guess...
+/thread
+JavaScript.
+It has the best combination of C-like syntax with modern features of es6 and beyond.
+Also Node.js is fast as fuck.
+And React is amazing for web stuff.
+just learn python as a baseafter that everything else is easy if you need to lean them in the future
+In the future when Quantum computing becomes a reality, things like programming language and Crypto-Currencies will cease to be a thing.
+python's dope and fun to use.
+lots of things you can do with it too, like django.
+Learn Java to propel you into C++ to push you into C. That sequence will make it much easier.
+Also learn Bash scripting.
+Well the chainlink team are using go, so i'd stick with that
+replace python (degenerate and immoral dynamic typing) with Haskell (profound functional purity)
+Bash is a disgusting boomer language.
+I would rather eat shit than code C for a living.
+Solidity.
+If you don't know it then you'll forever be useless as a programmer in the future
+I think mostly because it's more hardware centric where you deal with cpu and memory allocations etc.. it's more in depth with the hardware
+This can guide you for webDevhttps://github.com/kamranahmedse/developer-roadmap
+React native.
+C++ is cancer.
+They've been continuously adding new """features""" to it since the 80's, which makes it excessively complicated and difficult to do things in.
+Use C for speed and low level hardware stuff.
+Use python for abstraction and quickly building projects.
+It's extremely easy to call C code from python, which gives you the best of both worlds.
+Also has programming gone mainstream now, or are programmers just overrepresented on /biz/?
+Python is by far the best and most elegant utility language, Haskell can't even begin to replace it in that respect.Top 3:>C/C++>Python>JavaScript
+% this
+It doesn't matter what language you use, you need to learn what you are programming.
+Understand control statements, data structures, knowing when to use it and why.
+Languages are just syntax; learn about the logic.
+Most """programmers""" nowadays couldn't implement a linked list in C if their life depended on it.
+That's not even an exaggeration.
+4chan>mainstreamIt isn't normie-free anymore, but we're still nerd-heavy here.
+Hell, most places online will have disproportionately high numbers of programmers.
+i can't stand python but you should probably learn it
+I can make a fully functional and aesthetic crypto exchange and I couldn't implement a linked list without looking it up.
+DGAF
+Haskell is the future for non-brainlets
+Okay I guess?
+If you want to automate tasks in Unix, Bash is how to do it quickly.
+4495409>muh HaskellStop it.What most people forget is that programming languages are not an end in itself, but a medium to do something.
+So it really depends on what you want to do.Lets say you want to do some machine learning, then you'd probably use Python to make use of Google's TensorFlow.Perhaps you want to create a service with a backend and API.
+Then you'd use Node.js with MongoDB, for example.Lets say you want to create a highly optimized cellular automata, then you'd use something more low-level like C.Say you want to do matrix manipulation, you could use MATLAB.If you're on Linux/MacOS you could create a bash script to do some directory/permissions stuff.Perhaps you want to create a little Android app, then you'd use Android Studio (Java).The examples are endless.
+You don't learn a specific programming language.
+You first find an objective and depending on that, you use the best tool available.
+stop itHaskell is too advanced for the modern programming stooge.
+It's just like how LISP was 30 years ahead of it's time when it was first created.
+Please learn golang and join the link team ASAP!

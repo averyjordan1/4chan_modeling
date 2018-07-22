@@ -1,0 +1,8 @@
+I'm trying to learn margin trading but I am running into problems.
+Let's say I want to margin long BCH at 20x leverage on Bitmex.
+I have to use BTC for my collateral but I also think BTC is going down so I am guaranteed to take a loss.
+That sucks!
+And it looks like Poloneix doesn't even let you short BTC?Wouldn't you want your collateral to be in a stable coin like ETH or Ripple during the next flippening attempt?Please help!
+Isn't Bitmex leverage options?
+Why do you need collateral?
+it should be the guy who sold the option who needs it.

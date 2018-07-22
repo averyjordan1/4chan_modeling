@@ -1,0 +1,125 @@
+What would one has to consider when opening a crypto mining company?
+Would I still have to join a pool?
+What could be the initial investment?
+10k?
+Less, more?
+Is using solar panels a good idea if I'm willing to move to a desert?And the big question - is opening a small crypto farm still profitable enough to invest in a business?
+Much to learn, you still have.
+i would say you need at least 30k$ to make it proftiable enough so you can live comforatbly from it
+What could be the initial investment?
+10k?Really depends on what you want to mine, ASIC are the most performant but limited to 1 or 2 coins, GPU's cost less but are useless to mine BTC.
+An Asic miner costs between $500 and $3000>Is using solar panels a good idea if I'm willing to move to a desert?Maybe, but you'll be spending so much on A/C to get your GPU's to cool it might not make senseTo answer the Big question : 1) no coin is instantly profitable, otherwise everyone would be mining.
+2) go to Whattomine or CoinWarz and run some estimations based on the benchmarked processing power of the miners you're interested in buying 3) factor in your electricyt cost and hardware costs, you should start turning a profit within 12 months 4) hope to god the coin you are mining is still worth as much in one year as it was when you ran your cost estimatesif anything in this reply leaves you confused, go back to researching a bit before mining, or purchase Mining power off of NiceHash to give yourself an idea of how it works
+I can get 30k.
+What do you define as "live comfortably from it" though?
+I'm wondering if the potential profit is even worth the hassle of risking my initial investment.
+And do you think it's a fine idea to invest a half, get my investment back and then grow the business with another 15k, or would I be better off going into a little bit of debt and investing 30k right away?Nothing really confuses me technically(although before considering this whole deal, it goes without saying that I will build and operate a small mining rig to be certain that know what I'm doing).
+Regarding your first point - there's a difference between mining and opening a mine farm via a considerable investment.
+This is still a fresh market(isn't it?
+), am I wrong to assume that I still have a chance to get in on non hobbyist mining relatively early?And another thought that I've had - would it be smart to "diversify" and buy half ASICs half GPU to mine both ETH, BTC and have more potential in general?
+Or would it be better to prioritize on maximize my hash power and mining as much as I can of my single coin/algorithm of choice?Thanks for the help by the way.
+The shitty part of all this, is that computers just get better and better.
+You have to realize that even if you spend 30k, after 2 - 4 years, you gotta upgrade so you can keep up.
+There are other more creative ways to earn money with crypto.
+I'm not talking about trading.
+Just think about it for a few hours, don't do what everyone else is doing and think about all the possibilities we have with crypto.
+There's a lot of business idea's out there, trust me.
+By my calculations an investment of $7500~ ($1,500~ * 5 ANTMINER S9(14TH/S) ) will give me a hash power of 70~ TH/S, which will land me a profit of 3k monthly and 36k annually, according to most online calculators.
+Are my calculations off?
+This seems like I'll make my investment back withing three months and then get an nice amount of money in my pocket(to reinvest) even if as much as a third or even a half of the yearly profit goes to fix tech issues, rent, electricity, annual hardware updates and so on.
+This sounds way, way over the top, what am I missing?And to continue the thought above, if this is indeed the case where 5 AntMiners S9 will produce $3k a month, why would I risk anything more innovative?
+I know this sounds lazy but I want to minimize risks, obviously.
+Furthermore I doubt that I have the resources in order to get into other crypto businesses, I need either more capital, a good and unique product idea or hashing power to rent(I guess).
+Can you elaborate, please?I am a programmer by passion and am struggling to find interesting ideas for crypto based companies.my email:goatfuckr@protonmail.com
+Iceland has one of the lowest electricity costs of any developed country and the A/C is virtually free because of geothermal heating/cooling.
+Might wanna set one up here.
+go ahead
+Move to some high plains in peru.
+No rain(literally), cold temperatures, sunny all year Long.
+best Location for solar Panels.
+Then starve to death because also no food
+Proof of Work is 2008Proof of Stake is 2017instead of buying GPUs and expensive stock, you run a masternode (aka mining rig) on a Virtual Private Server - and you get rewards daily into a walletsee Dash/PivX/Bitsend etc etc etc Ethereum will be updating to proof of stake in one of the forks...join the b3 revolution
+industrial property kilowatts are a few cents cheaper than residential.
+You'll need the cheapest electricity you can get then later can invest in solar or whatever for long term savings.
+I've talked to a few guys that run an ETH mining business in Europe and they said they had a 12 to 18 months ROI period.
+Seems like a long time in crypto for me, don't know if it would be worth the risk
+solar will never give you the amount of power needed so forget that and the desert is to hot you need cold air and isolation with the noise
+I'm good at idea's and I'm a semi-good programmer, how good are you in networking?
+With the 8k price, you are correct.
+But don't forget the free market always balances out very fast.
+When you're buying your antminers, the guys who were already mining use their gains to get even more of the hash-power available.
+Are you sure u can get ahold of the s9's?
+I've heard they're usually out of stock.
+try fleecing people that's better moneyFuck off pajeet
+^This, I've researched solar powered mining rigs as well.
+The problem is the cost of the solar panels and the battery runs dead after a while and those also cost money.
+And like I mentioned before, if the competition upgrades, they have a higher chance to get a block, so your chances get reduced.
+Me and my brother run a mine and if you don't know how to handle power calcs, proper wiring code, basic setup and maintenance of the rigs you are going to struggle.
+I'm a controls engineer so rewiring my panel and getting the mining operation off the ground was fairly simple but if you don't understand the technical side to a moderate degree you won't like the work.
+30k is plenty to get a mine up a running and if you rip eth and a secondary and flash the graphics cards you can make your mine sing!Our biggest issue was finding hardware.
+When the prices spike hardware vanishes and getting even basics like risers or frames can be problematic.
+We got lucky and clean out 3 warehouses worth of graphics cards at a significant discount because the seller wasn't advertising and we just happend to ask if thwy had any 580s and they had a shitload just sitting around.
+Suffice to say that supplier has restocked but they jacked the price to 450 per card from 300.No one else let us buy in any kind of quantity because they didn't have the stock and couldn't tell us when they would be getting more.So to recap-start small but scale fast-understand the basics of operation before you go all in.-get electrical help if you don't understand wiring or you will have a fire hazard on your hands-use quality PSUs anything less than 80% efficiency or less than 1000 watts is worthless-heat will be a problem when you scale make sure you understand how to control for that-CHECK SUPPLIERS FIRST BEFORE ORDERING ANYTHING IF YOU DON'T HAVE THE CARDS DON'T WASTE YOUR TIME!
+You'd be better off buying and holding.- buy hardware in the largest bulk possible and do not blow your card budget because prices are nuts right now.
+If you pay $150 more than retail for you cards tge ROI gets pushed back hard!
+12 to 18 monthsThat's why I was so surprised to see that I could potentially achieve a ROI of $7.5K(As I said, a mere 5 ANTMINER S9s will give me a hash power of 70 TH/s according to calculators) within four months with an income of 0.38 BTC monthly.
+You can add rent, electricity, whatever, still doesn't scrape the annual 4.5 BTC, i.e.
+$35K~(as of now).So where did I go wrong, because that makes no sense and your friends confirm this.
+I thought maybe difficulty but whattomine.com accounts for it and I'm getting the same results.
+Just talked to consumer support of some shops, seems to be in stock for the moment.
+Even if said guys will get more hash power, can this mean that I won't be able to turn any profit or even ROI, only by the merit of them having some higher chance of success?
+Noise is not concern, I can just put it in an industrial zone.
+A/C, rent, HW upgrades and power are my main concerns, although if calculators are correct they are of no concern at all.
+You need to understand how much juice it takes to cool and industrial building, its very, very expensive.
+Naturally aspirated mines save tons in ppwer because you use a high volume of air to pull heat out of the building.
+Industrial rent is very expensive as well and if you are paying for 3 phase you'll need step down transformers which also cost out the ass.
+excellent idea anon.
+i bet youre a pro investor.
+Thank you a lot for the advice mate!
+HW is my first priority.
+Regarding the cooling, it's more or less like a large server room, am I correct?
+If that is the case I have lots of people to help me (I work in IT).
+Also consider those benchmarks on wtm to be on the high side.
+Don't forget delivery cost for electricity as well
+Shoot me a mail
+Yes its like a larger server room so as long as you have a high CFM to move a high volume of air you can leverage winter outside temps to cut back on cooling costs.
+Beware of condensation though!
+High humidity will cause issues so location is key.
+If you want to use AC you can but costs get high quick.
+As long as you keep the cards below 70C you sgould have no issues using just air.
+Yeah buddy!
+Illinous ComEd has horrible delivery costs for power.
+At one point my delivery costs were higher than my usage and i was living in an Apartment at the time.
+Avoid Illinois like the plague!
+Where did you buy your S9's from?
+I'd like to start small with four of them in my home basement in Canada
+In that case I'll just ask or pay my boss for consulting, he'd be happy to help.
+So my plan is -1.
+Calculate approximate expenses for rent, ventilation, hw upgrades, power, add another 20% for unforseen issues 2.
+Secure 2-3 AntMiners first and foremost, with the intention of buying another 2-3 when ROI occurs, and the option to sell back if ROI doesn't occur.3.
+Get a space, set up everything, start mining immediately (may go into 10k debt, no other debt) 4.
+Check if ROI within four months, what's the de facto profit, continue accordingly 5.
+If all is well get those another 2-3 AntMiners 6.
+All this by end/middle of 2018Sounds acceptable?
+mining isn't profitable fuck off with this meme you're paying money to lose money calcu;lators are fraudulent and tell you you'll make profit because theyre in on the scamgpus are literally tulips
+You are missing difficulty adJUSTing.
+Jihan lets his miners in mongol desert run for a few months and your profits are down to half...you got one, that fucker has tens of thousands... you are able to make profit, if you are lucky and your miner does not break, but dont expect more than 2 years, then it is a money-bleeding brick
+Can difficulty adjustment really put profit or even just coin production to absolutely nothing, or just hurt profits(like from 4.5 to 2.0 or something similar)?Also, in the case of a severe difficulty adjustment, can't I move to BCH for some time and still keep making money, and keep changing from one to another depending on circumstances?
+You might be able to save money on space if you only run 3 miners and do it out of your home.
+Whats the amp draw you're looking at?
+What voltage is standard where you live?
+120VAC here in the US but 220 is better overseas because it less of an amp draw in most cases.The mining calcs do seem tp be fairly accurate but you do need to take into account the difficulty rise as your returns can br impacted significantly as the DAG keeps creeping.
+Haven't found a decently accurate calc for that yet.Beware of Chinese vendors!
+I've delt witg folks line this trying to get cheap tablets for a customer and holy O fuck can it be a pain dealing with them.
+Just make sure you protect youself as best as you can because once you wire money they can skate and never send product.
+If possible use credit cards to purchase because you at least have some recourse if you get DOA gear or the vendor doesn't deliver.
+I have config files and wallets setup all over for GPU compatible coins.
+It takes me 5 min to switch everything from one coin to another always be mining whats most profitable!
+I actually don't know about the amp draw, as I said I need to research some more.
+I'm hoping I'll get all relevant info regarding power and temperature when talking to my boss / consultant.I've noticed that lots of sites look scammy, naturally I'll make sure I get my HW in the safest way possible.
+And I guess that difficulty adjustments are the main risk here.
+I'll check em again before first purchase, and until then research any forecasts - if I see that it has dramatically risen should I consider BCH?
+And to continue the thought above, seeing how GPUs have much more coins to be mined, should I go to GPUs straight away to be able to diversify?
+Because ASICs seems more profitable.
+Don't take my word for it, I'm not in front of the PC rn.
+Btw you've helped me a lot, thank you.

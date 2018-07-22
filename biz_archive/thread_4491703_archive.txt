@@ -1,0 +1,9 @@
+>program annoying exchange bot to randomly without rhyme or reason list my stack for sale or buying 1 sat above or below whatever the next best offer is and take it off again every few seconds>coin moves up/down 10% and someone randomly scalps my stack as it starts and I take a 10% lossI SHOULD HAVE SEEN THIS COMING
+hey man im building a bot too lets compare notesi have no idea how to setup a chatroom in this day and age though
+my favorite bot project is to make one that repeatedly buys and sells to itself but then deploy it on an exchange that doesn't lower the fees based on your monthly volume so it literally just passively burns money
+i dont get it - burns whose money?
+your own money?
+There are people with those bots on Binance that burn their own moneyI have no idea why they do it
+Maybe they're binance employees or VIPs exempt from fees.
+What if you used a similar bot on BitMEX, perhaps on the lower volume pairs like altcoin futures?
+Since you can get an inverse fee isn't it a free money machine?

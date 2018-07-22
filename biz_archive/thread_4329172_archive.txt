@@ -1,0 +1,5 @@
+wait a minute...maybe BTC is just a JSON parser...
+well, it does shit with address strings, but not just that
+Looks like it's could be.
+What does it even mean?
+Holy shit you might be onto something

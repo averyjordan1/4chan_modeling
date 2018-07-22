@@ -1,0 +1,154 @@
+Just hit $3.50.It's not too late to get on board the Ark.
+ARK & VERT are going to be in NEO & LTC pricing... soon
+mfw $65 Ark>mfw no face
+Also, the Bittrex ark wallets are currently under maintenance because they're switching to ARK-RPC.
+I'm watching it but I don't believe DESU
+I wasn't sure at $.20, but I was at $.40 when I went all in.
+Why not?
+Out of curiousity.
+Tell me why I should put my money into this shit coin and I might actually do it.
+dont do it faggot
+I'm convinced just bought 100k
+i wish i could afford 100k arki could retire off staking right now lmao
+Don't.
+I don't want you in the pool.
+tfw could be retired right now if I had just pulled the trigger and went all in on Ark in May
+It's at a small dip right now, great time to buy.Short term x5, long term x100.
+Buy now or be left behind.
+sold the top, will be buying back in lpwer.
+im not a deluded arkie, just looking to make money anon
+daytrading ark
+$65 Ark would be the end of my wagecucking
+If you trade on an alt coin exchange that doesn't have ark listed, consider sending them an email or request ticket, even if you think the exchange isn't the best, the exposure is important.
+Few examples:https://liqui.io/https://www.livecoin.net/https://hitbtc.comhttps://bitbay.net/https://poloniex.comhttps://allcoin.com/https://wex.nz/https://yobit.net (has a surprisingly large volume on certain coins like Lisk and Waves)https://www.bitcoin.co.id (Indonesian exchange)https://bx.in.th/ (Thailand exchange)Start small with these exchanges and as this coin grows we can get ambitious with higher volume exchanges.
+Also, mobile wallets are now 96% complete and the ARK Foundation is 97% complete.
++ a new chinese exchnage listing ark in the next day or two.
+A man can dream.
+If any of you deluded Arkies are also holding RISE, we just launched our own RISE delegate.We've ported our website with the same custom payout schedule system with true block weight that makes us immune to pool hoppers.Basically everything we've built for Ark we've ported to Rise.Our Rise delegate is also called "biz_classic"- 100% payouts for 2 weeks after forging- 80-90% with loyalty bonuses after- Everybody who votes for us before we get into forging will be grandfathered into a flat 90%https://risedelegate.biz
+Could I get a quick rundown on RISE?
+Ok I took the bait.
+Just traded 2 of my LTC for 39 ARK - if it’s $50 by the 3/18 I’ll be grateful to you anons
+A dapp platform similar to Lisk but without their shitty delegate cartels that pay out 40%.I'm more bullish on Ark than Rise but if anyone's already holding Rise they can vote for us and gain access to all the stuff we've built for our Ark delegate and an above average payout (most rise delegates are paying 80%).
+https://risedelegate.bizcheap copy of ark?
+that explaines the private gitHub of Ark.
+sorry Chang, not this time
+can you link me to the FAQ for the biz delegate?
+i got a few thousand ark and i wanna pledge to my /biz/ bros
+you can trade 2 ARK back for 200 LTC in the near future
+Rise just looks like a shitty Ark clone.I would avoid
+https://classicdelegate.biz/faqI wouldn't recommend anyone buy Rise.
+It just doesn't seem as fleshed out as Ark.But if anybody here is already holding Rise, why not vote for a trustworthy stable delegate with higher payouts?
+:^)
+Also check this out https://classicdelegate.biz/faucet for free ark.
+Voters get 3x rewards.rise does seem like a shitcoin desu
+cool thanks for the link.
+i just pledged my 5200 ARK.
+happy to be a part of the deluded familythats like gambling, right?
+Welcome aboard friend.
+And no, it's not gambling because you never wager anything.
+It's literally free money.
+Just click the button to receive free Ark.
+Remember to register/verify your account so you can get your rewards tripled.
+there is no charge to roll?
+then what's to stop someone from just rolling all day long?
+also i just noticed that another address just appeared in my ark wallet for some reason.
+does that have to do with the fact that i just pledged or something?
+hour cooldown per roll per IP address and Ark address.I'm not sure what you mean by other address appearing in your wallet.
+Did you click one by mistake and you're now viewing their wallet transaction history instead?
+Your own address should be on the left.
+changalang i voted for u for that ark thing.
+can u explain more what exactly it is/what happens if u get elected?
+yea now there are two addresses on the left side.
+one that contains 5200 ark and one that is empty.
+weird i dont know why it just appeared there
+Buy now or stay poor forever
+Not Chang, but he's already been voted in as a delegate.
+You can see the delegate list and current staking pools here: https://www.arknode.net/VoteReport.txtBy voting for him, you will now earn Ark through the newly staked ark that is divided amongst the biz_classic pool.
+The ACF thing?
+The ACF is the "Ark Community Fund."
+Basically, people submit project proposals to the ACF for funding and the ACF gives out those funds (with approval by the Ark team).Moon and I are running because the last ACF was horribly unproductive and downright hostile.
+One of the ACF board members tried to spam /biz/ to get people to vote for his delegate.
+People told him to fuck off and he developed a grudge against me and Moon.
+He voted against every proposal we submitted to the ACF.The candidates running for the ACF now are all active community devs (like me and moon) whereas the last ACF board only had 1 competent dev on board.
+If I win, I plan on submitting a proposal to produce a 2-3 minute Ark explainer video to replace the god awful one on the front page of https://ark.io right now.Are you using a Ledger?
+The ledger automatically generates a new address once you've used one.
+and now its at 3.27 well done guess you arkies living up to the meme
+k in 4 days deluded noarkie
+IT'S SUPPOSED TO GO THE OTHER WAY!!
+fkn saved, awesome picture haha
+yes i am using a ledger but both of the wallet address are contained within the ledger.
+i guess that i could just delete the wallet with nothing in it but it's just weird that it was created out of nowhere
+AND WAY DOWN WE GOO
+If I win, I plan on submitting a proposal to produce a 2-3 minute Ark explainer video to replace the god awful one on the front page of https://ark.io right now.Thank you, that's seriously needed.
+The Ark team is great, but I feel like they're too autistic to convey the point and goals of the project sometimes.
+Who do you recommend voting for outside of you and moon?
+It's how the ledger is integrated into the Ark client I think.
+I guess instead of developing a whole new UI to generate a new ledger wallet they just generate a new one whenever the previous wallet has activity in it.Out of the top 5, faustbrian and sleepdeficit are both talented, active community devs.
+Brian has been working with the other delegates to find out why the network shits itself sometimes.
+We missed over 60 blocks due to these network issues.
+Sleepdeficit is doing some cool things with IoT (internet of things) by embedding Ark into things like raspberry pis and other low powered hardware.
+I don't recall anyone ever asking you this so here goesWhat is your price prediction regarding Ark?
+Where do you see it a year from today?
+thank you for answering my questions my dude.
+have a pleasant evening
+people need a system of income-generating and securely safe for money.
+Platform with smart contracts are a trap for hamsters.
+Use only time-tested coins such as Diamond (DMD) bit.diamonds
+I don't believe in TA or meme triangles.
+But I believe we'll flip Lisk eventually.
+Ark is just superior to Lisk in every way.
+Better DPoS system, better devs, better community devs.
+So take whatever price Lisk is and set that as a target for Ark.
+Lisk's only advantage right now is that they've been around longer.
+You know if we will be able to vote for delegates with the mobile wallet?
+I don't use desktop wallets because I don't trust public WiFi.
+Father, wait for me.
+Just 2-3 weeks, please, I need 1k ark
+I agree, and I think Ark is far more ambitious than Lisk.
+Especially with the whole interlinked blockchain ecosystem that anyone will be able to push a button to join, along with smart contracts and constant improvements
+So you're saying ARK will top out at about 6+ soonish, I have a feeling BTC will dip and LTC, ETH and ARK will come through as the ones picking up the slack.
+ARK will be the biggest gains, but I really just started all this about 8 months back, ignored you guys forever and finally got sick of etrade and bit the crypto bullet.
+I'm not a team member so I don't know for sure.
+But, the Ark TypeScript library that both the iOS and Android apps use already supports voting transactions so I highly suspect the apps will too.
+FUCK OFF PAJEET SHILL.
+GO GET A FUCKING REAL JOB
+Reminder that Ark is sponsoring and going to be at a Princeton University hackathon this weekend too.
+Should be good exposure
+I'm waiting on 80 Litecoins to clear later this week - hit my bankcard limit on Cointrader - confidently would I bet smart to put another 20 Litecoins into ARK?
+I've put two to test the waters, I figure if it drops to $2 I transfer back to Lite and only lose a lil over a 1/3 my investment, but if ti's the gains you guys says my 1,200 would be 12,000 in 2 years or less?
+yfw the Ark logo is above facebook's and Microsoft's on Princeton's official site
+ARK and Tierion partnership thanks to MicrosoftPLEASE
+Forgot pic
+harkathon
+4273872ARKathon WE PRINCETON NOW Fuck you pajeet gates and the Facebook jew
+PARTNERSHIPS WITH FACEBOOK AND MICROSOFT CONFIRMED
+Can't say I'm interested, but would be cool to see how that community forms.
+If its anything like Ark.
+I would cry tears of joy if that happened
+Need to buy more ark
+When you get to 1k you'll covet 10, then 50 etc
+can confirm, i made my 2k goal but now i want at least 5k
+Haven't held ARK in a coon's age.
+Just picked up 215 @ 44800.TierionI'm gonna have nightmares.
+My goal was 2k.
+I got there and then it became 2.5k.
+I just broke 3k a few hours ago kek
+4274266been accumulating since june, just hit 5.1k.
+I want 10k rly badly...and 25k even more badly so i can be in biz_private
+Nice, that's a pretty good chunk of Ark!
+I'm unfortunately tapped out for the time being or I'd keep going.
+Hopefully 3k is at least enough for some future fun
+whats your strategy, small buys when you can or go in big on dips?
+>tfw little under 900Being poor is suffering.
+desu just been accumulating dips since june when this shit was like $0.50, this is when i acquired most of my stash thx to DGB gains (lol).
+Bought a large amount before aug 1 bcash fork when it dipped hard too, bought another few hundred last week too.
+At least you're on the ship
+That's still $90k by next the end of 2018
+Sounds like a scam.
+waste of quads
+When do you guys think Ark is gonna boom?
+End of this year?
+Start or end of next year?
+It will grow steadily to $10 and then boom in Q2 2018.
+middle of next year from my limited researchit's worth investing in, I can safely predict it will be at LTC status in 1/2 years and ETH in 3/4 years from there it's going to be the top 5ETHBTCBCHLTCARK One of these will be the Apple, BTC is the Microsoft, imagine of ARK is that coin, imagine if ARC has the DEVS to take it there.
+I can see it Anon, dump $1,000+ today you can spare and you may have $100,000+ in 5 years.

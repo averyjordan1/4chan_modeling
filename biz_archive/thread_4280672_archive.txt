@@ -1,0 +1,53 @@
+On Binance since yesterday, only 2x since ICO.Raiden is releasing micro Raiden by the end of this month.Raiden has GitHub entries as old as 2 years ago and over 100k lines of code.
+Why do you think Vitalik god mad at them?
+He is not getting mad at any scam ICO.
+He got mad because the most advanced LN solution is being released outside the core Ethereum foundation.https://etherscan.io/address/0x198ef1ec325a96cc354c7266a038be8b5c558f67 - this one invested 6k ether and it is probably Vitalik himself as the address had received 600k+ eth from the genesis blockhttps://etherscan.io/address/0x00ee4bb1c662180b3c76045e630e4d46a79709d3 - There is a huge chance that this is a Poloniex account.
+Most of the transactions lead to Poloniex corporate accounts some of which do not transact with user accounts but only have internal poloniex transactions.https://etherscan.io/address/0xa3ae668b6239fa3eb1dc26daabb03f244d0259f0 - Either a huge Chinese whale or Yunbi exchanges itself.
+Just explore the transactions on this one.
+Practically all of them are conected to Yunbi corporate accounts.Here's another one with fat connections to Yunbi - https://etherscan.io/address/0xb63b22f3ddcc7f469bcb757a5b64a3848f4c4f03It can be integrated into other blockchains and will work with Polkadot, Dfinitiy, Cosmo, Hyperledger Burrow, EOS.Also its' RAIDEN - the first LN!!!
+https://www.youtube.com/watch?v=aMs0wAFIu7I&t=13523s also heres a video from devcon3
+Comfy af here.Just checked, cant believe microraiden is going live in less than 1month.
+This will bè fucking huge, offchain microtransactions in eth.
+Will bè huge for iot and micropayments.
+no one responding to this makes me a saaaad panda.
+It's because /biz/ is full of tards buyin at the top.This is a top 20 coin.
+Sittn here trying to buy 7 RDN but every time I place an order it goes up like 1/10th of a satashi so the order just sits there.. not going to bed until I get a few lol.
+Raiden is great (the ETH equivalent of BTC's lightning if you want so).But the token is useless.
+Yoi CAN use the token to oay fees or you can just implement your own version of it without the fees as it is open source.
+This is the biggest ICO scam in the history of blockchain.No thanks.
+no its not, the token is there to prevent people simply forking the whole thing, everyone not running a full node will have to pay in rdn
+Low energy FUD.
+This + governance right + most like used in RaiDEX, their decentralized exchange.
+Yeah, dropped 10btc in it
+ RDN tokens are not necessary at the core of the Raiden Network Protocol and in theory anyone can use the Raiden Network without having RDN tokens.
+THAT SAID, our assumption is, that most participants in the Raiden Network will be light clients which are happy to pay small fees for the comfort of not having to run all required auxiliary services themselves 24/7.
+This aspect will be covered in-depth in a future blogpost on the RDN token functionalities
+For raiden-network you also need a network of node, idiot.For uraiden it's not compatible eth you need an erc20 so it's useless to change this token for another token...
+I was reading all the butthurt retards on ethtrader complaining that it "will eat the eth mcap" since you could pay fees to nodes in eth.How fucking dumb do you have to be to think this will eat eth's marketcap - eth has a 30bil mcap.....RDN eaven if it goes full-on used it will never have above 1-1,5bil (probalby not more that a bil) - still much more than now...
+Buying in when it's +88% seems way too risky
+ex-fucking-actly!
+Yeah they were saying the same about omisego - i know it's a dumb argoment but this has the most probability of pulling an omisego - yes they dont have skateboards but only a great product but i think it will suffice
+I'm not into RDN.
+Are we expecting another dip?
+it already retraced to 19390 (it was yesterdays low after the pump after hitting binance), the priced lasted only 5min which shows strong support at that level, we are going for another run, hopefuly we break 27600, from there on its a garanteed moonmission
+Resistance is at 0.0042 ETH more or less.
+Support not resistance*
+is this good for random erc20 tokens too?
+or are you saying get the raiden tokens / ethereum tokens
+those bots pushing the price up reacting to the buy orders immediately are sure signs of some shady shit going on sell side.
+i hate low vol shit
+its good for the whole erc ecosystem.
+also it supports erc223 which is the future standard for all tokens because it makes transactions safer and cheaper
+what the fuck is the token for?
+boiii
+wann be spoonfed?
+scroll up and see it for yourself.
+someone smash that 2 btc "wall" pls
+Lightning for ethereum, and more
+Alright I have 800$ to spare.
+Why should I buy RDN now?
+Are we expecting some kind of pump?
+yes buy now coin good u will make $$$ back easy soon
+A product released for end of month.
+Yes sir you make good money , get big buffalo with lot of milk sir.Seriously, they are releasing the microraiden network at the end of the month
+also you get buffalo sir

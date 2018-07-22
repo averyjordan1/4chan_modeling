@@ -1,0 +1,5 @@
+If all bitcoin was created from mining blockchains and all blockchains were created by transactions, then how was the first block created or mined?
+I cant remember exactly but Satoshi had to do some custom code for the first block to push it through so things would kick off.
+We dont call it the genesis block for no reasons.
+Obviously it need a kickstart you moronic pajeet.
+If all transactions are public why do you need to solve the hash problem?

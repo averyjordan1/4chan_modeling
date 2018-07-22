@@ -1,0 +1,4 @@
+>Proof of Stake
+>delegated proof of stake
+> zkSNARK
+>proof of work

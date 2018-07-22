@@ -1,0 +1,8 @@
+>tfw writing a bot to make me rich on cryptowho else /tosmart/ for there own goodwhat are some trading tactics and coins to make it as easy and fast as possible
+*/toosmart/
+*their
+
+Please post again after your bot loses your whole stack so we can laugh at you.
+That's what I come to /biz for
+its a deali expect never to return except to gloatthe bot is currently, right now, begin written in C++ with ncurses guiexchange api fully wrapped and implementedcurrently writing functions to display and store data, i.e.
+ascii candlesticks in the terminal in order to have a live feed of the prices and other intelligent data representationshere is a sneak peek of the interface as it is right nowi expect to have it in the testing stage within two weeks

@@ -1,0 +1,5 @@
+hey biz bros i need your help, i withdrew a small amount of xmr to my new paper wallet to check if everything is ok. 21 confirmations later and still the balance in monero gui is 0 .
+should i just wait or i did something wrong ?
+anyone ?
+Send me the address and private key, i'll check for you.
+You prolly missed something.

@@ -1,0 +1,11 @@
+The big global banks have, over the past few centuries, done a lot of bad things, but you know one thing that seems never to happen?
+Banks don't just delete your money.
+They may open up fake accounts or mess up mortgage relief or expose your email address to hackers, and they may invest in garbage and become insolvent and require a bailout or an FDIC takeover, but you just never really hear about a bank sheepishly admitting "oh yeah we just deleted $280 million of checking accounts, sorry, nothing to be done about it."
+Oh well!
+People often talk about blockchain technology as a way to make things -- payments, securities ownership ledgers, etc.
+-- more secure.
+But actually existing blockchain applications in the wild -- the actual cryptocurrency systems that are used to store millions of dollars' worth of value -- have a security record that would cause any regular bank to shut down in disgrace.
+If 280 million dollars vanishes from a bank nothing of actual value was really lost.
+Parity, which was set up by Ethereum core developer Gavin Woods, admitted today that a user calling themselves devops199 had "accidentally" triggered a bug in its multi-signature wallets that hold Ethereum coins.
+As a result, wallets created after July 20 are now locked down and inaccessible, quite possibly permanently, thus nuking $90m of Woods' own savings.
+alright i will take bait...if banks fuck up they can always get 0% interest loan from the fedgovjews and get all the cash back because it simply gets printed.same goes with shit like eth, because it has no supply cap, they can just generate new tokens to replace any that were lost during a mistake or hack.but with btc, so many have been lost over the years that the real actual accessible supply is probably lower than 21mil.

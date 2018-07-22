@@ -1,0 +1,48 @@
+we need another chain link thread.
+let's use this one for discussing real world use cases for main stream smart contracts.
+real world use cases for main stream smart contractsI can't come up with one.
+are you people attempting some kind of reverse psychology FUD or something?
+fudding is too obvious, so instead you shill it so fucking hard it works as a buyer deterrent.
+good...stay away, more for us
+Why do I buy stuff I don't understand
+not gonna lie, ive made about 4 of the link threads today, i just genuinely fucking love LINK and want to talk about it at all times in my free time.Too bad the only people who fucking know what Chink is is here on /biz/
+/biz/ said I'm gonna be rich if I buy it
+Too bad the only people who fucking know what Chink is is here on /biz/too bad for everyone elsegood for usaccumulatei love link too
+>half an hour later>still no use case for smart contracts ITT
+dude its DECENTRALIZEED also muh oraclesare you stupid or what
+4286780>still no real world use cases for main stream smart contracts ITT
+Well let's face it, people here are stupid
+you obviously dont have the brain power to understand linkits so complex it cant be explained to mere mortalsalso it solves the oracle problem.
+surely you heard about it?
+its a big problem that literally every company is talking about.either way dont think about it too muchyoull just hurt your little brainITS GONNA BE MASSIVE JUST BUY BUY BUY
+No you didnt.Nice FUD bro
+4286846>still no real world use cases for main stream smart contracts ITT
+>nobody knows what a smart contract is needed for and no examples are given
+so nobody here even knows what this shit is actually for?
+What is Chainlink?ChainLink is blockchain middleware that allows smart contracts to securely connect to various APIs, resources, and bank accounts.
+This occurs through the ChainLink Network.
+The network is a decentralized system of nodes, better known as oracles, which sell usage of APIs and other resources to a smart contract.
+The selling of data to the contracts is done through the LINK token, an ERC20 token on the Ethereum Blockchain.
+The ChainLink team is made up of Sergey Nazarov, CEO, and Steve Ellis, CTO, with 6 advisors.What makes Chainlink different from other ICOs?On their own, smart contracts cannot communicate with external resources.
+ChainLink bridges this gap, allowing it to track the status of contract fulfillment, payment at completion, or any other metric.
+The ChainLink network is versatile; any API provider can easily join the network.
+Possible services can include bank or retail payments, stockmarket data, other blockchains, backend systems (SAP, Salesforce), or any web API.Users and RecognitionChainLink has partnered with the secure bank communications giant SWIFT on a Smart Oracle, allowing smart contracts to make payments, send governance instructions, and release collateral with over 11,000 financial institutions.ChainLink has partnered with Cornell's IC3 in order to help launch the first Intel SGX secured link between smart contracts and external data.ChainLink has been selected by the World Economic Forum's Tipping Point report as the "Shift in Action" for smart contracts, allowing them to be automatically triggered by external data.ChainLink has been chosen by Gartner as a 2017 Blockchain Applications Cool Vendor.
+still no real world use cases for main stream smart contracts ITT
+OP you stupid noob why don't you use this?
+https://pasteio.com/x2IJqaqWxWMqEthereum is a blockchain with advanced scripting language whichallows running of decentralized applications (dapps) and Smart contracts.
+What are smart contracts?
+It is a digital contract planted in the Ethereum blockchain.
+It is a tamper-proof commitment of all participants of the contract.
+It is used to exchange money, property, shares etc, without a middleman.
+Ethereum's creator's description of smart contract is to compare the technology to a vending machine.
+Ordinarily, you would go to a lawyer or a notary, pay them, and wait while you get the document.
+With smart contracts, you simply drop a bitcoin into the vending machine (i.e.
+ledger), and your escrow, driver’s license, or whatever drops into your account.
+More so, smart contracts not only define the rules and penalties around an agreement in the same way that a traditional contract does, but also automatically enforce those obligations.Now, how do we get tamper proof, secure data feeds into Ethereums blockchain in order to expand the variety of use cases.
+How do we get information, extenal data, about markets, shares, web API feeds, bank payments, back-end systems, retail payments, real life event data or data about other blockchains into the Ethereum blockchain.The main use of smart contracts in Ethereum today is management of ERC20 tokens, which are a common functionality in most smart contract networks.The current focus on tokens to the exclusion of many other possible applications is due to a lack of adequate oracle services.
+Smart contracts are for making shitcoin ICOs.
+Duh.That’s about their only use case lol
+etherdelta ?
+fuugglow volume exchange and most people are too dumb to use it
+correctuntil LINK arrived
+>still no real world use cases for main stream smart contracts ITT

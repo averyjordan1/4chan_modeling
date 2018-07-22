@@ -1,0 +1,22 @@
+Tomorrow is the bi-weekly update.>Last week we got our first look at project Colossus a clientside website which will allow anyone to create continuous payments, manage requestshttps://blog.request.network/request-network-project-update-november-10th-2017-a57193780ddfThere is also a Q&A though its mighty unexciting.From the post: "For the first version of the working product, a Request will be:payable only in ETHwithout extensions (such as escrow or late fees)created by the payee onlyThe next versions will include:multi-currencies (starting with ERC20 tokens)extensionsa way for both the payee and the payer to create and send requestsOffline transactions (ECDSA signed but not broadcasted to optimize speed and cost)Identity managementManage refunds and additionals (such as tips, discounts…)Alerts to detect new requests"Request is highly undervalued and the coming altpump is starting to take effect.
+REQ was put onto the market at a harsh time and it took a beating from the 'forks' I manage a research document here: https://docs.google.com/document/d/168GRr4WmmTCAMMkyE-3UfoWWOXj2Ccr0n5S0jfYdiLU/edit?usp=sharingGodspeed.
+Tommorrow is bittrex listing and colosus launch no project update
+Fr?
+Rumors.
+Bittrex is possible, the community has been pushing it on the developers for a while (since the start of the month) They've been teasing the idea of new exchanges but I don't know if they know what exchanges they should be using.
+They already got listed on liqui.io but that isn't really a great exchange and they only disappointed with that announcement.I believe the launch is still 'soon' and I expect it to be around the start of December.
+The developers are on point though and we might, as  said, rumors atm.
+IF REQ is using ETH for payments then why the fuck is the req token needed
+Great summary anon
+Buy this dip.
+I think REQ will grow a fair amount in the next months...
+But we need ChainLink to succeed if we expect to be really big.>The next versions will include: multi-currencies (starting with ERC20 tokens)We won't be able to achieve real multi-currencies (ie.
+Other coins like BTC or XMR and actual fiat like USD and EUR) without the ChainLink network.
+ETH is a platform and fuel for the Ethereum VM machine anon.
+By itself it can only be used to transact shitcoins and transfer value.
+REquest network as a platform on top of that enchances its use case.
+Have you read thw whitepaper?
+If not you shouldn't be asking questions.Also REQ aims to be blockchain agnostic and the long term view is to decouple valuation with ETH wchoch is possible with future updates like Casper.
+Chainlink is going to succeed, but aside from that point until then request can use ING as an oracle for fiat transactions, and can use other services to shapeshift tokens over.
+Chainlink has more usecases then just transferring between fiat/crypto/crypto and nobody is dependent on Chainlink to do that (being as theres already groups doing it in a centralized fashion.
+)4529871Exactly read the whitepaper and you'd understand that this is more or less a sidechain, creating cheaper transaction's using REQ as fuel.

@@ -1,0 +1,38 @@
+so I sent all my chainlink to my nano s in the receiving address.
+It says complete on etherscan and has a lot of confirmations but it's still not in my wallet.
+What do I do?
+How do you know "it's still not in my wallet"?
+Do you know where to check?
+>not sending a tiny amount first to check if it worksLmao retard, your money is gone.
+I just checked my balance on the wallet.
+someone mentioned something about importing a contract but I don't know what that is
+I know I fucked up just trying to fix it right now.It's my first time transfering an ER20 token to my nano s
+thanks for the donation that makes every existing LINK a bit more worth.
+Its gone bro, the money is gone.
+how am I supposed to send it then?
+Whats your receiving address?
+I'll give anyone half of my link if they can help recover it
+xfBA291C4365b8BaFBbA057BE361E638a0046C12C
+Dude its gone, you fucked up and lost all your money.There is nothing that can be doneNow lets see if the tard bites and lets himself get doxxed
+0xfBA291C4365b8BaFBbA057BE361E638a0046C12CIt's there mate.
+Whats the problem?
+489 links right?
+how come I can't see it in my wallet then?
+all his LINK was like 80 bucksLmao
+I'm mostly in ARK and NEO..links my moon shot
+You need to load the tokens in MEW.
+You can't see ETH token balances on the ledger.
+Check your ETH address in etherscan or MEW to see token balances.
+As long as you used the right address your tokens are there.
+If you're using the Ledger Ethereum program you can't see it.
+You got to use MyEtherWallet and access your Ledger from there to see and move your LINKs.
+zM0mm0yqMOMMYYYYYY
+moon shot to where?
+the corner store?
+Hope you like your new playstation EOY I guess
+why the fuck did you send the tokens to the same wallet you were holding them in?
+https://etherscan.io/tx/0x224e9bd200b71e86eb8df95ec92210206e6edd2c092f6d5610775576e267d601
+You retard.
+It's an ERC20 token.
+It's not gonna show up in your nano.
+You need to either use MEW or etherscan to see your tokens.

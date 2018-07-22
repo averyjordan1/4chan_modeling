@@ -1,0 +1,5 @@
+So I'm new to buying things via bitcoins on market websites, and I have the following information::49 (age): Account Balance 0.002709 BTC:04 (age): Unconfirmed pending deposit 0.002709 BTCThis seems to suggest that the deposit was confirmed after 15 minutes which is why it ended up being a part of my account balance, and the transaction has been confirmed over 100 times right now according to block explorer.
+Is this true, or does it just become a part of my balance before being confirmed?
+I've been rejected by a vendor so I wonder if it's because it's still an unconfirmed deposit or if it's some other shit.
+If u done well just be patient.
+If u done bad then u fucked up.

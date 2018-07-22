@@ -1,0 +1,8 @@
+https://twitter.com/coinbase/status/931236263067185153
+Wow it's like Ike nothing ever happened and the last week has just been a horrible nightmare
+This falls into the category of "technically still possible, but almost certainly of no consequence."
+With zero institutional backing, it's unlikely that any miners will bother to mine blocks with the new rules (even though they could).
+Less than 10% are currently signalling, and there are only about 100 BTC1 nodes left.
+Without any users or exchanges, it's unlikely to have any significant economic value even if a forked chain did appear.
+And without any developers for BTC1, it's not clear that they could even pull BCH-style hijinks with the difficulty adjustment in order to save mining on the chain.
+So I'd say odds are it will either never appear, or be stillborn.

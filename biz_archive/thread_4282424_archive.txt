@@ -1,0 +1,7 @@
+Genuine question.I'm a bit informed about smartcontracts but what has chainlink to do with it.
+he link I mean we hold what role does it have?
+The link*
+4282431why don't you nigger read the whitepaper?https://link.smartcontract.com/whitepaper
+5.5 LINK token usageThe ChainLink network utilizes the LINK token** to pay ChainLink Node operatorsfor the retrieval of data from off-chain data feeds, formatting of data into blockchainreadable formats, off-chain computation, and uptime guarantees they provide as op-erators.
+In order for a smart contract on networks like Ethereum to use a ChainLinknode, they will need to pay their chosen ChainLink Node Operator using LINK tokens,with prices being set by the node operator based on demand for the off-chain resourcetheir ChainLink provides, and the supply of other similar resources.
+The LINK to-ken is an ERC20 token, with the additional ERC223 “transfer and call” functionalityof transfer(address,uint256,bytes), allowing tokens to be received and processed bycontracts within a single transaction.

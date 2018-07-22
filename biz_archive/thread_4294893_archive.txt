@@ -1,0 +1,28 @@
+Is it safe to leave cryptocurrency on the EtherDelta smart contract?Let's say you put in an order and it may take several hours, a day or even two before you anticipate it being filled.
+Or you just want to leave some crypto on it so you can respond quickly to volatile price increases/for the purpose of daytrading?Is there any real risk to this?
+Do you guys trust ED and their smart contract?
+I think they rely on cookies to reload the address automatically so make sure you copy down your private key and you should be fine.
+I'm using MetaMask, and have my private key secured.To put an order on ED, I must first move my crypto onto their smart contract.
+What I'm not sure about is the safety of leaving said crypto on the smart contract, as there have been instances of smart contracts with security faults that have been exploited.
+bump
+Anyone?
+Yeah you'll be fine-- I worried about it too.
+But, just DO.
+NOT.
+DELETE.
+COOKIES.
+Or like the other guy said, secure your private key.
+Your funds will remain there regardless if you shut your computer down or not.
+Source: funds have been on ED for a few weeks now
+Thanks for replying.
+I guess it's like leaving crypto on any other exchange, for the most part.
+I'm just paranoid about ED's security/trustworthiness in the long-term.>DO.
+NOT.
+DELETE.
+COOKIES.I REALLY wouldn't recommend anyone rely on cookies for that purpose.
+Having your private key safety stored and secured is the only way to go.
+Yes it's safe, even if the exchange goes down, your ED wallet is still safe.Theres a ton of info on ED subreddit, why don't you go read?
+I did check out the subreddit and read the guides, and I know how wallets work.To trade on ED, you must first deposit tokens on their smart contract, and that was what I was wondering about.
+If ED went down, how would you withdraw tokens from the smart contract?
+I didn't find any info on this.
+Would downloading ED off github and running it locally work?

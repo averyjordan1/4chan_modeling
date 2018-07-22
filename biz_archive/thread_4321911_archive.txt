@@ -1,0 +1,251 @@
+i've made a shitty php bot for bitfinex.
+it buys if price goes up and sells if price goes down.
+with 3.3x bitfinex margin.
+checking the price each minute.wish me luck, will post progress.
+pic related is the initial bot balance (0.02 bch with leverage)
+Would you suggest PHP or Python for such types of programs?
+either is fine
+using a weakly typed language for financial transactionsyou probably encourage your sister to go to rap shows
+irrelevant.
+i just googled "bitfinex bot example" and went with the language of the first google entry
+financial transactionsyou just use it to access the bitfinex api, you dumb cuck
+ok, i had some problems with shorting, but now everything should work fine.
+i'll keep you posted
+You are even more retarded than I thought after your first post
+That’s right anon, buy hi sell lo
+How do you determine if price will go low or high?If you're buying when price goes high and selling when price goes low... You know what it is.
+4322795>checking the price each minutei'm too fast for buying high selling low.
+if it's a rally then i ride it, if it inverts then i close and lose 0.5%
+That's actually genius, it's like a brute force bot.Reminds me of PSAR people who put stop losses at -0.1%.
+it buys if price goes up and sells if price goes downTruly /biz/ incarnate, good job anon.
+trust me, i'm sure it will work.i'm still fixing shorts, bitfinex' api documention is awful
+So when will it be up and running?
+very soon.
+longs work well, and closing orders too.the decisional logic is perfect.the only problem is that short requests aren't working.anyway, maximum 30 minutes and it's running
+My experience with my bot has been that the most advantageous times to get in are when shit has flash crashed.
+I know they say not to catch a falling knife, but it's been working well for me so far.
++30% in a month and climbing (even despite all this fucking fork drama)
+What's the decisional logic?
+Or would you rather keep it a secret?
+no PHP is total garbage.
+It's the official language of rural India
+Node.
+It's what Python always wanted to be, and much better suited for web.
+good idea for an entry, but it's too bothersome to code.checking previous price and setting a bunch of ifs is way easieri wrote it in the op.
+check price each minute and ride the wave or cut losses.
+python>weakly typed
+Aren't minutes a bit too slow?
+Why not follow the buys/sells in the realtime and weight them by volume?
+it's exactly 1 minute, which is good enough since it should avoid the retarded random dips and shit.
+maybe 30 seconds would be better, i'll check later
+for example, in the last 5 minutes of testing, the bot bought at 1306 and sold now at 1238
+Buy high sell low, the official biz bot
+i ment the opposite, ffs
+Please dont tell me you didnt even backtest this "strategy"
+kek
+implying
+oh, and this is the last 24 hours
+You releasing this, or do we have to implement it ourselves form your one line description?
+the way your strategy works is buying for e.g.
+10 minutes each minute, so 10 times at an increasing price each timethen, if at the 11th minute the price is less than at the 10th minute, you sell all previously bought btcso you sell 9 trades for profit, the 10th is at a loss.how do you save yourself from trading fees?i don't know how high bitfinex' fees are, but i'd take a guess with 0.25%i'd imagine that the high buy frequency works perfectly in theory, but the price has not enough time to increase so far that your fees are coveredthe same strategy would work almost perfectly during 2017's summer if you took some hours as your base time unitam i making sense or do you not get what i'm talking about?
+looks like the short are working, almost done.you can post this "code" into pine editor on tradingview to backtest it: //@version=2strategy(title = "Poorfag's road to Lamboland", default_qty_type = strategy.percent_of_equity, default_qty_value = 100, initial_capital = 10000, overlay = false)buySignal = ( close > close[1] ?
+true : false)sellSignal = ( close < close[1] ?
+true : false)if ( time>timestamp(2017, 11, 11, 0, 0)) strategy.entry("simpleBuy", strategy.long, when = (buySignal == true)) strategy.entry("simpleSell", strategy.short, when = (sellSignal == true))if ( time>timestamp(2017, 11, 11, 0, 0)) strategy.exit("simpleBuy", "simpleBuy", when = (sellSignal == true)) strategy.exit("simpleSell", "simpleSell", when = (buySignal == true))it's more stupid.
+i just buy once the price start rising, and sell/short once it starts falling.
+pyramiding is too hard to code atm>how do you save yourself from trading fees?usually i don't, but bch goes +-10% in minutes, that's how
+What site/interface is this?I like the simple logic.
+No ai and ml buzzmemes
+I'm not super familiar with Pinecode, what is the "timestamp"?
+tradingviewanyway, looks like the bot is running.
+let's see if i coded it properlysince backtesting only supports 2k trades, it's used to limit the first trade to 11/11.
+technically it's not needed
+Ah.
+So it's pretty much "last candle closed over the previous candle" or "last candle closed below the previous candle".
+Easiest thing ever, amazing.Obviously you do some price tracking after that to check for the inversions, right?Do you think checking against simple uptrend/downtrend would help the bot or only make it unnecessarily harder for it?I'm a huge fan of your solution, it's simple as hell and easy to implement.
+you can make it 100x time more efficient but i'm lazy, i just want to get the barebones version running atm
+Can I have the download link?
+i just lost a fuck ton on bch
+Be careful now when people are dumping BCH for the difficulty adjustment
+the bot can short too, no worries.i'm moving everything from my rpi to my desktop so i can run it without a hassle, 10 more minutes
+I want to buy itCan you sell it to me
+If you don't know how to implement it yourself, you probably couldn't get it working.Get some API keys first.
+if it works yes, i'll sell it for pics of sharpies in poopersfor backtesting yes.
+the php code it 100 times longer
+So it doesn't work yet?
+Fuck off
+rude.
+there isn't that many algo threads on /biz/ so don't hate him for trying.
+i'm working on a python script!
+keep up the good fight anon-sama, php and you can do it!
+wifi is shit, i'm moving it to another pc.
+and i need to install php here
+Anon I'm sorryAdd me on @bendthatdick telegram I know a some Java lel
+So it doesn't work yet?
+Fuck offRead the thread, dumbass.
+I just implemented this and backtested it with minute candles I've procured since 2011 starting with $10,000 and it lost every penny.
+I also tried not starting the strategy until 2015 and it still lost every penny.
+it only works now on bch because the volatility and volume make it possible to cover the exchenge fees
+Can you show your work?What's a pine editor?
+Buy/sell price is just market close of current rowCalling buy() or sell() twice consecutively is equal to just staying in the current strategy (it checks).Oh and btw, I changed from comparing closing prices to comparing SMA15, and it actually tripled the starting money on $10,000 to my surprise lol.Formula for buy/sell: tradeFee = 0.0025 feeCoeff = 1 - tradeFee USD = price * BTC * feeCoeffstartDate was Jan 1, 2016readRow(row) {  price = row.close;  if (lastRow && row.openTime > startDate) { var buySig = row.SMA15 > lastRow.SMA15, sellSig = row.SMA15 < lastRow.SMA15;  if (buySig) buy(); else if (sellSig) sell(); } lastRow = row;}
+it's a an editor for trading view's coding languageoh, and looks like i can't install php on windows
+You can, use xamp.If you're running it from a command line, there's gygnus.
+Or just install vagrant and do it that way.chocolaty would also work if there's any kind of windows package.
+4323857so a 24 hour backtest?
+lol sounds pretty reliable.
+Why dont you run one over lets say a months data, with fees and slippage.
+Then post your sharpe and your drawdown?
+i'll run it on the live data once xampp finishes downloading
+why tho?
+you could easily test it on historic data without risking any money
+i tested it on the last 2 day on trading view.
+as i said, this shitty strategy can only work because of the current volume/volatility of bch.
+so it's now or never my friend
+You don't need to play with real money to test live.
+It's called paper trading.
+4324830oh I see, missed the trading view bit.
+Assumed you were about to run it live as in real money, real exchange.
+Good luck though anons, I'm trading the bch/btc volatility myself but with a hedging model
+Uhh guys...10K to 1.5M in 4 years?
+update: short and longs are working, i've setup everything on windows.
+now it doesn't close orders... but it should be easy to fix.almost done famalams
+Keep up the effort.
+Sounds rather interesting
+yeah that looks pretty wrong lol...
+rap shows>not beneficial to an extroverted personality typeI recommend all the rap shows
+Fee and spread alone gonna kill your profit
+right, should be a lot more
+Did you back-tested the algorithm OP ?Also, where can I get 1min candles data to train algorithms ?
+stay poor plebyes, read the threadalmost everything is ready btw, fixed closing positions
+coding an algo right now to try and exploit your algo thxfam
+seriously though that comment i replied too was dumb af.
+go to a rap show and there's about 1000 people trying to fit in and being goofy
+Can't wait til you lose all your money.
+good job, but ...why the fuck would you choose .php?>of all of the hands that you might place you digits into, you place them in the hands of the people who will not hesitate to put your digits into their pockets
+damn thats my female form/wifefug
+exploitmore people doing this shit the more it becomes a self-fullfilling profecy.
+i'll share it for free once it's foolproofthe first btifinex api example i found was in php.
+too late anyway
+it's on!already made 22 cents including fee
+nah you didnt get me bro, 'exploit' as in 'exploit your strategy'.
+I'm only kidding though, aint got  not time for this shit.
+Good luck with your script though I'll be watching this thread
+Great.
+And it only works for BCC?
+Could you set it up for other currencies on bitfinex?
+fair enough bitbro>good fortune to you>but the idea needs to be converted(later) to a language that isn't compromised by a people who are born spies, deceivers, liars, manipulators and thieves at heart.
+no offense
+like which one?
+i can backtest on trading view but i doubt it'll work since the volatility isn't this high
+Litcoin and Monero?
+I get that volitilty isn't high but you want a bot that can work even when volitilty is relatively low.
+Right?
+topkek
+yes, but not with this shitty strategy.
+if you have a proper strategy for those coins then altering the bot is easyanyway, since the price went up and i can't affor 0.02 bch (minimum trading amount), i'm moving some eth to the bot's fund.it will be back up once the transaction is complete and i'll post live updates
+being emotionally invested in a programming language instead of just seeing them as a tool >not realizing that the best programming language is the one you're most familiar with
+i just tried.for reference, i got +15000% on bch in 24 hours.i get +78% on ltc and +95% on xmrcounting fees and slippage, it doesn't look that profitable on those
+Do you even understand what his criticism is?have you tried changing the logic in the code to take fees into account?
+e.g.
+subtract fees from the sell price and add them to the buy price.
+where did you get the historical data?i've been meaning to write a bot to flip ETH or BCC so that i dont have to put any effort into being a whalei know you can get from e.g.
+https://bittrex.
+com/Api/v2.0/pub/market/GetTicks?marketName=BTC-BCC&tickInterval=oneMinbut it only goes back 10 days
+being a whalebecoming a whale, i mean
+trading view's pine editor has all the data you want
+OP can you pls share your resources I want to try and make one, I know python but I have no idea where to begin with this
+have you tried changing the logic in the code to take fees into account?i tried it on trading view, with the taker's fee i got "only" +60% in 1 day.
+with maker's fee it's +1500%.i think there is an option to do post only order in the api documentation
+thanks, is it downloadable though?
+google [you favourite exchange] [your favourite language] bot and tweak itdoubt it.
+exchanges usually makes you pay for downloading a lot of old data
+thats a shame, i'll see what i can do about it then, maybe 10 days of 1-minute interval data is enoughhopefully i'll get something working so i can brag about being NTR'd by my own bot on /biz/
+i think there is an option to do post only order in the api documentationIs that even possible?
+I know kraken determines it based on whoever placed their order later paying more.
+Will you be sharing this code with us?
+oh, found it.
+i'm placing order's with post only and close them withoutaccording to tradingview that should be +300% or something in a dayif it works yes, but it's a shitty strategy just for giggles.
+it's way harder setting up php server on windows than writing the strategy
+How much are you putting into it to get these numbers?
+I assume the simulation on tradingview has a limited amount of one currency at the start.
+So, I ran your barebones tactic of buy when previous close under current close and vice versa against some trading pairs on bittrex.
+this backtest is using 5m candles and spans around 10 days.
+note however that this is not the most current data, the last timestamp is from 07/11/2017 6:20pm.You might wanna add a check if something is very volatile (like bcc currently).
+you can setup everything on trading view except slippage i think.
+so fees/initial capital/contracts/piramiding/etc
+From your tests, it looks like it would work.
+using 5m candles and spans around 10 daysthis tactic is awful for anything above 1 minutes imo.after this pseudo flippening end i'll tweak the bot with a good slower strategy.but biggest issue with backtesting is that it fucks up the EMAs and gives buy/sell signal based on future prices (at least on tradingview)anyway, the bot is on.
+i'll leave it running until midnight at least, will check back soon
+
+hold on a sec, gonna test it against 1m candles, just gonna take a while.
+Do you have Kik?
+This is the strategy in 3 days of 1 minute candles trading.
+I'm gonna see if I can make it profitable (at least in the backtest) with some tweaking.
+Gonna report back in half an hour or so.
+nopethe bot is already running, we'll see how it does anyway
+Email?
+kekeven the Node dev jumped ship to join Golang a few weeks agoNode has always been a jokeI always said it, never drank the kool aidGo > Erlang > Python3-asyncio > Node >>> PHP
+being emotionally invested in programming languageslmao, I never understood why people would talk shit about people using other languages.
+there are only two kinds of languages: the ones people complain about and the ones nobody uses.
+there are two types of people : devs and nodevs
+Node falls into the former though.
+Gotta love callback hell.
+Async is supposed to be simple.
+I guess OP is gone
+ Go above ErlangYou absolute motherfucker you
+I agree, callback hell is no joke and it took me a lot of time to wrap my head around.
+But it does get better with time, especially with features like async / await etc.
+there's a lot of work being done and I think it gets better every day.Anyways, with two other indicators added to the mix to filter out unprofitable trades, it made 8% profit in 3 days with 1m candles.
+Op if you like, post your PGP public key and I'm gonna post the encrypted parameters for the indicators.
+>backtesting bitcoinFucking stupidIf you would have HELD AND DONE NOTHING you would have made bankUnless you are scalping transactions you are literally just pissing in the wind
+This.What's that python?
+You won't tell me when I glance on ha key mutating a variable on a crucial line of code?
+>Losing lots of moneyNeat
+Hi, im also working on one.
+What are your triggers for the bot to select a coin and think "Buy this".
+A certain amount of drop from a high or..?
+He's gone.
+Java vert.x > all of them
+Asynchronous code in Python is ugly as fuck compared to promises and async await.
+I will admit that Go is faster than Node but that's the only advantage, and it doesn't really matter since you're not doing high frequency trading.
+Node's syntax is far superior to Go.
+And Erlang is just for autists.
+Is Erlang any use?
+What about D?
+Callback hell only happens if you're a shitty programmer who uses callbacks instead of promises or async await.
+OP just lost his money to fees and spreads
+He is looking for a good pink wojak for his return once he pussies out of kys
+yup, rip.even if i blame more the sideway movement for the last 2 hour.on the bright side, the bot works perfectly.
+i'll try setting a serious trade strategy for it later
+Every minute?
+Bitfinex has socket API, that is realtime.
+PHP?
+Idiot.Also backtesting with finex data from last 12 month shows that your strategy won't work.
+i guess your bot is written in go
+t. 32Go RAMcompared to promises and async awaitpython has those
+buySignal = ( close > close[1] ?
+true : false)>sellSignal = ( close < close[1] ?
+true : false)Why the fuck are you using a ternary operator here you fucking autistYou already have a boolean
+i just copypasted someone else's code and changed the variables.no bully pls
+Of all the languages you could have used.
+Why the fuck PHP which is basically for rendering web pages?
+OP: run the code on recent history before you run it live
+I'm gonna take a wild guess: It's the language he's most comfortable with.
+My 3rd programming job I worked at a place where all the backend code was written in PHP scripts running on windows server 2012.They started the php tasks using windows task manager.Lets just say I have first hand experience of how shitty of a language php is for periodic / backend tasks like this.
+and get easily triggered when people try to use php for backend tasks
+How do you collect recent history?
+4329298I know PHP as well, and I would agree with you that other tools would be suited better.
+But still, I don't get the bashing by everyone.
+If it works for him?
+i literally used the first language i found the api for.i made a big for loop inside a php script, that's it.
+it's not like i'm deplying or shit
+if coding profitable bots for crypto were so easy, wouldn't the market have been littered with them already?
+I'm sure a whale would buy one for 10k in a heartbeat
+Nobody is selling their bots.
+Why would you sell it for 10k when you can make much more actually running it?Not to mention that the more people using the same bot, the less edge it has
+4329525i actually sold about this.the best outcome would be to make a good bot that makes profit, even small, and then make a paid version which is exactly the same but delayed on opening/closing orders.that way the more people use it the more you'll ride the wave
+I dont know, why do people sell stock trading bots?is it really all that profitable apart from the bot sales business after 10 000 nerds have sunk their teeth in the business
+Many exchanges allow you to download price history as comma separate values.
+EG: http://api.bitcoincharts.com/v1/csv/
+But still, I don't get the bashing by everyone.
+If it works for him?I guess, however I feel that OP would actually benefit more in his life if he learned something like Go/Rust/Python or even Javascript to do this task.He obviously has the knowledge to make HTTP requests and database access.I honestly see PHP as nothing but a ghetto where you have to compete with low tier developers
+ would actually benefit more in his life if he learned something like Go/Rust/Python or even Javascript to do this taskI agree.

@@ -1,0 +1,36 @@
+Ok biz.
+For the first time, I can't find answers anywhere and need your collective brilliance to offer me advice if you would be so kind.
+I'm offering potential BTC for helpful answers.
+I've gotten fully into crypto in the past year, but I remember a time where I was chronically stoned and bored in my parents basement and decided to give this bitcoin mining thing a shot.
+CPU mining on a laptop was a joke at the time compared to it's current value, so I didn't expect much.
+I decided to run a miner anyhow and put my shitty acer laptop in my minifridge for whole weekends at a time.
+I was just thinking back to this recently, and realized that this would have been in 2010/2011.
+I never actually checked what I mined, but it could be a decent amount by now?
+I work in IT so I'm competent enough to try and recover the original drive, but I get read errors trying to backup the raw data.
+The volume shows up as unallocated data (the right amount as well) however.
+My main question is:There are businesses close to me that do recovery from mechanical disk failures, but short of doing something CRAZY and threatening, how can I trust these guys wont just loot my data before they send it back or call the thing permanently toast?
+I was a total idiot back then and very likely didn't encrypt any of it.
+2nd bonus question:Any way I can get a ballpark for how much I could have mined?To anyone who has a helpful answer leading to my success: post your BTC address and I will offer a generous tip, proportionate to my BTC found upon success.
+Also, if you have anything helpful to say, may as well post a BCH address as well since there would be money in that too.
+Do you know the address of your wallet?
+Then you can tell the guys that if you see any transactions out of it you will know its them, and if you get it back, just quickly transfer it all to new wallets so them having your old data won't do them any goodIf you don't know the address of the wallet you were mining to, then you'll need to have them do all the work with you right there so you can verify.
+Obviously this would be a special arrangement for them so I'm sure they'll charge you more but most small businesses would definitely be willing to do this on a case-by-case basis, don't go to like fucking best buy or something thoughAs for ballparking, you can go to a mining calculator that lets you set the mining difficulty, choose the hardware you had (or something comparable, likely they won't have a setting for random acer laptops) and then look up the approximate mining difficulty of the bitcoin network around the time period you were mining.
+You certainly won't approximate it to +/-10% this way, but you could definitely make a half-order of magnitude guess
+BMEXW39mDZqvd8LXnqq5u1VurQdkzP5H6 Here's my wallet but I didn't tell you anything that worldshaking haha
+I was thinking of insisting on observing the whole thing, but I'm concerned this could tip them off to there being something sensitive on the drive.
+Call me paranoid, but they could suspect I have something either valuable or illegal (CP or some shit) with them.
+Would this add to the risk?
+GF says I should tell them I have embarrassing kink nudes or some shit, may not be a bad idea.
+Regarding your info on estimating: this is awesome, thank you.
+Also if you have no clue about choosing comparable hardware, you can try mining bitcoin now (or finding comparable mining stats now) and use that hashrate.
+Hashrates themselves don't change over time, only the difficult does
+I've noted your address, I appreciate your help.
+Thankyou.
+Oh, I assumed you'd tell them there was bitcoin on there, and then demand to watch the process.
+I guess it depends how much you know about technology and what they'd be doing, but you said you work in IT so I thought you could ask them to walk you through everything they do in person and be reasonably certain they aren't doing anything malicious if you watch every step
+I've considered being transparent about the BTC on the drive, but my concern is tipping them off unnecessarily, and risking them somehow stealthily keeping a copy.
+I'm very savvy with tech, but I know this is still possible.
+I suppose there is no way to have someone recover this while being 100% certain they don't snoop.
+If I were to watch them and use my own laptop to make the transfer as soon as the data is available, the paranoid area of my brain says there could be risk if the BTC was a bananas amount, but I could bring a goon with me.
+Either way, your input has been helpful.
+Thanks

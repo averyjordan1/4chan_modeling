@@ -1,0 +1,24 @@
+What will happen?https://blog.gdax.com/bitcoin-segwit2x-update-9abcc4de2d00Dear Coinbase customer,There have been a number of developments with Bitcoin Segwit2x since our last update.
+No action is required and all funds stored on Coinbase remain safe.Last week, the Segwit2x development team announced they would no longer continue with the project.
+In addition, a significant portion of miners and other community leaders withdrew their support for the fork.
+However, despite these developments, a small number of miners may attempt to go forward with a fork.We wanted to provide clarity about the potential outcomes of the fork and what Coinbase will do in each scenario.To protect customer funds, Coinbase will disable Bitcoin sends and receives at 2 am Pacific Time on November 17th, and disable buys and sells an hour before the fork, which is currently predicted to occur between 6am to 8am Pacific Time on November 17th.
+All functionality will be re-enabled shortly afterwards.Scenario 1: Network is unusable If support for the fork remains at current levels or decreases, the Bitcoin2x network will be unusable.
+Coinbase will not support withdrawals or trading as it will not be possible to move these assets.
+Currently we believe this is the most likely scenario.If the network gains support at a later date, we will enable Bitcoin2x withdrawals from the platform.Scenario 2: Network is usable If transactions are being confirmed at a reasonable speed and miner support is strong, we will allow Coinbase customers to withdraw Bitcoin2x.
+We will not immediately enable buys and sells as previously stated, but we may enable them at a later date.We will keep customers updated through our blog.Thank you,Coinbase Team
+The little idiots are too busy calling each other names and making predictions about what dies at 8000 to even pay attention to this.
+What happens is the miners revolt part 2 to try to fuck BTC and pump BCC into the lead.
+This is unironically causing people I know to buy BCH
+LOOKS LIKE FORKS BACK ON THE MENU BOYS
+Its making me go grey early, I don't know what the fuck to keep my money in.
+Definitely not doing fiat but BTC no longer really feels like the safest crypto.
+I might just buy an equal amount of BCH as what I have BTC for now and then reevaluate once everything shakes out.
+"small number of miners"
+looks to be 31% support right nowhttps://coin.dance/blocks
+should i put my btc on coinbase now?
+its currently on binance/trex
+I've said it before and I'll say it again.
+All this uncertainty with these forks and Bitcoin Cash is going to make people look elsewhere to put their money in.
+Which coin is probably best to faciliate this?
+Monero.I seriously think people are going to get sick and tired of Bitcoin drama (for now) and just move their money into something ridiculously stable, but also private, and Monero is going to see a run and a half.Pure speculation and also bias because I own a fuck load of monero, but yeah.
+binance will give coins if fork happens they always do

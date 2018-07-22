@@ -1,0 +1,13 @@
+Tired of gambling on shitcoins?
+Want to get in on the derivatives action before those CME plebs?
+Ask me anything you'd like to know about BitMEX, the Bitcoin Mercantile Exchange.
+Up to 100x leverage is offered although you should stay far away from it unless you are completely certain about the momentum and have enough collateral to avoid liquidation.
+Most people suggest about 10x maximum for a newcomer.
+There are stop hunters and liquidation hunters who push the prices around a bit to catch overleveraged people, but if you are competent at risk management, you should be fine, or at least learn a lot :^)BitMEX is NOT a cryptocurrency exchange - as in, you cannot buy litecoin or ether here - which is the misconception many newmexers have upon joining.
+It is a derivatives exchange that trades in futures and swap contracts.
+The primary purpose is for cryptocurrency holders to hedge their risk against downturn, although it can obviously also be used to magnify gains through accurate speculation.
+You can also find a role here arbitraging between futures and spot prices.
+(see: cash-and-carry arbitrage)The perpetual inverse swap contract is a $1 contract bought with BTC where you have more bitcoin (dollar-wise) to gain from taking a short position in a downturn than you have to gain by taking a long position in a bull market.
+Another fascinating thing about taking a short position on XBTUSD swaps is that it effectively can create synthetic USD without ever having to go through USD.
+All this from the power of derivatives!
+You can read an interesting blog post about it here: https://blog.bitmex.com/xbtusd-the-philosophers-stone/Signing up with this link (although you obviously don't have to) is appreciated and grants a discount on market order fees for 6 months.https://www.bitmex.com/register/eY1A09

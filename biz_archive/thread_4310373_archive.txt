@@ -1,0 +1,4 @@
+bitcoin core supporters riddle me this.
+what can bitcoin do to improve its usability besides forking?
+can they just update it somehow?
+Bitcoin Core is controlled by a private company BlockstreamThey refuse to increase block size to speed up transactions in order to sell their product callled Lightning Network

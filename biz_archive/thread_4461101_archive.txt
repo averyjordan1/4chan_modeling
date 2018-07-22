@@ -1,0 +1,7 @@
+What can I use which is a lightweight wallet to store ERC20 tokens in (prefer not to use myetherwallet) on 32 bit windows?
+I don't have the space for the whole bloody blockchain
+if you want to lose your money, yes you can do that.i would advise you to use a live usb linux instead
+yeah, great plan.
+lets tell everyone that struggles with wallet software to put their private keys and coins into a linux live disc.
+that will end well.
+exodus

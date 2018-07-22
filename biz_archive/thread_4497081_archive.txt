@@ -1,0 +1,425 @@
+Everyone wanted updates right after the last one.
+It's been over a month and nothing happened.
+Here is a breakdown of what was expected and the progress:>Since the token sale, we’ve been focused on the critical next steps for making the ChainLink Network a success by actively hiring for our technical teamAs far as we know, they have hired nobody and no progress has been made on that>building the ChainLink Network as described in our whitepaper, and preparing to make the SIBOS conference as successful as possible.SIBOS passed and was successfull, no news from the network other than implementing it in GO instead of Ruby now>I’m glad to say that the large amount of interest in our presentation at SIBOS has shown our efforts to be a success so far, with the presentation being attended to full capacity until it reached standing room only.
+Means nothing>Our initial implementation with SWIFT focused on the ability to input critical financial data into a smart contract security, the usage of shared standards like ISO20022 to make smart contracts more understandeable, and the ability for a smart contract to send payments to any of the 11,000+ banks that rely on SWIFT payment messages.Greast news, explains what the swift.smartcontract.com was.
+However, everyone thought the working product was ChainLink not a PoC.
+Everyone is realizing now the product is not even anywhere close to done.1/2
+>After working closely with SWIFT and multiple financial institutions on smart contract securities, we do believe that a smart contract’s ability to make payments in an end-user’s preferred format (bank account payments), is an important feature for their ability to become the preferred form of digital agreement.
+Since the larger financial industry seems to be in clear agreement with us on a smart contract securities need for key inputs/outputs, the initial implementation presented at SIBOS is something we are currently in conversations about turning into a larger implementation for both SWIFT, and multiple large institutions.No updates on this, what are they doing, how are the talks going on?
+Are they expecting the mainnet launch.
+Again, left in the dark.>We do very much appreciate the community’s patience and support as we do our best to implement the critical next steps for the ChainLink Network’s success.Clearly not since everyone has been complaining, and none of it has been addressed>To briefly provide clarity on what we’ve been working on other than SWIFT/SIBOS; we are actively hiring for technical roles, have been building the ChainLink Network as described in our white paper,No devs hired.
+If the technical manager is considered their role then fuck me sideways.>are working to get the first key end-users of the ChainLink Network in placeHow's that going?
+again no updates on this, great.>and are also in the process of making a plan for keeping the community better updated as we grow the team to handle the large increase of inbound interest from the traditional banking, fintech, web development and crypto communities.No effort has been made to keep the community better updates.Good Luck everyone, this is an L for me.
+Pic related, website wasn't even touched since token sale.2/2
+>rent free
+Shit is happening.
+You’re just not seeing it because you want a skateboard with stickers:https://gitter.im/smartcontractkit-chainlink/Lobby
+Shit is not happening, I've been on this since it came out.
+Pic from me, no news since AUGUST
+Pic from me, two person TOTAL TEAMI'm so sorry for anyone who put money into this
+Should've listened to people earlier.
+Pic from me, no new tweets since beginning of month.
+Yeah this guy has it right.
+Link = Confido 2.0, run while you can
+fuck i think this just broke the delusion.
+i guess i just didn't want to take the 50% loss but if it isnt going anywhere than fuck i have to move on
+
+Shit is not happening.
+The one fucking dev they have is still trying to figure out the features in version 1.
+It is a joke.
+The overvaluation of ICOs is going to be a major laughing point 5 years from now.
+Yep, came to this conclusion this morning.
+yea it sucks losing half of your 20$ investment.
+hang in there
+And how the fuck did he come into that conclusion?
+If you read the conversation between Steve and the devs you could easily see that they are already running in the testnet.https://github.com/smartcontractkit
+They're postulating on features in version 1 of testnet != close to launching fucking test net.
+Sergey is eating Big Macs and playing the bonga on some big booty bitches buns while Rory strokes his pencil dick in the corner.
+He’s not looking at his screen and is typing with one hand, hence all the typos in his news that they have to rework the whole project into another language.
+Steve is frantically trying to learn GO to salvage the project but he is alone and is smoking pot to cope with the stress.
+uh, guys?
+He certainly thinks he matters more than he actually does.
+I wonder what information he actually offers.
+I'll worry when the top link holders start dumping.
+People on biz need to be patient eth didn't moon over night and I was on that ride, now I hold link and eth.
+Been taken down a few weeks earlier, nobody said jack shit.
+Link is the ultimate Joosting
+I just went all in, good luck guys.
+We will either be very rich, or very poor.
+This is a 50/50 I will gamble with.
+isnt SWIFT the biggest selling point of link?
+whats going on?
+lol i wish.
+bonus retardation in the trades
+Not confirmed.
+For all we know they could just be involved with the PoC and that's it.
+No wonder you're impatient kek.
+You're pleb as fuck.
+My fucking laptop alone costs more than your LINK holdings lmao.
+You arrogant twat.$1900 may mean nothing to you, but to him that could be a big chunk of his portfolio.I hope LINK crash and burn asap, and drag you with it.
+That shitcoin is doomed anyway.
+Last went before those two is from September topkek.
+GIVE US MORE UPDATES GIVE US MORE UPDATES GIVE US MORE UPDATES GIVE US MORE UPDATES GIVE US MORE UPDATES
+Your mom costs more than my dick that's for sure
+I don't think weekly updates are needed or anything.
+Pulling an OMG and NEO and hyping your coin is bad.However, ignoring the people who fucking funded you for over a month now is just as fucking bad.
+Idk what to say here
+$1900 may mean nothing to you, but to him that could be a big chunk of his portfolioThen he should fucking sell.
+Kek, shrimps like him should be food for the whales anyway.>I hope LINK crash and burn asap, and drag you with it.
+That shitcoin is doomed anyway.Not happening buddy.
+People like me who have a lot of disposable income are not really bothered with having to hold for a long time.
+Yep this is hat I heard from a reliable source that I can't reveal.
+scroll down a few more posts and youre in 2015what a joke
+The top ten holders are probably devs, well, not devs since there's more top holders than devs but people related to the project.
+They want to give us a false sense of "everything is alright guys" and they are doing it right.
+Anyone can put the logos of swift, visa, MasterCard.
+Doesn't mean shit.Dude, even if it's not a lot for you, why not sell now and put that amount of btc to work instead of sitting there?
+You can multiply that btc with a bunch of good trades and then rebuy more link with it!
+The "you can never time the market" meme died today.
+We now know they don't have shit done yet, so there's literally no point in holding right now.
+Maybe come back in December.
+What the fuck.
+Fuck me fucking fuck on a fucking nut cunt fuck.
+That fat cunt
+The "you can never time the market" meme died today.
+We now know they don't have shit done yet,Pretty much this.
+The only thing i can think of that would take sellers by surprise is partnership announcements, which they've said won't be released until the mainnet is launched in 2018.
+You have a month of guaranteed and constant drops everyday for LINK.
+Anyone can put the logos of swift, visa, MasterCard.
+Doesn't mean shit.Kek, this is stupid.
+You cant do that without permission.>Dude, even if it's not a lot for you, why not sell now and put that amount of btc to work instead of sitting there?
+You can multiply that btc with a bunch of good trades and then rebuy more link with it!
+The "you can never time the market" meme died today.Who says I'm all-in LINK?
+I have other short term moon missions like SALT.
+LINK is my long-term play.
+You seem desperate in making everyone sell all their LINK since thats what you just did.
+>high level FUD is happening against LINK all over /biz/Yep, it's time to buy more LINK.
+This shit is about to blast to the fucking moon.
+Buy more Link
+>NOW NOW NOW NOW NOWReminder that it took NEO nearly a year after its release to finally have any reason to moon.
+Didn't make this to FUD.
+I made this to let others know the devs have been doing nothing for a month.
+Who says I'm all-in LINK?That's why I said>even if it's not a lot for youEven if link is only 5% of your portfolio there is no reason not to sell and put that amount of btc into good trades.>Kek, this is stupid.
+You cant do that without permission.I can show you at least three random ICOs that put the Visa, MasterCard and PayPal logos on their site and trust me, nothing ever happened and those ICOs either tanked or just disappeared after token release.
+It's you money so you decide what to do, i just don't understand why hold now.
+Holding long term applies to bitcoin and a very few alts (maybe 3 or 4).
+This is clearly not one of those.
+just sold $250 LINK and bought POWR....i will buy again when it moons
+It's different because they didn't have to wait the year for NEO or ETH to take off but neither did they get in at the absolute bottom.It doesn't matter how much money it will make them a year or six months from now.
+They want their money and they want it now.
+And during September 2016 and march 2017 you think people didn't get out to put that btc into good trades to make more money and then went back in with more bitcoin to buy more ants/neo/whatever?
+Damn, anon.
+You sound so fucking cool.
+I want to be like you when I grow up!
+You tell ‘em, anon!You’re a huge faggot, aren’t you?
+4497083Your analysis is pretty spot on, but I'm never selling until it hits $30.
+Don't care if it gets delisted, I'm just not fucking selling.
+Another reminder that /biz/ is mostly made up of kids that just got into crypto in the last two or three months who just want to make money fast and don't know anything about where they are throwing their parents money.
+Pajeets too.
+Neither am I.
+Too deep in now.
+Should've sold at 50 I would've 3X my investment
+I can show you at least three random ICOs that put the Visa, MasterCard and PayPal logos on their site and trust me, nothing ever happened and those ICOs either tanked or just disappeared after token release.Did these ICOs present in Devcon or some other big conference?
+I can create an ICO right now and stamp Facebook's logo.
+Unless I present it in Devcon or some conference I probably wont get busted.
+Also, what makes you so sure those ICOs didnt ask for permission?>Even if link is only 5% of your portfolio there is no reason not to sell and put that amount of btc into good trades.Who says I'm not holding BTC already.
+Kek you really seem to want us to go 0% LINK.
+I put my money where my mouth is.
+I'm not selling my LINK stack.
+I'm probably going to buy more when my short term holdings moon.
+It's not that, let's think: what has more chances of getting 10% gains (being extremely conservative) during the next month?
+Link or bitcoin?
+Bitcoin!Why not just sell and then buy 10% more link?
+We know nothing will happen before Jan 2018 anyways.
+Dude, most link baghodlers are the crypto newbies.
+They came here during the peak of the ico goldrush and dumped money into whatever was shilled the most.Linkie bagholders always crying about their req/blackmoon/blockcat/salt bags etc.
+Its hilarious.Anyone with half a brain sold at 6k sats or above (to buy back in now).
+Dude, most link baghodlers are the crypto newbies.Pretty sure its the other way around.
+Crypto newbies are more likely to not understand what LINK is even about.
+Newbies prefer to buy coins like NEO at $30+ since its easy to understand that its a "Chinese Ethereum".
+Definitely a smart option, but it doesn't make LINK any less legitimate.
+There are definitely crypto newbies bagholding LINK.
+They bought at 40-50 cents and are the ones who whine all day long and get buried in FUD because it's funny to shit on them.
+MOMMY MOMMY GIVE BABY NEWSIES BABY POOPIED PANTIES MAMA MAMA MAMA MAMA WHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA CHANGIE BABY BABY WANTIE NEWSIES BABY IAMGVD HAS DIAPIE RASH ON BUM BUM WHERE BABY IAMGVD'S $100???
+GIVE BABY HIM MONIE BACK MUMMY WILL BE VERY ANGRY THAT BABBY LOSTED HIS ALLOWANCE SORRY FOR CUSSING I'M JUST SO H*CKING MAD GRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+((-5%))t. L
+I said bagholders.
+As in people who are holding bags and posting shitty ass marine memes.
+Not the smart people who took profits at 2x, 3x, 4x, 5x and bought back in.
+Yeah like the anon that bought $1900 worth of LINK and wants to sell kek after almost a 50% drop.
+not so deluded linkie
+So everyone was talking lambos in 2019 and all the other bs.
+Longterm hodl!
+Longterm hodl!
+Two months in and having a titty fit?
+Grow a pair.
+Oh trust me, I fully believe in the project, I had 48k link until days ago.
+I almost thank for these two months of nothingness we got ahead, I plan to buy some dash, power, boost that btc and come back in January to buy at least 60k link with the amount of btc I got from selling link now.
+God knows what will be the price of btc by then.
+9k?
+Idk.
+Alright, so I've not been into this long, so I missed all the old stuff.
+(Got more active when I sold BTC at 7980 after buying at 400 and forgetting about it)Anyway on the link front: where did the original hype come from?
+Is Sergey a well known dev from another project?
+Was link revolutionary in some way?
+Did he divulge his strategy for implementing a revolutionary system evolution?
+Where did the OG link love come from?
+/Biz/ I just sold all my bags.
+I've held since a couple of weeks past the ICO but I can't take it anymore.
+The opportunity cost is too great to hold these bags.
+I believe in the project, but not the developers.
+This team will never do what needs to be done in order to increase token value.
+You're better of buying in months from now once its value is diluted even further
+hes been around since before you were born, sonny
+
+Dude is a mastermind, won that contest on sibos 2016 and was invited this year again,The idea of link and what he's trying to do is revolutionary but holding Lin right now doesn't make too much sense given the recent news.
+They basically told us that there's nothing ahead until at least January 2018.
+With a bitcoin breaking ATHs every single day, why not just go back to btc or even better make a few good trades with that same amount of btc and rebuy later?
+You will get even more LINK by then since it's not the same buying with btc priced at 7000 than buying with btc priced at 9000 or whatever price it reaches by Jan 2018.
+more like 1/99... at best
+permission from who, retard?
+the president of the internet?
+oh shit.
+thats Rory?
+we fucked
+reminder, that there's thousands of icos that didnt go anywhere and either exit scammed or where sold to oblivion.
+but we dont talk about it in polite company, right?
+more like 90%
+yep finally people on reddit start talking out.
+everyone there should be doing this bc the whole thing otherwise is bulshit.
+FUCK SERGEY and his useless fatass
+Everyone seems hyped about the main net getting launched.
+Honestly?
+I care more about Rory's promise of hiring someone to do some marketing.The main net can wait til 2019 or 2020 i don't care, but marketing and hype is everything in crypto so that's what I care about,Omisego skyrocketed with a bunch of stickers, a skateboard, fake sponsorships and a pic with vitalik.
+That's not technology, that's marketing.
+Good job on writing this up OP.
+I dumped all of my LINK (at a small overall loss) as soon as I saw the most recent update.
+While I believe in LINK and will buy back in next year, it's clear that absolutely nothing is going to happen with it for at least 2/3 months.
+I gave them the benefit of the doubt, assuming that they really would launch their mainnet in 2018 Q1.
+However, if they are going to rewrite in Go, and they haven't even hired a Go developer yet... this is going to take a while.Another anon said it right - if their code is so simple it can be ported/reimplemented by a brand new employee in a few weeks, then the product is simplistic and will be overtaken by competition.Side note: I am contracting with a company you have heard of, who would benefit from making their data available to CL.
+I contacted Rory via the website to enquire about setting up a pilot project, and never had a response.
+They are leaving potential partners in the dark just as much as investors.Until they hire additional developers and a competent community manager, I'm staying out of LINK and watching it bleed from the sidelines.
+It hurts to admit it, but I'm not afraid to be wrong: All you anons who sold LINK a month ago and have been shitting on it since then were right.
+We should have listened instead of taking a further 20% loss.
+It's not the "two months in" part.
+It's "two months in and they just admitted they need to rebuild the entire platform, but first they need to hire a developer".Think about it... they are currently in the stages where they just decided which language to use for the final product, and now they are reviewing CVs of developers.
+No way will they be launching anything early Q1.
+I was really just asking the questions, not trying judge anybody for whatever went down or beg tips off anybody.Just pure curiosity on my part.Most things I've seen and read from link seem like dog shit, so I was just curious as to how there's 2-4 threads on biz 24/7.
+Kek'd hard
+Newfag detected.
+Lurk more until you learn how to greentext or GET THE FUCK OFF MY BOARD
+Holy kek this pic is perfect
+Screenshot you attempted contact
+buy a 2018 project coin.
+complain no moon.
+kek
+this is some shareblu tier cordinated fud lol
+LINKfido lmAO
+Doxx myself or my client company?
+No thanks.
+Email them yourself and see what kind of response you get.
+You're missing the point.
+We all knew this would not moon next week.
+However, we just learned that the company has not even hired the dev resources it needs to finish the project.
+2018 project coin is fine - 2018 project coin which hasn't hired a dev team in November 2017 is less fine.
+this is some shareblu tier cordinated fud lolCoordinated?
+Yes, it's almost as if... everyone is reacting to the update that was released yesterday, where they confirmed they have zero developers who can code in their target language.
+That kind of admission tends to cause people to rethink their investments.
+why are you so mad?
+Aeternity mainnet will be launched Q1 2018, A complete blockchain with oracles and smart contracts, Chainlink is way behind with an inferior product.
+>Only 1 post by this id>Always repeating statements >Kek >Aggreeing with redditWow, is this the power of fud
+this started before that, it was a couple of days ago the threads just went 180
+4497083>As far as we know, they have hired nobodyAs far as you know they already hired 100 people so far.>SIBOS passed and was successfull, no news from the network other than implementing it in GO instead of Ruby nowSomeone hasn't seen Steve talking 24/7 with the community lmao.>Means nothingYou mean nothing.>However, everyone thought the working product was ChainLink not a PoC.You're retarded.1) the fact that this was a PoC was LITERALLY stated in all the relevant documentation, including the Sibos schedule on the Sibos website, Coindesk, etc.2) ChainLink v1.0 was ready, it's what was used in the demo.>No updates on this, what are they doing, how are the talks going on?>How's that going?
+again no updates on this, great.You're not getting any updates until shit gets finalized.And shit like this doesn't get finalized in a few weeks.Look at ANY crypto-related development going on within mainstream finance.
+You dumbass.>Clearly not since everyone has been complaining, and none of it has been addressedSometimes my cat wails for no reason and I ignore it.>No devs hired.Source pls.
+Right now.>No effort has been made to keep the community better updates.Steve Ellis has been discussing the technical side of the project with the community pretty much day in day out.But you wouldn't know anything about that.You're dumb, angry, and uninformed.
+Please sell all your Link and go.
+You're pure poison.
+STINKY LINKY IS ANGRY!Quick someone buy his bags!
+What makes you think development is behind in any way?
+But the testnet is up and running.
+Go set up ETH, BTC, or Hyperledger nodes right now in the testnet.two person TOTAL TEAMWhat is Google, Apple, etc.
+they confirmed they have zero developersSource please.
+Yes, because banks are just itching for another random proprietary blockchain, while they're collectively working on their own one, aren't they?lololol
+we just learned that the company has not even hired the dev resources it needs to finish the projectThey're still hiring not even a month after they began.
+And you're having a mental breakdown over this.Reconsider your life choices.
+agreedshutup faggot
+Judging by this thread, linkies are starting to move from the first stage of depression to the second.
+Read the latest update.
+They said they are going to rewrite the project in Go, and are currently trying to find developers.
+Rory said they are in the "reviewing resumes" stage.
+Ergo, they have not hired anyone.
+They're still hiring not even a month after they began.
+And you're having a mental breakdown over this.No mental breakdown here.
+Grow up a bit - when you're older and/or wiser you will see that people like to analyse both the good and bad sides of potential investments.
+Not everything is black and white.
+The point is that a) they have decided to rewrite the entire core of the project in Go and b) they do not have any Go developers on the team (otherwise they would have said so on the update).Have you ever done any software project management?
+Not having any devs who are competent in your chosen language is a pretty big thing.They are unable to make any progress on the core of the project until they have hired someone.
+If you don't see this as a red flag, you are blinded by something.
+Read the latest update.Doesn't say they have zero developers.Again, source or you're full of shit.>They said they are going to rewrite the project in GoSergey announced this many weeks ago.
+See pic.Stop being this clueless.>Rory said they are in the "reviewing resumes" stage.
+Ergo, they have not hired anyone.Maybe they're reviewing resumes for more developers?
+Then how about the fact that they are hiring a marketing department?
+Did you miss that?
+You talk as if every crypto project is almost done with their product.If they finish hiring a marketers for LINK we can surely expect them to start hyping it like other projects.
+4497083Cap this.LINK will be 30ish$ in Q3 '18
+There's no president of the internet, it's clearly a monarchy
+> live rent free in your head
+> devs went on holiday after the ICO
+Doesn't say they have zero developers.>Again, source or you're full of shit.Calm down man, and read that - and the most recent update - again.
+The implication is that they do not currently have any Go devs on staff.
+They do not conclusively state one way or the other.
+I take that to mean they currently have 0 Go devs.
+You take it to mean they have more than one.
+Good, let's agree to disagree on our assessments of that statement.> Sergey announced this many weeks ago.
+See pic.> Stop being this clueless.You're still missing the point.
+The fact that it is being rewritten is not news.
+They fact that they do not have any devs on the team who can do the rewrite is what is important.
+> Maybe they're reviewing resumes for more developers?Again, this is down to interpretation.
+My interpretation is that the existing two devs do not have Go skills, otherwise this would have been mentioned.Look, I'm not trying to FUD.
+I love LINK and I'm sure the idea will succeed.
+But step back for a moment - forget that I am someone on the internet who is disagreeing with you, and re-read the two most recent updates.
+After re-reading them, are you confident that the team has enough dev capacity to deliver on the Go/Solidity parts of the project?
+Then how about the fact that they are hiring a marketing department?
+Did you miss that?
+Unless they are hiring marketers who can write Go, this is irrelevant to my point.
+I invest in tech, not hype.
+all you stinky linkies...
+I almost feel bad for you all.
+but that train has left when you did not stop to shill this piece of shit and didn't listen to people smarter than you.
+now I'm gonna take a good bath in your tears
+You're backpedaling.You said they confirmed they have zero Go developers, here: I'm saying it's possible they already have some and are simply looking for more.In any case, porting into a new code is a very common thing during development, and is pretty much purely code monkey work.The real developments are down to actually setting up the network, interaction with TownCrier/SGX, etc.And it was always VERY obvious the team was going to have a lot of work ahead of them; otherwise they would not have needed those ICO funds.
+In any case, porting into a new code is a very common thing during development, and is pretty much purely code monkey work.THIS.
+100x THIS.
+You fuckers should just drop LINK and never come back.
+They are only porting the code ffs.
+I cant believe this transition to Go is fudded.
+mmmmm... FUDge
+rent free
+there's nothing ahead until at least January 2018oh no 2 monthswhat has more chances of getting 10% gains (being extremely conservative) during the next month?
+Link or bitcoin?What has a greater chance of FALLING 10% - LINK or BTC?
+I wouldn't be surprised if BTC fell 25% or even 50%.
+Why would you sell LINK at ATL to buy BTC at ATH?The "you can never time the market" meme died today.This is all so retarded.
+You're all textbook buy high sell low retards.
+Being fearful when others are also fearful and greedy when others are greedy rather than the other way round.Yes, it's a shame that they'll have to translate the project into another language.
+But we've been saying from the start this is a long term hold.
+It's still the case that we don't know when this thing is going to take off and anyone who's been in crypto long enough knows these things take off without warning and very very quickly.
+If you think you can time the market you might get lucky but you risk being outside the rocket when it takes off.
+I don't care if you sell but look how reactive and emotional you're being.
+You're likely to do nothing more over the next few weeks/months than browse /biz/ and jump on the latest flavor of the day when it's already too late, hold too long, and not make any money.
+I know this from experience and while I've made (and lost) money from tips on this site, the only serious money (i.e.
+10x+) I've made was from holding ETH from the beginning.LINK was always an INVESTMENT, not speculation.https://www.youtube.com/watch?v=kW27zYIxZhY
+The implication is that they do not currently have any Go devs on staff.Pic is the infamous "update".Point me to the part where they implied that.
+You're backpedaling.> You said they confirmed they have zero Go developers, here:  (You)Fair point, I asserted it strongly in the first post and then left room for interpretation in the second.
+My personal view is that they don't have any existing Go skills on the team, otherwise they would have a) said so and b) started the rewrite already.
+> In any case, porting into a new code is a very common thing during development, and is pretty much purely code monkey work.Yes and no.
+Prototyping in one language and porting to another does indeed happen all the time.
+I have no problem with porting per se.
+Porting is easier than starting from scratch as a lot of the brain work has already been completed.
+But building a scalable solution (the stated purpose of the rewrite) is not code monkey work - especially if the team may or may not have any existing expertise in the target language.> And it was always VERY obvious the team was going to have a lot of work ahead of them; otherwise they would not have needed those ICO funds.Agreed.
+I'm not some ADHD idiot who hears a bit of bad news and then panic sells.
+But despite that, this is still a big blow for the project.
+I understand everyone is emotionally invested and it is easy to dismiss this as FUD, but it is objectively bad news.
+otherwise they would have started the rewrite alreadyThey have.Pic related is from November 10th.
+"We're CURRENTLY implementing the core piece in Golang"-Steve Ellis
+Seriously?
+The entire context is that they need to hire people to provide the skills they are looking for.
+As I said in my other reply, it is not conclusively stated whether they have these skills in the team or not.
+My interpretation is that they do not, otherwise they would have mentioned it.I did say the "implication", not that it was conclusive.
+those ICO fundsTrue, but they have nothing to show for it.The ICO ended 2 months ago and they still haven't hired any devs to start the Go development?Everything is moving extremely slow which is the reason they have no updates.Or maybe they have made some progress but too bad the team members are basically MIA and only Rory is left as a slack mascot.
+Rory LITERALLY says "we are CURRENTLY transitioning", so did Steve Ellis on Nov. 10, see Yet here you are, claiming they have no Go devs on staff.Time to stop posting.
+they still haven't hired any devs to start the Go development?Source pls.No really, I honestly, truly, deeply desire source.
+Rory didn't confirm they hired anyone yet when they straight up ask him about it.He always talks about how he just forwarded the resumes to the team and it's up to them to decide who to hire.
+Try to see this from the perspective of someone who isn't already emotionally invested in chainlink.
+"There's this new token.
+It gets real world data onto the blockchain, opening it up to all sorts of amazing use cases in a secure manner.
+The project has interest from payments giant SWIFT as well as AXA, Sony, and Gartner.
+They already have a working testnet and have raised funds to hire a larger team and port their project over to Go to ensure the scalability needed for such an ambitious project.
+The project is currently around #86 on coinmarketcap but has the potential to be top 5/top 10 within the next year or so and will handle TRILLIONS of dollars if implemented widely.
+It's still mostly unknown and is just listed on a couple of small exchanges but will almost certainly be listed on Bittrex in the near future.
+Want to invest?
+"You're just disappointed that it's a step back from where you thought the project was already.
+But in absolute terms it's still an absolute steal.I doubt the price will go much lower but I advise everyone to be greedy right now when everyone else is being fearful.
+Again, this is a matter for interpretation.
+Currently transitioning might mean that they have started writing code, or it might mean they are in the planning phases.
+You can't tell one way or the other without proof.No really, I honestly, truly, deeply desire source.There are only so many different ways I can write this.
+It does not conclusively say whether or not they already have existing Go experience on the team.
+You believe they do.
+I believe they don't.
+I base my belief on the fact that neither Steve nor Rory have any Go projects on GitHub (apart from a hello world two years ago), and the comments they made about needing to hire particular skill sets.
+The fact is there is no evidence either way.
+I can't prove they have no Go devs, and you can't prove they have already started reimplementing it and producing code.
+But crypto never works that way.>I doubt the price will go much lowerThat's what everyone thought at 6k sats, then 5k and then we went under 2k...
+yeah i went oom buying the dips.
+Yeah I wouldn't be at all surprised if it did go lower.
+But I'm not going to gamble my position on the expectation of short term price movements because who knows?
+I'm just keeping my LINK position as is for at least 6 months before I do anything.
+Maybe I would buy more on the dips but I'm not going to try and predict the price - at least not in the short termIt could get listed on Bittrex tomorrow for all we know
+So how come they're in the middle of converting to Go anyway?Again, this is a matter for interpretationYeah.Rory and Steve both explicitly say they are CURRENTLY converting to Go, but you """interpret""" that they don't have any Go devs anyway.gj
+Steve developed the whole network already.He's the one who started Go development, probably working all by himself.
+It's just FUD, right?I didn't waste all my money, right?
+It honestly is m8It fooled me for a minute too but it's really no big dealYou were in this for the long run, weren't you?
+ICOs are death weight.
+Just tokens, nothing more.
+If you want to gamble, buy tokens.
+If you want to have any reason to believe that your intstrument is rising, you need information.
+Get into groups.
+Like this one is very new and imo promising https://discord.gg/F3SDe8S
+Rory and Steve both explicitly say they are CURRENTLY converting to Go, but you """interpret""" that they don't have any Go devs anyway.Do you work in software development?
+If you say you are "currently converting/reimplementing/transitioning a project to a new language" it might mean you have already started writing code, or it might mean you are still in the planning stages.
+Steve developed the whole network already.Obviously not, otherwise they would have released something as Steve said they would release early.
+You are the only one claiming the entire network has been completed.
+Steve has no Go repos in his GitHub, apart from a hello world project two years ago.
+As I said to the other anon, there is no solid evidence one way or another.
+LINK is still a good hold IMO, just a longer term hold than any of us were anticipating.
+If you go back and look at the previous screenshot of Steve's post you can see they're "rewriting the core piece" before putting it online on Github.And he did develop the CL 1.0 network that was used in the PoC.
+I never said it was completely finished.
+Bro, you get it.What people don't realize is that there are different investment strategies.
+Yours is working for you and there's nothing wrong with it.
+If the price is 20x in a year from now, then who gives a fuck about month-long dips in the middle?I can also respect people wanting to swing trade to increase their Link stash right now.
+Honestly this is a decent time to try that.
+It all depends on your goals.
+Yeap, I'm out.
+Sold my 10k coins this morning.
+Lost $200, but lack of any updates or anything is just going to die slowly.
+missed out on so many other projects
+450146445013954501364HOW the FUCK are people still taking about this scam coin?
+ITS OVER.
+it's 93rd place and will be off the front page aka over 100 by tomorrow.
+Everything else is mooning.
+Fuck even aragon is above it now.
+It was a scam like confido.
+Just move on people jesus.
+I hate seeing threads for this coin.
+Yeah i lost around u50% aka 40,000 USD on this coin but it's over.
+Sell and move on.
+it will NEVER recover.
+You said they still have to "start" the Go development, but now you're saying Steve alone is doing the Go development.It's a start I guess.Anyway, good on you for admitting you were wrong.
+Yeah sergey's gonna run off with the money after going to speak to muliple conferences
+
+Do you work in software development?
+If you say you are "currently converting/reimplementing/transitioning a project to a new language" it might mean you have already started writing code, or it might mean you are still in the planning stages.Lmao look at you squirm.According to you, "we are currently converting to Go" somehow means they aren't converting to Go; but "we are hiring" somehow means they don't have ANYONE yet.You are a raging retard.
+aragon isn't a scam lol it's a real project and it's being used by REQ
+It was a scam like confido.This is nothing like confido.
+Literally could not be further from confido.
+Anyway, good on you for admitting you were wrong.You replied to another anon thinking it was me.
+I don't think I am wrong but time will tell, no point beating this dead horse of a debate any further.
+i meant link was a scam.
+You replied to another anon thinking it was me.No I didn't.
+Why is it a scam, anon?
+shrimp>if your daddy didn't give you lots of money you should quit right now>if you weren't born a whale you should quit right nowYou stupid piece of shit
+whales were all born whaleswhat
+My interpretation is that the existing two devs do not have Go skillsThey most likely do and are working on the re-implementation themselves while hiring to speed things up.
+See .
+Having chosen Golang don't you think they would know it or at least be comfortable picking it up quickly?otherwise they would have mentioned itHow and why would they mention this?
+"We're looking for such and such qualifications."
+followed by "Steve and Sergey do have these qualifications."?
+Would they need to say that?
+Why?
+Again, they're looking for extra hands, not missing expertise.
+What makes you convinced it is the latter?>I invest in tech, not hype.Yet you will drop your bags until hype comes back because of news and progress (which you expect anyway), most likely to chase investments that are more hyped at the moment, all while admitting you believe the tech in this project.
+4501532
+I just threw another 2k at it
+You're saying it might take a year or 2 for me to become a millionaire??
+NOOOOOOOOOOOOOOOOOOOOOOO ARRRRRRRGGGGGGHHHHH!!!!!
+big time baller

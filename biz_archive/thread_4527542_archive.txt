@@ -1,0 +1,2 @@
+Bitcoin seems to use bot SHA2 and Eliptic curve cryptography?If I want to open a wallet to get into an address, is only the first involved?
+What's with the second?

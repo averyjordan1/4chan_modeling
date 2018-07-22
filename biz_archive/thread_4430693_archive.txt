@@ -1,0 +1,6 @@
+If you want to transfer a large sum of BTC, is it better to divide it up into smaller parts in case something goes wrong?
+nope, just do 1 small transaction first if you wana be cautious
+Divide your transaction into 100 pieces so you lose half of it due to fees.
+if its in an exchange trade it for ltc before transferring it
+when I was new I used to do one small and then one big trans.
+Today just one big dong.

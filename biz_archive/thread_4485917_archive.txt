@@ -1,0 +1,134 @@
+Crypto currencies solve a number of problems in finances: self-managed security of assets, true ownership of funds, trustless transactions, and (hopefully someday) a truly world-wide system of money that eliminates the need for cross-border exchanges.
+This is an excellent foundation to build the future of commerce on, but there are some definite shortcomings with the basic Bitcoin and Litecoin protocols as a day-to-day currency; namely transaction speeds and fees.Basic transactions on Bitcoin and Litecoin occur when a wallet holder broadcasts a request to add a transaction to the network.
+Miners pick up these transactions in blocks and, upon mining a block, add the new transactions on to the existing chain of blocks (hence blockchain technology).
+These are called “on-chain” transactions, because the transactions are “on” the “chain” of blocks that are mined and monitored by the entire network.
+As a result, they are subject to block times (speed) and the market for space on a given block (fees).
+Speeds and fees for transactions are a function of how quickly these blocks are mined, and the demand on the protocol for space on a block.Block times are established as one of the fundamental variables for a protocol.
+For Bitcoin, the block time is 10 minutes, which means one new block is mined (on average), every 10 minutes.
+This means it may take up to 10 minutes for a transaction to confirm on one block on Bitcoin, and several more blocks (at 10 minutes each) for the transaction to be confirmed multiple times (many parties such as exchanges require multiple confirmations for security purposes before they unlock funds for use).
+Block generation times are not related to transaction volume, as the block time standard is set by the protocol and is determined by network difficulty only.
+Network fees, on the other hand, are directly related to the number of users trying to include transactions on blocks.
+One way to think about fees is that miners have no incentive to include a transaction on a mined block.
+This sounds counter-intuitive, but miners receive block mining rewards whether the block is empty or full of transactions.
+By including a transaction fee, Bitcoin users “tip” the miners and incentivize them to include their transaction on the block to be mined.
+Since blocks are limited in size (1MB for the case of Bitcoin and Litecoin), when transaction volume is sufficiently high, block space (room for transactions) on the blocks becomes a scarce resource since so many people want to put their transactions on a block as quickly as possible.
+It is important to understand that transactions (which are strings of characters with basic instructions of where to move funds) take up space.
+Think of a text file with thousands, hundreds of thousands, or millions of characters.
+Based on supply (block space) and demand (users vying for space for their transactions on a given block), a market for transactions is created.
+In this way, network fees are used to provide miners incentive to choose a transaction to include on the block they’ve mined.Litecoin has made vast improvements over the Bitcoin protocol by expanding some of the limiting variables.
+By decreasing the block time (from Bitcoin’s 10 minutes down to 2.5 minutes), Litecoin confirms transactions much faster that Bitcoin, and by keeping the same block size (1MB), Litecoin scales much better, allowing for 4 times the number of transactions to post in the same amount of time.
+This is excellent progress, but still does not address some of the core issues preventing wider acceptance of crypto currencies, and still doesn’t solve the scalability issue that could arise from millions to billions of transactions requested per day.
+.00000002 (((segwit))) have been deposited to your account
+To understand the importance of improving transaction speeds and fees from a user’s perspective, consider buying a cup of coffee using an on-chain Litecoin transaction.
+First, an additional fee must be added to incentivize miners to add the transaction to the blockchain.
+Assuming the coffee costs 0.1 LTC and the user pays 0.005 LTC in network fees, that’s 0.105 LTC in total.
+Then, the transaction is broadcast to the network for miners to pick up and add to a block.
+This may take up to 2.5 minutes for a single confirmation, and some vendors may require 2 or more confirmations before they are willing to honor the transaction.
+Assuming the coffee shop requires two confirmations, it may take up to 5 minutes for the transaction to be authorized.
+At that point, they start making the coffee.
+Imagine waiting an additional 5 minutes for a cup of coffee and paying a percentage of every purchase in transaction fees just to use the protocol.
+This is a humungous barrier to overcome for crypto currencies to compete with traditional fiat currencies, which are basically instantaneous and mostly feeless.This presents obvious problems for crypto currency microtransactions of all sorts, and the coffee scenario is used as a classic example to demonstrate the issues of putting small transactions on the base layer protocol for Bitcoin and even Litecoin.Enter the Lightning NetworkIn order to understand the Lightning Network, it is important to understand the concepts of payment channels, timelock contracts, multisignature technology, and finally hashlock contracts and Hashed TimeLock Contracts (HTLCs).Payment channels (or micropayment channels as they are sometimes called) describe solutions that allow for transactions to be settled without every detail being committed to the blockchain.
+They are considered a second layer solution, because they facilitate transferring funds between two parties without posting the transactions on a block.
+yeah but how does it work?
+it is still entirely dependent on the underlying blockchain right?
+it builds a new network on it with some sorto of scripting language?
+Best LARP by far.
+To understand how this works, imagine a poker game from the perspective of somebody’s wallet (not a Litecoin wallet, but an actual physical wallet).
+At the start of the game, $100 dollars are removed from the wallet.
+Then, a series of transactions (in this example, hands of poker) are performed.
+At the end of the game, $125 are added back to the wallet.
+Only when money was withdrawn (at the start) and then re-deposited (at the end) to the wallet was the wallet aware of the movement of money; the details of what transpired are unknown to the wallet, and are effectively irrelevant as long as the wallet owner consents to the amount withdrawn and deposited.
+In this analogy, the wallet is the Litecoin protocol, and the poker game is the payment channel.The important advantage to using payment channels is that interacting with the protocol (in our example, depositing or withdrawing from the wallet) requires the user to wait for the next block to be mined and to pay for the network fees.
+If the poker game was played on the blockchain, after every hand, every player would have to wait for the next block to be mined for their money to move, and pay the network fees for each transaction.
+It would be a very long and expensive game of poker.So, a payment channel allows for two interested parties to transact funds without having to constantly interact with the blockchain, eliminating wait times required for verified transactions and eliminating network fees required to include the transaction on a block.In order to accomplish this in a trustless way, some payment channels use a specific type of contract called a timelock contract.
+As the name suggests, these smart contracts are time-sensitive agreements between two parties and have the basic syntax “If X time passes, then do Y”.
+Yes... Keep going...
+Hey NERD, TL;DRhow about instead we just change a 1 to an 8 and call it a day
+Wouldn't this be like running a tab at a restaurant?
+What if you only visit each restaurant once?
+Imagine Jane and Dave know that they are going to transfer funds frequently over the next 30 days (perhaps they are going to be buying each other lunches) and, instead of paying each other back and forth every day, they agree to open an escrow account of 5 LTC total.
+After every lunch, they keep track of the cost of the lunch and who paid for it, charging the other person through the escrow account.
+This way, they don’t need to keep an overall total, but can hold each other accountable for their debts at the end.
+To do this, they setup a wallet together, send 2.5 LTC each to the wallet, and write a smart contract that states simply “In 60 days, 2.5 LTC will be sent to Jane, and 2.5 LTC will be sent to Dave”.
+This is a basic insurance policy for both parties, so if one person fails to perform their expected actions, they will both be refunded their deposits after 60 days.
+(The total days open or the “nLockTime” parameter can be set to anything, and was arbitrarily set at 60 days for this example.)
+The next day, Jane buys Dave lunch at the price of 0.5 LTC.
+Must have been a nice lunch!
+After enjoying their meals, they write a new contract that says “In 58 days, 3 LTC will be sent to Jane and 2 LTC will be sent to Dave”.
+This covers Dave’s lunch for that day and, by writing the contract to occur in 58 days, ensures the contract will execute before the initial contract of 60 days (now 59 days away).
+Perhaps Jane continues buying Dave lunch each day at 0.5 LTC for the next 4 days, writing an appropriate new contract every time.
+Finally, satisfied with his lunches, Dave agrees to close the payment channel, and they write a final contract that says “In 0 days, 5 LTC will be sent to Jane”.
+This closes the payment channel, records a transaction on the blockchain, and Jane receives her original 2.5 LTC and 2.5 more LTC from Dave less the network fee.
+I get it (sort of), but doesn't this conflict with the proof of work algorithm?
+The main advantage to using the blockchain directly is the impossibility to double-spend, how does the payment channel you mentioned avoid that?
+VAPORWARE
+In this example, while there was a total of seven transactions, only three of them were recorded on the Litecoin blockchain (the two initial 2.5 LTC deposits (one from each person), and one final withdrawal from the escrow account of 5 LTC to Jane).
+Note that if they had closed the payment channel with any amount left to send to Dave, it would require one more transaction (from the escrow wallet to Dave’s wallet), bringing the total number of transactions to eight, with only four being “on-chain”.
+This is advantageous as the four intermediate transactions between Jane and Dave occurred basically instantaneously and without fees (since they did not need to pay network fees to incentivize miners to add the transactions to the blockchain).
+The obvious question is how can this solution offer the same level of trustless security and transaction fidelity that is characteristic of blockchain protocols.
+These transactions did not occur on the public ledger, and aside from Jane and Dave’s wallets, there are no other records of the transfer of funds.
+This is where multisignature addresses become important.
+A multisignature or multisig address is a wallet that, as the name suggests, requires multiple signatures to verify any transactions.
+Thus, while Jane and Dave can both send funds to the shared wallet at any time (just like any other address on the blockchain), they cannot withdraw the funds until they both consent to doing so and, as a result, have a check and balance over each other so neither party can claim any portion of the coins in the wallet without the other person’s approval.
+It is important to note that the withdrawal of the funds is what all of the contracts written on the payment channel are related to.
+Basically, after the funds are deposited, all of the subsequent timelock contracts are agreements between Jane and Dave about the ownership of the funds in the account with a timer on when the withdrawal to the appropriate addresses will automatically occur.
+So, if Jane and Dave had a falling out moments after initiating their payment channel, the most they would have to wait before receiving their deposits back would be 60 days because that is the nLockTime of their initial contract.
+If they both could agree to withdraw the funds sooner, they could write a new contract that says “In 0 days, 2.5 LTC will be sent to Jane and 2.5 LTC will be sent to Dave”, and the contract would execute immediately, returning their deposited funds.
+This also holds true for any subsequent contract written with a shorter nLockTime than the original.
+So, if after the second day, Jane and Dave have a severe disagreement, Jane doesn’t need to worry about being reimbursed for the meal she paid for, as contract with the shortest nLockTime is the one they just wrote, which states “In 58 days, 3 LTC will be sent to Jane and 2 LTC will be sent to Dave”.
+If they cannot resolve their dispute within 58 days, at least she can retrieve her deposit and the funds that Dave owes her because he already signed for that transaction.
+Neither party can change the contract nor add another one without consent from the other, preserving the trustless nature of blockchain-based currency.But this solution isn’t helpful for two parties that have no need for an open payment channel between them.
+If a buyer wants to send payment to a vendor one time, opening a payment channel using timelocked contracts on a multisignature address would require two on-chain transactions instead of just one (one from the buyer to a multisig address, and one from the multisig address to the vendor), and would require the vendor to perform an extra step of consenting to the transfer of funds from the multisig address to themselves.
+That isn’t a solution for real world microtransactions.To account for this, the Lightning Network intends to (as its name implies) establish a network of payment channels to allow for more robust off-chain options for transacting funds.
+Perhaps Jane wants to buy a book from Bob, but doesn’t have a payment channel open with him (maybe because they do not have a need to transact regularly or don’t even know each other and haven’t had a need to transact funds at all before).
+But, she does have a payment channel open with Dave, and Dave has a payment channel open with Bob.
+because 8mb is nowhere near the transaction capacity or speed the lightning network would bring.
+Bcash will have to keep forking to higher mb's, which is tedious and still would be slow as fuck in terms of everyday microtransactions.
+Massive block sizes also makes the original blockchain less secure
+>For Bitcoin, the block time is 10 minutes, which means one new block is mined (on average), every 10 minutes.
+This means it may take up to 10 minutes for a transaction to confirm on one block on Bitcoin, and several more blocks (at 10 minutes each) for the transaction to be confirmed multiple times (many parties such as exchanges require multiple confirmations for security purposes before they unlock funds for use).
+Block generation times are not related to transaction volume, as the block time standard is set by the protocol and is determined by network difficulty only.Why was the max block time set at that level?
+Also, if less miners are available to process transactions, does this mean block times decrease?
+So with Lighting Network most intermediate transactions don't get recorded, which is good for privacy too ?I don't get how that would help with the coffee example though, it's not like you would enter a contract like this with the coffee shop
+Finally, we must talk about hashlock contracts and Hashed TimeLock Contracts (HTLCs).Hashlock contracts are smart contracts written with the requirement of an input hash to verify authenticity.
+They have the basic syntax “If user A is able to provide an input with cryptographic hash output Y, then do Z”.Hashed TimeLock Contracts (HTLCs) are complex contracts that have elements of both timelock contracts and hashlock contracts as exclusive possibilities – whichever condition is satisfied first determines which command is executed.
+Now, back to our example.
+Remember, Jane wants to send funds to Bob, but they do not have an open payment channel.
+She could choose to send the funds with an on-chain transaction, wait the required amount of time for sufficient confirmations, and pay for the network fees to post the transaction on a block, or she could use the Lightning Network to see if there are open payment channels between her and Bob.
+Fortunately for Jane, there is.
+She has an open Lightning Network payment channel with Dave, and Dave has one open with Bob.
+To complete the transaction, Bob’s wallet creates a random string of characters “N”, and hashes it through a known cryptographic function to produce the output (or “hash”) “H” (recall that it is very easy to reproduce the output H by hashing the input N through the cryptographic function, but extremely difficult to produce N even when the function and H are known – this is how cryptography offers security).
+Bob shares the output hash H to Jane and Dave.
+Assume that the price Bob is charging for the book is 1 LTC.
+Jane and Dave sign a timelock contract “In 5 days, 1 LTC will be sent to Jane”.
+This is the refund transaction, and offers Jane security if there is a failure in the chain or if one of the other members tries to claim the funds illegitimately.
+They then sign another contract that says “If Dave produces the correct input for the cryptographic hash H (also known as N), 1 LTC will be sent to Dave”.
+This is the hashlock contract.
+Recall that Bob shared H with both Jane and Dave, so they can sign a hashlock contract with a conditional requirement.
+Without producing the correct cryptographic input N within 5 days (or whatever nLockTime Jane and Dave agreed upon on the refund transaction), the 1 LTC will automatically be returned to Jane.
+Next, Dave and Bob sign a timelock contract that states “In 5 days, 1 LTC will be sent to Dave”, and a hashlocked contract that states “If Bob produces the correct input for the cryptographic hash H (also known as N), 1 LTC will be sent to Bob”.
+Now, with all of the correct contracts in place, Bob reveals N to the and closes the hashlock contract between him and Dave.
+At this point, Dave has N and can use it to close his hashlock contract between him and Jane.
+By completing the transactions “If Bob produces the correct input for the cryptographic hash H (also known as N), 1 LTC will be sent to Bob” and “If Dave produces the correct input for the cryptographic hash H (also known as N), 1 LTC will be sent to Dave”, 1 LTC moves from Dave to Bob and 1 LTC moves from Jane to Dave.
+The net movement is -1 LTC for Jane, no change for Dave, and +1LTC for Bob.
+This completes the Lightning transaction in a completely trustless series of events without interacting with the blockchain.
+It can occur securely, almost instantaneously, without network fees, and can include as many participants as necessary to connect Jane and Bob.
+Even if Jane and Bob are separated by five different parties with payment channels between them, by writing the same contracts between every person between them, the funds can be transferred in the same manner.
+The consequential benefit of mass adoption of the Lightning Network is that millions or billions of off-chain transactions can occur daily, drastically reducing the demand for block space and lowering network fees.
+This is how the Lightning Network offers a second layer solution to Bitcoin and Litecoin scaling and microtransaction feasibility without increasing block size or reducing block times.
+There are some limitations for the Lightning Network.
+For one, in order to complete a transaction, every payment channel between the initiator and the payee must have enough funds to support the transaction.
+This causes an immediate problem with a truly decentralized network of connected users, as the network can only support transactions of the smallest payment channel in any chain between two peers.
+The Lightning Network becomes vastly more capable as more people elect to use it, but with low adoption there is likely to be severe gaps between users, and even if there are open channels, they may be too small to support the required amounts.The logical consequence of these limitations is that a market opens up for Lightning transactions, and parties with large capital of Bitcoin or Litecoin can open up Lightning Network services where users can open up larger payment channels with them for small fees written in the smart contract across their service.
+While these fees may be less than the network fees for the given protocol, they still wouldn’t offer instantaneous and free transactions as a scaling solution for blockchain technology.
+Certain providers may come up with innovative plans and agreements (or perhaps even altruistic, free services) to offer Lightning Network services.
+Time will tell.In conclusion, the Lightning Network is a second layer scaling solution for Bitcoin and Litecoin that has the potential to eliminate the delays and fees associated with on-chain transactions, but has significant obstacles to overcome on its way to mass adoption.
+It may not be the final answer to a scaling solution on the Bitcoin and Litecoin protocols, and perhaps there will be better and more innovative proposals for feasible microtransactions, but it is a promising piece of technology that truly does seem to be the next big step in the mass adoption of crypto currencies as a real-world money alternative.https://litecoinalliance.org/lightning-network-explained/
+TL;DRIt uses the smart contract features of Bitcoin to lock funds into a timelocked contract to use the funds on the Lightning Network.
+Whatever happens on the Lightning Networks is eventually settled on the blockchain with your Bitcoin private key.
+That's the reason why using the Lightning Network is as safe as using the Bitcoin Blockchain itself.
+Nobody can steal your funds without having your private key.The advantage is that it bundles many transactions on the Lightning Network together into one single transaction on the Bitcoin Blockchain.
+well said
+Give it to me straight doc, will I make more money hodling LTC or BTC over the next month?
+https://bitcoin.stackexchange.com/questions/855/what-keeps-the-average-block-time-at-10-minutes
+ month is too small a time frame, over the next year definitely LTC

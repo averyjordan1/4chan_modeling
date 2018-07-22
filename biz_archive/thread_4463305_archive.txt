@@ -1,0 +1,3 @@
+Starting Lightning Network Support 26th nov
+>LN Support>LN isn't finished
+Its just an upgrade on the light network, adding additional features/

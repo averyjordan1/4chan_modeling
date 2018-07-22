@@ -1,0 +1,17 @@
+What's the best wallet software?
+All the ones at https://bitcoin.org/en/choose-your-wallet have downsides.
+Use a hardware wallet, or a virus will sooner or later steal your BTC.https://bitcoin.org/en/wallets/hardware/ledgernanos/
+bump
+electrum is the best by far.
+or electron cash for BCH.also make sure to double-check where you download from, and confirm signatures/hashes.
+there are some malware infected versions around.
+https://jaxx.io/downloads.htmla virus will sooner or later steal your BTCuse Linux...
+he thinks linux is safeYou're as bad as a windows or osx user blindly trusting everything they use because it was marketed to you.
+Linux was made as a multi user OS from the beginning.
+That's why it has no viruses.
+You're retarded to think there's no one that understands the difference between operating systems.Install gentoo, faggot.
+buy nuls its the linux of crypto
+another bump
+A wallet is a public key + private key.
+You don't need any client.
+If you don't are the only one to have the pair of keys, is not your wallet

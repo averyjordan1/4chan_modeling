@@ -1,0 +1,17 @@
+I don't understand why people are saying it's SLR.
+In the MIT paper people are pushing around (dci.mit.edu/assets/papers/15.998_solar.pdf) they clearly state that Solarcoin is just one of the existing solar blockchain models.
+In fact, they explicitly state- "The energy team has met with the CEO and CFO of LO3 to discuss synergies and partnership potential.
+"LO3 has been working on the Brookyln Microgrid and Transactive Grid project, using blockchain technology to create a community-powered microgrid.
+This includes both traditional sources of energy and local energy resources (i.e.
+solar energy).
+The energy derivatives trader is clearly Bill Collins, co-founder of the LO3 team.
+"Bill is a finance professional with decades of experience in investment banking, structured finance, and environmental markets.
+For seven years, Bill led a team at EcoSecurities tasked with sales, trading and risk management of the largest private sector carbon project portfolio" as found on Bill's portfolio.
+Transactive Grid Project is also led by the Consensys team, as you can see from https://consensys.net/ventures/partnerships/.
+It is a tested innovation, installed in Brooklyn, New York, to show that energy grids can be effectively translated to the blockchain.
+Grid+ is the prized blockchain project under the Consensys team that has evolved from the TransactiveGrid project.
+Now I bring your attention to the Grid+ whitepaper.
+"The first project began in May of 2015, which was a ConsenSys-led joint venture to construct the TransactiveGrid.
+Championed by ConsenSys Enterprise partner John Lilic and seniortechnologist Dr. Christian Lundkvisk, the TransactiveGrid proved that electrical energy could be tokenized on Ethereum and transacted across a distributed network.
+"It only makes sense that Teeka is willing to give hints it was in ICO sale at that time.
+Grid+ now trades for higher than ICO pre-sale price, albeit slightly lower than ICO price.

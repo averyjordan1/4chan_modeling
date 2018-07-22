@@ -1,0 +1,25 @@
+I actually used this coin/network, this is not just "FUD", so listen to me and don't get burned by this shit.-All nodes are hard-coded to listen to the IOTA foundation main node, aka.
+"the coordinator", they have complete control over your funds and already used this to seize funds in the past.-When you want to do a transaction, you need to do the POW of two other transactions, with my 2013 i3 this takes 4-6 minutes, with my 2017 gtx 1070 it still takes about 20 seconds.
+(One main point of iota is IOT [low processing power] machine to machine transactions, with the current state of the POW algorithm, this is obviously not possible.
+)-When doing a transaction, there is a ~80% chance the transaction won't ever get confirmed, so if your tx is not confirmed after 30 minutes, you have to "reattach" the tx, aka.
+redo the POW.
+The transaction is stuck until you reattach it and are lucky enough for it to get confirmed.-You can't send funds from your wallet until you previous transaction is cleared, otherwise you will expose parts of your private key.
+(This is not fixable since it's part of the quantum resistance.
+)Other problems:-The wallet is absolute shit.-Devs are huge SJWs.-Devs are pro open-border.-The network randomly goes offline sometimes.
+just shut up already!
+this is not even an alpha!
+and dont talnk about things you dont understand and you never will!
+faggot
+psa op is salty
+something something IOT something something alpha something something planning 10 years in the future something something BoschEveryone who's researched into it knows IOTA is a shitcoin.
+Any remaining IOTA supporter is a cult follower, and no logic will convince them.
+by everyone you mean the shitheads like you?
+how about you explain to us why there models and simulation are not working!
+IOTA team said that Coordinator will be opensourced as soon as they properly register their foundation.
+Turns out it was another lie.
+there modelsAverage IOTA supporter.
+How dare you insult the only coin blessed by the true prophet (pbuh)!
+Right, so when do I sell?
+I bought some in September and they've just about doubled in value.
+About 36 hours ago.
+Sell now, it's repeating the pattern it followed a few months ago.

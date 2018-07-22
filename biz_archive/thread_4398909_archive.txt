@@ -1,0 +1,32 @@
+TL;DR: Man in the middle attackA few days ago the owners have removed their website's SSL encryption.
+This is a HUGE RED FLAG.In english: The website used to be https://astronaut.capitol.
+It is now http://www.astronaut.capitol.
+This leaves all of your secure information sent to the website UNENCRYPTED and open for man-in-the-middle attacks.Be careful out there.
+Isn't that because they recently created the post-ICO site?
+I have a background in web application development.There is NO REASON, I repeat: NO REASON WHATSOEVER to have your website on http -- even moreso when it was previously on https.
+Chrome recently started preventing users from making payments on their browser when the website is running HTTP -- that is how serious it is.
+why would anyone use http?other than to steal peoples information
+you don't send any information on their website????
+There is no place to give them information.
+They changed that because they had SSL on the ico site and they just re-did it.
+The SSL version will be up soon they said
+I caught on to this and decided not to invest after some shilling insane here on biz
+This is some pretty weak FUD.They switched the site post-ICO so people would stop trying to log on to the token sale.There's nothing on the current site that requires encryption.According to the Telegram, it's basically a placeholder until the tokenholder web app / iOS app is launched.
+It's still pumping.
+I don't think your FUD is going to get it back down to ICO so you can buy.
+You guys are idiots, the site is:https://www.astronaut.capital/not https://astronaut.capital/LOL @ OP
+EXPLAIN THIS OP.
+>TRYING TO FUD TO BUY IN CHEAP.
+THIS SHIT IS MOONING
+4399054OP is pissed that he's got to pay 3X ICO price now (and that's probably the floor)
+That's not how a MITM attack worksSSL certificate probably expired or somethingContact the webmaster ffs
+Holy shit you have no ducking clue what are you talking aboutYou know ssl certificates expire right?
+This has to be bait.
+The site has a WWW.
+in it, without it the site doesnt load FFS.https://www.astronaut.capital/
+Strap in, Astronauts
+https://imgur.com/FSimua0
+I have a background in web application development.top kek
+3xMake that 4x ICO
+Bump
+And now it's bumped up to 0.01 ETH / 4.7x ICO

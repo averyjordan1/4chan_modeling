@@ -1,0 +1,11 @@
+I'm trying to learn some financial stuff, but I can't grasp this.
+When I do the calculations to fill in the blanks, I feel like I'm being totally inconsistent.
+I have no clue how to calculate for the interest, so I'm totally messing up the total cost of the loans, and I'm not quite sure how to do the interest payments or ending balances for the amortization table.
+Can someone help me fill in the gaps of my knowledge?
+I can't find anything online that actually is helpful.
+This video should help: https://www.youtube.com/watch?v=417TGI70G0sAmortization is a way of decreasing an intangible asset/liability.
+The payments, per given period, are each constant.
+The payments will reduce the remaining loan principal.
+Since principal is being reduced, the amount of interest, calculated on the new principal amount, will decrease, each period.
+Therefore, principal payments will begin to increase, relative to interest payments, as time progresses (remember, the payments, per payment period, remain constant).
+this is /crypto/ now

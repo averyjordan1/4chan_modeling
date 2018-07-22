@@ -1,0 +1,7 @@
+Is there any way to measure distance(similarity) between keywords?
+(For exampleWhen I define distance as 1(very close), 2(far), 3(very far), 0(same).
+I would be able to say Banana - Vanana(typo) = 0.Banana - Banana Snack = 2.Banana - Bunny Sanders = 3.
+Is there any similar system to calculate distance between keywords?
+Any information appreciated.
+levenshtein distance
+Thank you kind sir

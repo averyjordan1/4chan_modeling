@@ -1,0 +1,176 @@
+I have a big stack of Bitcoins.
+What the core developers have done disgusts me.
+When I learned what SegWit is really about my first reaction was to dump it all.
+Then I thought about it more.
+Greedy assholes who don't give a shit about other people make the biggest profits.
+Nothing can stop Bitcoin from growing like fuck.
+Nothing can stop Blockstream from becoming fucking huge.
+According to you, what did you learn about segwit?
+The point of SegWit is to direct money to Blockstream.
+Bitcoin used to be open source.
+Now it's just a propriety money printing machine for Blockstream.
+besides the ramblings from some retards, can you be more specific on how that is?
+In the core/blockstream vision the blockchain is just a settlement layer while all the transactions happen in blockstream propriety code (segwit, lightning).
+Naturally, the transaction fees then go to blockstream.
+Increasing block size would have been an easy fix for Bitcoin scaling problems.
+BCC did it.
+This was not good for the core because that way money isn't directed to blockstream.
+Naturally, the transaction fees then go to blockstreamcare to explain that part a bit better?How are THEY going to be the only ones getting fees?
+anyone can fire up a LN node and become a hub for transactions.> Increasing block size would fix scaling problemsNo it wouldn't.It would allow like 8 txs per second (with 10+ minutes confirmations)BTC needs a real scaling solution that can have instant confirmations and 10k+ transactions per second.
+And the only way to achieve that is to not include every cup of coffee transaction in the blockchain, but only add those transactions in an aggregated form.
+so your implying that the payment channel fees are going to blockstream.
+.Interesting.Care to provide source?
+now you're catching on
+his ass
+except for all your idiotic ramblings about blockstream.
+but BTC unstoppably mooning yes.
+that is correct.
+i don't know what 0 conf was because I just got here a month ago.
+I removed all my bitcoin and put it into ETH after I learned the news since ETH will slightly go up and stabilize while BTC will keep dropping before stabilizing.Once BTC reaches it's low and stabilizes, I will move my ETH back into BTC (assuming ETH's price stayed the same and I didn't lose anything).Was this an okay move?
+I'm young kind of new to all of this.
+All I've ever done was buy BTC in Jan and held since.Thanks
+Can I get the audio recording on that quote please I don't believe you.
+anyways, if you believe that, then no wonder that you feel angry.But now you're also feeling doubly angry because you realize that someone sold you a lie and you bought it.It's ok, be angry, but target your anger to yourself and learn a bit more.
+So you put your money on a coin that just lost somebody $100M because of a bug?you have some big balls.https://www.coindesk.com/ethereum-client-bug-freezes-user-funds-fallout-remains-uncertain/
+Start by reading https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
+ex /r/bitcoin moderator comes cleanhttp://tpbit.blogspot.com/2017/10/blockstream-vs-miners-looking-at.htmlStraight from the horses mouthhttps://twitter.com/adam3us/status/923309367260274688Consider suicide
+fuck you reddit.
+it's obvious and you aren't owed an explanation.
+Lol holy shit the blockstream CEO says he plans on taking profit LOL
+In essence there is nothing wrong with 3rd parties using btc as a settlement layer for faster transaction methods.That's the free market.
+I correct myself, he later says this:https://twitter.com/adam3us/status/923884882773889025>"BUT the fake accusation that "developers want to keep the block size small so blockstream can profit" is emphatically false and an affront."
+You dumb newb, look at his next tweet after that:https://twitter.com/adam3us/status/923884882773889025This is why most people are retarded
+Yeah it's just an unfortunate side effect ;( poor Adam will be forced to profit now.
+destroys free market so can have free marketlel
+We have ids here you fucking faggot
+I did.Past that issue that some people had, am i making logical moves?
+I did it yesterday.I just want advice - I understand the risk.
+Yes dude, take a look at my earlier post :I thought you were right at first, but then I just dug more into his twitter page and found out he meant to say "Yes that shit was an accurate quote"..."but it's fucking incorrect to make that assumption"
+They said they didn't sabotage it on purpose (arguable).
+That doesn't change that they will profit from sidechains at all which is the argument we're having here you red herring faggot.
+Op is a horrible shill
+being this thick
+kek
+For those who are bitcoin segwit all the way answer me this.
+If blockstream isn’t corrupt and they are helping bitcoin why is the problem still present even after the fork?
+Still unconfirmed transactions.
+Long ass confirmations times.
+I have to pay atleast 5 bucks to move my btc ( bought pubg with btc and had to pay 6 bucks) and why are fees still going up.
+Where over at bcc transactions are 10 minutes like how they used to be before the congestion.
+Fees are cheaper then a dollar.
+And they scale 3x as much as Bitcoin segwit hasn’t fixed any problems they added on segwit and the problem is still present please someone explain.
+i swear blockstreamers sound like libtards on trump
+I'm fine it with.
+The biggest assholes make the biggest profits.
+Look how they dealt with Bitcoin XT.
+Dossing entire regions.. Now gestapo tier control over e.g.
+/r/bitcoin.. Really makes you think what happened behind the scenes when B2X was cancelled.
+Holding family members at gunpoint perhaps?
+Who knows..
+For those who are bitcoin segwit all the way answer me this.
+If blockstream isn’t corrupt and they are helping bitcoin why is the problem still present even after the fork?There is no problem.
+All you retards are whining nonstop about nothing.
+Go use your fucking Bcash if it's such a better coin and shut up already.
+libtards on trumpHow can you honestly defend a fraudelent 'businessman' who clearly rose to power in a sketchy way, is undeniably unfit for his job and is obviously a useful idiot in the hands of the global elite?Even retarded libs can see that.
+Yeah and it hardly affected the price at all, because most people are not as stupid as you and knew that it was a bug with a wallet, not Ethereum itself.
+Multi-hour transaction processing that costs you $5 is not a problem.
+You are absolutely right.
+While it also disgusts me, the undeniable fact is that BTC is stronger than ever.
+However, it is only a matter of time until BTC will lose dominance against all the alts.
+Many projects are just so promising and superior in many aspects.
+BTC is only strong because it is "first".
+Nothing else is special about it.
+If a 3rd party program can break it, it's most definitely an Ethereum bug.
+>It's yet another episode of BCH bagger trying to pump his coins.
+You stick out like sore thumb mate
+Blockstream already have a massive control over the community's opinion.
+We won't see anything change until after it's too late.
+Once both Segwit and LN are already implemented and the scaling issues are still there, maybe then we'll see people look towards real fixes that don't involve giving overreaching control to one group of people.
+This guy gets it, but all he's going to get in this thread is a bunch of grief from some butthurt chinks and borderline retards who thought that putting the development of Bitcoin in the hands of miners would lead to anything other than a bigger ringfence around their fees and mined blocks.
+Segwit2x just got cancelledhttps://cointelegraph.com/news/segwit2x-is-dead-long-live-bitcoin-price-hits-all-time-high-as-hard-fork-canceled
+Poster relies on on-chain posting solution>Post arrives from yesterday
+Great argument.
+Let's continue to ignore  so we can attempt to confuse and trick a few more lurkers.
+The flippening would be the best outcome and I'm not even saying that only because my BCC stack is even bigger than my BTC stack.
+Really?
+And theres absolutely nothing sketchy about the way Bill, Hillary or Obama rose to power right?
+Or just the Pedocratic party in general?Fucking idiot.
+I'm not ignoring anything.
+Even if I accept the analysis that Blockstream has interests and acts accordingly (the blogspot analysis is particularly reasonable), that doesn't mean handing the reins of Bitcoin software development over to the miners (whose power in the ecosystem is already too great) wouldn't be a complete fucking disaster.What makes Bitcoin a uniquely compelling store of value is its decentralization and balance between competing interests.
+I will always side with the conservatives on matters concerning its long-term development.
+Crypto has been invaded by liberals and they brought their same shitty tactics with them.
+This is just another Trump Vs Hillary at this point.
+Blockstream just gimped the miners and plans on moving you onto sidechains where they will have all the power.
+So you accomplished absolutely nothing.
+Where as bitcoin cash has 3 different development groups.
+Where as bitcoin cash has 3 different development groups.
+You're pathetic.
+I've never seen one thread where you faggots win.
+there is nothing wrong with side chains and LN but there is something wrong with intentionally nerfing bitcoin in order to get there
+Crypto has been invaded by liberalsYou're the one coming late buddy, otherwise you wouldn't spend your time whining about Ethereum, IOTA or Ripple because they hurt your feelings as if a board about business and finance was like your echo chamber.
+The fuck are you talking about?
+>ITT
+anyone who wants fast and cheap transactions is a commie chink
+ITS A FUCKING STORE OF WEALTH.
+UNTIL WE GET OUR BLOCKSTREAM™ SCALING SOLUTION IN 2 YEARS THEN ITS GONNA BE A CURRENCY
+oh boy, you just proved me wrongBecause segwit is still not being used fully.
+Specially by the big players like exchanges.
+Once they do that there can be many more transactions in the blocks.
+But yeah, it is still a problem with scalability.
+But upgrading the block size comes with a lot of problems too like many more orphan blocks for example.Also please note, there was a time when there were no unconfirmed transactions like less than 1 month ago.
+The BTC network is being attacked by the miners who want to get bigger blocks.
+Then they will be the center of the centralization.You can find out by yourself that the mempool is being spammed to increase the fees and then complain that there is a problem.And also, trump is the worst thing that could have ever happened to your country.
+But you're somehow too stupid to see it.So you can't defend Trump except by saying that others are worse?Don't you see that your country is going to shit and you're discussing against your fellow citizens and not against the people in control of your lives?But those alts don't have an episode of the big bang theory incoming in a few weeksLOL
+They would have to pay large amounts to spam the network.
+Do you refuse to believe there is a demand to transact and send bitcoin?
+This all started back earlier this year in that gigantic bullrun.
+thisIf you want to use a fast cheap currency buy bch or whatever alt is the flavor of the monthif you want to make money and be rich as fuck buy bitcoin kingsimple, are you here to make money or argue about muh principles you pussies?
+bitcoin is the new gold and tx fees/times are not important
+I agree.
+Making money is most important.
+Who cares that the core devs are deceitful cunts who only care about profits for Blockstream..
+They would have to pay large amounts to spam the network.And they doBut then they mine their own block and get the reward.
+It inhibits the growth of bitcoin and now we have to startover.
+In the meantime having to deal with retards like yourself.
+So they would lose money on electricity but in that scenario would make it back through higher fees overall.
+But higher blocksizes are incredibly counter productive to that goal.
+Wouldn't the miners want the network to be as clogged as possible at all times so they could continue raking in high fees?
+With S2X they tried to gain control of bitcoin.They want the bitcoin repository to be btc1 and not btc.
+And then once the blockchain is huge, the centralization would be complete, and they can then change all the rules they like about it.
+How about 50 BTC per block again?
+those in favor?
+me?
+good, motion approved
+if your beloves bch becomes 'the bitcoin" then we really have to start everything over, and it would never succeed because the only reason people stick to btc is the trust it has build up over the years and status symbol, if btc dies there will never be such a money maker/strong leader againyou will have 1000 shitcoins competing with eachother, goog luck guessing which one is gonna be the 1-week king all the timebch is not different than any other altcoin, if segwit2 woul've succeeded and had been immediately called "bitcoin" so that the stupid normies wouldn't've even realized that it woul've been ok, but now it's either bitcoin or nothingthose stupid wars of different groups of Jews are fucking with the entire market.1TB blocks/LN/etc who gives a fuck, just let the btc be.
+that's it.
+the more drama the less money we all make
+Then the markets would react accordingly.
+It's a what if situation vs a certainty.
+We know blockstream plans to profit from sidechains and that is their only goal.
+We know how the miners profit and that they are incentivized to have a working ecosystem that helps the users.
+Mining is already centralized enough to the point where they could increase block rewards if they wanted to.
+They don't because it would make bitcoin lose value and integrity.
+4268807Right?
+It's great because he just proved my point.
+No scaling solution for 2 years will be the thing that stops you from making money.Here's the positives of bitcoin over bitcoin cash>appeal to authority>normie money (which isn't even buying bitcoin)>development consensus aka centralized
+but it looks like increasing the block size will only delay the problem, not solve it, and if it's true that the miners a spamming the network, they're gonna do the same with bigger blocksSo the miners' greed may kill the hand that feeds themWhere is the fucking satoshi to fix all that messfucking jew attacking from every side
+With bigger blocks it would take more and more money, completely counter productive and at 8mb completely useless.
+With technologies like 0 conf which allows low cost transactions to be instant.
+It makes wide use scaling much easier.
+Alongside hardware upgrades in the future makes it a pointless issue.
+One that LN doesn't properly address either.
+What part of Segwit dont you like you faggot?
+Holy shit you BCash shills are getting desperate,lol
+lmao he just picks the first shit off google because he cant explain it himself
+It's not hard, Bitcoin Cash is Superior in terms of design.
+But Bitcoin is king because of the name and the current value.All these "sidechains", "Lightning" are trying to solve problems that do not exist.
+Just increase the fucking blocksize.
+It's not such a difficult problem people make it up to be.>But muh pajeets and muh storageConnect to remote node then or use pruning, TADAH no more issues.But I had enough of this shit discussion, I will hold BTC for now and closely monitor the situation.
+S2X is not needed since Bitcoin Cash exists by the way.Also Monero increases blocksize by DEFAULT as it SHOULD BE.
+At this point I'm seeing more and more the appeal of Monero.
+The size is determined with an algo so it scales automatically.
+Bitcoin is such a piece of shit with so many issue now because the author neglected to come up with proper solutions for some issues, no fucking foresight, none!
+Blockstream assassinated satoshi before he could implement proper solutions.
+satoshi confirmed a brainlet?
+Does it really surprise you?
+Women simply can't into technology.

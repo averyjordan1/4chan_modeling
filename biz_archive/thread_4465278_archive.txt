@@ -1,0 +1,29 @@
+I can't fucking get my XMR.
+Monero official support has been useless.
+Anyone that can help me will get 1 XMR reward.I withdraw 5 monero from an exchange, the exchange confirmed the transaction a month ago, it's not showing on mymonero, so I messaged the exchange support team, they direct me to: https://xmrchain.net/search?value=3b37da249f1400c4453f4077bcd1483018b8c751a32a322dbd28b1f02dc39ed2I enter my address g6fQARaNfTQjkKDSamDaHuax8JRdPAsVaPKtscwN3siYXCRsugFvTFC65qgyV2KZMC1216jFj8FF6uVpYQyr117kSw9cSand my viewkey d96e818b5da7ae15fd1435fb35c5a4f1713d7c77eb844fb2a91b4973d157700It shows the transaction as having many confirmations yet it's still not in mymonero.
+So I export my seed and import it into the monero CLI wallet, download the entire blockchain and refresh the wallet.
+STILL NOTHING.Anyone who can solve this will get 1XMR because I've essentially written these 5XMR off as a complete loss.
+Have you tried sending a tiny amount to your address since then to see if that sort of "forces" an update to it?
+Only needs to be the minimum.
+Which exchange did you withdraw from?
+Try deleting system32
+Are you sure that you entered the correct seed the second time?
+Tried it from the CLI, it failed.Double checked, 100% correct.What does this mean guys?
+Have I unwittingly stumbled upon a flaw in Monero?
+Are you using an old version of the GUI wallet?
+I'm using the GUI wallet on Linux and it ... just works?
+4466105Just tried it with a fresh download of the GUI wallet and it still showing 0 balance and 0 transactions.
+Wtf should I do to get people to help?
+I will give anyone 1XMR if they can help me get access to the 5.
+The mymonero seed is 13 words, but you need a 25 word seed to restore a CLI wallet.How did you convert the mymonero seed to a proper 25-word seed, and have you confirmed that the shown address in the restored CLI wallet is the correct one?
+When I made the mymonero wallet it gave me a seed, dunno how long it was but I imported it into the CLI wallet and the CLI wallet then displayed the correct address.
+When I type the balance command I got 0.
+I've also tried importing using the private spend key.
+So, it's too much to take 5 seconds and count the number of words in the seed?
+this sounds fishy to me.I feel like OP is trying to spread FUD on Monero.OP do you have proofs of what is happening?
+Yes, it is literally impossible to import a 13-word mymonero seed into either the CLI or GUI.
+On top of that, OP doesnt seem very eager to get his XMR back, if he can't even be bothered to answer a simple question.
+Yes I do, let me put it this way, if someone helps me, I'll send them 1XMR, otherwise I'll post my private spend seed and let you vultures figure it out.Then there's your answer, if it's impossible to import a 13 word seed then I obviously imported the 25 word seed.
+Yes, but you don't get a 25-word seed from mymonero, you need to manually convert it, and I asked you how you did it, because you most likely made the mistake there.
+is op a dummy or a lying sack in your opinion?
+download GUI wallet and enter priv keysif you can't figure it out go to #monero on freenode mirc deva in chat will help youmymonero recently updated with multi sig and may be slow

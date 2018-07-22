@@ -1,0 +1,239 @@
+ITT: post pictures of your private key
+just sent 100k btc to myself
+It's empty :(
+Kek if you follow the transactions you get to wallets with k BTC in it, I guess money flows from the poor to the rich
+nice just put a supercomputer on my city to find those keys
+Don't forget to tip me 50% for the hint bro
+More like supercomputer on my Jupiter and compute for 3billion years
+If you post your public and private key on 4chan it will only show the public key.
+Public: 1ksfu5ixndnd9dbbdnjx63kei89Private: *************************************
+HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreQTdvJta 1NwhxtuUW2dg7RPkaypDpLW9JS2dqfEzNb
+oh cool, let me try that:public: 1Cey5ixndnd9dbbdnjx63kep99private: *************************************
+TestPublic: 1JLM6GJwaPdNv4dM8K5KkcFHeziXXXMGKTPrivate: *************************************
+Is it okay if I post my ETH wallet?Public: 0xd6f9D9b2B73AD326579528f4C52158fD80029E2FPrivate: *****************************************************************
+holy shit it works
+Public: wEmUStSeCurEtHeEXisTeNCEoFoUrPeoPleANdaFutUREfoRWhiTeChiLdREn88Private:*****************
+Omg, it totally works guys
+Public: 12p9SN8SJD9msalmMCKAp8123Private: hunter2
+Is it okay if I post my ETH wallet?>Public: 0xd6f9D9b2B73AD326579528f4C52158fD80029E2FPrivate:4999K3IMNFK100386=][$]112
+hunter2kek
+Public : FuckPrivate : You Niggers !
+1NwhxtuUW2dg7RPkaypDpLW9JS2dqfEzNb
+Public: 0xd6f9D9b2B73AD326579528f4C52158fD80029E2FPrivate: 1ksfu5ixndnd9dbbdnjx63kei89
+wtf how do I delete?
+1ksfu5ixndnd9dbbdnjx63kei89Nice just won 100k
+Is this for real?I have 11 k USD worth of tokens.0xB7605ddc0327406A7aC225B9dE87865E22aC5927049bb603adbd99a8a00aeef83d2ceacc3f2958cd927f7295188ae43cbeb09df9
+This can't be real.
+HOW DO I DELETE I FUCKED UP
+someone beat me to it god damnit
+No.
+I think it's so you can't get scammed on 4chan.>Public: nd9dbbdnjx63kei891ksfu5ixnd>Private: 2d3kdf4ktm5kxx9fos3fago459
+did you just get jacked?
+you're 32k MNE just mvoed wallets.
+Holy shit I tried to snag it but someone else did a ssecond before me
+LMAO you guys are autistic I'm watching you all send ethereum to his account to pay for gas while his contract just moves it out as soon as it entersThis takes like 20 lines of solidity, don't be retarded,he's already made like $50 hahahaha
+nice could you share some with me?public: ****************************************************
+4324610holy shit some tard send him 0.1 eth
+scam wallet if you send eth to it he auto dumps it in another wallet
+BRILLIANTPEOPLE STILL SENDING ETH TO IT LOL
+lol autism
+The absolute state of /biz/.
+You idiot!
+Delete this post retard
+Does this work with qr codes?
+holyshit
+i can't believe ths guy is gambling his 12k
+sent ;)
+It isn't gambling.
+The fallback function on the address literally transfers the message contents out.
+Any eth sent to him gets moved before anything else can be done with itIt's still a little risky because he has to wait until nobody is trying to steal it before he can move it out himself, but like, everyone will give up after the thread is gone so
+wtf senpai....
+Haha holy shit this is almost as good as the ZRX bait
+What's going on?
+Did you guys really take his $12k?
+Be fast and earn 100usd worth of btc!
+LOL it's real
+i need some trap code like this
+How do you check what's in this?
+got it fags
+get jacked retard
+everyone will give up after the thread is gone soHe obviously doesn't know me then :)
+
+People are still sending him Eth holy shit he's earned like $200 at this point
+Why are they sending ?
+How to watch?
+P&D with us, countdown in 1hrhttps://discord.gg/Cc8QSZ
+Imagine how easy it must be if you can codeMake a fake wallet and steal peoples keysWrite a contract like this or the ZRX dude
+4327065https://etherscan.io/address/0xb7605ddc0327406a7ac225b9de87865e22ac5927Here's the wallet on Etherscan.
+People are sending ~0.01 Eth so that they can pay the gas fee to transfer his 12k in Minereum out of his wallet to themselves, since we all have his private keyHe has a script that transfers ethereum out of the wallet into another one of his wallets as soon as any arrives.
+You can see how fast it does this- each "in" transaction is sent "out" in the n+2 block and done at a high gas price (90 gwei)
+no fucking pajeets allowed
+
+I can write this, but its pretty autistic.
+The hard part is to get people to actually send, only /biz/ is dumb enough I swear.Start a Geth client, make a wallet, write some node.js to do this automatically.
+You can do it even easier with a contract, by making the fallback function transfer the eth directly, so that there is literally 0 chance anyone can ever navigate around itThe ZRX guy didn't have to code.
+He exploited a badly designed decentralized exchange and tricked someone into thinking that a field called "order total" was the price PER coin, so they paid 50,000zrx for 0.03 eth TOTAL, not 50,000zrx for 0.03 eth per coin
+4327140I'm not an ETH fag so can someone explain this to me?
+How is no one able to take the minerium out?
+Is it because there's not enough ETH to use as gas?
+tfw you recognize those numbers
+Any chance you'd share how to implement the script that immediately sweep ETH without network confirmation?
+This is genius
+FUCK I LOST ALL MY LINK
+I'm too much of a brainlet to understand all this stuff
+Yes.
+He keeps too little Ethereum in the wallet to transfer the tokens, and catches any incoming ethereum and sends it to a different wallet right away
+when it's realcapcha = real SILAO
+BUT at some point he will have to cancel that contract to get his MNE out, right?
+correct
+Yeah.
+The other thing you can see him doing right now is transferring stuff with such low gas price settings that it CAN be paid for by the piddling amounts of Eth in the wallet.
+Most people can't figure out how to pay 0.0001 gwei for a transaction because MEW only lets you slide it down to 0.1, and the way to get MEW to let you send slower (or faster than 60) is literally by changing the price in inspect element, its very autistic
+yeah but it could be programmed to automatically send it to a specific address after it sends out a certain amount of eth
+What resources do you know of for learning to write contracts?
+All this work to make $37, good effort but poorly executed.
+Solidity readthedocs, OpenZeppelin, /r/ethdev, reading example contracts is importantthe educational resources for Solidity are all really bad from a beginner perspective because they are written for people who are already good at software development and Java/JavaScript in particular.
+They are all written by people who know Java very well and assume their audience does too.
+You can't learn about classes and loops in Solidity for the first time, because no Solidity guides are written for the purpose of teaching these things.
+So if you are a true programming beginner, the unfortunate reality is that you are better off learning Java for awhile and then switching to Solidity once you have experience with object-oriented programming and the concept of classes, methods, etcIf you have experience with OOP, then the above resources are good for seeing how Solidity works.Big things are: >classes are just renamed contracts>all operations are done as transactions on the blockchain with a payload, each operation has a gas cost>therefore all methods have associated costs based on the data they manipulate >methods are external or internal, meaning they can be called from anywhere on the blockchain (other people's contracts)) if they are external, or whether they can only be called from inside the contract.
+This is similar but NOT the same as public vs. private in traditional OOP; public vs. private exists in Solidity too>All variables are public at all times because it is imposible to hide information on the blockchain
+Bro he made a few hundred, one guy sent him 0.1 eth in one transaction alone
+Thank youMaybe I'll get a job now
+Mfw minerium was once worth $10 a coin
+Bounties are goat.
+I've made 20k this year by doing bounty campaigns.
+Most projects "Soldiity devs" are just Java codemonkeys that read some guides, so they fill their code with mistakes and these companies literally pay you hundreds of dollars to catch their own devs' sloppiness
+Hory shetI'm a guy with a CS degree but not extensive xp in javascript or any crypto programming.
+How long would it take for me to gain the experience to do "bounty campaigns" for companies?How exactly do you find these jobs?
+They are short term one-off things or what?
+They are one-off things that don't even require communication.
+Most ICOs now have bounty campaigns where you can look over their github, open an Issue, and get a bounty if they end up implementing your change.
+That is most of the 20k, I found critical errors in 4 or 5 contracts and each one would pay me up to 10 eth.
+I got another 3k from doing '18 hours' of contracted work building someone an ICO contract to their specifications.
+That was because my full-time crypto dev job got me some interest from these kids trying to do an ICO so they hired me to do that.
+Protip if someone offers to pay you to write an ICO contract for them, you should be charging a lot more than $3,000.
+I only gave them that deal because that's basically all I could get out of them (kids trying to get rich quick) and it honestly takes me 2 hours max to do the work
+Took me 4 months of solidity work to get good enough to be better than the average project dev (so I can see things they miss in their own contracts, sorta the baseline of skill for being able to consistently make money from bounties).
+Before that I had learned Java in uni and done a ton of work in Python for classes and my job (I have a physics degree then worked as a data scientist for a bit and then switched to crypto fulltime)
+Also the most important thing to learn for bounty campaigns past basic solidity syntax and principles is understanding in great detail all the security flaws.
+There are some fucking DISGUSTINGLY complicated ways to hack shit in Solidity; start with reentrancy (DAO) then go through the major hacks that have happened (Parity round 1, Golem short address attack, Parity round 2) and look at examples of intentionally fallacious contracts, I think they exist on the OpenZeppelin site.
+Also remember that the most cutting edge information will always be found around the ethereum project devs themselves, so get familiar with the official ethereum githubs and gitter channels
+yeah that $12k was once nearly $150k
+4328888Thanks mate.
+I was actually training up to do data science type stuff and machine learning to build a yuge system for interpreting public sentiment on markets and stuff like that, but I'm starting to think I should just learn crypto
+HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreQTdvJtahunter123
+Wtf this shit sends to an address with 500kFucking pajeet scammers
+Haha it is sending anything in the wallet to a known hackers addressHope this guy rots desu
+pajeetsk
+4330178Yes, through a pretty wide network.
+But I traced one of his transactions to his Poloniex account and reported that account to them.
+They don't go after scammers themselves, but they do flag the addresses so that if there is legal action, they are prepared to come forward.
+This is how you fuck scammers- you wait until they try to cash out, and nail them on an exchange that has their info.
+Unless they are using a forged passport, this will come to bite them eventuallyAlso sidenote, someone is testing by sending small increments of eth too low to trigger the auto sweep.
+You can see they sent 0 and saw the sweep didn't trigger, then again at 1 wei and 10 wei.
+They got trolled because some idiot sent a large amount and triggered the sweep, but my suspicion is that the guy hunting for where the threshold for the sweep is is eventually going to find it and send just enough to pull the funds without triggering the auto forwarding.
+so STOP sending ETHERUM to this FAGGOT PLEASE
+4330244Yeah yeah I was spamming the send when someone was doing that and it changed from saying "not enough ETH" blah blah, to "Try a different amount" or some such shit.
+Either way, the guy is a hacker, google the address and people are all over complaining of him
+Update: 100 wei didn't trigger the sweep.
+I am going to enjoy this guy getting raped out of his minereumAlso if anyone is bored, try looking through all the addresses he is forwarding the eth to.
+They are all weird as fuck, just transfering a few dollars of eth and fractions of minereum inbetween themselves and a few larger wallets.
+All very strange
+i dont think the people sweeping the money have anything to do with it, they're probably scraping websites/forums for keys and looking for balances.the private key posted here never had any money in it, it was a public key released as part of the minereum advertising, according to the bitcoin forums, and the 12k worth of minereum can never be moved, only a small amount extra on top of that which is worth basically $0 today.
+x0ddd is the hero we needhit em with those triple Ds
+I don't actually think it's possible to send the MNE thoughIt's basically just a fishing net for people sending ETH thinking they can make a quick buck
+the private key posted here never had any money in it, it was a public key released as part of the minereum advertising, according to the bitcoin forums, and the 12k worth of minereum can never be moved, only a small amount extra on top of that which is worth basically $0 today.What?
+Do you have a link to this
+hero we needhe's just throwing his money away into a now public ethereum accounti dont think it's worth it to throw money at scripts like that
+its just a bunch of different bots fighting over a public private key, there are hundreds of them out there i betsure, look up the minereum contract and find the transfer function, it only lets you send a certian amount over a base balance, you have to keep at least 37k minereum in your account that can't be senttalk about the public key releases here https://bitcointalk.org/index.php?topic=1996910.0
+Haha I hope this guy sending the tiny ETH actually manages it
+old fag please leave
+manages to do what?
+someone fucked up and sent too much lol
+this is better than tv
+>tfw i don't know what this means
+means you wasted gas and whatever eth you just sent
+I didn't send anything
+
+It's actually pretty easy to get people to send.I'll give you some pointers:>"I'm just a newbie, please help."
+means nothing, its just a generic warning
+That address is associated with monaco tokenIf you follow where it sends to https://bitcointalk.org/index.php?topic=2237480.0
+The twitter: https://twitter.com/smoky12382835
+4330912Found this also: https://bitcointalk.org/index.php?action=profile;u=1014414;sa=showPostsUsername "Yabuy92"
+4330912And this: https://medium.com/@ciputronuryansyah/detail-ico-crederoom-81060090d3f4
+sign up on binance with this id and get 0.001 btc to trade pajeetsref=10068869
+43310384330873I think I've found the guys name and Facebook.
+What do?
+Can I get a bounty for finding this shit?
+bump
+what the actual fug lol
+I fucking found who the owner of the address is and it's linked to various frauds and thefts apparentlywhat do i do
+Nothing, it's not illegal to post a private key or to sweep funds from an account you own.
+you found the guy who's private key got hacked?
+what good is that going to do
+Nah, I found the guy who owns the wallet
+Post him here
+all of the stuff you found points to 0xb760.
+i doubt he's got some huge operation where he leaks private keys then takes money willingly sent to them.
+that sounds like a huge waste of time.
+is there even anything wrong with this?
+these people lose are lining up to lose a little bit of money trying to steal a lot of money.
+maybe he deserves what he sweeps, maybe someone who manages to steal his internet money also deserves it.
+I can't believe nobody in this thread has realized that the MNE can't be stolen lmao.
+4332209No, he has several people on several forums claiming there hacked funds landed in this account.
+I followed them and found his real name and various other thingsThe guy is posting in this thread trying to downplay it lmao
+their*
+which id is the guy?
+4327261lmao, fucking genius... and scary
+not at all, people are sending money to your address, in the hopes of stealing your funds.the 0xb760 dude actually hacked people and stole money into that account, and now its private key is public?
+this guy sounds like a fucking idiot
+The MNE can't be withdrawn.
+LARPing as detective isn't going very well for you.
+4333313No, you moron.
+The address is a honey pot.
+But the addresses it sends to (I've found who owns them) and various people are complaining the guy has hacked them.
+Stop trying to downplay.
+I know who you are
+We have.
+What happened is that 74oJHJKZ found that a lot of the funds going from that go to a notorious scam wallet, and then he believes he found the guy behind that scam wallet.
+Probably associated with more blatant scams than this one, which is really just pretty harmless and makes people feel stupid
+4333369multiple people are sweeping it, it's not one person
+Yes, that's why I said "a lot of the funds from that...".It doesn't really have to do with the Minereum wallet.
+It has to do with the fact that one of the people sweeping that wallet is a scammer, and 74o found out personal info on him
+well sorry but you're wasting your time trying to track this shit.
+you might have found the identity of one of the accounts sweeping funds, but there are at least 10+ different people out there doing this, and i can count at least 4 for the address in this thread alone.
+4333392No, I've found info on the addresses it sends to.
+Hahahahahahah you're scared huh?
+You should be 5 ETH to 0x0D07100A32B3148DC8035CAd7328e01350a9c576 within 30 mins or I release on Bitcointalk, and to authorities
+Wouldn't want to lose your job now would you?
+Foolish hubris
+fucking lol
+43334314 eth or <<I>> send to bitcointalk0xa51Fc5BC40e655f848F30f039Dfe2accf67f046a
+Ya I was curious about that.
+At first I thought the private key must be a shortkey for bitcoin because its way too short, but the non-colored out part is already exactly the length of a shortkey.
+So I'm not sure what currency this is in.
+Or maybe he put that red box as a ruse, and all of his private key is already visible o.O
+that's not even a legit private key, it's half the length of what you would expect
+i'm pretty sure it's just a joke, i've seen that image posted here a lot
+What's funny anton?
+so you think i'm this guy because i'm telling you more than one person is sweeping this account?
+release all your shit dude, i'm curious now
+Fuck it I'm getting out of crypto17AgqC3P8zEVAENyr4QgGSgUqhtvN4QNhEKxmCZ2kaC6yy9cZFaCnHK6wLx1BNSVHTdF17Tb4LgoyALWnRdNtv
+4324325No, I know who the recipient of stolen ETH is.
+He didn't pay you, can you link to Bitcoin talk thread?
+Hasn't been 30 minutes
+stop teasing this shit and let us know then dude
+I won't release at all if he pays up
+Are they those shitty receipts where the ink completely disappears after a few months
+the long con bitcoin atm
+kek made me look
+he's out of time, dump that shit
+your addressi'd glue my own valued fiat to the floor but not somebody elses anon.expose him
+The owner of the address:Start here:https://bitcointalk.org/index.php?topic=2237480.0Then to here: https://bitcointalk.org/index.php?topic=1819566.msg18791700#msg18791700(He posted under the name Smoky) His Twitter: https://twitter.com/smoky12382835Follow that account to his summary page: His Bitcointalk forum signature links to Micromoney.ioHowever, if you hover of the pleeddit link it redirects you to: antondziatkovskii (his plebbit udername)If you google that, you get his instagram, his real twitter account, etc.
+If you google the address in question, you'll see it is linked with numerous ETH thefts over the past couple of years.
+oBi4ThBs
+your being "your", not youthe addresswhich one?i have enough ether not to worry about stealing 3 cents at a time from accounts.
+i would love to know why you think i have anything to do with this though, unless you'e still butthurt about not realizing multiple people are all rushing to withdraw from that account
+This has been both fun and entertaining to watch.
+Thanks to everyone involved.
+and people are still sending shit to that address and it's all going to 0xdf1fb91fa80bc76366e4fb942692f598325f0770that account's been taking shit from that address for weeks, wtf

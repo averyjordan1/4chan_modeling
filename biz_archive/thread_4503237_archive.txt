@@ -1,0 +1,4 @@
+https://medium.com/@nextlevelcrypto/whats-the-story-with-smart-contracts-and-ethereum-c0d771fd9eb9
+Why do you need BTC/RSK when ETH can do what they can?
+BTC can't scale to that level of transactions, ETH has more transactions right now than all of bitcoin and the rest of crypto combinedeth transactions are dirt cheap and fast, BTC are extremely expensive and slow.bitcoin cash can probably take on the transaction count of ETH with smart contracts on top of bch chain.
+bitcoin core cannot

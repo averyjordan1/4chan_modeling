@@ -1,0 +1,12 @@
+Just got an odd email.
+I haven't signed up for anything.
+Should I be worried or do bittrex etc let third parties use their email details?
+Just done a virus/malware check.
+But am still concernedWelcome to Bitcoin-Mixer.orgThe bitcoin mixing service you were looking for:LINK REMOVEDThe way bitcoin transactions work causes them to be chained together in a permanent public record.
+They are traceable along the blockchain from one bitcoin address to another.
+Bitcoin mixer severs the links between your old address and a new address by sending bitcoins from you to other people and bitcoins from them to you.
+It also randomizes transaction amounts and adds time delays to the transactions.
+Generally there is no link between the original transactions and the final address of the coins.
+This process protects your privacy and prevents other people tracing your payments on the internet.Anonymous Bitcoin MixerOur bitcoin mixing service does not require any account or personal information and doesn't collect any information about visitor's activity.Why to Choose Us?There is multiple mixing services on the web, however, our service is the most user friendly one.
+Main goal of CoinMixer is to provide secure and easy to use bitcoin mixing service for everybody.Letter of Guarantee signed with our PGP key is created for every participation.
+This letter works as proof of your participation and prevents the mixing service keeping your bitcoins without compromising it's reputation.SecurityProven mixing algorithmEncrypted connectionNo user account requiredNo logs are collectedAutomatic recovery in case of failureReal time transaction processing

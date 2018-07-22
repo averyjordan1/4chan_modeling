@@ -1,0 +1,9 @@
+Can someone explain to me how the "12 word phrase" works at a technical level?
+For example, if my computer messed up and I wanted to get my cryptocurrency back, how does the 12 word key relate to a private key?
+The 12 word key is work as a private key for your own private key...
+Oh I see, so it's basically a "key for your key", so even if you lose your computer data - as long as you have your 12 words you can re-create your private key and thus have access to your crypto?
+you can use your 12 word seed to recover your wallet even without knowing the password.
+Think of it as something that generates addresses directly.
+That's why you need to be super careful while dealing with it, if anybody else has access to it, all your LINK can be gone in a matter of seconds.
+Yes, an algorithm takes the 12 word phrase and decrypts, recreating your private key.
+4282980Thank you anons

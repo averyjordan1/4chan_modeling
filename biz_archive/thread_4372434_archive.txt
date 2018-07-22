@@ -1,0 +1,12 @@
+Is MEW safe?
+Do I really need a hardware wallet
+Also would you recommend Trezor or Ledger for erc tokens?
+Get both.
+Dedicated laptop only for managing your JSON file on MEW is good enough anon.
+Ledger nano s. Theft proof as long as you set a good password on it.
+You have to be physically near the device to confirm a transaction even if by some miracle someone tries to steal coins off of it.
+MEW runs client side.
+I think it is actually made by the Ethereum people too, and not some chinese third party.
+If you're worried you should be making your addresses while offline.
+Disconnect from the internet.
+It will still work.

@@ -1,0 +1,37 @@
+Is it possible to predict market-wide movement?
+I wrote a Python script that just averages the movement of Top 250 coins for the 24h and it's insane how yesterday the average was -3% and today it's +9%.
+I wonder if there are markers that can predict this.
+For example, a good marker this time was Bitcoin and BitcoinCash.
+The uncertainty caused by BCH mooning brought everything down, but as soon as we saw a trend reversal with BTC going up and BCH going down, the alt market went back up, even more than Bitcoin did.
+Any psychologists here care to explain the mentality behind this?
+give python script
+It just averages the 24h price action for each coin, it's not hard to do that lol.import requeststicker=requests.get('https://api.coinmarketcap.com/v1/ticker/?limit=500').json()changes=[]for coin in ticker: if coin["percent_change_24h"]!=None: changes.append(float(coin["percent_change_24h"]))print("Number of coins evaluated: " + str(len(changes)))print("The average of all 24h%chng is: " + str(sum(changes)/len(changes)))
+you should try volume weighting it
+Second one in from right, the others are dogs, especially that Jew on the right
+2=14
+Would give the leftmost a spin
+Yeah, she's the least offensive of the others kek
+4341461good taste.
+she's the best one
+ 3 2 4
+I'm learning python and it's starting to make sense after a few hours of learning.
+is it really this easy?
+my nigga
+All except first one is not that good, but regardless I'd pay full price to get all of them.Talking about the top 250 coins ofc
+1>>>>>>>> dogshit 3 not close
+4341531I'd dump all of my NUT on them at the highest price.
+her head is tiny
+post the .py
+It was made to be easy
+Google ichimoku cloud indicator and implement it
+Well, the basics are easy enough.
+Make sure to learn the functions well and to know how to handle the various data types like lists, dictionaries etc.
+If you're only learning for crypto purposes and want to streamline the process, I would recommend you skip all the mathy stuff like recursion and focus on API implementations.
+Notice how she's the tinest one but her thighs are still among the thiccest.
+I like them petite
+The second from the left has her head in a freaky angle.She's like an owl-human.Would bang.
+trying this hard to look KoreanWell I don't blame them for trying.
+Only crypto coded 100% in Python.
+Bismuth will make you rich sirs.
+it is
+2 can't even find matching socks, useless ....3 looks horny as fuck

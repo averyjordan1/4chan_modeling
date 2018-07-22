@@ -1,0 +1,36 @@
+Has anyone on the board had their coins/tokens stolen in the past?Where and how did you store them?
+How did it happen?I want to learn how to protect my investment.
+Get a hardware wallet, anon.
+Best investment you'll ever make.
+Both Trezor and Nano are OK.
+I have the latter, as it's cheaper and does the same as the Trezor.
+congrats youre more likely to make it just because you bothered to ask.
+most (especially normies) will lose their funds because they see no problem with the following:>email private key to self>write down unencrypted plaintext private key on piece of paper>use windows>use google chrome>keep unencrypted plaintext private key in iPhone "Notes" app>take photo of unencrypted plaintext private key
+email private key to selfI did this.
+Is that bad?
+I have two factor on my gmail and I googled and found out google encrypts all their data.
+It should be safe?
+What if you're constantly trading?
+Google also crawls all your emails to find out what ads to serve you.
+Encryption or not, real private data is not safe in a gmail account.
+Just imagine how many times that data is moved around - every time google does so internally, every time you load your email and it serves them to you, every time emails are indexed.
+Are you constantly trading your whole pot?
+Only expose what absolutely must be exposed
+Ah good point.
+Yeah I don't own a lot so I'm pretty much trading everything but I see what you mean.
+I had my shekels in a safe and it got stolen by some niggers.
+I deposited eth into a fake website a few months back the fucker got 2k and i felt retarded.
+It's a price into security education I wish I didn't pay, but now I send small amounts and check website authenticity like a paranoid fuck head.
+Eventually the majority of people will learn these lessons in life.
+I'm glad my mistake was in the beginning of this cryptocurrency movement.
+I don't hate the scammer anymore, he taught me a lesson i will never forget.
+I hoped he used the funds on pussy because I probably would have just used it on bills/debt honestly.
+Best teacher ever
+make a new wallet (don't use Chrome) and transfer your funds to it.
+Come up with an algorithm to encrypt the private key with.
+Mix characters around, replace them, whatever.
+Make it simple enough for you to remember but complex enough for a hacker to have trouble with.
+Write down ONLY the encrypted private key.
+Congrats, you can now put your encrypted private key anywhere in plain sight and only you will be able to decrypt it as long as you remember your algorithm.
+Wow, that's a really good idea.
+There's this random 7 character long number sequence I remember since I was a child, I'm sure I can come up with an algorithm using those numbers.Thank you anon.

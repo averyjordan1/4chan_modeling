@@ -1,0 +1,8 @@
+Hey /biz/I created a BTG wallet on altpool.pro, I have the private key and everything.
+I'd like to transfer my BTG to another wallet but there's not this option on that stupid website..Do you know any BTG wallet website that could restore my wallet and send it to another one?Will give 0.1BTG to anyone who whould help me (only got 0.4BTG).
+Coinomi, it's a mobile wallet though
+already checked, they ask for the private key with words..
+I don't have that, I have a "standard" private key...
+No.
+You create a wallet with a new seed, add BTG, select sweep and enter your private key.
+I will try that, thx!

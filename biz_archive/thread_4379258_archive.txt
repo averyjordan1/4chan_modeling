@@ -1,0 +1,7 @@
+Title.I recently bought 3ETH.
+I would like to sell on x3 leverage.
+I bet that ETH will go UP so I take a long trade, I place my sell order : 9 ETH at 400$.
+So when ETH goes on 400$ it automatically fill my order.
+Am I doing a mistake here ?
+Also I would like to understand how margin call works : If margin call starts at 40% on this example, at what loss should I be worried on my trade ?Also do you know any crypto market that leverage ?
+(I looked at Kraken but I really don't like it).Thanks bizmen !

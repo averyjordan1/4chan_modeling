@@ -1,0 +1,4 @@
+currently working on a bot that'll make me rich rich rich passively and effortlesslywhich markets are volatile enough to make /comfy/ multiple times a day?i've been looking into ETH, ETC, and BCH, but since i'm a poorfag i would like to go for only one market for startersthe bot is/will be written in C++ for the bittrex exchange, might move to binance once its working because volumes seem larger therewhat are some good tactics a bot should use?
+any applicable machine learning (fuzzy, markov, etc)?what are you up to?
+use Binance with BNB, fees are the #1 thing that will fuck you over
+yeah i expect fees will rip me a new one, but so long as i make higher gains than the fee i'm ok with it for startersi'll look into binance and bnb, am thinking of doing btc-eth on bittrex for now though, dont know how much the 0.25% fee will bamboozle me though, will run some tests when i come to that stage

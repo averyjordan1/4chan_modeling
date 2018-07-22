@@ -1,0 +1,8 @@
+You've been warned /biz/
+No I haven't.
+Give me some details.
+TrezarCoin is a high secure store of value with fast transaction times designed to be used as a currency.
+We implemented the newest Proof-of-Work algorithm, as well as Proof-of-Stake, to meet these stringet security standards.We promote a super Secure and energy efficient PoW/PoS Coin implementing the most advanced 0% PoS by Ghostlander.
+TrezarCoin supportsmulti-algo to enforce the strongest level of security by using NeoScrypt PoW, Sha256d PoS and BLAKE2s for Blockhashing.
+Coins will be distributedvia PoW and PoS.
+For Investors without mining equiment there was an Auction where 17% of the total coins were distributed.

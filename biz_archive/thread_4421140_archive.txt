@@ -1,0 +1,3 @@
+LuxCoin has the capacity for Parallel Masternode networks, providing a public network and a private network running simultaneously on the LuxCoin Blockchain and connected to each other through the LuxGate.
+$Lux
+sounds fucking stupid keep them segregated

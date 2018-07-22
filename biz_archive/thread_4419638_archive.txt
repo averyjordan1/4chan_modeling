@@ -1,0 +1,9 @@
+why are block times on BCH still... errrr... you know...... fluctuating even after the fork?
+Because Craig Wright wrote the DAA in crayon.
+They aren't?The problem was many hours between blocks sometimes.
+That has been fixed.
+10 minute fluctuations is pretty normal
+CW only uses marker pens on transparent glass
+No glass - nothing that can be made sharp.
+difficulty adjustment only increases or decreases the probability that a block will be found in 10 minutes.
+Some get lucky and get one in 2 minutes while it might take the whole network 17 minutes to get the next one.

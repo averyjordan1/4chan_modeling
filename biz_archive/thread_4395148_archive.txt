@@ -1,0 +1,14 @@
+I have a newbie quesiton, how do I transfer BTC from paper wallet to Bittrex or any other exchange?
+I have created Coinbase account, deposited some money and bought BTC.
+I've sent some BTC from Coinbase to a paper wallet that I've created on Bitaddress (including BIP38 enryption with passphrase).How do I sent these BTC from paper wallet to Bittrex wallet now?
+I went to wallets on Bittrex, clicked + BTC and now you get this address and QR code.
+What do I do with this?
+Enjoy your fees
+Yeah I'm first time doing this and learning, that's why I deposited 50€ to just learn the whole sending things around and later buying/selling on exchange platform.
+Don't worry, it's 50$ to just fuck around and wrap my head around things.
+I sent 5€ to paper wallet and got 7€ fee and understood quite quickly I'll have to look into how to minimize my fees, because this shit was hilarious and sad at the same time.
+Download a bitcoin wallet, use private key to swipe wallet, send to bittrex btc address.
+I'll help you for a small BTC donation?
+Download Electrum from Electrum.org.Create a new wallet.
+Choose restore from seed/private key, send to Bittrex.
+can recommend electrum

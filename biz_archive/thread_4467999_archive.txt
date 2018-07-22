@@ -1,0 +1,43 @@
+Should I get one?
+The Ledger blue is laggy and the LCD isn't even good; get the S ledger insteadhttps://www.ledgerwallet.com/r/56e5
+I was considering that.
+I'm not sure I trust bluetooth on this thing, even if it's supposedly safe.
+No bluetooth on the ledger nano sIt's the best really
+what about software wallet on windows 10?is this safe?or is it safer to use ledger nano s with windows 10?
+There's no bluetooth.
+Ledger Nano S is objectively the best crypto hardware wallet.
+Forget the one with a screen on it, not needed.
+I wish Trezor had more support for altcoins, but until then you're right.
+Honestly the more competition there is in this niche the happier I'll be
+I meant the bluetooth on the Ledger blue, but yeah I agree.Personally I'm gonna order a used Thinkpad x60 for internet connection and a Raspberry Pi Zero that'll never be connected to the internet to generate passwords and store info and whatever.I might be being paranoid though.
+Just realized I didn't completely answer your question- software wallets are ok but they're very susceptible compared to hardware wallets.
+From what I gather, paper wallets used to be the gold standard but now they're just simply impractical.
+Hardware wallets seem to be the best compromise between security and usability imo.
+I'd love to be corrected, because I want crypto to be mainstream and hardware wallets have a moderate entry fee, especially if you don't life in a first world country (which is where the most growth will come from).
+Of course, this problem will probably disappear if a well designed model can be guaranteed millions of units sold, but for now I think it's an overlooked aspect of what's holding back the market.
+I'll consider getting whichever one is getting monero support
+Ledger Nano S will have Monero support soon(tm), the guy who's working on it regularly posts update in the Monero subreddit
+why not just print paper wallet?
+Trips say yes.
+Also, i just got one and i'm very satisfied.
+Safe access to MEW for eth and tokens, safe storage for all major coins.
+Because you have to redo the whole thing every time you wanna withdraw money.
+See
+Also I want a diverse portfolio and that'd be a nightmare with paper wallets, I don't even know if you can do that with all of them.
+Paper wallet best wallet
+Y u need to redo?
+u have keystore file and pws naa?
+u just print out private key and store it somewhere?
+isint that enough or am i missing something here
+4470650https://en.bitcoin.it/wiki/Paper_wallet#Privacy_Issues(further up the page) "Proper paper wallets are often a very secure way of storing bitcoins, since they are not typically exposed to malware.
+They can also be easily stored securely in safes and safe deposit boxes.
+However, it may be more difficult to securely "backup" paper wallets, and due to the current sub-optimal software support, it may be easier to make a mistake that causes loss of bitcoins.Sometimes people try to use single keys as true bitcoin wallets.
+However address reuse is very bad for privacy and security.
+Because of this, one is forced to choose between hazardous options:Use the key only once to receive, and only once to send the full amount.
+This requires the user to know the full amount he wants to store in advance, and often leads to the next situation:Create multiple keys.
+By using more than one key, the user can receive more than once using a different address each time, including using new addresses for change.
+This is very complicated, and makes it easy to accidentally reuse addresses, produce the wrong change/fee combination, lose some keys, spend hours searching for the right key, etc.
+Not even skilled bitcoin experts are comfortable managing their own keys manually like this."
+theres no point in a paper wallet if you're just gonna connect it to the internet anyway idiot.
+Why are there no cheap hardware wallets?
+How expensive can a few chips and a tiny LCD really be?

@@ -1,0 +1,90 @@
+### The thread that decides once and for all ###This Bitfinex shit with Tether we keep seeing a lot as of recent:Should we cash out of BTC right now or is it FUD?If this is real, how long do we fucking have?
+I can't take this any more.
+Link me to an audit of their reserves.
+If I knew where to find such a thing, this thread wouldn't exist
+The joke is that it doesn't existthey claimed they were "in the process of being audited" for a time but then went entirely silent about it and never released any conclusions from any audit.We can be pretty certain that they have a lot to hide.Their banking services partner wells fargo left them a while ago and that's a big red flag.
+Dodgy as fuck lad.
+Fucking hard to know what to do here.
+I've been hodling since July, it seems the China shit in September could be nothing compared to this though.So what are you doing about this?
+Staying in cryptos?
+Selling?
+new fud everyday.
+welcome to crypto.
+Yes tether shit.
+But sometimes I don't get it.
+It's 600 millions out of a 233 billion market.
+And MTGox was more than 800 million scam so who cares.Also since finex doesn't take fiat deposits since april, they have to offer some sort of crypto-independent token.
+I'm more concerned that they scam like shit with frontrunning, forcing margin calls and so on.
+two points you bring up:the first argument (and I see it often when tether is brought up) is muh marketcap.
+This point of view has a fatal flaw - it assumes that all bitcoin is available for sale at that priceOf course we know this is not true.
+You can safely bet that a suddenly materializing 30million usdt stream of buy orders into bitfinex order book would bring the price up.
+Effectively the new tethers imbalance the buy/sells towards buys, if only temporarily (see below)In fact you can see that on average, 2-3 hours after the tethers are printed, btc price goes up (lately it is about a 200-300 avg pump in price, it used to be more effective though last month and even more so before that)Which leads to the next point - when the new tethers are printed - you do in fact see a fat spike in margin longs as well on finex.
+Coincidence?
+I think not.
+This shit is manipulated to hell and back, bud.They are basically opening longs with it, then buying btc with the rest to bump the price and closing their longs, then (lately) dumping the btc on top of that.
+The bot that does the buy/dumps would do exactly timed (1 min, 5min) buys (or sells) at 30btc that last few printsCheck the numbers - check the tether print timestamps and then corresponding btc price for the 24hrs following each.
+Just too many red flags there.
+They dont even bother to hide it anymore man (they used to wait at least a day or two, not 2 hours)Not to mention registered in a country with no extradition laws, known for fraudulent / fly by night companies?Biggest bank dumped them, they will not name their 'new one'pending audit forever and a half now, silent on it of course after their 'leaked' bullshit memo (that had disclaimers making it useless anyways)
+https://tether.to/2017/09/they were literally audited september/october
+one more thing I wanted to add.
+You can see the shorts that get wrecked as well after the tether prints - pretty much each sharp drop on the history of https://www.bfxdata.com/positions/btcusdthis shit is pretty fucked - and once regulators have got this in the radar (if they havent already, especially with the CME incoming and more 'normie' adoption and awareness incoming) you can be your ass they will come down hardAlso - USGovt has a history of not liking when an entity (especially a foreign, shady history one) takes something (tether) and pegs it to the price of the US dollar.
+There is a clear history of these 'pegged assets' getting wiped out, fast and hard, by the US.
+Its essentially stealing the brand without permission (or regs, or transparency)- and the US Treasury does not like competition.
+you're a dumbass, when shorts are at highs you go long, when longs are at highs you go shortits because most traders lose and are bad at trading you fucking retard, so you counter trade them
+not a real audit anon, did you read the thing?
+its full of disclaimers that make it useless.
+Hell even in that blogpost do they admit that it is not an audit, ala"These consulting services do not constitute anaudit or attestation engagement, which would include a significantly expanded scope of procedures and take substantially more time to complete.
+"think about it... 'which would take substantially more time to complete' but wait - haven't they been working on an audit for some time now?
+what happened to that?
+Why was the actual audit not mentioned?Because of said omission, that statement implies that there is in fact no audit incoming from another company (as they state that Friedman is not doing an audit).
+Its literally a slip of the tongue that they are full of shit.-------------------anyways -----------------Fucking tethers printed on average every 3rd day now.
+What the actual fuck?When I see btc dip incoming (and no pending fucking tether) I go to actual fiat, not fucking tether.
+I hate cuckbase, so I go to Gemini, which are thankfully legit as fuck, and usually no premium on BTC price either (unlike cuckbase)trade safe anons, keep your ear to the floor and your eyes fucking open.
+dont let confirmation / positivity bias blind you
+4439292anon, i've made a plethora of other points here, but your myopic retorts (cherry picking, with not even valid counterarguments) leads me to believe that you are, in fact, the idiot.
+Or a paid shill for tetherTell me pharoah, do you take your payments in USDT?
+if so...
+I got some bad news for you kid
+first of all stop spacing like that you fucking disgusting reddit faggot, and second of all those disclaimers are on literally every fucking audit for literally everything disgusting armchair reddit lawyer thinks disclaimers do anything except protect the auditing firm when something could potentially go wrong.
+You are like little child
+Nah, my company just did an audit for every fiscal year since 2013... and it took us 1 year.
+One fucking year for 3, for a multi billion dollar company.
+These fucking clowns cant manage shit, or, more likely due to their shady history, have something to hide.The point of an audit, dumbass, is it is official statement of financials, taken/required by the fucking regulators and stock exchanges, there are no disclaimers that 'this audit might not be right hur durr'.
+If there were, it would get fucking thrown out and your ass delisted.
+Damn, I thought you might have been dense before but... holy shit man!I space like this because of the multiple points I make.
+How nice of you to only respond to one, but you can't even manage that!
+Your argument is pointed yet fucking hollow son, you need to step it up a bit!
+multi prong approach you can do it!
+Or is it you have no fucking clue about the rest and admit it, hmm.
+thats cuz its fucking true cuzzo.
+your so called audit, in tethers own words, is not an audit.
+Here let me paste it for you again kid.
+You.. you can read, right?
+"These consulting services do not constitute anaudit or attestation engagement, which would include a significantly expanded scope of procedures and take substantially more time to complete."
+What about the other exchanges that are using tether?
+Nice answer, thanks!But don't you think they could make more money with fake trades that force position liquidations and stop losses?
+In fact they know every positions liq.
+price, they can calculate everything exactly and as soon as there is a profitable situation all they have to do is writing the trades into their database.
+I mean a lot of the massive spikes come from waterfalls of position liquidations and triggered stop losses.
+Hi bitfinexed, first of all coming from an audit background, the document is fine, and they are definitely backed by USD.
+CPAs cannot use the word "audit" unless a full blown financial statement audit is made and that is unnecessary just to prove USDT is backed by fiat.
+What the firm has done to obtain evidence by confirming with the banks and inspecting bank statements is enough evidence.There are red flags though with the report, and usdt in general.
+First, it seems some of the fiat is owned by another entity, in benefit of tether, this moght be Bitfinex itself, but the fact that its not owned directly by Tether is a bit concerning.
+Second, the larger issue with Tether is its redeemability w/ fiat, its premise hinges on that fact aside from its 1:1 backing else its useless.
+you nailed it anon, see my post They open longs, bump the price to cause a cascade of liquidations that result in further price pump, fomo kicks in, then they close their own longs.
+These fuckers are making a killing, and you can bet your ass they will try to walk away with as much BTC as they can, this way.
+And hell, even if they don't take off with the exchanges' hot wallet, they are still making fucking bank with the manipulationFucking hot potato tether.
+Don't be the one caught holding it when euphoric music stops, if you hold it at all.
+If you need to go fiat, go with Gemini if you can, or w/e exchange for your locality that is confirmed CASH.If the house of cards comes down, we're talking triple digit btc flash crash.
+Megablackpillmode: CME futures exchange opens, and big money opens a shit ton of shorts after looking at BTC's long term history and rise this year - and bam these coincide with the collapse of tether and btc's price when regulators swoop in.
+(you can bet your ass that with the CMEs, and possible EFTs etc there will be an increasing wave / threat of regulation)There is an opportunity here for big money, and regulators to make moves at just the right times to not only make a shit ton of money, but deal an insane blow to free market crypto - which no doubt is seen as a threat to the current financial system.
+If that document checks out, then I will concede that.
+However its almost doubled since that statement.
+And their ongoing/official audit they have been eerily silent on as well via omission in their statements.
+Further, we have an insane wave of printing going on of late.
+At this rate that statement will be a drop in the bucket in another month or two.
+Why they will not name their bank is another huge red flag.It is difficult to believe that big money would want to go through this process with tether when they can simply buy coins straight from the big fiat gateways (publicly, or privately).
+And a lot of them do (see JPMorgan when they bought the last huge ass dip after the dimon statement) Related to your concern is Tethers' redeemability in their own words:"There is no contractual right or other right or legal claim against us to redeem or exchange your Tethers for money.
+We do not guarantee any right of redemption or exchange of Tethers by us for money.
+There is no guarantee against losses when you buy, trade, sell, or redeem Tethers.
+"Anyways thank you for chiming in, I was wondering if I was wasting my time

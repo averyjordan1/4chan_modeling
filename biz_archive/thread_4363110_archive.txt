@@ -1,0 +1,41 @@
+Why did Ethereum price did not react to the fact, that $300m woth of Ethereum got locked forever by some random noob who wanted to code Ethereum?Should'nt it indicate, that theres something wrong in the whole foundation of Ethereum?
+Why did'nt the market react despite it blowing up all over the news?
+Because it was a coding issue and not an issue with Ethereum itself.
+Imagine a programmer writing some shitty code and it not working and then blaming it on the coding language itself, no.
+But does'nt it imply, that any shitty random coder can fuck up more of the blockchain?Or potentially any malicious code could be written and slipped into the open source project?
+Are you legit retarded ?
+The fact that the market did not react is a very positive sign.
+This should be obvious.
+How you can't understand it yourself is strange to me?
+yes
+i like it.
+Welcome
+No, the person didn't fuck up the blockchain, he found an error in a smart contract written by someone, not an error of Ethereum.You can't just edit the coding of the blockchain, unless you create a fork which breaks off from the main chain, which is pointless unless people actually use your forked chain.
+The main chain will be unaffected by whatever changes you make on your own chain.
+For example, a potential fix for the funds being locked up is to fork the chain and use the new chain where the funds have been unlocked by whatever changes they make.
+As long as the majority of miners have no issue with this, ie.
+they don't contend they fork, then the fork becomes the main chain and the funds are free to use again.
+You're one stupid motherfucker and you really shouldn't be investing in crypto till you understand why what you are saying makes no sense.The problem was with the multisig implementation of an Ethereum wallet.
+Not Ethereum.
+There was literally nothing wrong with Ethereum itself in this case.You are exactly like one of those faggots saying that "bitcoin got hacked by mt.
+gox" back in 2014.Seriously, stop shitting up the board with this crap.
+ETH price wasn't moving much at all for monthsPeople haven't reacted to news to start another bull run, it's still up so much that it's still cooling downBut on the other hand, it's been cooling down so long that I think people are expecting it to run again and I don't think any holders want to miss that
+Nah come on man these concepts are actually not that easy to pick up unless you've read up about it to a certain level.
+A lot of the people who know about ETH were new investors when it first hit $400 and ever since then there haven't been that many articles giving it the spotlight in comparison.
+It's not surprising at all for people that haven't touched Ethereum before to not know the concept behind it.
+I can't get this either ... so just bought another 100k
+it was an issue with a specific wallet.
+it would be like if only one bank fucked up and lost their customers money.
+everyone else would be fine.
+Hang you pls
+ONE OF US
+The blockchain itself wasn't affected, people just got locked out of their (3rd party) wallets
+Will the money become accessible again?
+EIP - 156 will fix this and other growing pain problems.
+Investment confidence will moon because Ethereum realizes that code perfection is unlikely and has planned to augment decentralization.
+There's a split among the ETH community on whether they should do it, but the most simple correction is to hard fork and basically restore the network to the point of before the freeze.
+Obviously the longer they wait the worse of an idea this is.
+Rollback ain't gonna happen.
+Not sure about the EIP since it's their own fault those funds are locked
+foundation of Ethereum<---
+Those locked coins only decreases supply

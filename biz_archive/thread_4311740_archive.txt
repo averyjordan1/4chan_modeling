@@ -1,0 +1,33 @@
+afternoon bizfagsA few weeks ago I bought into the BTC FOMO meme, but my problem is I've got no idea what exchanges & wallets to use since I'm in Australia.
+I purchased my btc through BTCMarkets.net, but the transaction fees are 0.85% & you can only trade LTC, ETH, XRP & BCH so its not good for much.
+Have heard Bitfinex & coinbase are kinda shit too, but Gdax could possibly be the way to go??
+But I have no idea.Also, I made an account on Bitgo but never transferred my btc to that wallet.
+Are they any good, or should I not bother with that & just buy a hard wallet asap?TL;DR I pretty much just want to know what exchange & wallets to use, especially any fellow Aussies.
+All AUD exchanges will rape you with fees, i don't think there's a good answer.
+BTC markets seem like one of the least shady, it's what i use for the big coinsCoinspot has a lot of alts but the most appalling fees of the lot.
+Most people buy BTC/ETH on btc markets or independent reserve and send to an overseas exchange to buy alts.
+The US exchanges will still require KYC documents and the others are dodgy as fuck.
+Most people don't have problems, but i can imagine what it would be like to be the guy whose funds just disappear one day.
+yeah very true stuff thanks anon.BTC markets definitely still seems like the best AUD>crypto option, especially for the big coins.
+Do you own any alts?
+I didn't even think of the overseas verification either...& what wallet do you use if you haven't just left it in btcmarkets?
+Disclaimer: i only recently started playing around with this stuff too, so DYOR as well.I have bought some alts on Coinspot, also bought some shitcoins on Binance and immediately transferred to my own wallets (binance have a 2 BTC withdrawal limit for unverified accounts).
+Bittrex supposedly will verify Aussies provided you submit documents properly.
+I intend to do this at some stage but haven't yet.
+It looks like the best balance of reliability/cheapness for alts but some people still have problems.For storage i use a trezor.
+Cold wallets (permanently offline old laptop and/or USB) for unsupported altcoins.
+If i bought a hardware wallet again I'd probably get a Ledger as they support more coins and are cheaper.
+yeah cheers.
+Any reason why you chose Binance, just bc verification?
+Havent looked at it much but thought the UI was pretty shit.How'd you go ordering the trezor?
+no problems with just ordering direct from them & getting it delivered to you in Aus?
+Buy on btcmarkets with poli and transfer my holdings to ledger and my trading money to binance.If buying through cash use localbitcoins.
+These methods usually cost about 1% for the fiat buy in and 0.05% trade fee on binance.
+Binance had a shitcoin i was interested in but never ended up buying.Ordered direct from trezor and it arrived a week later.Suggest you use BPAY not poli - using poli may actually violate the terms of service with your bank and it is a theoretical security risk - you have to give Poli your banking password.
+4313055yeah nice.
+Thats pretty bizarre with Poli, when I signed up it was the preferred method to use with btcmarkets.
+But at the time I did think it was real sketchy that you have to give them your bank password
+I'm in the same boat as OP and have been getting raped by fees.It fucks me off having to use bitcoin to buy any alts.
+Is there anyway I can join a major exchange, transfer buttcoin then turn it into USD fiat?
++1I thought that wouldve been the standard.
+My plan was going to be to transfer my current btc to Gdax, then cash it out to USD and then buy alts.Is this not possible?

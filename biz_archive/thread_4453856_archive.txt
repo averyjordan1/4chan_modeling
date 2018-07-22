@@ -1,0 +1,17 @@
+> Tezos promised formal verification and governance mechanism, raised $240m+, don't deliver> Zen Protocol deliversI'm getting in on this so hard
+They use F*, so that's why I like it.
+wtf another F* user on /biz/ ?
+There's got to be like a couple hundred of us at most
+Zen ProtocolIs this Zen Cash?
+No it's a different thing
+What's the difference?
+Pretty sure I saw that logo on the Zencash logo contest
+ZenCash is a fork of ZClassic, which is itself a fork of ZCashZen Protocol is unrelated to any of the aforementioned, they're doing a smart contract platform with formal verification, and somehow they think they can get bitcoin to work on there?
+They have like 4 papers.
+it's hard to understand sometimes>Pretty sure I saw that logo on the Zencash logo contestSauce?
+I think Zen Protocol is older than ZenCash but that's interesting
+The name is pretty bad though, very confusing since there's so many ZCryptos
+IPFS also uses an isometric cube, maybe that's the connectionUsing F* to do pre-costed contracts is the most futuristic shit I've seen someone do in a blockchain period
+Using F* to do pre-costed contracts is the most futuristic shit I've seen someone do in a blockchain periodDESU I was impressed by the Mozilla guys are using it to formally verify parts of Firefox, Seeing it used to do pre-costed contracts was fucking mind blowing.
+It's crazy that that's even possible, let alone working IRL.
+FUCKING DESU, now my post looks like stupid weeb shit

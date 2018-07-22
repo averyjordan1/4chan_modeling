@@ -1,0 +1,2 @@
+Alright, I need a fucking break from all this shit, this stresses me out too fucking much.I'm thinking about programming an automatic portfolio rebalancing bot and open source it.
+Anybody know if there is a project like this already?

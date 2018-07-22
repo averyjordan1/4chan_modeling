@@ -1,0 +1,8 @@
+>make transfer from ED to exchange.2 eth.1 eth>both same address >triple check>the 0.1 arrives yet the 3.2 eth doesn't arrive>it's been a dayIs my eth "stuck"?
+What is going on?
+0.1 eth Tx hash (arrived): https://etherscan.io/tx/0xfbedb36fc697451c840b88d98639ae1bc75d07b2cbafa863632401b63e452b213.2 eth hash (not arrived):https://etherscan.io/tx/0x9d77723de68ff46d2b4ec54b432c33d02cac49a98f8cdf8e04caf38bde1121e9Now, how do I "correct" this?
+Bump
+It'll get there.
+That shit happens sometimes.
+When?
+!

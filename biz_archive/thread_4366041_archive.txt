@@ -1,0 +1,10 @@
+Can we start having /bot/ general threads here on /biz/?
+I know most of you are brainlets but some aren't and I think a little bit of knowledge exchange couldn't hurt.Basically, trading strategies, algorithms, analysis related to trading bots.
+General trading advice would also be welcome.
+I was running a Forex CFD bot which entered trades when stochastic was crossing from top/bottom and Bollinger was outside of Keltner, to avoid trading during squeezes.
+It only entered long if candles were above MA and short below MA.
+1h candles.
+It had an amazing accuracy but didn't make trades very often so I ditched it, I don't have enough money for it running to make much sense.
+Feel free to use this idea on your own if you're into steady but slow money.
+Bots are for pajeets and brainlets
+flip a coin

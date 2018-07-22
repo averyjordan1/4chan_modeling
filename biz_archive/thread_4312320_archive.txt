@@ -1,0 +1,103 @@
+Why IOTA will overtake all 1st and 2nd gen cryptocurrencies:>the fact of being by design fully distributed (once the coordinator is fully removed) - which is even better than just being decentralized>having zero fees>being extremely scalable (as of now bandwidth is expected to be the limit)>having zero inflationIn order to use IOTA for value transactions, you have to buy the token (since it holds the value - obviously).
+But because IOTA is actually a protocol and not limited to be used as a currency, zero-value transactions are possible.
+Now why are they any good?
+Here is the beautiful thing about the tangle: the more transactions there are, the faster and more secure it becomes.
+That's the reason why spamming the network is actually an honorable thing to do in IOTA.
+And when the network becomes faster and more secure, it also becomes more and more attractive to be used for fast and secure value transactions.
+>why does anyone actually need IOTA as you can use the platform with 0 IOTA.Internet Of Things is an emerging global network of smart sensors which will be embedded in everything, from smart cars to smart consumer goods to manufacturing plant robots to grocery store checkout machines.Sensors need a secure, standard way to communicate with each other, no matter the brand or product, and even when offline.
+This will allow for a new resource economy, where smart products will share resources with each other.>As an example, imagine being able to: do super heavy-duty Pixar CGI rendering on a base model Macbook Pro, or securely selling wifi access to your neighborsSensor data gatherers (agriculture, pollution, traffic, health, live performance, etc.)
+and/or content/product creators (videos, music, books, goods/services) have the power to sell direct access to the public via one time payment, continuous live micro-payment streams, or subscriptions.
+No third parties or transaction fees.IOTA allows all of this.
+Now.IOTA, with close ties to multi-national leaders in selected industries as well as governments, is strategically positioning itself as a standard protocol for IoT.By design, IOTA grows faster and more secure as network activity grows.
+all of this.
+why you guys aren't buying this up, i don't know.
+this is the future
+https://mobile.twitter.com/NickBeglinger/status/929255384736464896IOTA is the main platform partner of Hack4Climate 2017 which is sponsored by the UNThe new advisor of IOTA is Dr. Julie Maupin, She sits on the Fintech Advisory Board of the German Ministry of Finance and serves as a resource person for the UN Internet Governance Forum.
+As a member of the T20 Digital Economy Experts Task Force, Julie’s blockchain-related recommendations to the G20 were recognized as one of the top 20 policy proposals for the G20 in 2017.
+wtf is IOTA even used for?
+because it's literally a free communications protocol that can be replicated by anyone.
+Not a mineable digital currency, but a free communications protocol.
+It's almost like investing in PGP.
+As most of you might know already, Bittrex is following IOTA on Twitter.
+Sure, that fact alone doesn’t guarantee us anything, but when you connect the dots, a pattern emerges:>Bittrex API>Bittrex follows IOTA on Twitter>Massive mcap, hard to ignore>Massive trading volume, also hard to ignore>Media exposure, conferences>Corporates’ support>Active Development
+forgot linkhttps://bittrex.com/api/v1.1/public/getcurrencies(ctrl +f IOTA)
+nothing right now.
+it's like buying BTC before the pizzas were purchased for 10,000 BTC.
+it's speculation, but the upside is huge
+if you can't mine it how can you use it as a currency?buy more BTC brainlet
+Doesn't iota technically have transaction fees?
+If you have to complete proof of work to send your transaction, haven't you paid a fee in energy?
+The biggest issue next to scalability is transaction fees (they are largely intertwined).
+Bitcoin’s mean transaction fees have already risen above $1.
+The question of “Who is going to pay for it?”, arises regularly.
+Especially when it comes to micropayments and enabling a thriving Machine Economy, this question is no longer just a disadvantage listed on a Powerpoint presentation; but it’s a prohibitive factor that renders many of the use cases useless.Having uncertainty about how much money you will end up receiving in a monetary transaction means that you have uncertainty if your business model even works (after all, you want to make a profit..).
+How much money will you end up making from selling one resource (e.g.
+electricity, bandwidth, computation) from one machine to another, when transactions fees are often unpredictable?Even though we’re seeing a lot of R&D in this area, the overall conclusion is that Blockchain is not production ready, and most of the use cases that are being discussed right now cannot be executed at scale.
+Every technology in this space today is a Proof of Concept—even Bitcoin.
+It could be wonderful as a stable currency but awful for moon missions.
+stop breathing my air, pajeet.
+die.
+I'm still pissed that I bought a bunch a while ago, then moved it to my wallet.
+Then because my transaction took weeks to confirm during the 2.4.0 transition phase, literally the IOTA foundation took custody of my balance.It has literally been 2 months by now and I haven't seen my balance returned.
+what about the security issues.
+NOBODY WANTS TO HEAR YOU SHILL YOUR FUCKING SHITCOIN, THE FLIPPENING IS HERE.
+SATOSHI, THE EMPEROR, HAS COMMANDED IT
+Also I am not kidding.
+The IOTA foundation took custody of several thousand address balances over the course of months for reasons such as address re-use, and missing transition phases.https://blog.iota.org/gui-wallet-phase-two-of-the-reclaim-process-f5913109cf46The reclaim tool in their wallet is literally reclaiming wallet balances they seized, where you enter in their old seed and send it to them.
+Security issues were nothing more than Fake News Fud... Miners and Blockchain fanboys are scared shitless and trying everything to not have Tangle be adopted
+Am I wrong though?You have to confirm two transactions through proof of work to create a new transaction.
+Proof of work requires, well, work.
+Work takes energy.
+Energy costs money.
+who's this next to VW at a major UN sponsored event?
+OwOhttp://www.tangleblog.com/2017/06/15/the-tangle-is-safe-a-commentary/the supposed "iota-bug" by Neha Narula (MIT) was intended misinformation and market manipulation(Narula’s team provided no new information to the IOTA team.
+Security of the IOTA signature scheme relies on one-wayness of the hash function which was not broken, despite of the attempts to do so.
+Members of Neha Narula’s team have a vested interest in multiple projects that are in direct competition with IOTA; more infos https://medium.com/@mistywind/iota-cofounder-sergey-ivancheglo-aka-come-from-beyonds-responses-to-the-ongoing-fud-about-so-ea3afd51a79b )https://www.reddit.com/r/Iota/comments/78zjsx/get_your_balance_back_how_to_3_simple_steps/ this thread explains it.Before BTG the "tangle was under attack", so they froze the balance of 20k addresses (the two links cited on that page).
+Go ahead and cross-reference any of the addresses in a blockchain explorer, they have a zero balance currently.
+your not wrong, its just as much pow as btc is only everyone who uses it is automatically also a miner
+https://ruclip.com/video/QsdZVnq4G60/iota-vs-mit-a-deep-dive-programmer-explains.html
+So it is still stuck with the scalability/costs of proof of work.
+How do they secure the network sufficiently without making the difficulty of the proof of work prohibitively high?
+Name 1 thing that IOTA does that ETH doesn't.
+Zero fees for IOT?
+Meh.
+I can run a private ETH chain for my IOT network.
+Offline transactions?
+Oh wait, but that still does not work because of that coordinator bullshit.
+Also, distributed PoW is bullshit.
+You are essentially betting that a shitload of Raspberry PIs will outperform an ASIC farm.
+Insane.
+https://www.reddit.com/r/Iota/comments/78zjsx/get_your_balance_back_how_to_3_simple_steps/ this thread explains it.>Before BTG the "tangle was under attack", so they froze the balance of 20k addresses (the two links cited on that page).
+Go ahead and cross-reference any of the addresses in a blockchain explorer, they have a zero balance currently.How is this decentralized if they can just seize it or freeze wallet balances just like that?
+I ran their damn reclaim tool on Friday and I still haven't gotten my shit back.We can argue Bitcoin and BCH, and which one is getting cetralized, at least Jihan Wu or Blockstream can't do that kind of shit.
+A buncha cars and fridges n shit will mine your transactionsalso there is less work to be done to secure a transaction properly with a DAG than a blockchainREMINDER FAGGOTS THEY WILL BE IN NEW VOLKSWAGONS 100% CONFIRMEDProof: https://www.pscp.tv/edocalia/1yoJMpznXDOGQ?t=6m55shttps://www.coindesk.com/trust-odometer-blockchain-test-aims-turn-tide-car-tampering/https://mobile.twitter.com/CarstenStoecker/status/878689709903536128
+It's still in the Beta version, obviously you haven't done any researchThe Devs run a centralized hub that will nurture the tangle until it has enough users to stand on its own.
+reminder as stated in IOTA WILL BE IN THE NEW VOLKSWAGONSthis will obviously strengthen the network enough to be released from the beta
+Yeah.
+I'm going to trust them not to have complete authority over the network and relinquish it just like that.
+Other fully confirmed IOTA partnerships (besides volkswagon)>Satoshipayhttps://medium.com/@SatoshiPay/satoshipay-phases-out-bitcoin-partners-with-iota-foundation-b7927b76a63d>BOSCHhttp://untangled.world/bosch-xdk-using-iota-mam-masked-authenticated-messaging/>Luxofthttps://blog.iota.org/iota-luxoft-and-st-petersburg-polytechnic-university-supercompute-the-tangle-33092417ec0cwhat is IOTA even used foranything:https://paywithiota.com/
+https://www.reddit.com/r/Iota/comments/78zjsx/get_your_balance_back_how_to_3_simple_steps/>At the end of the reclaim process you get the message that your tokens will be sent to the address below, you should check that address if it matches with one of your addresses (probably the first) from your new seed.
+If it doesn't match, you got a problem where maybe the iota foundation can help you with since the tokens won't be sent automatically.>the tokens won't be sent automatically.Also do tell when they are going to manually send back my shit, which probably isn't prioritized any higher than the other 20k addresses they've frozen.
+It's been over 2 months since I've seen my balance.
+https://payiota.me/
+is there any price target for IoTA or loosely developed equation related to energy cost and device adoption or network usage?
+I have seen theoretical values or equations for cripple, bancor, and a few others which I watch closely, but I haven't seen anything for IoTA.
+That doesn't answer my concern.
+>How do they secure the network sufficiently without making the difficulty of the proof of work prohibitively high?If the work is easy enough that it can be done by fridges/printers whatever, then what protects the network from a bad actor who hijacks those things like with that DDoS attack last year that used morai or whatever it was called?
+The obvious answer is to increase the difficulty, but then most devices won't be able to do their own proof of work and instead will have to outsource to what will essentially be miners.
+I don't see the solution, please try to clarify.
+Short answer: No Long answer: IOTA is a joke no fucking chance
+great shitpost but nobody is buying whatever the fuck coin that's supposed to be
+Let me break it down for your retarded assBitcoin (or any mined blockchain)> A few chinks do all the processing> Tons of people use BTC> Processing power stays the same, therefore each transaction is slower, this continues to the point of unusabilityIOTA (tangle)> each transaction ""mines"" two previous transactions> more devices transferring IOTA = faster networkthe more devices are sending IOTA the faster it gets, and it's already fast as fuck, suck my dick FUDderThe way consensus is achieved in a Blockchain is through a very rigorous mechanism, that requires multiple parties to "race" against each other in an attempt to add the next Block to the Blockchain and get the block reward / transaction fees.
+Because of this, consensus is decoupled from transaction generation and is largely performed by a smaller subset of the network, oftentimes with a high entry barrier (as is the case in Bitcoin) which leads to further centralization.In IOTA, every participant in the network making a transaction also actively participates in the consensus.
+More concretely, you are referencing two transactions directly (branch and trunk transactions) and other transactions in the sub-tangle indirectly.
+Through this, validation is parallelized and the network stay completely decentralized, with no miners to delegate trust to or having to pay a transaction fee.
+This shitcoin only attracts autistic bagholders who dream about overtaking both BTC and ETH market cap, so pajeets a can sell their bags for 15USD/MIOTA
+autistic bagholders>sell bags for more than 15x current priceyou definitely know what you're talking about and keep up to date on these things, carry on
+Le "booby traps" in the code prevent someone stealing the code.
+(yes, IOTA retards actually believe this)
+https://medium.com/@SatoshiPay/satoshipay-partners-with-stellar-org-4288ae0baa72Wrong they chose XLM!!!!
+GET ewteckekd
+k why don't you steal the code and make billions of dollarydoos then jealous linkie fudster
+read your own article retard
+Bittrex is in the works, but they had a transaction fee associated with it for some reason.I'll be pissed if Bittrex charges fees

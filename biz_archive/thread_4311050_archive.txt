@@ -1,0 +1,95 @@
+Hi everyone,This is 140,000 unconfirmed transactions from people trying to flee the BTC crash by moving their coins to the exchange.
+However they made a mistake of cheaping out on tx fees.Not only are they losing money as BTC plummets, they are incurring massive opportunity costs by being unable to invest in BCH.Don't skimp on tx fees.
+Meanwhile bcash has zero unconfirmed transactions because, well, nobody is making transactions lol
+That's the funny thing.
+BTC is suffering massively right now for lack of miners.
+Yet if the miners leave BCH there's no downside due to small mempool.
+Does bitcoin crash even have a wallet?
+Yes, it's called "Electron Cash" -- a clone of Electrum but on the BCH net.
+Be careful though because there are some malicious wallets out there.
+Why would I make transactions with my bitcoin cash that's doubling in value every 24 hours?Bcoin is like a disaster movie where the highways are jammed with people trying to escape lol.
+This is what happens when you stop being a cryptocurrency
+a disaster movie where the highways are jammed with people trying to escapeExactly!People who are aware of the technical limitations are able to avoid this, but a lot of people aren't aware of such minutiae and they're stuck on the highway as the flood waters rise.Ultimately this is probably going to end up hurting confidence in crypto a lot, but this was bound to happen at some point.
+Reminder: Pay a decent tx fee or get fucked.
+How do I increase the amount I pay in fee s?
+!Please help a poor brainlet
+Depends which client you're using.
+In electrum:https://bitcointalk.org/index.php?topic=1814248.0Here's a couple plots showing fees:https://bitcoinfees.earn.com/https://jochen-hoenicke.de/queue/I recommend 800 satoshi/byte (0.008 BTC/kB) right now if you want to be sure it goes through.
+Unfortunately that means a typical $12 transaction, but the only alternative is to wait until tomorrow when the tx fees (hopefully) get cheaper.
+Transactions in the sense of USING THE FUCKING BLOCKCHAIN to send your coins in and out of exchanges, nobody is doing that.
+This is an attack.
+or, like every other "disaster" in crypto, people will forget about it in a few weeks and bitcoin will go to new hieghts
+Correct.So is this4311369
+Sorry I forgot the sarcasm tag.
+Here: sending fee paying transaction is an attack \s
+I dont have any of these issues lol.
+I pay my little 0.001 fee and am just fine.
+Is that considered a lot of money to you Bolsheviks?
+You're right on the edge.
+If any more miners leave BTC for BCH, your transaction is going to be stuck in limbo until tomorrow... or who knows when.
+!!
+!IF YOUR TRANSACTIONS ARE STUCK!!
+!There are solutions!Google 'bitcoin stuck transaction'https://bitcoinmagazine.com/articles/what-to-do-if-your-bitcoin-transaction-gets-stuck-1481042383/https://bitzuma.com/posts/how-to-clear-a-stuck-bitcoin-transaction/!!
+!IF YOUR TRANSACTIONS ARE STUCK!!!
+a disaster movie where the highways are jammed with people trying to escape>People who are aware of the technical limitations are able to avoid thisMfw.
+skipping the line full afterburner mode while normies cry and rage into the void.https://www.youtube.com/watch?v=Fh9p2OBS8H4https://www.youtube.com/watch?v=Fh9p2OBS8H4https://www.youtube.com/watch?v=Fh9p2OBS8H4
+Dude $12 is fuck all when BTC is going down to zero, guarantee yourself in the next block by putting absurdly high fees in ($50-200).
+You'll make it back if you get in BCH before it completely eats BTC's market cap.
+I can still cancel my order on binance, how do I get in on these tx fees so I can get the fuck into BCH already?
+Already have 50% of my capital in it, but I need more in.
+Except the people who don't escape get stuck bagholding and marketing it to the next saps.
+Pull out the rainbow chart, it worked last time!
+We've all seen the cycle in other shitcoins.
+Reminder: Your measly 0.001 BTC tx fee is no longer sufficient.
+If you attempt to cheat our God, Pink Wojack, he will eat you.
+Update: Your feeble offering of 0.0012 BTC fee is now insufficient.
+Pay at least 650 sat/byte or eat shit forever.https://estimatefee.com/
+Update: Oh, you thought you could get away with just paying 0.0015 BTC did you?
+700 sat/byte now; pay or else I shall transmogrify you into pink wojack.
+anyone else think its fucking pathetic that these bcash tards get offended over people not wanting to type bitcoin cash and make retarded slang in retaliation, like "bcoin" or "bcore"lmaothose don't even make sense
+CHINA
+m-mommy?
+OH!
+HEEEERRRROOOOOOOOOOOOOOO!!!!!!
+!MY NAME JIHAN0.002 BTC TX FEE NOT ENOUGHYOU MUST PAY ME 850 SATOSHI PER BYTENO CHEATING.
+PLAY FAIR OKAY?
+Update: 1000 satoshi/byte is the new normal.
+FUCK YOUR MOTHER .
+.
+.
+So, 409 sat/B, how fucked am I?It's been 12 hours without confirmation.
+If things go badly, it may never confirm due to exit rush.However most likely scenario it will take 48 hours.
+Then if if doesn't confirm, it'll return to my wallet, right?
+Albeit worth a lot less, but what's the limit it'll stay unconfirmed before returning to wallet?
+72 hours?
+Update: Fees dropped a lot in the last half hour after Bithumb exchange got DDOSed.But climbing back up, now you need ~750 sat/B.https://estimatefee.com/
+Yes, if it doesn't confirm, then you still own it.
+However there's no way to 'retract' your tx except by somehow re-spending the same coin with a higher tx fee, or waiting a looong time for it to fall out of mempool or for tx fees to fall.
+Once the new tx is confirmed the old one will be discarded.
+Unfortunately a lot of bitcoin wallets make this kind of double spending difficult.There are some other ways to deal with it, see:
+Yeah, I'm on one of those wallets where none of those tricks work, and I really don't have any BTC left do use either.But what's the longest in general it takes for it too fall out of the mempool?
+Upon reading more, it probably won't expire unless it has a very low tx fee.
+Because yours has an intermediate tx fee, the nodes will remember it for a long time -- you're bascially going to have to wait until the miners come back to BTC in which case your transaction will finally go through.The only way it would go back to your wallet would be if BTC crashed like really hardcore, in which case your BTC would be pretty much worthless anyway.
+tfw fortyeight hours without confirmation at 260sat/B
+Ah shucks, oh well.
+Let's hope it's rises instead and miners come back so the fee goes down, and it'll be worth more than when I sent it!
+But if I get this right, if it has a fee that is below what is currently "accepted" in the mempool, it won't ever get confirmed, or will it just take longer?
+Like, is there a chance it might get confirmed randomly despite having a bit lower fee than the rest, or is it like a hard cap of what the blockchain will accept?
+4315677I guess if we put it this way, with the current 155k unconfirmed transactions.My transaction at 409 sat/B won't be confirmed until all transactions with a higher than 409 sat/B has been confirmed?
+Bcoin is like a disaster movie where the highways are jammed with people trying to escape lol.See: Hurricane Rita contraflow in 2005
+Exactly.Unfortunately blocks are not being mined as quickly as they should (Miners moved to BCH), but there is a very high demand for tx.
+This is driving prices way up.1.
+BCH difficulty will go way up tomorrow at some point, and miners will return to BTC.2.
+If BCH crashes before then, miners will return.After that, the miners have to eat their way down through the mempool until they reach your fee level, and it will confirm.
+Update: Shit is back up to needing 900-1000 sat/B.Fugging hell.
+Is there no possible way to accelerate a btc transfer that was made from GDAX?
+I'm trying to use viabtc, but the transfer id provided by GDAX is not a valid transaction id / hash.
+Alright, I do have a good feeling BCH won't get a crip and will crash harder than expected.Like you said, the difficulty will go up meaning that it will suddenly not be as lucrative (I think) meaning that most will realize it was just a grab for the throne of BTC.I mean, looking at the BTC charts, it was down at 5.5k and is now at 6.1k again, meaning that it just seems like people panicked and slowly realized their mistake.Or could the price flux be because of the fee, meaning so much gets lost in the mempool that it stablizes and even rises?
+This is disinformation.The mempool retention time for an unconfirmed transaction is 3 days.
+Well, for now it's "Submissions are beyond limit.
+Please try later" so nobody can do it now anyway.
+Is that current?
+I saw that it was changed from 3 days to 14 days but maybe they switched back...https://www.reddit.com/r/Bitcoin/comments/6akhur/transaction_unconfirmed_for_72_hours_now_what/
+Ok now I'm not sure.
+Update:: I can't believe I'm saying this, but 1000 sat/B is going to have trouble getting confirmed soon.
+Some folks are moving up to 1100 already.https://estimatefee.com/

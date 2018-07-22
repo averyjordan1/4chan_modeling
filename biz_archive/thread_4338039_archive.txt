@@ -1,0 +1,45 @@
+Make a convincing argument for BTC.
+Why is LN/Segwit better than big blocks?
+Because it helps Blockstream make more money
+The tech is irrelevant if BTC has more public backing/awareness./thread
+It is worse in every aspect and bch will win We will go back to 3K before the end of the week
+Correction: everyone who runs a lightning node will make more money.
+Exchanges will effectively become distributed payment processors, much like they are acting as right now except the protocol is standardized.
+>reading /biz/>people here think blockstream will own the lightning hubs and you have to pay them to use themso many retards and toddlers in crypto no wonder some people are making bank
+both groups have an agenda.btc - banker takeoverbch - chinese takeoveryou still lose either way
+I literally don't knowCan someone please make a TECHNICAL argument about BB vs LN?I understand both sides have their monopoly reasons for doing it but I actually want to know which scales better
+Increasing the block size only helps a little bit ,in order to scale to Visa/MasterCard levels you would need something like 100mb blocks or more which would make the block chain fucking huge, nodes would become very centralised,lightning network opens a payment channel which would take a massive strain off the blockchain and save lots of tx fees ,core do actually plan on upgrading to 2mb blocks at some point anyway.The whole reason jihan wu wants Bitcoin Cash is because he was using an exploit in the POW algorithm to gain a 10% mining advantage and activating Segwit removed that exploit ,so it’s costing him millions ,he doesn’t give a shit about scaling ,Bitcoin Cash is a hostile takeover attempt that’s been in the works for some time.
+actually being a peer in LN would cost hundreds of dollars to open or settle a channelthat was easy
+Visa does ~ 2k transactions per second.With one block per 10 minutes, you need1.200.000 transactions per block.That would be around 600mb blocks.
+This desuI say this as a Cash supporter.
+It's still likely BTC will win even if Lightning Network is shitty as fuck (which it probably will be)As a corecuck you sounded pretty reasonable but you just had to go full retard in the second paragraph.
+Hint: chinks don't care about patents, anybody can use that "exploit", miners remain equal.
+So even if Cash became worth more than BTC (the only scenario in which asicboost has any use), all miners are using it and bitmain has no advantage.Also there are things that have far more effect than asicboost anyway, e.g.
+cheap electricity/fabrication>core do actually plan on upgrading to 2mb blocks at some pointMaybe in ten years.
+So that's meaningless.Also using Cash even with 1GB blocks is objectively more decentralised than Lightning Network which relies on large well funded hubs.
+So yeah BTC with 1 MB is a better store of value but for payments, Lightning Network is not better than Cash (or any other cheap altcoin)
+I always try to explain it but it takes me a lot more words than this.
+I'm glad someone does this though, cause I can't keep up with all the disinformation by myself!Also, apparently the exploit gave him between 20 to 30% advantage.
+And he admits it's a bad thing, and says he doesn't use it.But then we know he uses it.
+Segwit upgrade would make it so he can't keep doing it "covertly", so created his own coin to continue to corner the market.This has nothing to do with scaling bitcoin, 24 txs per second is nothing in the grand scheme of things, and we can also see how, as soon as the miners are back into BTC and the attack stops, the number of unconfirmed transactions is going down rapidly.I don't even know how people get connect by actual criminals into following them.
+corecuckwhat a reasonable well spoken individual, I'm sure we can have a good discussion going> it's ok to use the exploitNo, it's not.You obviously haven't been in this shit for too long, because it is a well known fact.
+All I said and all he said is true.
+Here is someone spelling it out for youhttps://bitcoinmagazine.com/articles/breaking-down-bitcoins-asicboost-scandal/
+This.
+as  saidno one uses fiat or iphones because they're technically better you deluded autistic neet.
+they use it because everyone else does
+>blockstream literally funded by bankers>somehow bigblocks is the "hostile corporate takeover"Never underestimate the mental gymnastics of corecucks
+the question is, is there actually proof of using bitcoin as a currency in real life?
+is there a point in using bitcoin as a currency in real life (high volatility, much more profitable as a holding etc)?
+Is bitcoin really satured, or parasited by bcash failed takeover, and bcash supporters spamming the btc network?
+In satoshi Nakamoto he expresses himself clearley "a peer to peer electronic cash system" what if his vision doesn't fit with reality and common application, what if bitcoin has mutated and become something else?
+In satoshi Nakamoto's whitepaper
+It has, it's digital gold now.
+even peter schiff knows it.
+everyone with a brain is already using other coins such as eth with faster transaction times to move to and from exchanges, bitcoin is only hodl material
+yup, so we agree, bitcoin cash is an altcoin that is inferior to any other altcoin (regarding tech), and has absolutely no purpose.
+even bitcoin has more advanced tech (ie segwit)
+If you want technical reasons why BTC is better than BCH, then why not make the same argument for people switching to alt cryptos that are technologically better than both?
+Second layer can still be developed for BCH, it's just that people won't be forced to use it because the main chain is crippled by tiny blocks.
+Plus we won't have to wait over a year for LN to be finished and we can actually use BCH as a currency in the meantime.
+if i had to use a crypto as currency, my choice would go to litecoin, stable, steady, fast, and it has been here for a long time.

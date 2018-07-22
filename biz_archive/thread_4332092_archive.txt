@@ -1,0 +1,5 @@
+Bit of background.
+I'm a programmer and mathematician with a speciality in programming language and type theory.
+I want to create a cutting edge language for EVM applications.
+How do I monetize this?
+build a product from the ground up, and make nasa pay for it

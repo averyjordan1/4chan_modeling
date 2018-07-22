@@ -1,0 +1,6 @@
+So i have a macbook air, i didnt even think about memory on my start up drive and i started downloading the bitcoin core wallet onto my computer, its taken weeks to upload just 50% of the past transactions, i already sent about 300$ worth of bitcoin to the wallet, but it wont show up untill the bitcoin core is done uploading all the previous transactions, now my computer is low on memory and i only have half of the transactions uploaded...do I have any options?
+can I buy and external hard drive and finish the upload on to there?....basically i bought 100$ of bitcoin 3 months ago when the price was about $3000 per bitcoin, I know its not a ton of money but for me it would even be worth it to buy a new hard drive just to get this money out, maybe use the rest to buy a hard wallet
+Backup the seed, delete Bitcoin core, download Electrum - Electrum.org; it's a light client that doesn't need to download the whole blockchain - and restore you wallet from the seed.
+Actually, restore the wallet on Electrum before deleting Core.
+Just to be safe.
+falling for the macbook meme

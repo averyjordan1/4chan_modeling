@@ -1,0 +1,17 @@
+I have a coinbase account (yes I know...).
+I enabled 2fa.
+I lost the phone.
+I got a new one.
+When I try to reset 2fa, and it asks for my ID, I get ID verification failed every time I upload pictures of my license.I tried emailing their support and and they told me they don't take emails anymore and me to talk to their bot, which recommends I download the app, which has no option to reset 2fa verification.is it all over?
+How much did you have on it?
+~400 worth of ETH
+DEFLATION.
+THANKS :D
+Same thing happened to me, go through the support process on desktop and you should see an option that allows you to take a selfie with your ID and submit it to them.
+Wait 2-3 days and they will disable the 2FA.
+Don't sweat it.
+I am doing it on my desktop :\I get to this screen and no matter which one I select, and no matter how many different photos of my ID I try taken from my cell camera, I instantly get "Your verification failed"I even tried using my passport.
+whoops forgot my pic
+Shit, sorry, maybe I did it from my phone then.
+Either way, I specifically recall being able to access the 2FA recovery on one platform and not the other.
+Try it from the app if you haven't already.

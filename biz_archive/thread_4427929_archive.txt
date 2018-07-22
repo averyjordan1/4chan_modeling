@@ -1,0 +1,71 @@
+Hi lads,I've worked on an anomaly detection app for a while now.
+It detects pumps & selloffs spot on.
+It works on a remote server 24/7 and notifies me via Push message to my Android once it detects pump/selloff signal.
+So far, so great.My question is:1) Would you be interested in using such service yourself if I'd create one for multiple people?2) How much would you put down on the table monthly for such service?Looking for your feedback
+Maybe 1 week trial and if it works, I would pay like 10-15 bucks a month for it.
+lemme try
+I already have a pump detector bot on telegram
+After a good success rate during a 1 month trial i'd put down up to $20 a month.
+>he doesn't make at least $2k USD a week shilling (marketing) crypto ICOspump and dumps are chump change
+So far, the app picks 20 highest BTC daily volume pairs only.
+I'm not interested in low volume pairs.
+Too prone for a quick crash after initial pump.
+I'm testing waters here.
+Would invest additional time in delivering mini SaaS only if there's demand and good price, not pennies.
+fuck your app I'm making $300 a day shilling in crypto groups
+What are the tell-tale indicators that a pump is going to happen?
+not installing this, it's going to steal my bitbeans.
+Haha, not telling this ;)
+I'm using Pushover 3rd party app (available on Android and iOS stores) for this purpose.
+Tell or fake
+Say there would be a 1 week trial.
+By this you'd be able to figure out if it's fake or not.This thread is not about this.
+My question is: assuming it's there for 1 week trial, how much are you are willing to pay monthly for it.
+if you are serious about this most people on here are not only curious but willing to pay if it actually works so maybe SHOW a trial video of it working or some results or just generally start small yourself then post the trades its suggested so far etc.
+Its all about if people BELIEVE that paying you will actually make them money.
+That's a great idea.
+I'll screenshot Push notifications with the info, charts at those moments and later price movements.Probably by the end of next week I should have something to deliver.
+yah 15-20USD people doing cool shit everywhere these days
+Cool beans, seems there is some interest here.
+Will do some MVP work then, meanwhile, wait for a new thread by the end of next week.
+I'm too poorfag to buy anything, but this is very entrepreneur of you OP, I wish you all the luck
+amazing idea anon.
+I cant give you however an accurate sum since you have many people with different incomes.Since i am a poorfag i would pay 10 € a month and more depending on my success.
+4428367Thank for your feedback!
+This actually motivates me to start working on it ASAP to show it to you all.
+Thanks once again!
+It already exists and is freehttps://cryptoping.tech/Also more sophisticated than whatever hack solution OP came up with
+This looks cool!
+Thanks for sharing, nevertheless, competition is always good.
+OP what indicators / algorithms do you use to detect pumps?
+Look into the telegram bot.
+That 's your competition.
+What does happen during pumps?People buy coins in short bursts => volume on buy side of the orderbook spikes / steadily increases over time
+react-native?
+Pump detector running on vanilla node.js as a daemon under pm2.
+Frontend will be with vanilla express.js + passwordless.js.
+Haven't decided on whether to go with pure old fashioned static html/forms or to use Riot.js with some socket.io sugar.
+Will see, it's an MVP after all.Also, I ((love)) KISS principle.
+Apps purpose is to do it's job and do it well, I hate seeing sites with literally MBs of Javascript with intention mostly just for the sake of showing off and going with the UX SAP trend shill stuff.I'll have a look into this.
+Seems like even better approach, reduces app count on user's phone and reduces running costs for me.
+using javascript for anything but frontend your shit is trash and won't scale
+OP Ive made a pump detector bot too and sell it as a lifetime license.Contact me if you want to talk tagigaxa@banit.me
+For certain extreme project I'd deffo agree with you, but for this project where's one daemon instance and one web-app instance I see no reason why not to choose it.
+Building quickly, saving yourself tons of hours is a no-brainer.
+Plus, there's many projects running on AWS lambda, horizontal scaling is no issue at all over there.
+But let's not compare apples and oranges :).
+So many bots on twitter that do this already.
+Sorry.
+Dude, that awesome!
+I'm gonna choose monthly pay-as-you-go approach.
+Gives more incentive to maintain and build-up the project further if there's demand and traction.
+I don't want it to notify me of pumps, I want it to invest my coins without my knowledge or consent, and I would expect it to be paid on commission.
+Like it could have have of the profits it makes, denominated in BTC over a week or month long timeframe.
+If it was making money I'd go all in.
+Everyone chooses what works best for them.
+To try and see if you like an alternative that costs nothing at all to try is a no-brainer to me.
+I'll reiterate myself, I'm just looking to see if people are interested and if there's any incentive for me to deliver something useful to others while getting some moneys back for my work and intentions.
+Thanks for this!
+I actually thought about this idea myself, as I've already got one automated trading bot built with solid buy/sell approach.The one thing I lacked was finding a good entry point, hence why I've implemented this anomaly/pump detector.I'll explore this idea further once MVP is released.
+Once again, kudos!
+link us up then cuz

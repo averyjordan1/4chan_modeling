@@ -1,0 +1,102 @@
+Ripio (RCN) is a global credit network based on cosigned smart contracts that connects lenders and borrowers located anywhere in the world and on any currency.
+The smart contracts connect agents with information on the borrower’s identity to agents that analyze the borrower’s credit risk impartially, thus standardizing credit lending through blockchain technology.
+A cosigner acts as a reinsurer that distributes and reduces the lender’s risk and, at the same time, helps to improve the contract conditions by retaining access to the borrower’s local legal system.Ready product: Look at what happened to POWR.
+Ripio has a userbase of 130k+ and are growing at 20% monthly as confirmed by the team in their AMA.
+Their credit offering bussiness is up since a month and they will first transfer their existing loanbook to the Credit Exchange.Funding: Funded by Tim Draper, Fenbushi Capital, Pantera Capital, etc.
+They had a no bonus/discount policy for their ICO.
+They have been receiving funding by VCs since as early as 2014.
+VCs never fund a declining company.Competition: Closest product by similarity is SALT but cannot be considered as direct competition as they give crypto backed loans.
+Borrower needs to have collateral and is restricted to cryptoland.
+Ripio is Fiat to Fiat lending and borrowing where the risk is taken by the cosigner (read: Financial company)Major Exchanges: Bittrex, Binance, Huobi, EtherDelta.
+Haven't heard of a project which got listed this fast on big exchanges within a week of the ICO.Real use case: P2P lending is not a new concept and the market for the same has been growing exponentially.
+Ripio is aiming to enter the market in emerging countries where penetration of banking is low.
+This is not one of those projects with a revolutionary product which can change the world blah blah blah.Decent Team: Team is decent with a lot of experience and they have been delivering everything on time with reference to their road map.
+smart money is already in , no need to shill it here with those brainlet pajeets
+i put my money on this and salt, i think both will do well with a bit of competition
+Dude, shut up.
+No need for this
+argentina
+I've got almost 50k, I can't stop buying these juicy dips
+Same.
+I'm 70/30 SALT and RCN.
+Can sit on hands and enjoy holidays.
+What is the tokens use case though?
+yeah im wondering this too
+heard this before.
+Dont think it end well for that person holding now.
+shut the fuck up no need to shill good coins in here.. /biz/ only likes pajeet coins like POT.
+Go autists don't listen to him, buy POTCOIN
+DELET.
+we don't need a PnD on this coin.
+be patient, /biz/ won't listen with all the pajeets posting.
+Its a lost cause.
+Lending and borrowing in Fiat using smart contracts to link them.
+It is pretty interesting.
+confido 2.0you've been warned
+Fucking pajeet, they are a working company in Latin America funded by some of the biggest in the game and an alpha version ready.
+Confido was pigeon poop.
+Ripio>gemYour bags are that heavy uh?
+It is good project, but it is better to wait untill q2 2018 when they release their global platform.
+I think price will slowly decrease until that time.
+the real gem is in here https://discord.gg/yGKwc8R
+This.
+Let it slowly moon.
+Scam coin, its price reflects this
+Found a GEMyeah there was absolutly no shilling here beforegtfo with ur bags
+Don't need the shilling, its one of those boring coins that climbs on its own merit.
+Don't want to see this get meme'd.
+Go shill GRS or whatever the coin of the day is.
+4485314This is my biggest concern too.
+The project itself looks great but it's a utility token that seems mostly to exist to raise funds from the ICO.
+I don't think there's any mechanism that would make the token itself increase in value other than hype, which this coin currently has very little of.
+Please stop posting this.
+It's a scammer shitcoin for beans.
+Can someone please adress these concerns with PROOF?
+I don't want ti buy something like XRP to Ripple - a token that has no value, while the network does.
+they have an existing business (https://www.ripio.com/en/) and customers to easily sell this to.
+Thats huge for adoption.
+Thats why OMG is what it is.
+Do you deny this?The ICO pre-sale had NO BONUSES.
+Do some googling please.
+But even if there were, what does Tim Draper have to gain from making 10% on 10 Million?
+When you're in the billions you're only concerned with making 100s of millions.
+Thats why they invest in ICO and HOLD.
+Maybe he'll dump some when its 3-400M market cap, probably not till its nearing a billion (est.
+Q1 2019) or more.Its a little pumped right now but may not go much lower.
+Long term it won't matter.Market cap= 67 Million.What problem it solves: A global peer-to-peer credit network based on co-signed smart contracts.With RCN you aren't limited to just borrowing crypto (btc,eth etc) you can borrow any currency in the world.
+(USD,CAD,YEN)The RCN team has over 15 developers and genius advisors such as Sergio Lerner the cofounder of rootstock.Key investors= Bilionaire Tim Draper; The guy that found skype in 2005 and sold his share for 1 billion USD recently, the guy that bought 30,000bitcoin from the us goverment during the silk road closure.Bilioniare Lu Guanqiu ceo of the company Fenbushi Capital;Once called “China’s Elon Musk” for buying out an American hybrid-electric car company,Lu Guanqiu is the founder of Wanxiang Group, one of China’s largest automotive parts manufacturers.^ These guys do not fuck around google there history.This coin was added on bittrex A WEEK AFTER being released.
+Name one coin recently that was added to bitterx instnatly?
+This coin is serious...do you think these billionaires would invest in this coin if it wasn't going to literally 50x?
+Follow the smart money /biz/ It literally is around ICO price.
+In developing countries such as in South America, it has been reported that up to 65% of the population are Unbanked and may have no access to Credit Facilities through traditional banking.
+Ripio intends to solve these problem by providing these users with an alternative Credit Facility.
+The Ripio Credit Network works to connect borrowers, lenders, and other network agents all over the world, allowing each one of them to manage the credit in their local currencies, as long as they have Internet access.How does it work?The Network will consist of a Borrower, Lender, Wallet Provider, and Credit Exchange.
+All of which will be connected through a Smart Contract.
+The flow of money is as below:Borrower <- Wallet Provider <- Smart Contract <- Credit Exchange <- LenderTo illustrate:Let’s say Juan in Argentina wants to borrow $5,000.
+Lin, who is halfway around the world in Shanghai is willing to loan him the $5,000 + 10% Interest.Once the terms are agreed, Lin sends the money through the Credit Exchange in Fiat.
+The Credit Exchange uses that Fiat to purchase RCN Tokens to send it over to Juan’s Wallet Provider through a Smart Contract.
+Juan receives the RCN Tokens and converts it back to Fiat.When it is time to repay the loan, Juan returns $5,500 through the same Channel, by using RCN Tokens as a medium.
+The borrower receives Fiat after converting the RCN Tokens.All loans work on a Fiat basis between borrower and lender, by simply using RCN Tokens as a medium of exchange.What does this mean and how can we benefit from it?
+There are 2 main ways to benefit from the Ripio Credit Network ecosystem: If you are a lender, you can lend in Fiat and earn interest in Fiat.
+If you are a RCN token holder, you will become a liquidity provider to facilitate the P2P loans, and earn through the increase in value of RCN Tokens.What value does the RCN token holders have and why should the price increase?
+All RCN token holders will become liquidity providers.
+For any loan to go through, RCN tokens will need to be purchased from the Market to facilitate the transfers.
+The higher the number of transactions, the higher the demand for RCN, and thus the higher the Price of RCN tokens.Investment Proposition• The ONLY source of RCN Tokens at the moment are held by the public, as the Company’s tokens are locked for 1 year.• Ripio has an actual working product with 100k users, all 100k of whom will be migrated to the RCN Exchange next week!
+- http://rcn.exchange/• Ripio themselves will be the first big lender, which means that they will go to the market and acquire the RCN tokens, generating demand.• As new credit exchanges and lenders join to the network there will be even more demand for the RCN token.• Top A-grade institutional investor such as Pantera Capital, Fenbushi (Vitalik Buterin's Fund), Tim Draper, Digital Currency Group, Medici Ventures, Huiyin Blockchain Ventures has invested in the companyWhat exchanges have listed RCN?• Bittrex (despite extremely strict with listing recently) • Binance • Huobi Pro • More to follow..My personal opinion:Being from a developing country myself, it is easy to underestimate the number of Unbanked people who have no access to Credit Facilities.
+Like it or not, Credit is an essential part of expansion and development in an Economy.As for the Company, what makes Ripio stand out is the creation of a true Utility for their token, whereby all parties in the ecosystem are incentivized to use it and will benefit from it’s increase in Price.As Vitalik Buterin would say, the Crypto-Economics of their Model is spot on.
+This is my personal opinion.
+As always, do your own research and feel free to leave any comments or questions.TLDR;• RCN Tokens are used as “gas” to facilitate P2P loans• RCN Tokens have to be bought from the open market• Ripio themselves will act as lenders and purchase RCN Tokens from market• RCN Exchange launching next week.
+100k users migrating• The higher the number of transactions, the higher the demand, the higher the price of RCN TokensFor an in-depth review, you can read their whitepaper, which is available at https://ripiocredit.network/The market for alternate finance gained popularity in recent years.
+A finding by Transparency Market Research suggests that “the opportunity in the global peer-to-peer market will be worth $897.85 billion by the year 2024, from $26.16 billion in 2015.
+The market is anticipated to rise at a whopping CAGR [Compound Annual Growth Rate] of 48.2% between 2016 and 2024.” While Research and Markets estimates the global P2P lending market to grow at a CAGR of 53.06% during the five year period between 2016 and 2020.
+Morgan Stanley in a report in 2015 predicted that such marketplace lending would command $150 billion to $490 billion globally by 2020. http://www.nasdaq.com/article/the-rise-of-peertopeer-p2p-lending-cm685513Ripio's value is not based on a coin gimmick, the tech behind RCN is nothing special.
+Ripio's value comes from the fact that it has proven people going into an industry that is sure to rise and they will start making money in the near future, not 2-3 years from now, but NEXT year.
+By april their roadmap will be complete.
+check my replies i address the purpose of the token
+t-thanks
+I can't wait more than 35 seconds for a coin to moon.
+What is it with these "pump my bags" threads stop trying to make RCN happen.
+ANGRY BUMP
+44894184489451Why are you shilling so hard?
+put a little in.
+it has credit checking and lenders insurance, making it a contender instead of just garbage like Elix.

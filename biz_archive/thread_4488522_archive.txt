@@ -1,0 +1,10 @@
+I want to start mining Monero.
+I can spend $2k-$3k on a rig.
+I know absolutely nothing.
+Can you guys give me some tips to get me going better than the cursory google search?
+Buy a new server..
+Mine monero on that.
+bumperino.
+Go to the Monero website and check the mining page.
+There’s a benchmarks list for all of the different GPUs... hashrates and wattage... most profitable GPU for mining Monero right now is AMD Saphire 64 8GB... they run about $500-600 per card... 6-8 cards will net you $400-$600 per month... it will cost you $5000 though... rule of thumb... you’ll need a H/s per Watt of about 5 to make a meaningful profit.
+Thank you.

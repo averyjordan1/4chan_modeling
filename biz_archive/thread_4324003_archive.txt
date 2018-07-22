@@ -1,0 +1,20 @@
+The difficulty adjustment on BCH will take place in about 2 hours.
+BTC will be much more profitable to mine after that.
+Most of hash power will very likely switch over to BTC.
+If the whole market realizes that already or not is unclear and thus we don't know what the price will do.The new difficulty algorithm (DAA) will start working about 24 hours after the adjustment.>Activation of the new consensus rules will be done on a median time stamp basis on blocks that occur after timestamp 1510600000, which corresponds to November 13th, 7:06 PM GMT.
+This activation code has been merged.The new algorithm is supposedly one that adapts very rapidly.
+Difficult to say what the profitability will be a few days after DAA gets implemented.There are a lot of unconfirmed transactions on the BTC chain right now.
+Once hash power moves back to BTC, a lot of these transactions get through.
+Some believe that the result is thousands of BTCs getting on exchanges to sell.
+A fact is that the mempool will start to get clearer again.If majority of the hash power does not switch back to the BTC chain then that is a clear indication, that miners expect or want the Core chain to die.
+BTCs next difficulty adjustment time is about 20 days from now.
+If the market radically turns its back on BTC before that date, then BTC might never be more profitable than BCH anymore.
+Very unlikely scenario.
+Great post bump
+YES very accurate info.
+thank you.
+all hail bitcoin cash tho!
+all hail bitcoin cash tho!the absolute state of reddit
+I saw some noobs here think that the BCH adjustment and hardfork are the same event.
+Needed to bring som knawledge to them.
+Any idea what program builds these mosaics?

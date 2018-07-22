@@ -1,0 +1,39 @@
+How will BCH scale without side chains?If it really will have 100 million people buying cups of coffee with it, they need gb blocks.What is the plan?Or is it really just a fucking short-term scam?
+People don't care about solutions in crypto.
+To increases the block size is one of the most retarded things.
+But i guess, a fork every few months is great ;)
+Jihan Wu will think of something, you dumb niggaALWAYS TRUST JIHAN
+yeah, segwit is the real solution anon.
+absolutely works WAY better than increasing blocksizes and decreasing feesfaggot
+It will scale onchain, 1 of the BCH dev teams is developing software to drastically reduce block remittance sizes.
+So much so that a 1GB block is equivalent to 20MB, it's called graphene, check it out.Google bitcoin graphene I CBF getting the link
+Second layer scaling can still be used with Bitcoin Cash.
+It's just that people won't be forced to use them by artificially limiting the block size.
+WTF there is no plan?
+you can do lightning network on it without segwit.
+Don't believe that there's something wrong with increasing blocksize.
+The concern of centralised nodes is ofset by the possibility of node rewards and moores law.
+1mb and all the off chain scaling in the world certainly isn't a solution
+ETH and some alts are the future anyway so it doesn't matter in the long run, but bigger blocks are keeping true to Satoshis whitepaper (which blockstream want to outright change) because the 1MB block limit was only put there by Satoshi to protect the network against DDOS attacks.
+Blockstream aim to use segwit to take transactions off chain (which defeats the point of Bitcoin).
+One chain is being turned into something that isn't in Satoshis whitepaper, and the other one is.
+Graphene is about block propagation speed and not for making txs smaller
+same shit derp
+The future of bcash:- 1 GB - 8 GB blocks (I'm not kidding, this is their answer to the scaling problem)- Highly centralized mining farms- This is important:BCASH WILL NEVER BE ABLE TO EXECUTE SMART CONTRACTS.
+Seems this is already implemented in bitshares
+The solution is make an alt coin and convince the world to use it to "buy cups of coffee"Not cannibalize bitcoin, which is what is happening.
+This is going to kill bitcoin, kill public perception, and forestall adoptionbesides which, bitcoin is absolutely not useful for small purchases and shouldn't be used for it.
+>“Bitcoin cash is trying to scale everything on-chain but this doesn’t work for a decentralized system,” Lee said in a telephone interview.
+“Bitcoin cash is also miner-controlled and miner-centralized.
+It’s pretty much all sorts of wrong.”Basically killing bitcoin in the eyes of the public.
+Since the forks, nothing but bad press, confusing the public and putting a bad light on crypto as an investment.
+One plunges, they all plunge.
+This is how a market cap gets cut in half and takes years to recover.Instead of a "new paradigm of money" the public is only thinking of this fucking drama, plunging prices, people being foolish, etc.
+Literally killing crypto with Public Relations, personalities acting like stupid children arguing in public.
+It is just going to wreck it all.
+Who cares if its Wu or Ver or Hoskinson, or Core, or Cash or whoever.
+These personalities have nothing to do with crypto but in the eyes of the public, it has become a clown car show.
+Literally a bunch of millionaires with nothing better to do with their lives ruining everything for everyone who took a risk investing in this space.
+besides which, bitcoin is absolutely not useful for small purchases and shouldn't be used for itIT WOULD BE IF YOU REMOVED THE GAY FUCKING 1MB BLOCKSIZE LIMIT
+graphenethanks for that.
+I only new about lighting so far, graphene seems interesting but im gonna need more time to actuall understand it.So graphene would work with both BTC and BCH ?

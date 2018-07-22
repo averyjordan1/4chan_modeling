@@ -1,0 +1,40 @@
+My experience with cryptocurrency has been one of observation, I haven't done any investing of any sort.I want to start mining and make some profits but I'm not really sure it's worth it.I've done most of the math, I'm looking at an initial investment of around $2000 to get the mining rig up and working, and 2-3$ daily in electricity, for a daily profit of $8-10.With these numbers it would take roughly 8 months for me to repay the initial investment and that's not taking into account mining difficulty going up or hardware failure.I heard the arguments that mining profitability has peaked, or that it's better to just invest the initial money to buy cryptocurrency directly but they weren't very convincing.Thoughts?
+GPU mining is soon to be mostly dead except for some special cases like Vega for Monero.
+Some farms are already selling their GPUs and closing down before the second hand GPU price crashes to the floor.The impending doom stems from Ethereum likely transitioning to proof of stake within the next 1-3 months.
+All those polaris card miners who don't sell them will flood into all the other gpu friendly POW cryptos and only miners with very low local electricity costs are going to have any real profit.
+What are you going to mine?
+Ethereum will switch to PoS soon.
+Mine shitcoins and hope they moon.
+4538228jej, you both have no idea of how the whole mining thing works.
+I know, cause i'm a miner myself, and there will always be something profitable to mine.
+Is it really going to be completely dead, is Ethereum single handedly making mining profitable?You make a good point with GPU price crash, a lot of people will be looking to sell theirs and stop buying new ones.Buying gpus now when the prices are so high is not ideal especially when I won't be able to make nearly as much reselling them in the scenario I have to cut losses.But people have made these claims before time and time again and it was never true.When ETH stops being minable, there's going to be something else, even with all the new miners flooding in from ETH.At least that's my impression from reading mining forums.ETH for as long as possible, then monero or ethereum classic or other profitable altcoins.I don't think mining can become not profitable, but that's my amateur opinion and why I'm asking here for more solid arguments.can you give me your thoughts on me starting now with the numbers I've given?
+I've got 4 1060s mining xmr at 2.1 kH/s I mine roughly 1 xmr a month, in 4 months if the price peaks to near 400-500 I have my ROI done.
+PoW won't go anywhere soon, and certainly won't be made obsolete by any purely PoS coins out there.
+Key is finding promising, fresh projects which are not tradeable yet, pointing your rig there and mine as long as difficulty is still low, then hold &wait for exchange listing.
+Mining is still the best hedge against a full blown crypto cash.
+Used 1080ti still go for 500-550 until volta arrives, if you manage to snag some up for cheap you make profit after the first two months
+btw can anyone help me with xmr-stak?
+everyday at 12:26 it just shuts down.
+it doesn't matter if I have it on for 24 hours or just 1 hour.it's amazing
+Get a solar panel so your electricty cost goes down.
+Then you can afford to run more rigs too.
+Then you can buy more solar panels for more rigs and more righs for more solar panels.
+How the hell do you get into those projects?Everything I find is premined bullshit or just outright scam.
+Lurking BTCtalk ANN Forums, basically.
+Keep your eyes open for non premined, solid Projects with active github and roadmap.
+For example: the last few weeks there has been a flood of new, literally copy and pasted neoscrypt algo coins with mn support which are all a scam.
+You don't pick these.
+Buy vegas man, don't cheap out
+I've yet to see a coin that's not an outright scam.I don't lurk there often, but i open it every few days.Can you show me the last one that wasn't just pure buy my premined masternode?
+Just set it to auto restart.
+Nicehash offers that option.
+You can allways script it
+I'm not interested in getting paid out in btc .
+xmr all the way.
+but I have a work around, but it would be nice if it didn't shut down at h hour every fucking day without an error.
+it's driving me nuts
+Why not just buy monero with your bitcoin after you mine it?
+Good thing about nicehash is that you don't have to download a miner everytime a coin's profitability jumps
+Well BCO was great to mine during summer.
+Same with SIGT (even though it was a scam at the end).
+Mined SIGT with 2 x1070 at the beginning and basically ROI both GPU within 4-5days

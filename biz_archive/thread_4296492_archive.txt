@@ -1,0 +1,150 @@
+Please give me one good reason why you support 1MB block sizes.I'm watching a video of Roger Ver on youtube talking about how they were in the process of incorporating bitcoin into mobile apps with 150million users and how bitcoin would be worth over 100k today but it was all halted by the bitcoin scaling problems.If you have been holding bitcoin for more than a year then core has kept you from making 10x more gains than you already have.
+Please explain why you support them.
+No one?
+Kay.
+Going all in on BCH.
+ok
+corecucks are all retarded and think btc will go up because it always has in the past + brand recognition, don't expect them to explain any plan on fundementals
+Is the 1MB Block a solution?
+No, then you have to increases it to 2MB = another fork, then 4MB = another fork.
+People are so short sighted.
+Im getting the feeling BTC is becoming normies and reddit fag coin
+But it has always been like that.Changes require consensus, theymos, cobra and maxwell all have to agree, and years of testing.Do you even realize how complex and advanced a 1MB limit is?
+It looks like 1 or 4 lines of code, sure, but it effects the speed of light!
+I'm sorry everyone ITT is mad that BCH is dwindling and will crash soon.
+I'd give you a tissue if I could anons...
+>b-b-but if the block size gets increased how will the poor kids in africa run their $4 raspberry pi nodes?
+Scaling is a solution you retard.8mb now, 32mb next hardfork in a year oe four, 128mb, then 1GB blocks with Graphene for block propagation.The bigger blocks, the more energy effecient Bitcoin is, the more tx of any kind it can process.
+it has been going up because of brand recognition, fundamentals are almost entirely fucking irrelevant
+same.xmr, vtc, ltc, are much better choices.
+hell, through pivx in that mix too.
+I was an altcoiner because bitcoin was shitty dinosaur tech I couldn't get behind.
+I'm starting to like BCH so much I'm going to make it 75% of my portfolio.
+I hope it dips so I can buy more cheaper.
+BCH is the bitcoin that was meant to get to 250k and you can buy it for 1k today.
+No small nodes can handle that kind of blocks.
+Nodes will turn into a thing for companies only, in turn making it even less decentralised.
+And it's not more greener.
+Bigger blocks doesn't mean less difficulty, only less hash power.
+Would you recommend buying some some XMR at the current price?
+Was thinking of scooping some up.
+And what do you think when Bitcoin futures will be reality on the CME?lol.
+No shit, but Bitcoin was a nice start but will be Bitcoin classic since it has no real use anymore.
+Always a good idea to buy Monero.
+Who here has actually tried running a full bitcoin node?
+It's already a pain in the ass.
+155gb on an external and its taking weeks to sync.
+didnt even finish, I had it plugged in and syncing for at least 14 days and it only got to around 30%.
+and thats on standard pretty fast USA internet.
+non sequiter>(((echo posting)))>feign ignorance>astroturf>dinosaur tech>satoshi's vision>problem reaction solutionAKA how to be a bch nigger
+because you lose the nature of decentalization?because you increase the risk of a 51% attack by consolidating the amount of regular people who can run full nodes and make confirmations?get out you nigger
+bullshit, you can get a 10tb drive for 300 dollars today and theyre only getting chaper.
+kek
+because you lose the nature of decentalization?he said, while embracing off-chain centralization solutionskeep drinking the koolaide corecuck
+Lightning network, raiden, ripplenet, whatever you want to call it.MUST deal with 99.9% of transactions.
+1 tx = 500 bytes.Visa = 160 billion transaction history.Worldwide scale = 70 petabytes if its on the blockchain.That's 1.6 million worth of hardware just to store the blockhain on one node.Not going to fucking work.Now with lightning, 99.9% goes off chain, brining down node costs to $2000.Much more doable.The 1 MB 8 MB 2 MB debate is pointless, it's just a distraction from the fact that Bitcoin got popular and hasn't delivered the one tech it absolutely relies on for scaling.
+have fun with your centralised offchain transactions getting taxed and held ransom at will.Lightning network is a scam.
+Designed to rob you of your freedom.
+Imagine a world where your cash under your mattress is useless, you are forced to use Bitcoin.
+One day you break the rules, and they decide to lock your bitcoin wallet transactions.
+You cant feed yourself.
+giving the government complete control over your lives, just so that you could have slightly maybe better transaction speeds?
+Think about that for a second, we want bitcoin to remain decentralsed and free, not controlled by corporations who only seek to rob you of everything you hold.
+ok how about 1 technical fact to back any of that up instead of just ranting like an /x/man.
+and in the process you hand over transactions to kike corporations subject to kike laws, i.e destroying any and all decentralizationif the transactions are not decentralized it's not a decentralized currencycentralized mining is a smaller problem than centralized transactions
+What a bullshit reddit mentality reply
+ok, well then cryptocurrency in your world view should be absolutely useless.Useless!Credit card transaction fees are 1%.
+If crypto can't beat that, there is no incentive for retailers to adopt crypto, unless they just want to cash out on the meme like overstock is doing.Clearly the math is not in favor of on-chain scaling.
+what a bullshit non-rebuttal.
+why do i even waste my time with brainlets?
+BCH already has less than 1% transaction fees
+oh my god are you retarded?litecoin has low fees.
+BECAUSE NO ONE USES IT.the blocks aren't filled there are no txs to fill it.blockchain is what, 10 GB for BCH?that's less than 1/1,000,000th of VISA's scale
+It's not a problem, blocksize will increase.
+HDD space and internet speeds are increasing exponentially, it's not a problem.Centralizing transactions is a huge problem however, which is what the corecucks want to do.
+You are a complete retard then.
+Do your fucking research.
+Bitcoin right now is TIMES more centralised than BCH or 99% of altcoins.
+I always laugh my ass off when people talk about decentralisation and have no clue what the fuck they are talking about.
+What's the bitcoin node distribution?
+Come on, google actual numbers.
+Ok that seems bad but not that bad.
+Hmm what's the actual coin distribution?
+Oh wow that's kinda bad but what can you do, fucking whales right?
+What's the actual GitHub developers?
+Hmm really core made 95% of commits?
+But that's not centralisation come on!!
+What is actual wallet distribution?
+What do you mean 3 wallets make up for 99% of software?
+Compromising 3 repositories would result into death of BTC???
+Muh decentralisation!!!
+current BTC tx fees are $8.00, that's with a 1 MB limit.
+With a 8MB limit, the blockchain size will go up 8x as fast to 1 TB.
+Sure that will work for a year or so, until it quickly gets to 50 TB.and still, 8MB is 56 tps, vs visa's required 2000 tps.so we need 320 MB blocksize, but that quickly turns a 160 gb blockchain into a 51 Terabyte blockchain within a year roughly.even assuming hard drive sizes will always grow, the blockchain grows much faster.If bitcoin did what you said, they'll be left in the dust by off-chain tech.
+This argument in endless and pointless.
+Its simple, idiots,Want speed and efficiency?
+centralize tech, ANY tech dealing with computers.BTC with these prices and those to come, is not meant to be moved around buying and selling shit.
+Just store of value.
+So speed & transaction cost are not that much of a concern.
+Say it with me, ITS NOT MEANT TO REPLACE CASH
+BTC's value MUST come from transactions.
+Otherwise there is NO basis for how much it should be worth!If BTC is $7000, why isn't dogecoin a "store of value" worth $7000?If BTC is worth $7000, why buy it if it will never be used as a currency?
+Say BTC goes to $100,000 why should it keep increasing in value?
+Is there a ceiling on "store of value"?If there is a ceiling, then why would people use BTC as an investment, and why wouldn't they cash out because that's the only direction it could logically go after it reached the ceiling?
+There is a basis.
+Its called how much electricity it costs to mine a single bitcoin and it keeps getting higher, giving the coin a kind of 'safe floor'.If you made it so it costs literally nothing to mine new bitcoins, then the King becomes just another shitcoin like the plenty using PoS and you have greater risk of it going zero overnight.
+you're mistaking the cost of what it took to create a bitcoin vs its utility value.If it cost me $10,000 to mine an ounce of gold, it does not mean anyone is willing to pay $10k to buy the gold.Gold is a better "store of value" in this case because it can't be endlessly forked.I'm telling you there is a ceiling, limited to the number of idiots thinking BTC can be a store of value.
+Eventually the money stops pouring in, and one guy cashes out.
+The price keeps falling, then there's no reason for it to go up, because there's no reason for new adopters to come into the system.Why buy something that just dropped 30% and has no new buyers?
+that 'safe floor' is only based on the difficult aka amount of hash powerif the price tanks and miners start leaving that 'safe floor' gets lower and lower until its worth nothing
+How do corefags not see the hypocrisy in claiming that they're against centralization by shilling for solutions that move transactions off-chain into side-chain solutions that are controlled and owned by the dev team?Also LN is bad for network health, since eventually miners will be relying mostly on tx fees to sustain their electricity costs (especially once difficulty adjustments and reward halving come more heavily into play), and LN aims to move tx fees away from miners and into the hands of people relaying the lightning transactions.
+Why isnt doge $7000 store of value?
+Well first it would need $783,140,510,254,306 market cap, read that number aloud.
+Second, Btc its the first crypto and is trusted, kind of.
+If doge came up with advanced blockchain or new tech then it would become the new de facto store of value.The ceiling is how much fiat there is, but at one point its pointless to keep putting fiat there, since a crypto (not btc) would most likely be used for paying normal stuff and fiat/cash would be dead.Why would people use BTC as investment: its investment as long as there is growth potential.
+Once reached the stage of crypto adoption and fiat death then it would stabilize
+we're there, bud.
+problem with your example, is that the gold you mined is a safe store of value being used for thousands of year so yeah someone will pay you at least $10k.Its not that the gold per se has value (disregarding industrial use), yet people made it worth what its worth now because of habit and time makes.What makes BTC worth ?
+People themselves, each person grabbing their cash and putting it on funny meme internet money.
+When gold was standard wealth, paper was also seen as funny meme money probably.
+Its just paper...The reason it would go up after dip/crash.. people buying the dip lol
+BTC has lost a ton of dominance to altcoins this year.
+You really think you have 2 years to implement a scaling solution before being overthrown?
+You really think price is going to keep going up all that time?
+Prepare to be cucked.
+not with btc, we have seen it do crazy shit.
+Many people would still mine it and hold in the hope it rises again.Not every miner instasells their coins
+Could you link the video?
+as long as those altcoins are bought and sold with btc and not fiat, then btc will keep rising
+multiple exchanges have announced they will start pairing altcions with bch
+eth and ltc can be bought with fiat on coinbase, bch can be bought with fiat on asian exchanges.
+pairings already exist for alts with eth on lots of exchanges and bch pairings are coming soon.
+the fork issue: after a couple more forks people will be fed up with it and just ignore them, some will moon a little, most will die.Returning to gold example.
+Hey this (insert rock/precious gem here) is also rare, its lighter than gold and its supply is everywhere on earth.
+Yet gold prevailed as the ultimate store of value.
+Why?
+4297673Ok thats 3 examples.
+Thats 3 potential BTC crushers.
+Potential doesnt mean they will.But yes, number one condition to be a btc crusher: easy to buy with cash, available everywhere.Dont interpret me wrong im not some btc maximalist or mega apologist i recognize its flaws.
+BTC is very jew'd if you think about it, just like gold and jews looove gold
+https://m.youtube.com/watch?v=MQbYToRKgpM
+that would make sense... if it didn't require POW miners to keep the network going.once the miners disappear and its more expensive to mine than it is to abandon, that makes the transfer of wealth impossible.current valuation of bitcoin ($6k) is speculation on future transactions.
+if those don't come to fruition the "store of value" basis is maybe $100.
+so do you have a spare $21 million lying around to host a node?or are you a deluded "store of value" cuck?
+This PoW is whats giving it its value, even though you estimate the floor being 1/70 of btc value.Go look at altcoins being released.
+PoW ones always get this floor and they are more trusted than PoS coins or Eth tokens
+Btc was more expensive to mine than its worth many times, people still mined it and those who held were rewarded
+With 1GB blocks, the blockchain would fill up 5.5 10tb hard drives per year.
+Graphene doesn't compress the blockchain itself.
+Im thinking a solution could be cutting the blockchain through forks.I mean, who's looking at 2011 transactions?
+You could do a fork every year, and keep current year on BTC chain.
+So if someone wants to check X year they go to X fork.
+Obviously the forked chain would need to stop after a year, but its contents still accesible forever.Is this do able?
+Holy shit, that's like, fuck all in terms of cost.Why the fuck do you even need to run a node?
+Only fucking miners and maybe exchanges do.If you're a cuck running a node out of your own pocket its no one else's business whose cock you suck in the evening.
+BCH block size size is variable.
+No need for forks to increase the block size.Please DYOR
+and its that type of thinking in which people said fuck you to chinese mining cartel.decentralization is the name of the game.
+Bigger blocks will not get you to millions of coffees payed for every day.
+Its a bandaid.
+The problem of everyday transactions needs a different solution such as side chains.

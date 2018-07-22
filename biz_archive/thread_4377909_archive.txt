@@ -1,0 +1,6 @@
+ive been stuck on this block for days now and im trying to get my eth out of this wallet.
+is there any way to send them without having it fully sync?
+use myetherwallet noob
+I don't know about that specific wallet but yeah, you don't need to be synced to send a transaction
+I am having the same problem sometimes.Close your ethereum wallet, otherwise it will not workThen start up geth in the terminal in light mode> geth --syncmode "light"after that, open up your wallet and send your transactionTips are appreciated ;)0xA048b0034506E3e2efa1361f3B551326239bcF40
+Just click launch application and switch to light mode

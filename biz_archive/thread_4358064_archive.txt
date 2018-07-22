@@ -1,0 +1,10 @@
+"The lower the yield on a bond, the higher its price."
+What the fuck is this shit?
+Is there some weird definition of price that I'm unaware of?
+What is being to referred, when people say that, is "Yield to Maturity".
+This can pretty much be thought of as the total return you're going to receive (things like the coupon payments and eventual principal repayment on maturity), if you hold the bond from the time you buy it, till it matures.
+The higher the initial price you pay for the bond, the lower the Yield to Maturity shall be.
+Ah.
+That makes perfect sense.
+I should really learn how to calculate that shit.
+This should help a little.

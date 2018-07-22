@@ -1,0 +1,65 @@
+I wanted to change strategy and take 2hrs a day to make 2 or 3 very short trades for a total of 2-3% profitI got sick of hanging on my pc all day long chasing/predicting pumps and reading news on shitcoins, i already did a few quick trades (like buy and sell after 5-10min) and im finding myself comfy with this style of making money.Tell me /biz/ how do you find nice volatile coins?I like to buy after sudden short moons, its pretty simple - just see where the top was, pull a fib to the bottom, wait for a 50% retrace, set a tight stop-loss, buy and sell in 10 minutes....i dont get it right all the time but still most of the time i do so thats good enough.Anyone else doing the same?The problem is how to find the volatile coins and the post-moon coins...... can you suggest me a bot or script or some signals group or anything?Thank you /biz/!
+why the fuck do i always have to be the one begging for answers?do i stink?
+am i cursed?
+g-guys....
+fag
+pls ser need specialist
+siiiiiiiir, i give good buffalo milk for advice siiir
+This is retarded.
+You'll end up making a few percentage points over a week, only to see all the gains vanish by one bad drop
+tight stop losses son
+Go to Bittrex, sort by volume, then check out each coin until you find one in a good position to trade.Remember, it's a patient game for gains.
+2% per day for 360 days is over $600k :) good luck anon
+Remember, it's a patient game for gains.
+2% per day for 360 days is over $600k :) good luck anonTry flipping a coin and getting heads 360 times in a row.
+hello sir may i introduced you to the very non-pajeet coin of Verge?as you can see the volatility of the market of XVG is very much the volatility you want, yesbuy XVG sirs and you will be rich within the yearthank you
+?
+I'm not suggesting he gain 611K asap.
+I'm demonstrating the power of compound interest and patience.
+Yeah but realistically you end up JUSTing 5% accidentally every now and then.
+4412416Whoops forgot to add, 2% per day for 360 days is $600k+ from a $500 starting pool
+Newb here, can someone explain stop loss, is that an option on something like binance.
+I just see market and limit buy/sell.
+You figure out at what point it drops to that it's likely to bomb right through and set a conditional sell (set order slightly lower than condition) so that if you're not paying attention it pulls you out and saves you excess loss.
+Of course it could always rebound so your guess better be good.
+I get the concept but how?
+Like what exchanges support it, or do you use a bot?
+I know Bittrex supports it, I don't use other exchanges so I can't tell you sorry.
+Poloniex probably does.Only downside is you can't set conditional sell and buy limits with the same coins, so you can't do something like "well if it moons to .8 sell sell sell, but if it's crashing down past .6 again offload that shit".
+You could use a bot to do it using the API but I haven't looked into it.
+Good to know thanks
+It's really easy man.
+Just pick a coin thats hot at the moment.
+Look for an entry when the coin is moving very directionally (volatility in both directions will fuck you hard); set a tight stop and let it ride for a few percent before closing your position.
+You could make 10%+ in minutes if you have a good day.
+Worst case your stop loss triggers at -0.5-1% and you have a shitty market order.
+Don't put all your money on 1 trade because you might sell your coins for free in a flash crash.
+Idk if they let you stop limits with lower sell prices than the price that triggers.
+44106354413255Yeah remember kids, at the end of the stock there's another trader getting the short stick, and it's gonna be you half or of the time statistically.
+The only ones making beef are your brokers in the meantime, brokers always make money, good shit.Or maybe you think you're part of the 5% of taders who make the money, but do you really think you can beat the guys with millions and optimized bots and algos?
+You probably have a significantly higher statistical chance of trying to catch pumps than doing micro trades every day desu.
+Unless you're a professional who spends 8h a day on this shit.
+that's true, but only because we're in a bull market.
+If you have some programming knowledge you really should write a tool to do this over the APIs.
+Then you can code whatever buy/sell conditions you want.I did it for multiple exchanges and for all sort of tasks I need.
+It simplifies daytrading a lot.Also most exchanges APIs are really good, REST for slower and sockets for nearly realtime tasks.For the APIs there is a lot of open source code on github in different languages.
+Writing such tools only takes a few days, it's no big thing but it helps a lot.
+zen cash
+Yeah I keep meaning to do it but instead I stare at graphs..
+Bch
+You've got a 50% of losing money>Only 5% of traders make moneyWhat did he mean by this?
+Easy, find high volume coins that are dipping hard.
+Buy when RSI is oversold and hold on for 5min-1hr as bulls give their best push before consolidation.
+Constant 5-30% trades depending on the value.
+Did this with BCH as it was falling and made 15% but if I stayed up all night there was 2 more 25%+ bounces I could've got in on.
+You get eaten by broker fees, also I ws saying that theorically you lose 50% of the time, but the reality is much worse as some traders will do very well whereas the vast majority will get btfo on the long term and will only last for a few months at best.
+https://www.coinigy.com/s/i/5a0f2f9741411/
+You'll miss the moon missions doing this.
+You might make 5% in a day of a moon mission where the rest of the market makes 50%.
+Its comfy until you realize you're missing out on what makes moon missions great
+Only downside is you can't set conditional sell and buy limits with the same coins, so you can't do something like "well if it moons to .8 sell sell sell, but if it's crashing down past .6 again offload that shit".I soooo wish I could do this on bittrex, so I could just pay attention to the buys and let the sells be totally automated.
+Also I don't know shit about coding so I'm out of luck there.
+Retard.
+Bitfinex API.
+Or go buy a bot.
+Stop fucking complaining I can't fucking take it anymore

@@ -1,0 +1,13 @@
+Tell me, what do I need in order to run a ChainLink node?What are the requirements?
+FUCK YOUR MOTHER IF YOU WANT FUCK
+https://youtu.be/BTw7b6xG4uohttps://github.com/thodges-gh/ChainLink-Node/blob/master/README.md
+Is it true that I need a certain amount of LINK to run a node or is that a meme?
+afaik there isn't a minimum amount, but you're considered more trustable if you have a lot of LINK
+Niceee I'm way more motivated now.Hopefully I will get a shitton of link after some good trades this week.
+Let's see.
+The more LINK a node operator has the higher priority they get.
+Other factors in priority include the date they provide and their uptime.
+Nodes providing private data to banks for example will need to run Intel SGX so that they cant "see" or manipulate the data they are providing.
+Data* not date
+Is running this on a vm enough?
+Wouldn't be better to run it baremetal?

@@ -1,0 +1,59 @@
+Ok /biz/ i posted here a couple months back about how i used to solo mine with my quad core computer back in 2011 and didnt have access to my HDD untill today.
+I've searched online how to re-upload my wallet.dat file back into the bitcoin core wallet but its liberally taking forever to sync with the network.
+Is my wallet.dat file corrupted.
+Or is there a faster way to see what I have in there.
+I wish this was Larp its driving me insane.Ps thats the car If this shit works.
+Do you remember the address?
+That's impossible.
+gif mi your prevete key, maybe i can help upromise, no pajeet
+Assuming I can help you, will I get something for this?
+If I have in there.
+I give you my word.
+No joke.
+Okay, so let's go ...First of all I would like you to check the date of the file to see if there was corruption.
+Date modified 27/04/11
+Have you actually downloaded the blockchain?
+If you're using Bitcoin Core, it needs to download the whole chain first.
+4483119don't listen to this asshole anon first of all tell us wich kind of level are your skills
+How many GB will that be roughly?
+Im on a 100GB plan per month and I've gone over 60%.
+Just use this as a guide.
+Hope you have lots and are rich anon.https://bitcoin.stackexchange.com/questions/10974/import-wallet-dat-into-a-new-bitcoin-qt-client14ANjYiWWaRJ3ZTkPVSnNpdXgxjgXUsZ37
+100GB plannot enough bro
+remember don't fell for the there was corruption.meme.....You really want to find a program not updated since 2011 because cryptography went so fast the majority of the protocols on your .dat are deprecated and new interpreters won't read it for incompatibility not corruption
+Assuming you find a wallet full of btc... if you go and spend it on a goddamn car you're a fucking idiot.
+By yourself a house, own it free and clear, then get a fucking car.
+So probably the file is not corrupted.You will have to download over 100GB and it will take a lot of time to finish this sync.
+If its going to be that big then I'm just going to upgrade my internet plan.
+So as I see it now theres no quick way of doing this?
+Got a laptop?
+Go to a friends house or something who has real broadband and download the blockchain there.
+What do you want for now?
+just check how much you have in the wallet or have access to it?
+No.
+Once you have the chain, move your coins into an electrum wallet or other light wallet of your choice
+Can't you just install electrum wallet and replace the wallet.dat file with your own?
+Will that work?
+Not 100% sure but it wouldn't hurt.
+Electrum doesn't need you to download the entire blockchain.
+Worth a go14ANjYiWWaRJ3ZTkPVSnNpdXgxjgXUsZ37
+He will have to use Bitcoin Core because no other wallet uses the wallet.dat format.
+Furthermore, the wallet format has changed over time, and only the latest version of Bitcoin Core will work with all of them.
+Just download and install Bitcoin Core, start it and let it create the datadir.
+Then stop Bitcoin Core, put the wallet.dat file in the Bitcoin Core data folder, replacing whatever wallet.dat file is automatically created, and start it again.
+You may need to start Bitcoin Core with -upgradewallet for the wallet to work properly.
+If you found my tip valid and find many bitcoins and want to reward me my wallet is:12z6Yc4GSB3H8r5oji1VeeJdg2cPFpVEU3
+Will that work?nobecause 
+Don't need to download the whole chain.
+Once you have bitcoin core installed and while it's downloading, go to the terminal window and use commands to export all addresses and private keys into a text file.
+You can then sweep those keys using a light wallet on your phone.
+Search google for the steps and command lines.
+Any luck OP?
+Thank you for the bitcoin OP.
+FUCK MY LINK IS GONE
+If I have in there.
+I give you my word.
+No joke.
+Good luck OP.A few weeks ago I found a wallet from 2013 with 0.1 BTC in it on an old laptop.
+The wallet was no longer supported (multibit) and not recognising wallet.dat.
+Found a backup wallet.dat and managed to get the BTC transferred out to an electrum wallet.That £58 purchase from 2013 is now worth ~£600.Also found an Litecoin wallet, it's not recognising shit.

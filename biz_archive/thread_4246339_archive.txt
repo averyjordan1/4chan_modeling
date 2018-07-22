@@ -1,0 +1,18 @@
+Today we are happy to announce the release of 0.12.2.0 of the Dash Core software!This is a major release of the Dash Core 0.12.2.x series.
+This release contains new features, improvements and bugfixes.The most notable changes are:- DIP0001 implementation (which is a 2MB block upgrade);- Transaction fee reduction 10x (activates via DIP0001 activation);- InstantSend vulnerability fix (activates via DIP0001 lock in);- PrivateSend improvement which should allow user to have mixed funds available much faster;- Various RPC changes;- Lots of backports from Bitcoin Core and refactoring of our own legacy code which should improve performance and make code more reliable and easier to review;- Experimental HD wallet with BIP39/BIP44 support.I'm telling you stupid cucks now.
+Quit fucking around with these shit coins.
+Institutional money is going to pour into Dash a viable alternative to Bitcoin.
+Healthy markets demand competition.
+In the long run there is no fucking way bitcoin,litecoin,bcash can compete with the set up Dash is using.
+Don't miss the next big thing.
+Drop those shit coins.
+meme coin with too much shit in the base protocolgo away dash force shills
+Helium will be much better.
+>no forkcause no one gave half a shit to maintain the fork that would have come out of it
+Dash can upgrade on chain with no forking or fighting.
+Can vote on issues.
+Small capped supply.
+Awesome road map.
+Objective is to take Bitcoin market share.
+10 billion market cap is only one pump away.
+.1 dash has been transferred to your address from the treasury

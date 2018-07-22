@@ -1,0 +1,47 @@
+I was interested in the actual difference between on-chain and off-chain, segwit vs non-segwit Bitcoin, found and read:http://www.trustnodes.com/2017/07/23/bitcoin-cash-splitting-segwitAfter this I can say that I like the idea of on-chain scaling more.
+I believe it is a better proposal and lowers the risk of fraud.PS.
+: I hold a computer science degreePPS: Would like to hear your thoughts from a technical perspective
+Won't matter soon.No reason not to scale both on and off the chain simultaneously though.
+sure.
+but at some point it would simply be redundant to hold both
+That doesn't make any sense.
+What do you mean "redundant to hold both?".
+On chain transactions and off chain transactions aren't something you "hold".
+that's it.
+i guess the root problem is that they did not wait yet with the fork.
+and segwit kindof "hijacked" the bitcoin brand
+hold in means of their usage in general.
+i believe at some point (if and when crypto becomes the only currency) there is no need to have both.
+it would just make things more complicated.
+on-chain scaling moredo you?you really do?you want BTC to scale?do you want BTC to scale to visa levels?
+how big do you think the blocks will be?are you stupid?holy shitbigger blocks is only a small patch for the solution, it's not the real solutionfuck I'm so fucking tired of all the retards who think they can give an opinion on something they know nothing about
+In order to have chain transactions, there needs to be on chain transactions.
+So the options are ;On chain and off chainOn chainNo chainWhat exactly are you attempting to advocate for?
+I think on-chain scaling is better too.
+However Cash is a chink power grab as much as LN is a Jewish one.The solution is another fork which addresses the on-chain scaling issue and doesn't fuck around with anything else.
+could you imagine 10 years ago that you would be able to stream a blu-ray movie on the go on a handheld device?
+Yes as there were handheld players even back then
+and you streamed a blu-ray quality movie in the open?
+how?
+on-chain obviously, as that's the only real transaction
+no one can be smarter than some dead larper
+Very interesting link, thanks !
+What is the problem with big blocks for random consumers?
+they believe it will become too resource-hungry when crypto gets widely adopted
+It makes people less willing to run a full node, and instead use Electrum or similar light clients, which is essentially what 2nd diagram is.
+4381686"At first, most users would run network nodes, but as the network grows beyond a certain point, it would be left more and more to specialists with server farms of specialized hardware.
+A server farm would only need to have one node on the network and the rest of the LAN connects with that one node.The bandwidth might not be as prohibitive as you think.
+A typical transaction would be about 400 bytes (ECC is nicely compact).
+Each transaction has to be broadcast twice, so lets say 1KB per transaction.
+Visa processed 37 billion transactions in FY2008, or an average of 100 million transactions per day.
+That many transactions would take 100GB of bandwidth, or the size of 12 DVD or 2 HD quality movies, or about $18 worth of bandwidth at current prices.If the network were to get that big, it would take several years, and by then, sending 2 HD movies over the Internet would probably not seem like a big deal.
+Satoshi Nakamoto"https://www.mail-archive.com/cryptography@metzdowd.com/msg09964.html
+(((they))) are about to get fucked.
+It makes people less willing to run a full nodeThis is the only talking point I've ever heard against BCH, however I've never really heard it backed up by numbers.
+thx
+PS.
+: I hold a computer science degreeHey cool, I also have a computer science degree.
+I even have a PhD in computer science.
+And I'm preferring Lightning, side chains, and other second and third layer solutions.Not gonna explain why, though.
+I did my fair share of explaining but the stream of newcomers and trolls is endless.
+but*because

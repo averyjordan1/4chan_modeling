@@ -1,0 +1,2 @@
+Does anyone know about any good Forex charts apis which allow you to directly read all the data about a certain pair?I need it for a bot.
+use link kek

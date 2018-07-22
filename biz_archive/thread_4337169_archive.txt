@@ -1,0 +1,7 @@
+https://www.reddit.com/r/CryptoCurrency/comments/7cgae0/this_is_the_current_state_of_token_sales_please/Their entire Github repo consists of hundreds of lines of code that just return null.I guess that's why it's called nuls.The joke is their motto is actually "nuls is nothing, nuls is everything.
+".A bigger joke is that nobody took notice of this or brought it up for discussion.
+/biz/ is pathetic
+Many teams in the crypto community work offline and slowly push to github to prevent too much price volatilty.
+The NULS team recently released this photo to prove ppl hassling them that they are continually developing features.
+Check out inchain's github https://github.com/inchaincodes/inchain.
+They're developing closely with NULS, so we can safely assume NULS will be inheriting a lot of their comprehensive code.

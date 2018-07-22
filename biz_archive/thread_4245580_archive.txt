@@ -1,0 +1,31 @@
+bots fags get in here, let's start a general training bot thread.>What's your strategies?
+(in big lines)>What's your results?I'll start:Basically my strat is to buy low, and sell high.
+I scan coins for large dips, then buy to sell at a small percents above.My result arn't impressive, but still doing 2% a week.
+Always looking for ways to improve it.I've tried surfing on the moving averages, or buying on support lines to sell above, but havn't found a better strategy yet.Discuss
+my bot distributes the budget before the big orders in the orderbook (next 3-4).
+Budget distribution depends on SMA.
+Where do you trade?
+Trading on kraken is hell... the servers are more down than up.
+I'm trading on bittrex and bitfinex, both APIs are meh... but they are doing the job.Do you have good results with that?
+And when do you decide to sell?
+After a fixed percentage?
+Or you just look at the next big sell wall?
+just looking for the next sell walls, i'm ignoring where I bought.
+Results are same as for you about 2% a week.
+what bot do you guys use?
+wrote my own (in java)
+Guys.
+Forgive me, but where should I begin my botting journey?I don't have a bot but want one
+same, I wrote mine in PHP
+Just code one, in whatever language.
+Read the API of your exchanger, come with a strategy and code.
+I do not have the complete knowledge to code one from scratch.
+Thank you though.
+Then i'm sorry I can't help you.
+Watch out for scammers that want to sell you magic bots.
+If a bot works, why would you want to sell it?The only advice I can give you is to learn basic code (easy ones, like python?)
+and start yourself.
+Woof.
+That seems a monumental task, but I'll certainly consider it.
+I'm not a complete beginner, but nonetheless it's hard to say whether or not it'll be time well spent.Thank you for your honesty.
+If you don't want to code, look at open sources bots such as Gekko (just found it on google, no idea if it's good) where you can just install it and test your strategies, i guess.

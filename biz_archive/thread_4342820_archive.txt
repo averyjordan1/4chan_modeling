@@ -1,0 +1,20 @@
+>inb4 if(pice==low){buy();)else{sell();}Anyone into writing trading bots here?
+Tell me your secrets.
+Here you go I fixed ur code if(pice==HIGH){buy();)else{sell();}
+reported
+i made a bought that buys once a day and sells once a day, and it decides when to sell if its making profit and flips a coin.
+It has made me more money than any other trading model.
+eureka lad
+lol nice.
+how does it decide when to buy?
+i'm the anon who wrote a shit bot in php yesterday.i'll write one following a proper strat next week.
+i got everything working already, i just need to change the conditionals
+Can you enlighten me algorithmically?
+What do you think is a superior technique to predict price?Are there ways to predict prices further than 1 day ahead?What features are significant and how do you address correlations between different coins?
+secretsArbitage.
+Ethereum.
+I think there is more than just predicting price to creating a successful algorithm.
+In fact, I would go so far as to say that the algorithms that attempt to predict the price and use that as the basis of their profit generation are less successful than other algorithms likewhich only requires the current price to make a profit.
+You could also try and "fill the orderbook gap" and trade in between other bots for a very small profit per trade.
+eth will bounce around 61% retrace line foreverenjoy losing money soon bud, my bot makes gobs of money it bought and sold twice yesterday, its never took a loss
+Taking only 1 feature seems extra retarded to me.Open, close, high, low, volume seem a necessery minimum to me.Can you really make any profit without actual predictions?

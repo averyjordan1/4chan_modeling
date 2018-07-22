@@ -1,0 +1,15 @@
+hey guys am I late to the party?
+Don't fuck with me.
+jesus christ... you seriously have a problem with this shit
+
+SAGE SAGE
+Here we bring you weekly reports and notifications of our progress, including a CEO's Update, the CTO Perspective and a Market View.CEO’s UpdateI’m very proud of the hard work put in by all of the team on Obsidian 2.0, especially in the past two weeks.
+We have made some excellent progress with future planning, rebranding, partner building opportunities, and importantly with a range of development work.
+Much is happening behind the scenes at Obsidian, and lots more will be revealed over the next few weeks!We believe in the true power of decentralisation: in a time, not that long in the future, where all people will have the power to completely control their own money and their own personal information.
+We will give you this power with Obsidian’s mobile apps.CTO’s PerspectiveThis week we have streamlined all of our development activities.
+We reorganised all code artefacts into the Obsidian project github organisation repositories (10), and assigned developers (6) to their teams and code.
+Our #csharp-development Slack channel helps us share progress transparently and visibly with the community, which is highlighted to help further attract additional developers to join our Open Source project and share ideas.Significant progress was made on the Obsidian Stratis Node - we synced our blockchain for the first time on the .net platform, which will underpin future products.
+Everyone can use this node right now to build custom projects for our blockchain, with or without our input - we are an open platform and everyone is invited to build on it.
+We also merged the new Android frontend code with the Messenger's existing cryptography routines, and are now working to send the first message via Android.
+Finally, we decided to offer our master node owners a special dashboard-app, 'ObsidianXXL', for health-monitoring of their node through an attractive web UI, with showcasing functions for the node and the ODN blockchain.
+Both ObsidianXXL and the Blockexplorer will share address search capabilities to allow the investigation of other peoples' address balances, which is a much-requested stalker feature.Check out some sneak-peeks of screens, directly from our ODN XXL Development Team

@@ -1,0 +1,129 @@
+Monero top 3 coin on coinmarketcap in 6 months.
+Screencap this.
+Agreed.
+4523188Absolutely
+moon
+4523188Without a doubt..
+posting in ebic bread!
+nah bro
+This.
+Monero 1 trillion market cap by 2018.
+I read it as MonroeWho is Monroe?
+Certainly
+dats not Ark.
+2k$ xmr in 2020
+post some screencaps, i want to see if biz was right at least once
+There you go
+This is actually one of the most reasonable comments I've seen on this sub all day.
+I keep reading that Monero will rule because it has an actual use.
+I can't find anything about how to actually use this coin.
+What am I missing?
+It's beauty is it's truly fungible, anonymous, non-tagged money in digital format.
+It's good for privacy which was one of the large selling points when Buttcoin hit the scene originally.
+Either that or if you're like me and wanna score some pills every now and then and have 'em shipped to your door, say no more.
+Put me in the screen cap niggers.
+Where can I use this to buy pills?
+Please explain.
+Yes, I am ignorant as fuck.
+This is also relevant to my interests...
+you could buy those exact same pills with fiat on the clearnet and be at exactly the same riskI like monero and HODL it, but kids need to stop with this imagined security blanket.
+The security flaws of darknet markets (actually purchasing drugs off the internet in general) is precisely thus: 1. idiots running the exchange/webshop/email 2.
+The mail system that delivers the drugs to your doorstep so conveniently.And of those two factors, it is the latter that places customers at major risk.
+I'm not sure how people don't get this, the currency you use is really quite irrelevant.
+Far from having to deal with "shady" or "dangerous" characters being a harmful aspect of buying drugs in person, it is that very element that PROTECTS you from law enforcement.
+Darknet has seen more than its fair share of LEO fronts.
+The real draw is paying for VPNs or VPSs with a currency that can't be traced and becoming an actual anonymous internet user.
+Especially if this net neutrality bullshit goes through
+Canada won't have an issue with net neutrality.Anyone have experience here ordering to Canada from the dark web?
+Hint: It has something to do with onions and drug addicts.
+"and an unknown amount of monero"FUD harder postal inspector.
+You're the only one that doesn't understand what a shit job you do.
+At least the FBI and CIA can take down markets.
+You literally have to rely on someone being dumber than you.
+I wonder why that never happens.
+You're that same looney that kept linking to that bullshit article written by a nobody in 2013, right?
+if that shit happens, expect namecoin to surge in price.
+just saying.
+4525380Google "Dark Net Markets".
+They're on TOR, so you need a special browser.
+Before you fuck up anything, read some guides on OPSEC.DNMs is where Bitcoin was initially used as a currency.
+Faggots thought they were anonymous and shit.
+Now they're starting to realize that's not the case, so the DNMs scene is slowly switching to Monero-based markets.
+When Monero multisig will be final, Monero adoption will skyrocket there.
+that was after he was arrested and his computer seized.
+The currency was not what lead to his arrest.
+Learn to read, and for longer than 5 second spurts.> I wonder why that never happens.yes, people being busted for drugs being delivered to their postal addresses never happensoh wait its the number one cause of darknet related busts, dopey cuntkeep ordering drugs off the internet, I do with certain drugs (chiefly ones that dogs are rarely, if ever, trained to detect) but don't ever be fooled that you're safe or safer for having used monero instead of dogecoin
+Faggots thought they were anonymous and shit.
+Now they're starting to realize that's not the case, so the DNMs scene is slowly switching to Monero-based markets.How many times are people going to stick their hand on the stove, get burnt and then blame the burn on the dog?Has there even be ONE known case of a DNM dealer or user being busted from blockhain analysis?
+Thats not me being a prick, I genuinely want to know, because I have never seen it.
+monero isnt the only thing thats mooning>see my erection for more details
+You dumb looney, we already explained to you last time that they can fucking trace other people involved in the DNM by tracing the owner's transactions.
+That risk is completely eliminated with Monero.
+Has there even be ONE known case of a DNM dealer or user being busted from blockhain analysis?Who knows?
+Why chance it?
+Is it too late to buy?
+I'm a dnm user since forever, and you're not entirely wrong.
+Nobody get's busted by blockchain analysis alone, but when shit hits the fan, they trace the transactions anyway and it's one more thing to be used against you.
+Monero's privacy factor won't save you by itself but it's and added layer of security.
+Monero's been very bullish since alphabay got seized, and the dnm scene is pushing pretty hard for monero to be the used more.
+The scene is kinda shaky right now because there's isn't a clear replacement for apb (maybe dream but the fud is strong with this one, rightly so), but it's a matter time since some xmr-advocating markets take its place.
+That's why there's still time to accumulate it.
+Mind you i'm not even entering the non-illicit merits of monero's privacy, just shedding some light on the black market scene, which i'm sure everyone knows moves a shitton of money.
+Depends on your investment horizon.
+If you're looking for a quick buck, then probably not, even if the bull run could very well continue.If you want to wait a year or two, then it's a good entry point.
+It's a super solid project.
+4526344It happens, for the bigger fish.
+Lots of examples here:https://shouldhaveusedmonero.xyz/If you're only buying for personal use, the risk is low anyway, because they cannot run after every dnm fag.
+Still, why leaving that possibility open?
+You want full deniability.
+If they fucked you with a controlled delivery or something, would you be that comfy knowing that your transactions are in the clear?
+I repeat, full deniability is where it's at.
+I think that once multisig is in place, adoption will follow swiftly.
+Right now I know of Aero and Libertas, but I suppose they process very little volume.
+Good site, didn't knew it and believe me i did my homework.
+But yeah, just corroborating what you said: buy monero and hold for some time anons, it's a good project and i'm very confident it's here to stay.
+It's naivety to believe there won't be use for the #1 privacy coin, specially when it comes to whales.
+Guys you're confusing it with Minereum
+I am concerned about the scaling ability of this projectAssuming it becomes popular, at this point in time it will scale worse than bitcoin
+include me in the screencap plsIM RICH BITCH
+You are rightly concerned.
+That's why there is so much effort towards making transaction smaller.
+This would result in smaller blocks and also smaller fees.
+Bulletproofs [0] have made it out the testing phase and are about to be implemented.
+StringCT [1] would bring ulterior storage savings.
+Both come with slightly higher computational costs, but for the foreseeable future transaction is more important.When both are implemented, Monero users will be able to affort more anonymity (bigger rings in CT) for less space!
+[0]: https://www.reddit.com/r/Monero/comments/7au6ry/bulletproofs_efficient_range_proofs_for/[1]: https://monero.stackexchange.com/questions/5997/what-is-stringct
+If someone is suspicious of you (aka consistently converting large amounts of BTC to fiat), you ideally don't want your complete transaction history available without a subpoena.
+bigger rings>more anonymityAnon I...
+I am concerned about the scaling ability of this project>Assuming it becomes popular, at this point in time it will scale worse than bitcoinI am concerned about the scaling ability of this project>Assuming it becomes popular, at this point in time it will scale worse than bitcoini really trust monero team and community more then anybody else in that fieldmonero is very flexible and if any solution can be implemented - it will bealso with adaptive blocksize monero is not hard-capped like btc, so scaling will be limited only by hardware and bandwidthand solutions to minimize blockchain size like pruning already tested on aeonworst case scenario they will just have to implement second layer
+Top 4 more realistic, but yes it is definitely on the up.
+Top 4 more realistic, but yes it is definitely on the up.top 3 if either btc or bch btfo and die by that time
+The mail system that delivers the drugs to your doorstep so conveniently.If the shipment gets intercepted by authorities they can't do shit if you used something like monero to pay, that's the beauty of it.
+You can simply say you didn't order the drugs, and if they can't prove you did you're innocent.
+Top 4 more realistic, but yes it is definitely on the up.Litecoin, Ripple, Dash, and BCC are the only ones it needs to beat to be in top 3.
+Considering they are all memes that won't even exist in 5-10 years, I don't see why Monero won't shoot past them by this time next year.Even Ethereum being passed seems likely if we project out an extra year or two.
+Exactly.
+Of course, it does not solve all the problems and you still need to keep an eye out for controlled deliveries.
+If they make you sign the parcel, for example, they'll say you were expecting the package and hold it against you.
+Litecoin and Dash are definitely shitcoins.
+The future of BCH is still too cloudy and I think Ripple is here to stay.
+Still, it's not really a cryptocurrency and it shouldn't count.
+If you dont see the potential of this coin you are delusional.
+The black market will jump on this shit and its gonna be the biggest thing right after bitcoin
+How can I buy Monero?Newfag here who's using coinbase.
+shapeshift
+4529813Probably the easiest solution.
+You take one coin btc, ltc etc and change it into monero for a small fee, I've been shapeshifting coins for months now it's nice.
+Just make sure you get the addresses right.
+why is it dropping brehs
+Chill senpai.
+Just hold, we'll see it continue pumping soon.
+I know a guy (TM) that bought 4k worth of Adderall and passed it to his weed dealer for 5x markup.
+Though I heard they're being more careful with packages from outside due to fentanyl and shit.
+Counting coins who are premined in top market cap >Top kek
+there are many companies that the FBI hire that specifically do bitcoin blockchain analysis to find dirty money used mainly on the dark web.
+look up Elliptic.
+These companies can only do bitcoin.
+They won't be able to do this with Monero because the blockchain is entirely anonymous
+Are you fucking serious mate?
+No like really, there are dozens of cases:Check https://www.shouldhaveusedmonero.xyzArticles related to tracking:- http://www.miamiherald.com/news/nation-world/article175557206.html- https://www.deepdotweb.com/2017/09/28/four-busted-south-koreas-first-darknet-drug-operation/- https://www.coindesk.com/irs-using-bitcoin-tracking-software-since-2015/- https://www.theregister.co.uk/2017/08/20/bitcoins_anonymity_easy_to_penetrate/- https://shouldhaveusedmonero.xyz/img/article/alexander-cazes-fw.jpg- https://shouldhaveusedmonero.xyz/img/article/cashkingofbtc78-fw.jpg- https://www.coindesk.com/coinbase-white-hat-hacker-dont-want-bitcoin/- https://www.coindesk.com/danish-police-claim-breakthrough-bitcoin-tracking/- https://www.wired.com/2015/01/prosecutors-trace-13-4-million-bitcoins-silk-road-ulbrichts-laptop/- http://www.businessinsider.com/220-million-sheep-marketplace-bitcoin-theft-chase-2013-12?international=true&r=US&IR=TIf you seriously fucking believe bitcoin is not fucking traceable you are beyond fucking retarded, it's a fucking safety hazard to use this shit for transactions on the darknet.

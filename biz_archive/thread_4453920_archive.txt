@@ -1,0 +1,8 @@
+Hey /biz/, It's automated Google sheets portfolio guy again.
+How have your portfolios been doing?Link to my quick look spreadsheet: https://docs.google.com/spreadsheets/d/1UUPs8GX8ppcjXFWtzU5YhOoyV-O9Muc6DgkOFDI5kVM/edit?usp=sharingLink to the spreadsheet with the data that takes a long ass time to load:https://docs.google.com/spreadsheets/d/1wOsBd4gxVbTJo5IqKMlTZnxxd525dxOzpgbpVBQ7Weo/edit?usp=sharing
+Been hodling for around 4 months now, and I'm pretty happy so far.
+Portfolio could be more diversified though.
+As you can see there have been some pretty clear winners for me.
+Tabs at the bottom let you see the graphs and shit.
+I use coinmarketcap's API to update coin prices every 5 minutes, and every 1 hour I update the net worth /individual holdings by saving it to the spreadsheet.
+Using the historical data, I can track my portfolio over time.

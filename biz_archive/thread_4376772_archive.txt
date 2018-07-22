@@ -1,0 +1,14 @@
+Transferring ERC 20 tokens on MEW and i'm out of GAS.What do i do guys??
+did i not put my gas limit high enough?
+i set it at the minimum recommended.You guys told me set 2 GWEI and 200k gas price, but i couldn't set gas price.i set 23000 gwei because it said default 21000 was too low.How do i fix this problem guys?
+never mind guys.im legitimately a slow learner.
+coins never left my wallet.
+Do you have enough ether for gas in your mew?
+From my exp.
+mew automatically sets a proper gas for your transaction.
+yes, i went out of my way to put $10 eth in there.mew just had default 21000, i click generate/execute and it said min needed was 22933 or something, so i put 23000.im going to try 200k gwei, if that fails what should i try?
+now its automatically giving me a gas limit.
+of 54,000i'm doubling it just incase
+its been a while.. how long does it usually take for tokens to transfer?
+under a minute for me.
+just use 0.1 gwei

@@ -1,0 +1,64 @@
+Tell me why you haven't bought Modum already?-Still young, Low Market Cap of 32m, 17m Circulating Supply, 27m Total Supply.Does modum.io already have a product and with a well-established business case?modum.io has a working temperature logger prototype, which was used to track shipments in several pilot projects within Europe and to the Middle East.
+modum.io is currently launching the first generation of its own, proprietary sensor device based on findings from each pilot.
+Our go-to-market strategy is regulatory driven, based on new requirements placed on the pharma industry.We are already working with industry partners and clients to deliver the modum system.How was modum.io’s first business case developed?The European Commission has recently released tightened regulatory requirements for the transport of medicinal products for human use.
+modum.io’s first service offers an efficient system to comply with these regulatory requirements.What are these regulatory changes?Chapter nine of the Good Distribution Practice regulation (GDP 2013/C 343/01) now requires proof that shipped medicinal products have not been exposed to conditions (particularly temperature) that may have compromised their quality.How does modum.io solve improve its clients’ ability to be compliant with GDP regulations?To date, pharmaceutical companies achieve compliance with regulatory requirements by using expensive, temperature-stabilized trucks and containers from third-party logistics providers (3PLs).
+modum.io offers a more efficient supply-chain solution, which enables companies to prove compliance with GDP regulations by using blockchain and Internet-of-Things (IoT) technology.
+What is the business potential of the modum solution?By using the modum system, costs per shipment can be reduced by up to 60%.
+With respect to the 200 million shipments of pharmaceutical products in the EU, a widespread adoption of the modum system has the potential to reduce industry-wide expenses of approximately 3 billion EUR annually.What is modum.io’s go-to market strategy?Currently, the modum system is being integrated into the system of the leading last-mile logistics service provider in Switzerland.
+modum.io is planning to finalize this integration in Q4/2017.
+Upon successful completion,official market entry will begin in Q1/2018.
+Additionally, modum.io is in negotiations with significant customers from within the pharma distribution vertical in the UK, France, Germany, Turkey, and Vietnam.What is modum.io’s vision for growing its platform for expanded service delivery?modum.io, with its system and first business case, eagerly anticipates horizontal and vertical growth by evolving the developed system.
+Low-cost and low-power IoT sensors have become commonplace for: Temperature Humidity/moisture Light/machine vision Acceleration/tilt Acoustics/sound/vibration Position/proximity Motion/velocity/displacement Chemical/gas Flow (Liquid) Electric/magnetic Force/load/torque/strain/pressure Modum.io foresees adding sensor devices with these capabilities to build a platform for IoT monitoring in supply chain across a variety of sectors.
+What is modum.io’s vision for growing its platform for expanded service delivery?modum.io, with its system and first business case, eagerly anticipates horizontal and vertical growth by evolving the developed system.
+Low-cost and low-power IoT sensors have become commonplace for: Temperature Humidity/moisture Light/machine vision Acceleration/tilt Acoustics/sound/vibration Position/proximity Motion/velocity/displacement Chemical/gas Flow (Liquid) Electric/magnetic Force/load/torque/strain/pressure Modum.io foresees adding sensor devices with these capabilities to build a platform for IoT monitoring in supply chain across a variety of sectors.Into which sectors could the modum system be expanded?With the experience gained from the high standards and low-cost requirements set by the pharma industry, the modum system will be well positioned to be deployed in other sectors.
+modum.io has been approached by leading companies from the following sectors, each of which have overlapping needs with the solutions laid out in our first use case:Healthcare modum.io has been approached by Healthcare institutions to improve their processes (internal and multi-stakeholder) using IoT and blockchain technology.Chemical industry Customers from the chemical industry have similar needs to pharma customers, requiring compliance with similar regulations.
+Data integrity is an issue, causing customers from the chemical industry to perform more extensive post-delivery checks on their chemicals than they would deem necessary.Heavy machinery Machine building companies need accountability during transport of their high-value components, requiring traceable data for acceleration (shock) and humidity (storage and transport conditions).Automotive, Aerospace and Aviation The automotive, aerospace, and aviation industry needs efficient and auditable systems to prove the authenticity of every single component.
+Constant performance checks reduce accidents.
+Food sector Pharma standards and regulations for food safety are closely related, in the United States they are supervised by the same government agency, the FDA.
+Customers from the food sector are additionally looking into improving their processes, providing traceable data in order to market the origin and the quality of their products.What are the USP/functions of the modum system?Before shipment occurs, the modum sensor device ID, shipment ID, and alarm criteria are fixed within a shipment-specific smart contract.
+Upon receipt, this smart contract will allow the receiver to check that regulations have been met.
+Due to the nature of a smart contract in the blockchain, the evaluation criteria for meeting regulations cannot be changed retroactively.
+During the shipment, the change of environmental conditions (i.e.
+temperature, humidity, movement, etc.
+), is monitored and the data is stored in the internal flash memory of the sensor device.
+Using BLE (Bluetooth Low Energy), the shipment does not need to be opened to verify the shipment has complied with the environmental parameters set.
+At each change of ownership, data authenticity is first checked by the smart contract before it is evaluating the data.
+The results of the evaluation are then stored, immutably, as proof-of-existence in a blockchain.Do customers need to install additional hardware?No, customers do not need to install additional hardware to use the system, downloading our mobile application is sufficient.
+The modum system is also compatible with every other BLE device.
+Does modum.io have any strategic Partnerships?Yes, modum.io has several partnerships.
+We are working with the market leader in parcel services in Switzerland, the owner of Europe’s leading mail order pharmacy, two leading pharma wholesaler and the University of Zurich and the University of St. Gallen.
+https://twitter.com/modum_iohttps://modum.io/https://www.youtube.com/watch?v=OeL0KmJ3qH4https://www.youtube.com/watch?v=IzJ1EPs-MpA&t=1shttps://www.youtube.com/watch?v=T_oTKldjUGU&t=5shttps://www.youtube.com/watch?v=de2NlpF0HoYDon't come to me back in 2 months crying.
+993 here senpai, feels good.
+Don't care if I have to wait a few months, this is one of the comfiest holds I've had since OMG and NEO over the summer.
+This is the easiest 3x we will ever see.
+Compare this to shitty LINK that has 60m Market Cap, two man team and is re-writting their whole code.
+Not to mention 25 times bigger Circulating Supply and Total Supply LOL.
+I believe the current market cap for this coin at $30 million is under valued and I see huge potential for it to go much higher!Please let me explain.
+In 2016, the US Trade Administration issued an executive summary about the cold chain industry.
+You can Google "Cold Chain Executive Summary", the PDF file should be the second result from the US TRADE.gov site.
+In the key findings report it says:"Cold chain spending in the biopharma industry on insulated boxes, blankets, phase change materials, temperature controlled shipping containers, sensors and recorders, and other tertiary packing and instrumentation is estimated at $3.1 billion.
+"So what does this have to do with modum?
+I'll keep it short...MODUM is a supply-chain solution for the $1.12T pharmaceuticals market.What is it?
+Patented proprietary sensor device that verifies authenticity with the blockchain (Ethereum/IOTA)Why use it?
+EU regulations GDP 2013/c 343/01 requires the monitoring of medicines during shipmentBy using the MODUM system, costs per shipment can be reduced by up to 60%.Market?
+200 million shipments of pharmaceutical products in the EU alone last yearCurrently in negotiations with pharmaceutical companies in the UK/France/Germany/Turkey & Vietnam.Pascal Degen, co-founder of MODUM was head of logistics at Novartis AG ($216 billion pharmaceuticals giant)MODUM advisor is Heinrich Zetlmayer who was IBM's head of Supply Chain and Operations ServicesStrategic Partnerships already in place with Switzerland Postal service, two pharmaceutical corporations, University of Zurich & University of St. Gallen.MODUM won first place in the Future and Emerging Technologies vertical of the Kickstart Accelerator 2016, out of 850 startups from 40 countries.Profit sharing & voting tokens.
+Dividends to be issued in ETH on a quarterly basisPilot trails with 43 registered companies successfully completedCommercial launch and mass production in q1/2018!Swiss team / engineering
+Pump and dump shit coins whos hype phase is over
+Q1 2018 will be big for this one
+Pump and Dump?
+This has the most steady slow growth you can see.
+Please open coinmarket cap for once.This hasn't even started.
+This shit has 30m Market cap you retard.
+Are you one of those mad Linkies?
+Keep shilling, fellas, I'm already in
+You don't have to shill, when the company and its product shills itself by being undervalued and too good to keep quit.
+1.2k holder here, comfy AF.
+the number of reddit subscribers to modum has been steadily growing as well, means a lot of people are hearing about it and following along
+4499808-2 months from today bois, we'll be looking at 10$ price and pat ourselves.
+Because the GVT train is earlier, will put some some gains on MOD as it will go far too
+Looked into GVT, will keep eye on it.
+because AMBROSUS exists.
+Good luck with those temperature reliant sensors lol.
+More than 10x Total Supply of Modum.
+Holding 10k until dividendsExpecting 8$
+Tell me why you haven't bought Modum already?Because it's literally a security.And US citizens and US exchanges such as Bittrex are avoiding securities, 'cause they don't want to get fucked by the SEC when they start regulating crypto.

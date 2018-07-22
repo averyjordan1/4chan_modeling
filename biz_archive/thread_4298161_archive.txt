@@ -1,0 +1,10 @@
+not sure what this meansBittrex API
+shit, forgot to add linkhttps://bittrex.com/api/v1.1/public/getcurrenciesby the way speaking of link, I searched for LINK and it is not fucking there you delusional fucking linktards lol
+That flag implies some kind of IOTA token imo.
+sorry buck-o, if you look at the API, you'll notice coins are added in order of when they're added to bittrex.
+They may have planned to add IOTA months ago, but never did.
+No reason for them to add it now.that has been in their API for awhile (months)
+That's trollcoin (which they delisted) not iota.
+I don't believe we have guys like you on this board
+Hey anon, just starting with python.
+Are you using the Bittrex Api wrapper from Github?I'm struggling getting my requests going

@@ -1,0 +1,7 @@
+Did anyone of you heard about this ?
+Its a trojan what overwrites your btc,eth,erc20 adress in clipboard.
+Is anyone here who can get the source code or code something like that .
+i want to rip off my stupid boss.
+You just need to find the value at Regedit.Save your "copy text" Regedit file.Set up a background app that rewrites Regedit file to the one you have saved when someone press Control+C
+.1 BTC
+42649521 eth

@@ -1,0 +1,3 @@
+Hello, I want something that wakes me up when a cryptocurrency reaches a certain value.
+Pretty much like the alerts on the blockfolio app, but much louder like an alarm clock.When the blockchain alarm goes off my phone vibrates, so If I were to place something on my phone that will make noise when the phone vibrates, it would work too.
+Not sure what that would be though, maybe some kind of toy.

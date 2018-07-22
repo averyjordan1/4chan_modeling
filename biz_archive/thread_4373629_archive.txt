@@ -1,0 +1,23 @@
+I want to make an erc20 token that, when sent to a specific smart contract, will send back uniquely illustrated pepes of varying type and qualities.
+Drop rates would be taken into account, kind of like a TCG pack or Overwatch lootbox.
+My idea would be to commission hundreds of unique pepes from artists for this project specifically.
+How difficult would this be to pull off?
+I've never even used a smart contract and have no clue what I'm doing.
+Isn't this a really similar idea to PepeCash?
+find a programmer and pay him, it would be pretty easy to do
+It's too easy to make counterfeits.
+Just copy the image file
+I just looked it up.
+Fuck.
+doesn't know shit about smart contracts>wants to make his own crypto projectI personally imagine myself living in this awesome villa in the mountains, all built by myself.
+Is it difficult to build one if you don't know how to build a house?
+If I understand you correctly, then either you hardcode the (links to) the pepe upon deployment, or you nake the uploadable, but then you can't get concensus over whether the uploaded image (or image links) are actually Peper.
+So it will either be centralized (redering the project moot) or you (memes aside) you need to solve the oracle problem.And yes, storing whole KB of data on a general purpose blockchain will be super expensive in terms of Gas, as this data will have to be carried, by ever node, forever.This issue already applies uf you want to make a smart contract showing you the local weather.
+Blockchains are rather isolated from the outside.Btw if you're interested in a youtube channel covering smart contract programming on NEOhttps://youtu.be/WhASIkJS9zk
+I personally imagine myself living in this awesome villa in the mountains, all built by myself.
+Is it difficult to build one if you don't know how to build a house?Dunno faggot, it's almost like you have to start somewhere or something.
+Thanks, I'll check it out.Probably the way to go
+There's two projects like this already.
+Pepe cash and Pepe coin also known as memetic.
+going to be pretty hard.
+Look into IPFS.

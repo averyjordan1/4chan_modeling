@@ -1,0 +1,12 @@
+Wait a second.Can't I open my position at a lower price than the current one when I go long?
+Answer me, woman.
+Ya bro you figured it out just open a 100x long on BTC starting at price $1 and BAM you're rich... kys lmao
+A stop-limit order is an order to place a regular buy or sell order (also known as a "limit order") when the highest bid or lowest ask reaches a specified price, known as the "stop."
+This can be helpful for protecting profits or minimizing losses.The stop-limit box has three inputs:Stop - think of this as the "trigger price."
+If you place a stop-limit order to sell, it will turn into a regular limit order when the highest bid drops to or below the stop.
+If you place a stop-limit order to buy, it will turn into a regular limit order when the lowest ask raises to or exceeds the stop.Limit - this is the same thing as the "Price" on a regular buy or sell order.
+Once your stop-limit order has been triggered by the highest bid or lowest ask reaching your stop price, it turns into a buy or sell order for the price you enter in the limit field.Amount - this is the same as the "Amount" on a regular buy or sell order.
+It indicates the amount of coins you wish to buy or sell should your stop-limit order be triggered.
+its the type of order you setup...i forget which one it is but it allows your order toe execute when that price is reached
+No The whole point is that you're borrowing money to buy as many xBitcoin as you can afford at market priceYou can only buy it lower if you can get someone to sell to you cheaper
+I see, thank you /biz/.

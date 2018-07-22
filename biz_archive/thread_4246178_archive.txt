@@ -1,0 +1,2 @@
+Not sure why BTC and LTC want to expose their name/reputation to experimentation with smart contracts.
+Seems like they'd go through the hardships/lessons Ethereum went through and still be behind development compared to Ethereum.

@@ -1,0 +1,120 @@
+Monero is the only legitimate crypto currency
+This only the beginning.
+Verge shills incoming
+its getting boring here at $120
+Just moved all my gains from the BTC/BCH seasaw past few days into Monero.... holding and not touching ... who here 20 XMR club?
+You need to stack up more XMR
+good luck anon, I think you've made the right choice.
+Reporting.
+Am i going to be a millionaire??
+Yes, in either 2019 or 2020.
+Keeping holding.
+I'm betting on it.This has been so fucking dead on it is terrifying.https://www.tradingview.com/chart/BTCUSD/cVJUZdIF-fibs-predicting-bullish-BTC-price-increase/He also has this to say about Monero:https://www.tradingview.com/chart/XMRUSD/89VEffxW-Monero-s-dwindling-supply-10k-in-2019-scenario/
+I want to believe...When do we break 150 again?
+Soon, brother.
+Here.
+On my way to the 200 XMR club.
+monero will be the first crypto banned by burger gouvernment
+Thinking they'll ban monero but nothing else>Not realizing there's no way to ban computer code and cryptogrphy
+CT for LTC will make monero useless.
+your days are numbered
+Daily reminder
+What is first mover advantage?Why hasn't BTC been dethroned when hundreds of new coins have "made it obsolete?"
+regulate exchange has never been seen in the past right?
+privacy coins are bad press for crypto
+this triggers the pajeet
+LTC has better name recognition and isnt associated with CP and drugs.
+First to be adopted by the mainstream
+What does this mean?
+That the monero circulation can't be traced.
+I meant that XMR is first mover and has better name recognition in the privacy realm than LTC.While LTC is working on CT trying to catch up with XMR in terms of privacy, XMR will be implementing Kovri, etc.
+Basically XMR will always be a few steps ahead.Also being associated with drugs and CP is a good thing for a privacy coin.
+I think you're smart enough to understand why.
+my favorite: https://www.tradingview.com/chart/BTCUSD/nQTeqgLX-Monero-Lunar-Topography/
+privacy coins are bad press for crypto
+>horrible slow>pow>centralized>not actually anonymous, ip tracking is possible>not pos>no masternodes>not programmable in anywayi'll keep my pivx and odn tbqh desu desu desu
+You say first>centralizedand then>no masternodeswtf
+'ll keep my pivx and odnI have one thing to say to you altcoin holders, if you want your big coins fudding to be more effective, please don't mention your shartcoins, it automatically proves that nobody should take advice from you
+horrible slowTransactions are some of the fastest on any major blockchain.
+Wtf are you smoking?>powOhno.jpg>centralizedLiterally how.>not actually anonymous, ip tracking is possibleLiterally the same as any coin.
+Only Monero has the best solution to it.Oh, and yes, it is still anonymous.>not posIt's meant to be a currency, not a scam.>no masternodesSee above.
+Also, lol at you bitching about centralization, then go saying masternodes are a good thing.
+Fuck off.>not programmable in anywayThis is utter horseshit.
+Desu, Monero is also an altcoin And it will always be
+ODN is a platform, not a currency like XMR, though.
+What ETH is to BTC, ODN is to XMR.
+ROFL
+4364404BTC was used for Darnket purchases for YEARS before Norman caught wind of it.
+Early adopting means using things with a purpose, and (((Criminals))) are seen that way because they use means beyond societies expectations for success.
+To beat the Normie's game, you must follow those who they hate, while not going so far over that they lock you in prison.Don't be a brainlet and follow dumb money, it's still early for Monero.
+This piece of shit is fucking garbageXVG kills Monero, fuck Monero and fuck anyone who buys this.Actual shit for brains.
+LOLStay mad bagholder
+Don't encourage the shill
+Monero has no future.
+It's just money laundering shit.
+The only problem I see with Monero right now is the scaling problem.
+IP tracking isn't a problem with this coin.
+bruh you realize thats only 2k usd worth?
+Not gonna make it
+When confidential transactions are coded into BTC its GG to monero
+Everyone gotta start from somewhere.Yes and lets ignore all the other problems btc has that makes it unusable as currency.
+pivx literally is superior to dash and xmg you fucking mongrel
+I hope to finish a few of the 2.5 kh miners I've been working on.
+Finally found a secure place to set them up at my wagecuck job.
+That reminds me of the bunker guy.
+I wonder how his XMR miner farm project is going.
+Don't screw with this shit.
+Accumulation phase for METAL is almost over.
+Get in now before the big pump in a few days!
+That is all.
+You sure about that?
+When confidential transactions are coded into BTC its GG to moneroYou realize that this only hides the amount transferred, not the sender and recipient right.
+The latter is far more useful information.
+Just started crypto last month... BTC first, then rode waves for modest gains with the btc/bch seasaw... 12k in btc with 2 k on this future gem
+How the fuck can I buy this with GBP without dying from fees?
+The only way I've seen so far is through kraken, but since they require a wire transfer to EUR my bank is gonna skin me.
+Are there any exchanges which facilitates this?Or am I going to have to fucking drop my btc holdings to get some xmr
+Maybe try localmonero: https://localmonero.co/ad?type=ONLINE_SELL&currencyCode=GBP&countryCode=GB&paymentMethodCode=&amount=
+Buy BTC at some local exchange that doesn't fuck you, send to Bittrex, convert to XMR.That's what I did anyway.
+Just buy BTC, LTC or ETH with fiat then use that to buy XMR on another exchange.
+Not ideal but works for me.
+Nice I'd imagine his setup blows mine out of the water.
+I wonder if he has grid power or if he's running a diesel generator.
+Would be cool as fuck if he had a nuclear reactor going down there.
+lol shitcoin btfo
+http://hackingdistributed.com/2017/04/19/monero-linkability/
+4368941>http://hackingdistributed.com/2017/04/19/monero-linkability/That's been known since ages.
+Unless I'm understanding incorrectly, this vulnerability only applies to transactions already made up until a few months back, anything from this point onward is fine?
+Don't really see the problem if so.
+4369097can someone answer if this problem has been solved?
+https://www.reddit.com/r/Monero/comments/65dj7u/an_empirical_analysis_of_linkability_in_the/dg9wnkt/>These are all issues that have already been addressed to a large extent (though further improvements can be made).
+So while the paper is interesting as a matter of historical numerical analysis (outside of the numbers, the issues were all known and published already), it has little applicability to the current version of Monero, nor to more recent usage where people are likely to actually care.
+4369174https://www.reddit.com/r/Monero/comments/65dj7u/an_empirical_analysis_of_linkability_in_the/dg9jup5/
+Since those posts the ring size has been changed to a minimum of 5 and made mandatory for all transactions, this greatly solves the problem, no?
+It's also still under discussion whether or not the minimum should be raised again afaik.
+It's not "solved", but it decreases the probability for linking the transactions.
+Aren't the transactions between throwaway addresses anyway?
+So even if the transactions are linked they can't really be traced back to an identity, right?
+Do you not see the future potential for even just money laundering purposes?
+Not the identity, but the information that could be obtained, is the amount of XMR send.
+The probability of 20% choosing the right address for transactions where no old 0-mixin was selected for mixins is really low though (and 40-45% for the ones where 0-mixin transaction were mixed).
+The counter-paper is basically using some protocol level parameters of the transaction to identify potential fake links based on probability heuristics that old transactions are not the correct address, which seemed to work quite well in reality.There is more open discussion about this particular issue, improving of the selection algorithm for mixins and more here:https://github.com/monero-project/monero/issues/1673
+Thanks anon, bookmarked for later reading.
+I'm mining the fuck out of this coin senpai.
+Deciding on what RX Vega to buy to start mining.
+Seems like the best price/performance for Cryptonight at the moment.
+What are you using now?Also, 50 XMR reporting.
+Could you do me a favor and type 'seed' and post the results?
+lolno
+horrible slow>>pow>>centralized>>not actually anonymous, ip tracking is possible>>not pos>>no masternodes>>not programmable in anywayhe is trolling or he has no idea what he is talking about.Also kovri is coming ;)
+Literally Dogecoin with Tor.Trash.
+seed:^)
+kovri vid posted today by monero: https://www.youtube.com/watch?v=HjfU53TeQnk&feature=youtu.be
+Eh, useful, but the main threat to XMR is governments banning it IMO.
+I don't know if it will happen but if it does, even if you can still 'use' XMR, you're never going to be able to pull it out into a usable currency.
+When we get kovri you wont even be able to see the price
+Atomic swaps...
+If we fall back to that being the only option it's still going to turbo plow in value, that's too complicated for normies.
+Is there any chance of you doing an atomic swap of XMR and BTC and then getting to an exchange which blocks you because the coins look 'bad'?
+Ironically this loss of fungibility is one of the reasons Monero is promising but we might end up at the same problem either way.
+its sort of a cats out of the bag situation, even if it is outlawed, it will still hold value and be exchangeable.

@@ -1,0 +1,53 @@
+I'm currently a senior in high school and at my school we have to complete a research project called a senior thesis in our final year.
+Since we're owned by a college (private high school), we have to complete the project with both a university professor and a teacher at our school.
+I've chosen to do mine in studying the effects of negative interest rates on bond markets.So I was thinking of using Swiss government bonds as my target market because there are fewer extraneous factors like in corporate bond markets and because Switzerland has negative interest rates.
+From there, I plan on calculating the constant yield price trajectory on one of these bonds.
+With this info, I want to see if investors have realized capital gains on their investments by calculating the holding period rates of return.
+So for starters, is this a good way to assess the impact of negative rates?
+Is there any other quantitative bond analysis I should do?
+Additionally, this research project is due in May, so I can take care of these calculations in about a week or so and then crank out a full report by December.
+Is there anything else I should assess quantitatively to judge the impact of negative interest rates?
+I would prefer if these were linked to bond markets, since that's my professor's specialty, but since there's so much time left in the project I'm open to other suggestions outside the realm of bonds.Thank you!
+inb4 underage i turned 18 two months ago
+I haven't read up on NIRP recently myself but my understanding of economics is that the data is so muddy that you wan't as many data sets as you can get.
+Market cap, GDP, employment rates, etc.
+I don't remember the last time I did a school project so I have no idea what your looking for.
+My professor was pretty open ended and said he wanted to mess around with some of the bond market formulas one would normally encounter on the CFA, but he's giving me pretty broad freedom in regards to what I want to do with it.
+I was thinking more and more about expanding the data set to include data from Japan, Denmark, Sweden, and the Eurozone, since I have access to a Bloomberg terminal so gathering market data wouldn't be a problem
+Macaully's durationDollar durationconvexity bonds....YAWNNNbond value (-)correlated to interest rates.....pshhhhhhhhhhhhhhhh interest is the cost of moneyBonds are IOUs; herppderppp negative interest means you have to pay banks to carry liquidity because THERE"S SOOO MACHHHHHSOOO MACHHH MONEYYYSSSSSSS
+Nice just loaned 100k (((jewbux)))
+you could also discuss how negative rates have effected the spreads between stocks and bonds.
+things like search for yield and how inflation expetations have changed.
+the equity premium puzzle (difference in risk adjusted return between stocks and bonds) is considered the biggest open problem in macroeconomics.maybe start herehttp://cepr.org/sites/default/files/40000_GOURIO%20-%20Risk%20premia%20at%20the%20ZLB.pdf
+4294398>mfw actually quality replies on this thread thanks anons i was expecting this to mostly get crypto shitposting
+If it was me I'd research with the intention of betting my own money.
+maybe work a hypothetical scenario where your own country implemented NIRP and how that would effect your portfolio.
+Don't know if you have a sense of money at that age but would you take money out of your own wallet with a few bond correlations?now I'm just remembering hating school because the practicality of the subject never mattered.
+dumb topic.
+western economies are all sorts of fucked up and I doubt you'll be able to make any sense of it at all.
+I'd do a thesis on Venezuelan hyperinflation.
+https://www.investopedia.com/articles/company-insights/083016/how-negative-interest-rates-can-affect-bond-prices.aspJust looked it up.
+I couldn't even remember what negative interest rates were.
+You have to PAY banks for the privilege of depositing your money with them and having them loan it out.
+So Eurocucks buy bonds even that have negative yields because cash is even more expensive to store in a bank in a negative interest rate enviornment.
+Holy shit that's such a cucked policy.
+LOOOL WHAT ARE BONDS GRANDPAWRITE YOUR PAPER ON THE EFFECTS OF NEGATIVE COIN BALANCE
+Actually knows what he's talking about
+OP, here's a compilation of my /biz/ ramblings, in a coupe threads.
+I link Central Bank and Market activity to bond prices (and, therefore, Yield to Maturity).
+https://warosu.org/biz/thread/S3210995#p3210995https://warosu.org/biz/thread/S3223014#p3223014 (my response is near the bottom)https://warosu.org/biz/thread/S3364937#p3364937https://warosu.org/biz/thread/S3672138#p3672138
+equity premium almost doesn't exist in the real world.
+4% of companies account for 90% of stock market gains, Thinks about that for a minute.
+The remaining 96% of companies account for a combined 10% of stock market appreciation (dividends and cap gains).
+This means you literally only beat the market if you are able to pick those 4%.As to the ERP puzzle, those 4% are the source of all of the equity premium.
+I.e.
+efficient/successful companies continue to be efficient/successful (apple, exxon, microsoft, google,) and everyone else will be replace by something better at some point (and their stock goes close to $0).There are lots of papers on this.
+Google equity risk premium and theres a paper on SSRN
+well you're already losing money to inflation.
+going from 0% to 0.01% just means you're losing 0.01% more.
+Going into the negative is more of a psychological change than a fundamental one.that's my understanding at least.
+you literally only beat the market if you pick those 4%if you pick the ENTIRE market (complete diversification), you still get an equity premium (7%) that is way too big to be explained by any reasonable measure of investor risk aversion
+what paper you reffering to on that 4% stat?
+Damodaran?
+sounds like bs academic attention seeking
+don't know about 4% specifically but I thought it was common knowledge that stock market growth is carried by a small minority.not hard to find evidence with a simple search.http://online.wsj.com/public/resources/documents/print/WSJ_-B012-20170418.pdf

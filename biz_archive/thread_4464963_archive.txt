@@ -1,0 +1,12 @@
+hey guys am a total noob in the mining scene , and i was checking out hashpower of graphics cards for xmr (monero) mining .
+in the screenshot ,it shows that 8X SAPPHIRE RX VEGA 64 8GB HBM2 has 16000 H/s which seems extremely considering this card costs less than 1k$.
+in cryptocompare it show you can make 900$ with this hashpower .
+it seems too good too be true , what am missing out ?
+^^
+It's not worth mining with gpus.
+There are better options with ASICS machine.
+Invest in a baykal guanti x10 If you want to do It seriously.
+Also Watch your Electric bill
+considering that my electricity cost is quite low (0.03-0.04$ per kw) is it worth to buy this https://mineshop.eu/monero-xmr-miners/monero-miner-gpu-mining-rx470-detail
+Been mining VTC for 3 months... totally worth it if you have Nvidia
+I have a gtx 1080 and my electricity bill is nonexistent What should I mine?Anyone with the same setup that have researched this already?

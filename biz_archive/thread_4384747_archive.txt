@@ -1,0 +1,11 @@
+Is this how chainlink works?t.
+The brainlet
+Yes, that is exactly what ChainLink does.
+The "oracle" problem is actually a connectivity problem.
+ChainLink is a middleware that allows smartcontracts to connect to and communicate with crucial external data.I wouldn't call that "revolutionary" though.
+The smartcontracts are what's revolutionary, the middleware/oracles are just kind of a patch to make it better>inb4 some retard makes a bad comparison
+Chain Link is like a train that takes wood from one side of the river to another because there is no bridge to take the wood across with carts.
+/10
+ChainLink is like the chad contract and the no-chainlinked smart contract is the virgin contract
+so what you're saying is that the chain is like the Mexican avocado farmer and he needs to get them to the toast market, but without a link (e.g.
+an organic sticker) he can't prove that they're fresh so the oracle is like someone who blesses the avocados first so you can tell that they are organic but also chain contracted and untrustworthy linkable oracles?

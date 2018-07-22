@@ -1,0 +1,107 @@
+I JUST LOST EVERYTHING!!!
+FUCK WHY IS NO ONE TALKING ABOUT THIS>mysteriously got disconnected from MetaMask earlier tonight>huh, weird alright I'll go enter my seed words and restore>restore>literally no accounts associated with the seed>nothing restored>everything gone>check MetaMask site>see thishttps://medium.com/metamask/metamask-security-advisory-and-bug-bounty-for-seed-phrase-concern-bbd95ab63210I literally feel sick.
+There's nothing I can do is there.FUCK these wallet services, Parity, now this.
+Never again.
+this shit is only going public now??
+I've had this problem months ago.
+thankfully didn't have much there at all so I didn't lose much, but god damn that shit is buggy af.
+That's what you get for using bootleg services.
+Also for not using a hard-wallet.
+JUST
+use the seed with another wallet service idiot
+Damn that blows anon.
+That's why I've never trusted that fucking fox.
+I I'd rather have a private key backup that I know will work in a safety deposit box
+>parity can't code for shitParity is garbage.
+Use MEW.
+Holy shit... how much did you lose anon?
+RIPPost address maybe get some donations?I am using a hardware wallet and I am still scared if this issue happens to us.
+There's no reason a bug like this couldn't exist for hardware wallets.
+You deserved it.
+> not holding it on EtherDelta instead
+Hardware wallet seed you can type into mew and it will pop right up.
+Go ahead.
+Try it out.
+this shit just happened to me Today.
+I'm so lost right now, I moved a lot of my work into this piece of shit and then wake up this morning and it's all gone!
+If any Rich Bizs care to help me rebuild I'll pay back when I get my stacks backBtc: thx biz1CZjjHT796Tka99SiyhJE2XHDPg7oMwQch
+into a web browser via a computer keyboard...?
+no thanks... you know the hardware wallet works by typing it on the device right?There's also more than just ETH in these hardware wallets, one seed phrase generates wallets for many different coins, so even if it does work for ETH it may not work for all of them (unless you get a second one to test)
+4372766OP.When you use Metamask, your wallet is saved as a JSON file on your computer.
+If not you should at least back it up that way.
+That's what I've always done so if something goes wrong the JSON file is still on my computer and can be accessed through any other wallet, like MEW.
+no problem I just sent 5 ETH to that address.
+Hope it gets better
+I did the 12 word pass phrase and tried to restore my wallet from myetherwallet but nothing.
+I had my savings put in BTC in this wallet and I can't get it back now.
+I'm ordering a Ledger as soon as I build my stacks back, sucks
+not holding it in a 0x smartcontract
+Thx Biz but this is a BTC address, if you did this you need to talk to your wallet provider and tell them to cancel the transaction - I don't want you to lose 5 ETH being nice, if you send BTC please memo me your email so I can pay back
+ talk to your wallet provider and tell them to cancel the transaction Audibly fucking kekked
+I think he was joking, he didn't send anything.
+I know, but I've heard coinbase has been able to recover coins in the past from people sending to like LTC to BTC, or vice versa, but I dont' know for sure if they can do it.
+4373142If any other anons wants to throw Eth away plz send to 0xe837cd6abc39304ead2bf0ca5f5949da6972e5f8
+big if true
+I can't connect to metamask neither but I can see my funds on etherscan yet, so is there a chance i still can get to them?
+How terrifying.
+Is there a chance MEW will mess up someday?
+Can hardware wallets store ERC20 shitcoins?
+And this, friends, is why you always keep multiple copies of your keypair on a paper wallet in geographically distinct secure locations.Bonus points if you stamp it into aluminium sheet.
+Is there a chance MEW will mess up someday?MEW is bulletproof unlike Parity.
+It uses Parity for some of its nodes, but that's not a problem.
+Here's how it works.
+it's not parity you dopey cunt it even says METAMASK in the image...
+OP mentioned parity.
+Reread it.
+It seems like a lot of ETH-related services have been atacked.
+A lot of sites are being a bit laggy (Etherdelta included).
+I could finally reconnect to Metamask account, but it doesn't load my funds (it shows me the message "Loading" once i logged in).
+The thing is im ok for now, I have my Private key and my seed words stored and I still can see my funds on etherscan.io but apart from this i'm kinda worried...
+metamask is great, you're just a fucking dumb shit for going on a phishing site.
+I don't even have a real wallet, just have everything on bittrex/polo/binanceis this bad?
+seems like a lot of ETH-related services have been atackedThere's a ton of ways hackers are stealing their eth.
+This article hits a few points.https://hackernoon.com/10-tricks-hackers-use-to-hack-your-cryptos-82fc8a0a1bfeFake Polo apps on Google Play are being made to steal your passwords.
+DON'T DOWNLOAD THIS APP.https://play.google.com/store/apps/details?id=com.app.poloniexwebview&hl=en#details-reviewsThere's malware that switches the address to the attackers.
+https://www.kaspersky.com/blog/cryptoshuffler-bitcoin-stealer/19976/There's apps that run miners in your browser.https://securelist.com/tales-from-the-blockchain/82971/A malicious etherdelta link was floating around that ran a script in the url, and stole your etherdelta wallet key.https://www.reddit.com/r/EtherDelta/comments/72vltl/malicious_urls_redirecting_to_ed_with_embedded/I personally use a new address everytime for EtherDelta and send the coins to another clean wallet after each use.If you aren't paranoid about security in crypto, you're not trying hard enough
+Depends on how much money you have out there.
+~3k USD give or take
+if you are going to be in cryptos>just learn and use paper wallets
+That's not so bad then.
+If you have money you aren't actively trading, it's probably best to take it to a wallet.
+If you had like $100k and were just holding some coins, you would be a dumb fuck to trust exchanges not to screw you over.
+Coinbase is probably the only one you could safely do that with.
+I didn't download anything, I don't use the same browser for metamask and for browsing.
+I have my PK, seed words and public adress printed and deleted from my pc, I still can see my funds.
+I tried to buy 1 token in Etherdelta importing my account and it worked properly.
+So i know I didn't lost my bags because I still have access somehow, but now im trying to figure out where should I move.
+Any wallet suggestion that supports erc20 tokens?
+Is myetherwallet relatively easy to learn how-to-use?
+If the hardware wallet costs less than 10% of your investment then just fucking buy that.
+It is so worth it.
+yea thats what i figured, im actively trading so transferring between my wallet and exchange sites seems like it would be unnecessary and id constantly be losing in transaction fees
+etherscan.io displays this message >Note: Don't Panic!
+The node responsible for checking the balances is not responding, if the issues persists please contact usETH infrastructure is being attacked im pretty sure of that
+Is myetherwallet relatively easy to learn how-to-use?That's what I use.But honestly, I never send money from it, or I do it rarely.
+There's always a chance myetherwallet.com got hacked, and you are giving them your private key.
+So I only check my balance with my address and not my private key.I don't even trust a fucking ledger.
+It's possible there's vulnerabilities we don't know about yet.
+Trezor got hacked not that long ago.I just buy and send to a newly created MEW key.
+And never spend the fucking eth (or other alt coin).Even chrome extensions that flag malware can be hacked.
+Hackers are earning millions on these hacks.
+There's an entire industry around it.You don't believe me?
+Read though all the comments of these accounts where people got their eth stolen.----https://etherscan.io/address/0xef828938155cabfe83affbe726b55d188b4f45c0#commentshttps://etherscan.io/tx/0x71a3a34c228afdb5b4a7e34a11d2ec1f847de08353ab20a862ef8d73ea20bc73#commentshttps://etherscan.io/address/0x2c4fff78a37c1772e1444d02ac52b447c4b747b9#commentshttps://etherscan.io/address/0xcf8a0f34386e03dce55a6f64e2544d8931443f23#commentshttps://etherscan.io/address/0x6aef2850c2ce2ef583ae8a36be3357080608bdc3#commentshttps://etherscan.io/address/0x27dbe010bf712bf6c8f4c17aa20fba8f00934661#commentshttps://etherscan.io/address/0x88acab37f1a3ea26da9fff56c2ab5f0f79950123#commentshttps://etherscan.io/address/0x619f18aec5f8eef483fbfe654a269f1186dda915#commentshttps://etherscan.io/address/0xc9d56287b414e1aa0963016aa721b527f095fd9c#commentshttps://etherscan.io/address/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0#commentshttps://etherscan.io/address/0x410ed6c41894ea6576ede999f3bedb8a887fa3a7#commentshttps://etherscan.io/address/0xc2a70afe8c09ff2700d76fd704307580250523ea#commentshttps://etherscan.io/address/0x32be343b94f860124dc4fee278fdcbd38c102d88#commentshttps://etherscan.io/address/0xfbb1b73c4f0bda4f67dca266ce6ef42f520fbb98#comments
+Here's some more hacked people.https://etherscan.io/address/0xf1083c2984e351c02e94ba4f19ae82c05db06f3c#commentshttps://etherscan.io/address/0x84c21f304c61fe3a1e8d7c50b719163bccb999ad#commentshttp://etherscan.io/address/0xf5bec430576ff1b82e44ddb5a1c93f6f9d0884f3#commentshttps://etherscan.io/tx/0x8734f03e6d893345e502363771ffacd1a3621d70ede58a68d9049b9cac32e858#commentshttp://etherscan.io/address/0x04d6c0dfd9fa468894cb620ae6f1416fd098a271#commentshttp://etherscan.io/address/0xedfa743f83a12af4328e546a33507fb875d31782#commentshttp://etherscan.io/address/0xd72d7e80e4a552750498926dbb7abfe3d1f2a3e7#commentshttp://etherscan.io/address/0x49533c637cd17d71969288a44c68b88d2f458979#commentshttp://etherscan.io/address/0x3c0d39ba800f1aec6657d56a5df99a5c1de252fd#commentshttp://etherscan.io/address/0x563b377a956c80d77a7c613a9343699ad6123911#commentshttp://etherscan.io/address/0x4113c6ce4fb936d087e92a55d5b3bfdd275b1d3f#commentshttp://etherscan.io/address/0x243bec9256c9a3469da22103891465b47583d9f1#commentshttp://etherscan.io/address/0x243bec9256c9a3469da22103891465b47583d9f1#commentshttp://etherscan.io/address/0x31592de6e68add378e2e9bdc9f867da84729fe1a#comments
+4374499I will have nightmares tonight, fuck
+I feel bad for these newbs getting hacked.If you look at the culprits, some of them have millions of dollars in eth.
+It's insane.I wouldn't run windows period when using my crypto.
+Linux or possibly Mac (since it's unix based) has the fewest crypto vulnerabilities.
+There's just too much crypto malware on windows.You can't trust apps or extensions anymore.
+It's too lucrative of a business for these hackers.
+And it's only going to get worse.
+43738374374647Already solved, apparently the node that runs metamask to check account balance it was the same that etherscan.ioJust cleared my caché, after some waiting.
+I emailed support... Could someone send me some useless tokens or whatever?
+This is all I have in this address...0xFf3D5de57bbb59D2416CB7947B6B01dc3Cbe2b07
+one last bump...
+dumb larper
+4372766I had the same problem, after cleaning my computer with some anti-malware program it deleted all my browsers history so it also deleted my metamask profile (which I use on firefox because on chrome it only shows a blank window when I click on the fox icon anyway).
+After I tried to recover my profile with the seed it was empty, no accounts whatsoever, luckily I had the private key so it's all good but for someone who doesn't better make sure you have it written down on paper, never trust some fucking extensions

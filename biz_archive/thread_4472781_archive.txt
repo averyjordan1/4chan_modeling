@@ -1,0 +1,21 @@
+I just saw a lot of 9sat/byte transactions clear.https://mempool.observer/If you want to get cheap transactions done in Bitcoin, you're going to want to do it now.
+Average fee as high as 33 cents in BCH for transactions.https://bitinfocharts.com/comparison/bitcoin%20cash-transactionfees.html>i.e.
+this picture is bullshit.
+Blocks are flying out right now, 6 in less than 30 minutes.
+I'm serious guys, if you have a transfer to make you can do it cheap right now.
+Average fee as high as 33 cents in BCH for transactions.beats literally $30 to move a single bitcoin
+one in/out pair or an in/out+out trio for getting change are 192 and 226 bytes respectivelyAt the current fee of ~7sats/byte that is ~1400 to ~2000 sats total for a bitcoin transaction.2000 sats = 16 cents.Bcash fees are 32 cents.
+Bitcoin transaction fees are lower than Bcash fees by half right now.
+I mean if you pay $30 the transaction will clear, but the whole point of this thread is to update you guys on what the actually marginal cost is right now.its about 16 cents to send any amount of bitcoin from a single input.
+From multiple inputs you will pay an additional 10 cents each.Still better than BCH.
+Still better than BCH.yeah, for how long?
+it'll go back to being $20 a pop soon
+Maybe, its honestly hard to be sure.
+If nobody chooses to pay $20 the fees won't ever reach $20.
+If everyone knew that they could pay between 7 and 10 sats/byte the fee structure would be stable.
+Besides, why do you care about the future price?
+its economically illogical.
+If you are planning on moving BTC you can do it very cheaply RIGHT NOW, so don't complain later?
+What if I need to move some later, fuckhead?
+What if I need to move some laterWhat is traffic.
+If you want to drive to work during rush hour and you don't want to leave early you pay the price.

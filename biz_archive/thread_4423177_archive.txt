@@ -1,0 +1,18 @@
+see the thing is, if its not gonna be btc, theres no point in it being bch.
+we get to pick anything.
+in that case, you might as well go with something like zcash or monero.and this is coming from someone thats holding all in btc... just saying.
+you disagree or what?
+All in btc for life.
+knowing humans and what not, i of course agree, thus my holdings.
+but thats not really relevant to what im saying...
+I can see where you're coming from and your logic is sound.
+Unfortunately, you elected to post an anime image, thus rendering your opinion worthless.
+but she is kawaii, deshou?
+this is something everyone has known forever, but shitcoin pumpers and the chinks are trying to make people forget.the only thing that alts like bitcoincash have going for it is that it was airdropped to bitcoin holders, so they have an equal stake in it.
+other than that, its a terrible choice for a replacement to bitcoin, and would be both financial and technical suicide for crypto, and the big players know it.
+The developers of BCH have already said out loud in discussions that they view the current fungibility situation as a bug that needs to be rectified.
+They're concerned about attaining consensus in any potential future hardfork that addresses it, but they would most likely just use the ring signature architecture of Monero in order to address the problem, whilst keeping the underlying valuable stakeholder information in the present ledger as well as the enormous deployment in proof of work production and market cap.XMR and ZEC and similar are great technology demonstrators and they have value in that sense, but by my analysis the long term outcome is more likely to be the BCH ledger adopting those fungibility enhancements, rather than the stakeholders in that ledger migrating out en masse to the XMR or ZEC ledgers.Either are indeed possible though, all depends on how well managed future fork that implements such technology on BCH is, as well as how controversial it is, and how eager people are to make absolute fungibility a property of BCH.
+if bcash could fork and implement monero level privacy then i would be completely for it, but i have serious doubts that they can manage to do that without completely fucking it up like they did the only major change they made.i just hope some of these shitcoins die sooner or later though, there's too much complete shit with way too high market cap (hello litecoin), and i dont want to deal with a 2 year bear to get rid of them only for them to continue their pump and dumping once it's over.
+Honestly I think they're settling on the best possible setup for the development of software moving forward.
+Multiple independent competitive teams.
+The best developers love being able to intellectually dick-wave and it makes them quintuple check all their assumptions knowing they will be ruthlessly attacked if they make any mistakes at all by other teams of people just like them rather than creating a groupthinking politically oriented core that simply absorbs the assumptions and beliefs of all the other members by osmosis in proximity and risks outgroup ostracism questioning and by extension validating any of them.For as long as that status quo prevails or is accelerated, it's my view they're in a great place from a development perspective.

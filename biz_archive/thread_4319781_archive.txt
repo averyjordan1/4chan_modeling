@@ -1,0 +1,16 @@
+I am a newb regarding crypto and trading - this is my first week.Today I tried a trading strategy, which seems genius/idiotic, but it has worked.
+Explain to me, why has it worked so easy please.I trade on binance - t means 0.050% trading fee, using binance coin.Coin x has:1) Lowest sell order of 0.00502) Highest buy order 0.0040I make manual see order at 0.0047 - it sells INSTANTLY (because much lower than other orders)After that I make a manual buy order at 0.0042 - again INSTA buy (higher than other buy orders)I have made many such small teades, each has 0.5-1.5% profit.WHY IS IT SO EASY?
+Because of the large spread?I noticed that after 10-16 trades the spread for the coin decreases and this strategy is not viable any more.Please comment - my strategy is pure luck, idiotic, genius or a combo of all 3 lol?
+what about fees?
+If the spread is this large then yes, this works even without bots.
+This is called market making and is usually done by bots with large bankroll.
+It is RIDICOLOUSLY easy.I made 20 trades with coin X - the spread got lower (maybe because of MY trades?
+?_Since the spread got lower, I swtiched to another coin with large spread and it is working AGAINIf the fee is fee is only 0050% (binance coin), I can just switch to many different coins and trade all day???
+Is this genious or am I missing something.
+bumb - maybe someone else has used this "market making" trategy?What forbids me from switching from one coin with large spread to a different coin and just repeat the strategy?
+when the market moves youre left holding the bags, all for your measely .001% trading
+This is exactly the reason to do this only with reliable alts
+crypto>reliable
+Try this strategy: buy low sell high.Good luck.
+no seriously though you guys keep trying to get us to make binance accounts.
+yeah, I used to do this with omg back when it was on 200kish sats

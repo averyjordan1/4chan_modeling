@@ -1,0 +1,6 @@
+Hmm, so what happens when this hits polo/bittrex and the FOMO begins?It's already over a 3x from ICO price and uRaiden is being released end of month.
+What if exchanges make API's with Raiden as a protocol to enable arbitrage bots?
+Currently, you have to wait for the block chain to get your coins on the exchanges.
+With uRaiden you could set up a payment channel in advance to quickly send small amounts of tokens.
+Instantly.
+For cheap.

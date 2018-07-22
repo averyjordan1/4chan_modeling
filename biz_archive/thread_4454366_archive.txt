@@ -1,0 +1,5 @@
+What deposit amount can trigger an SAR (suspicious activity report) by the bank?I know depositing $10K cash does.
+It doesn't necessarily mean IRS will actually pay attention to it.
+They're just supposed to report it.Some of you guys have deposited shitload into your bank from coinbase before right?Apparently no one is really paying taxes on cryptohttp://fortune.com/2017/03/19/irs-bitcoin-lawsuit/So, do banks have to create SARs based on deposits?
+If someone deposits 50K from coinbase, is that flagged to IRS?
+yeah but if you're cashing out less to hide it you can get in trouble too

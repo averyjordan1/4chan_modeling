@@ -1,0 +1,8 @@
+OK you niggerfaggots, I am building a trading script and I need market data, crypto market data, exchange rate market data.
+Live and historial.Is there an API you would recommend ?
+Is there an API you would recommend ?use the api of the exchange
+if scraping market data requires you to ask 4chan then I don't have high hopes for your 'script'
+im building a trading scriptdoesn't even know where to get data and hes build a trading script.inb4 huehue i tr0l ugo ask /g/ you fucking faggot
+which excahnge has the easiest to use API
+etherdelta has the best api and ui of all crypto exchanges
+i think the bittrex api was pretty simple to wrap in c++ at leastwith api v2.0 you can fetch 10 days worth of historical data with one minute resolutionhttps://bittrex .com/api/v2.0/pub/market/GetTicks?marketName=BTC-ETH&tickInterval=oneMin

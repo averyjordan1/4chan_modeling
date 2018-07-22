@@ -1,0 +1,5 @@
+I'm a total retard when it comes to blockchain shitbut I know that I have had BTG airdropped to me.I just can't work out how to claim the shit.
+My coins were in an electrum wallet on the fork date.
+I moved all my btc to a nano s on the 25th after the fork.
+The electrum seed doesn't work on coinomi.I'm at a dead end.
+put the electrum seed in a wallet that supports BTG then send it to the deposit address in coinomi

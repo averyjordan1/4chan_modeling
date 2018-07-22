@@ -1,0 +1,35 @@
+Lightning Network is coming.What it will bring: - You can send 1 satoshi to someone.- Instant transaction (not 10 minutes blocks)- Small non-bloated blockchain (not centralized in banks and exchanges)- 10000 txs per secondWhat does a block size increase give us?- 20 txs per second or so- fees that will still be 10+ satoshis per byte (around 225 bytes per transaction)- Nowhere near VISA transaction levelsHere is one of the LN projects:https://www.youtube.com/watch?v=dhpg_8D2FPI
+when?
+(((Off chain solutions)))
+http://blog.lightning.engineering/announcement/2017/10/12/test-blitz.htmlMore desktop applications for LN if you're interested
+The sooner the chink miners are put in their place, the sooner we can get a sustainable scaling solution that doesn't depend on their mined blocks
+Oy Vey we can't have the goyim accessing the blockchain directly!
+What we need is (((trusted people))) with (((special access))) to do things that people could previously do for free, themselves!Stockbrokers couldn't compete, so now they're trying to take over
+Sometime in 2018.
+It does take time, because it needs to be tested thoroughly.It's a very important market so nobody wants to screw it up.I mean, you can start using LN already if you compile it yourself and shit, but it's not ready for mainstream.
+Oy Vey we can't have the goyim accessing the blockchain directly!This is already the case when goyim aren't using full nodes and instead light clients such as Electrum.>What we need is (((trusted people))) with (((special access)))Which is anyone to run a full bitcoin node and having economic incentives to do so.
+(compensated when catching a double spend or discrepancy in transactions)>to do things that people could previously do for free, themselves!Which was what?Mining, which is extremely expensive with specialized hardware from ASIC manufactuerers and in certain parts of the world with either cold weather or cheap electricity.
+is a pipe dream.
+Every "improvement" to Bitcoin takes forever.
+Sure, whatever you say
+That sounds great, but isn't decentralized, so no deal.
+You might as well use VISA at that point.If bitcoin can't be used for day-to-day transactions so be it, it doesn't have to fulfill that role.
+then if it's not satoshi's vision how did he expect this shit to work on a global scale ?was satoshi a brainlet or what?
+who gives a fuck about that
+Corporate miners and hard forks probably aren't part of his vision either.
+(((lightning network)))https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800https://cointelegraph.com/news/lightning-network-will-be-highly-centralized-gavin-andresen
+it's not a blockchain anymore.
+it's not bitcoin.
+yea, I don't know which side of jews is worse to be honest.
+I'm tired of this shit too hence why I bought some delegated proof of stake alt coins.
+However, I do not trust Chinese miners in the slightest.
+BTC vs BCH is a very clear attempt at a corporate take over.
+then if it's not satoshi's vision how did he expect this shit to work on a global scale?Satoshi clearly stated that bitcoin would not be suitable as a day2day currency
+fine, then why is everybody bitching about btc's limitations as suchlet's just keep it a store of value, as long as it makes us money, no fucks given
+fine, then why is everybody bitching about btc's limitations as suchthat's only the shills and miner cabal
+10000 txs per secondMhmm...
+Plasma will do one million per second and wont require centralization or subscription fees.
+Bitcoin is gonna die in the next couple years.
+This is dumb.
+If I wanted to have centralized scaling solutions I'd just use lumens.
+The stellar network will be better in every way and they are more professional about how they do things, and will get buttfucked with knives by corporations that use them if they fuck up or do anything nefarious.Go fuck yourself OP.

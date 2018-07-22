@@ -1,0 +1,50 @@
+Time is running out.....
+is this one of the pbc things like cvc?
+arkumulated from 2 to 4k, am I going to make it?
+Yes, deluded arkie.
+Yesssssss
+Holding since September.
+Have a few extra grey hairs now but I really believe this is a great project.
+My God, fucking ARKies.
+Will they ever learn?
+Will the cold and hard reality of their idiotic financial decisions ever be realised by their pea-brain heads?
+What's it like ARKie?
+What's it like to live in this world of make believe where you can just dump all your financial assets into this shit-tier vaporware project and someone manage not jump off the nearest bridge headfirst because you are so goddamn stupid it brings shame to your entire family.
+Enjoy your twitchy assholes and empty bank accounts ARKie, cause that's all you'll ever get throwing cash and this stupid coin.
+I've been holding since June.Such a comfy feeling
+*jump off the nearest SMARTbridge ;)
+Dgb holder detected
+whos the kike messing with my biz classic payout, i hit a good faucet number yesterday now its like it didnt happen.
+why even have the faucet if you reverse bigger wins
+We had a unique database issue last night which is now resolved, but it resulted in the last 24 hours of faucet rolls being wiped.
+No other data was lost, nothing was compromised.
+To compensate, we've upped the faucet payouts for 48 hours.
+I forgot my biz classic username, how do I fix this or contact you guys?
+I BOUGHT 150 YESTERDAY NOW BECAUSE OF BTC IT'S DOWN 10% FUUUCK.
+Wish I could see these dips in advance though, for real.
+what the FUCK i rolled 10k twice yesterday!
+Was wondering why it was paying out more at the moment.
+Have you put in a more regular cronjob for backups so this doesn't happen again?
+Not a big deal though, 24 hours isn't that much, and you said it only applied to the faucet gainz right?
+The backups actually caused the issue.
+Our disk became full for the first time, so the backups and tx logs failed to write/corrupted, and we had to rerun the payout script, which is stateless so it doesn't matter if it fails, we can always rerun it - but we can't do the same for the faucet rolls.
+We're putting measures in place to prevent this from ever happening again.
+sent ;)PM one of us in the discord, or if you don't care about your username being posted publicly you can post your address here along with roughly the last login date/time you remember and I can look it up.
+Our disk became full for the first timeI meant remote backups.
+You..do keep offsite backups right.
+Seems you have it all worked out though, the non faucet pending data is more important anyway.
+This ride, it never ends.
+Offsite backups were taken after the on-disk ones, which is no help if the on disk backup screws everything up.
+We're now taking live backups externally first, as well as on-disk after increasing the disk size, then verifying them both.
+Due to how complex our payout system is, order of operations matters and it caused a fuckup last night.
+It is impossible for staked payouts to screw up because in a doomsday scenario where EMPs wipe out all our backups, we can recalculate owed amounts as far back as we want without relying on a database.
+what does this gif even meanisnt that green biz that fag delegate who fucked up the script and exit scammed the rest of the ark ?
+How new are you?
+It's just a prank buddy boy, I imagine non-arkies on /biz/ get sick and tired of the biz_classic delegate and ARK.
+We're all deluded.
+Hi!
+5 trillion chainlink threads a day>maybe 3 threads about ark a day probably lessdont worry were fine
+Remember the original /biz/ delagate?
+The kid had a dentist appointment and forgot to pay people out.
+And then sent all the payouts to one guy.
+Glad you guys replaced him.

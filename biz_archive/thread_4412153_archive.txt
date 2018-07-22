@@ -1,0 +1,20 @@
+So was this a scam like biz was saying last month or does it actually have long lasting potential?
+I think you already know the answer anon.
+Buy some and forget about it
+if you think its a good project, now is the time to buythis bitch has been hovering around $2 for weeks, this is the bottom.
+kek the only one of these where I end up being the chad
+Bancor was the original scamIt stopped ETH's glorious rally from $10 to $420We would have Mars colonies if it weren't for GaliaFucking kikes
+I'm gunna share with you my research anon, if you like it, tip me something with and we'll get in touch.Bancor is essentially a computerized Market Maker.
+It will always offer a price at which to sell, and a price at which to buy.
+The price is calculated by an algorithm that allows them to make sure that the "reserve market cap" is always the "constant reserve ratio".
+They say that because of this, the reserve can never be depleted, but this isnt really true.
+Everyone could sell BNT until the smart market cap is essentially zero, even though it never reaches it.
+Thats the plumbing of Bancor - but the potential is not in the plumbing, it's in the currency pegging to ETH.Eth's biggest problem is that smart contracts are making the blockchain too big.
+It's really very simply.
+Rather than putting MORE applications and lines of smart code into the same blockchain run by every node, Bancor allows one to "peg" their blockchain to ethereum, and guarantees that at least someone (even if its a stupid clearinghouse algorithm) is willing to provide liquidity between the two blockchains.
+This means that apps can make their own blockchain with their own coin, write smart contracts into in, then hook it into Ethereum via the peg so that the prices of the two tokens equilibriate and stabilize, yet the smart code on one chain doesnt slow up the other.
+It's division of smart labor essentially.Bancor is Eth's scaling solution with a twist.
+It lets smart token issuers create money.
+both
+tldr: Fuck bancor
+It's not a scam..See https://app.bancor.network/discover and https://www.reddit.com/r/Bancor/comments/75b7us/list_of_all_known_projects_committed_to_using/?st=ja43wq7x&sh=d8f4cfd8 not included in the list is every ERC20 that anyone will be able to create a relay for.

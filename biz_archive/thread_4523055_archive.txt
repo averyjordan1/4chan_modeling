@@ -1,0 +1,2 @@
+Why is my mining performance having so much variation?
+Is this normal?r9 390 nicehash using sgminer/cryptonight

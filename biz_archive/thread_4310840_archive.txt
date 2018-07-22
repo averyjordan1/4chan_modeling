@@ -1,0 +1,5 @@
+Scam website alert!
+Bitcoin.org.
+They are shilling some segwit coin under the name of bitcoin and claim fast, low fee payment.
+This segwit coin is not fast (130,000 txs and counting), not low fee ($10) and not a payment coin (it doesn’t f*ing transact).
+Watch out!

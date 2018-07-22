@@ -1,0 +1,25 @@
+Started trading this week.
+Has been a lot more productive than shitposting on /pol/.Today I branched out from bittrex and followed a couple tips on some buys on EtherDelta.HOWEVER - and I know this is a complete newfag question - what is a good wallet to use in the beginning?
+Is there a universal wallet?I know almost nothing about wallets.
+Thus far, the few hundred I have I've just kept in the exchanges for the week, but apparently this is incredibly stupid.
+Because I don't want to be incredibly stupid - what should I be doing with the coins I'm squirreling away?
+I put a little into astro, among others - should that get moved to a wallet?
+Which one / how / act like you're explaining this to someone who's never used a wallet before and has only been trading for a few days (because that's me) and give me some good /biz/ advice here.
+second'help newfags out
+Want to know as well.
+I started looking into Electrum.
+I I think I will store BTC there.
+Small amounts probably make more sense keeping them in exchanges, right?
+Hi /pol/tard.
+Bitcoin wallet is blockchain.info, ether based coins can be stored on MyEtherWallet (MEW).
+So you can put your shit Astro on that wallet.
+Just make a wallet on mew and send your tokens there.
+Alright, I'm in the same boat as you guys, and so far the best I online wallet seems to be myetherwallet.
+I'm still figuring out how it works, making sure I don't send anything to a black hole.You just go there and generate a key, then save that somewhere and use it to login later to get an address to send your tokens to.
+There are some FAQs there, but I can maybe answer a few questions.
+Is there a universal wallet?Not yet.
+Use electrum for btc.
+MEW for eth.
+Always back your shit up.
+Then back up your back ups.
+Learn to audit yourself.

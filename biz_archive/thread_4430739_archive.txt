@@ -1,0 +1,12 @@
+am apparently stupid.... how do i move ico tokens from mew to ed?!?!
+PLEASE SOMEBODY HELP ME
+That...is a very difficult undertaking.
+You need highly skilled training to understand even the basics.
+you add the wallet to etherdelta, have to put in your public and private key
+DON'T DO THAT YOU'LL LOSE ALL YOUR LINKS
+ok. i saw that part, but will that pull my ETH that is sitting on MEW in to ED too?
+I just wanted to put the ICO tokens in ED
+you deposit into the smart contract from ED after connecting the wallet to it.
+Use the reddit guide its literally step by step you fucking brainlet.>Send ether to ehterdelta MEW>on the deposit tab put how much ether you want to deposit into the smart contract>Leave enough ether in your MEW to cover transaction fees (like .005 ether or so) so if you have 1 ether you want to use, deposit .995 ether into the ED smart contract and keep the other .005 to cover the transaction fee.
+if you don't, you'll be fucked and have to buy more ether and transfer it to MEW to cover the fee.
+normies are hereNORMIE GO HOME!

@@ -1,0 +1,12 @@
+>$20 credit just for trading fees on BitmexBased
+It's pretty great.
+If you just make the books in times of low volatility like this, you get the inverse fee from the market buyer.
+Don't use too much leverage though!
+Use heikin-ashi and at LEAST 3 minute candles, 1 minute is for fools.
+You need to at least check the longer term candles too.
+Use Stoch RSI and Ichimoku clouds at 10,30,61,30.Stoch on the 15 and 30 minutes  = buyStoch on the 15 and 30 minutes  = sellClouds work great at varying timescales, but I find that the most useful are 3 minute, 15 minute, 1 hour.
+Above the cloud is a (relative to the timescale) uptrend, and below is a downtrend.
+Inside the cloud or twirling around the cloud is a flat trend.
+Just go with the momentum and as long as you're right more than you're wrong at low leverage, you should be golden.If you go 100x all bets are off and you should print out welfare application forms at the same time.https://www.bitmex.com/register/eY1A09 - Reduced fees :^)
+Stoch on the 15 and 30 minutes  = sell*
+Excellent shill friendo

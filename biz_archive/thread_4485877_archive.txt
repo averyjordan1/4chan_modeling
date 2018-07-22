@@ -1,0 +1,9 @@
+>Payment speed measured in milliseconds to seconds.>Capable of millions to billions of transactions per second across the network.this thing gonna fuel BTC rocket to $100k no problems
+allows for exceptionally low fees, which allows for emerging use cases such as instant micropayments.
+>be me, niglet in nigeria making $8 a month>need to send BTC to starving family to buy mosquito hamburger patties>open lightning network channel>$86 fee>send .00000014 BTC >close lightning channel>$86 fee againyes this will truly bring bitcoin to the unwashed masses
+STAY POOR
+LN """""transactions""""", aka writing down debt on a piece of paper and paying $3000 when sending the real tx ("""closing the channel""").Instead, we could just use a actually good coin like IOTA with actual, infinite, on-network scaling and zero fees.
+VAPORWARE
+I liked /crypto/ better when we were in /g/
+When though.
+nice argument

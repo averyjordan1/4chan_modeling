@@ -1,0 +1,19 @@
+So OMG's use case can be entirely supplanted by smart contracts, can't it?
+I'm guessing yes?
+Smart contracts are Turing complete, you can do anything with them.
+Omisego tokens are used to incentivise validators for offchain transaction resolution through staking.
+Doing this off the ethereum chain allows for the scalability required to handle massive transaction volumes required for exchanges or financial networks.
+Basically anyone holding omisego is going to be rich in 2018+
+offchain transactionLike what?>Doing this off the ethereum chain allows for the scalability required to handle massive transaction volumes required for exchanges or financial networks.Wait, so it's a bandaid for an overwhelmed blockchain?
+OMG tokens will verify all payments processed through Omise right now.
+They're developing this blockchain because it will speed up their entire business once plasma is released.
+They're used the same way paypal is used in SEA.
+They're making their own chain because for the kind of scale they're going for, it only makes sense.
+you're not going to make it sorry anon
+Smart contracts are not turing complete.
+Turing machines can express non-terminating programs, and smart contracts cannot.
+OMG tokens will verify all payments processed through Omise right now.Sounds like a roundabout way to avoid adding data to a blockchain through oracles.
+Lol I'm not selling
+its just faster for their network and needs, link will be successful also for different use case
+You can express it, you just can't execute it Infinitly without infinite gas.
+Solidity is turing complete just like the EVM

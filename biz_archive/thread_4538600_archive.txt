@@ -1,0 +1,12 @@
+Bitcoin, Bitcoin Cash, and what's the toher Bitcoin?I want to hold "bitcoin", can someone break down all the drama around the three/four please?
+read /r/bitcoin faq and then read /r/btc faq.
+Make up your own mind then.
+Go 50% BTC, 25% ETH, 20% BCH, 5% LTC.
+Bitcoin (BTC) is Bitcoin.
+It's worth $8200.
+It has 1mb blocks and segwit, which will allow important feature upgrades in the future.Bitcoin Cash (BCH) is a knockoff being pumped by chinese miners.
+It's worth $1600.
+It has 8mb blocks and no segwit, which gives it greater scale and lower transaction costs, but no segwit upgrades.Bitcoin Gold (BTG) is a knockoff being bought by people who really hate chinese miners.
+It's worth $400.
+It uses a mining algorithm that takes away chinese miner's competitive advantage.
+So what you're saying is that BCH is better than BTC (at least for the near future) and they're both trash and he should buy Ethereum.

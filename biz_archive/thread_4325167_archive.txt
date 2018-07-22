@@ -1,0 +1,5 @@
+Could you theoretically inflate the value of two small alt coins by simply exchanging them consistently?
+Or would the transaction fees kill you slowly?Ex: If you continuously traded doge coin and digibyte between each other, but were gaining more doge than you were losing converting to digibyte, would the price of doge increase very minutely over the course of your efforts to inflate?
+Or would it simply have no effect in the long run?
+Also, about exchanges, are they simply entities that hold XXX amount of various coins and charge fees to potential clients to garner more of said coins?
+If so, couldn't the average joe act as an exchange instead of going with the big corporate entities?

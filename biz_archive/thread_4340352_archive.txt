@@ -1,0 +1,55 @@
+This is my thread I made yesterday morning asking you guys about my trading strategy.
+Guess what - in the next 6 hours I TRIPLED my capitalDid anyone see the HUUUUGE spreads on binance yesterday?I traded manually, made sell orders MUCH lower than market (bots didnt match them) and buy orders MUCH higher than market (bots, again, didnt match, difference was just so large) and still made about 0.5-1.5% on every trade.At the end of the day my capital increased by 300% Spreads were huge for all top volume eth pairs - why do you think there was such an anomaly?
+EXAMPLE:I started with REQ/ETH pair.1) Enter the lowest sell order number in calculator - lets say it was 0.000178602) Enter highest buy order in calculator - lets say it was 0.000172000That is a 3.5% difference, between those two, which is HUGE - today couldnt find even a 1 % spread.3) I make a "BUY" order much bigger than the one on the top - something like 0.00017400 (it is such a big increase from 0.000172000, that bots didnt match me most of the time) - usually this was INSTA buy4) IMMEDIATELY enter a "sell" order that is much lower than the lowest in the order book, lets say 0.00017600 (much lower, so that bots wouldnt match or beat my order) - again, most of the time, INSTA sell.In this example i gained about 1% profit (bought at 0.00017400, sold immediately at .0.00017600After trading with one coin for 30-45 min, I noticed the spread really, really decreasing - maybe because of ME trading that way?
+?When that happened I switched to the next coin.
+Yetsreday the biggest spread were for neo/eth, hshare/eth and req/eth, a lil bit of wtc/eth
+what was your starting capital?
+does it get harder the bigger your budget becomes?
+did the spread on the coins you traded yesterday remain small today?
+lol in all honesty, you probably shouldn't be posting things like this so the public can seecongrats, though; you finally made the simple switch from "brainless consumer" to "someone who exploits stupidity"
+4340715jonathanflower#5056 is my DiscordI think you'd really enjoy having a conversation with me
+teach me?
+so that's basically testing the waters and exploiting bots?
+you are making profit abusing the large spread while you make less profit than buying/selling at the normal spread, you make the operation multiple times, the market notice this and the spread begins to get closer, but you already made your gainssounds good, gonna try at home.
+ib4 justed
+What if there isn't enough volume?
+Where exchange do you use?
+Usually the percentage you give away for transaction is large enough to defeat the purpose.
+I do notice that Binance seems to have bigger spreads in general then other exchanges.
+I don't know if there API allows bots to do some wierd shit or what.
+also wondering about the transaction fees... how much money are you trading with at one time?
+DELETE THIS YOU'RE LOSING ME MONEY AND IM POOR THIS IS MY ONLY CHANCE PLEASE
+This doesn't work retard
+you cant do this 300 times tho
+As someone who toys with their bots while trading, they do really stupid things.
+Think auto-undercutting whatever your sell order is.
+>use binance>trade bnb pairs and for free(Can see some trading pairs having up to 10% spread right now)>profit?Also use https://www.binance.com/?r ef=10596687 to help a bro out, if you find it helpful.
+I once tried doing that on bittrex.
+After a few trades I realised my holdings were decreasing in value.
+Then I realised bittrex fees were fucking me
+Fucking this...
+I have to make riskier trades than I would like just to cover the stupid fees.
+Ill tell you why what you did is nothing special1) This can not be done with more than 1k$ at most.
+Even that is being generous because in low volume big orders can change the market very quickly2) Imagine you keep on doing that and at one point you buy the coin and it someone sells and the price drops 10%.
+You are now down 10% and will require 4-5 more trades to cover your losses3) This requires long hours staring at the screen which is the most stressful thing to do.
+I recently realized how my hair started falling due to this.
+My capital was really small - actually I am a beginner and had lost about 50% trading bch - retard.So I tripled my 400 usd capital to 1200usdAnd yes - it WAS getting harder at 1000 usd, volume just wasnt enough sometimes
+It wasnt stressfull at all - it was freaking GREAT.
+Like playing some rpg/mmo where every trade was a small level up lol, grinding that shit
+so you put 400 on one trade?
+and then put the 400 plus the profit on the next trade and so forth?
+yes sir, thats what I did
+TODAY this shit aint working any more.
+The spreads are very small.I dont know WHY yestreday was such an anomaly.
+Tripling 400 USD to 1200 USD, with the fact that it is stressful and begins to fail after 1000 USD seems like a waste to me.
+I went from 400 USD to 1500 USD just holding Confido for a day, no stress neededI much prefer the old fashioned way, maybe If I was day trading already I would see the appeal
+am a female, but thanks
+females in crypto>on 4chantop kek
+Evil tricks.
+There are no women here, everyone knows that... especially women!
+Three currency arbitrageVolatility feeds it is all>used to do BNT ETH BTC and get 1-2% per cycle
+I'm doing this so much on this one coin, not going to say though.
+I generally like what this coin is doing, what I'm doing is just selling enough to cover my inital investment then repeating the buy and sell.
+this coin has insane ups and downs and is very consistant with its resistance levels
+is that coin enjin lol?
+post feet pl0x

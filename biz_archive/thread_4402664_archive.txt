@@ -1,0 +1,4 @@
+>have a authenticator for wallets and various coin market accountsWhat do I do in case my phone craps out on me?
+Any precautionary steps?
+write down the restore code
+if you didn't do that then get another device put authenticator on it and login to coinbase on a computer you can re setup the 2fa and it will give you another code

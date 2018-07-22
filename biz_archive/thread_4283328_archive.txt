@@ -1,0 +1,3 @@
+If our processing power multiplied by 10000% next year, would this help combat the rise in difficulty?
+My immediate thought is yes, but I haven't actually looked into the code yet.
+Does the difficulty scale with the number of participants on the network?Also see

@@ -1,0 +1,66 @@
+can you get ABI data from your coins/json file?one of the coins i hold is accused of being 'fake',and with no proof, its been claimed that its been "copy pasted".If i click the contract, find matches, only thing that comes up is a few transactions of the same token.i have compared this to a couple of other deadset shitcoins, and they had a lot of matches with other coins..i don't know what i'm looking at...when i click on read smart contract it says "Sorry, we were unnable to retrieve a valid ContractABI for this contract.
+Unable to read contract information"Does this mean the devs haven't uploaded correct info to etherscan??
+or is it broken?
+the coin seems to work and is tradeable on ED without a problem.How do i prove this coin isn't fake?
+What data can i extract and how?i've been researching but come up with limited results.
+i have a bounty of $3.50 ETHFor who can solve this problem?
+so you mean to tell me... you guys trade eth based tokens all day but don't have a clue about how it works?If there is a broken/non existent smart contract, can that be fixed or worked on while coins are in circulation?Said coin is developing their own wallet.
+thats about all i know.
+Maybe they haven't finalized their smart contracts?i guess $3.50 ain't what it used to be.
+Pajeet??
+Rakesh??
+here's your daily income.you know that eth will be worth $35 in a year.Or just do it because we look out for our /biz/bro's and there is a lot of them in this coin.
+i thought you guys were some sort of self proclaimed super-autist human crypto encyclopedias,and each and every one of you know more than the next person.the future of a coin lies on this bullshit here./biz/ will be happy if this coin succeeds./biz/ will miss out on making bank if this coin fails.I can't say it any clearer other than..
+This is a /biz/ coin.
+It's being attacked by normies.
+help.
+please.
+Offer of $3.50 eth is no longer valid.<b> new offer: 1 BTC worth of ico coins </b>if you have a bitcointalk account that has a respectable activity level,and can help provide a legitimate reason as to why a smart contract wouldn't be able to be read, and that the coin is very real and not fake.
+Anyone know enough about this shit to argue a case?This is not a joke, i will send you 1 btc worth of alt coins currently in ico.i don't want to see my investment get rekt because a bunch of normies.1 BTC of Alt Coins free, all you have to do is defend your new investmentyou guys really don't want 1 btc alt coins for free,for knowing your stuff and putting normies in their places?if you have the knowledge needed, you are only required to make 2 posts !
+!Is anyone interested?
+i've gone from $3.50 to $7000.eMail my temp address altcoin4u@sharklasers.com and we'll go from there..i will even send 10% Deposit if you think i'm not serious.
+ABI can only be generated with source solidity code.
+thats what i thought... so how do these fucktards know the codes been copy pasted??
+They don't do they?.
+they are making shit up..Ok, keep it coming.. i need more ammo.. this is just the start..what about this one... Smart contracts can be updated at a later time right?
+guys?
+simple answers ?Still got the temp email open if anyone has a bitcointalk account and can make 2 posts that will silence the shills over this smart contract bullshit.incase it isn't obvious, im not mentioning the coin in this thread.
+They compare the byte codeAnd yes smart contracts can be updated at a later time.
+Just depends how you’d want to implement the update
+thanks for replying as no one else seems to know.So, if byte codes come back for a match on 20 odd transactions all from the same token though.... That doesn't mean it's copy pasted, does it?
+its the same coin....there was one odd txn out that didn't share the same token.. but it was a new transaction 14 days old, and the other 20 token txn's were all 40 days old and the same token.unless they are using the same code to send to ICO buyers like a template?
+is that a possibility?i'm sure this is really easy for some people.
+but im pretty much literally autistic.
+would that do it?
+manually copy pasting the generated transaction code?i am new to using ETH if it isn't obvious.
+Dude, this is why ETH is a meme.
+All it's advanced as shit features are just advanced ways to shoot yourself in the foot.Like the other day, 300 mil of coins locked forever due to a smart contract issue.
+Are they going to fork to fix this AGAIN?
+You didn't answer anything at all.
+Heres $1.13 ETH for some lucky person to go buy a cheeseburger, I'm paying upfront to answer a couple of simple questions.
+Don't be a stooge and thieve it if you can't answer.
+and post received if you take it so people realize i am not joking.7cf7baf59dec11adf99112cf5fd7d90d72f4275d58dec74ef9181dca6f265950So, if byte codes come back for a match on 20 odd transactions all from the same token though.... That doesn't mean it's copy pasted, does it?
+its the same coin....there was one odd txn/byte code out that didn't share the same token.. but it was a new transaction 14 days old, and the other 20 token txn's were all 40 days old and the same token.unless they are using the same code to send to ICO buyers like a template?
+is that a possibility?would that do it?
+manually copy pasting the generated transaction code?
+I would answer you for 5 ETH you cheap stupid motherfucker who should not even be dealing with smart contracts at all.
+some explain the meaning of the same byte codes for different txn's and same token type.. with 1 odd token not the same.>someone tell me if the same byte codes can be pasted into the generated txn section and effectively send copys?
+is that how it works?>someone tell me how to prove the coin isn't fake for fucks sake.
+Or is it?
+it did come direct from the ico.
+the code could of been slightly altered to change the code thoughthe cde culd of ben sligh alater 2 cheng teh code thoaugh
+I dont deal with smart contracts, i just don't like people bashing my investment.And i don't have 5 eth, my crypto = decent sized position in an ICO, and a couple of dollars in eth.
+I did offer 1 btc worth of alts.. but i guess thats not enough, you fucking greedy inbred mongol cunt.
+you took the $1.13 eth and gave no answers.
+>some explain the meaning of the same byte codes for different txn's and same token type.. with 1 odd token not the same.>someone tell me if the same byte codes can be pasted into the generated txn section and effectively send copys?
+is that how it works?>someone tell me how to prove the coin isn't fake for fucks sake.
+Or is it?
+it did come direct from the ico.i'll do another dollar ETH giveaway if someone answers.Bonus $2 ETH if you can guess the coin AFTER answering the questions.
+>some explain the meaning of the same byte codes for different txn's and same token type.. with 1 odd token not the same.>someone tell me if the same byte codes can be pasted into the generated txn section and effectively send copys?
+is that how it works?>someone tell me how to prove the coin isn't fake for fucks sake.
+Or is it?
+it did come direct from the ico.
+Take this $1 ETH and answer the above greentext.Reloaded private key 7cf7baf59dec11adf99112cf5fd7d90d72f4275d58dec74ef9181dca6f265950Make sure you say thanks this time 4chan, or i wont fucking post ETH again.
+$1.04 eth still there.
+don't be a cunt, answer the questions and say thanks.
+i can't believe it took 25 minutes for someone to take that.You guys better post now... or thats it, no more eth.

@@ -1,0 +1,20 @@
+Why the fuck is Noone talking about Raiden network?
+It's a direct platform upgrade for ethereum.It's the lightning transaction for ETH and allows off chain payment settlement.
+You bizcucks are going in projects with no whitepaper or website or team.
+Ridiculous.
+It's sitting at a measly 50M market cap, test net is out, main net about to launch.
+The Raiden Network is an off-chain scaling solution for performing ERC20-compliant token transfers on the Ethereum blockchain.
+It is Ethereum's version of Bitcoin's Lightning Network, enabling near-instant, low-fee, scalable, and privacy-preserving payments.The Raiden Network allows secure transfers of tokens between participants without the need for global consensus.
+This is achieved using digitally signed andhash-lockedtransfers, calledbalance proofs, fully collateralized by previously setup on-chain deposits.https://raiden.network
+We only care about pajeet coins here.
+shitcoin
+it has it's own token, vitalik doesn't agree with it, and so he's funding a competitor directly, which will obviously end up being the one that gets mainstream usage.
+Btw anyone wanting to go in on this do note that this is not a longhodl coin as raiden will be absolutely demolished by less jewish general state channel projects.
+There's stuff like plasma coming out.
+Fucc this useless ICO shit Vita1337 was right, devs of this are greedy fucks.Might be a good pump and dump though if it gets hype.
+: Plasma and Raiden are complementary.
+2: State channel project has just been announced whereas uRaiden is going to be able to realize use on the mainnet in a month.3: For all we know Raiden may be looking to develop state channels in the future.
+1 million transactions per second, this is still a legit product.
+it was hyped back in the day but the eth foundation is probably better at scaling now 2bh.
+we still got time before we really need a visa-tier scaling solution.
+The raiden network is very promising but th token itself is useless.

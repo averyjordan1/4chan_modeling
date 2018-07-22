@@ -1,0 +1,20 @@
+I think I might have found a flaw in the mining algorithm of Bitcoinereum, but I'm pretty baked so maybe I fucked something up, but basically, I made a program in python to calculate the total emission time given the supply, halving period, and original(yearly) emission.
+Bitcoinereum has an emission rate of 50 per 10 minutes, halving every 10 years.
+This is a total of 2628000 mined the first year.
+My program is:supply = int(input("Enter supply: "))halving = int(input("Enter halving period: "))emission = int(input("Enter original yearly emission: "))i = 0while(supply > 0): if((i%halving) == 0): emission = .5*emission if(emission == 0): break supply = supply - emission print(emission) print(supply) i = i+1print("Emission time: ", i, " Years")When running the parameters for Bitcoinereum through this program, it never emits all 21000000 coins, stopping with 10488000 un-mined coins.
+Can anyone see what I have done wrong, or is this correct?
+halving every 4 years, not every 10 years.
+AAAAAAAAAAAA MY LINKS
+1 * .5 = 0 in Python.
+when I print(1*.5) it returns .5
+Well the prob is definitely rounding to zero somewhere when it multiplies by .5 it shouldn't be.
+Why are you guys mining this coin?
+There is no news, no known team, no whitepaper, seems like 1 guys in a basement wanted to make a erc 20 btc minable token and quickly did it in 1 night
+its too bad the price isnt going anywhere.
+i really liked this coin because it reminded me alot of bitcoin in the old days
+lmao what?
+that's not true ever
+This coin won't take off because its not the first ever token.
+Btc is not the best coin there is.
+It took off because 1 it was the first token, 2 Its fanbase was dedicated and constantly shilled it, 3 it has the brandname and it has the attention of the media unlike every other coin.
+How retarded are you exactly?

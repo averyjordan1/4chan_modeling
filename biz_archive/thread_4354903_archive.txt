@@ -1,0 +1,10 @@
+https://www.reddit.com/r/nulsservice/comments/7cnca6/an_understanding_of_nuls_a_chinese_perspective/This is what Nuls is.
+Something like Drupal+Linux for blockchain.
+Most functions will come as modules on a skeleton with a kernel.
+Sub-chains will consume the Nuls token.
+Outsiders will be able to contribute modules.
+They are aiming at actually commercializing blockchain en masse.It's not TOO hard to read.
+Just whenever you see the phrase 'Printing chain' read it as 'InChain'
+When is my fucking nuls moon
+in 30 min
+>mfw finally in the green again.

@@ -1,0 +1,4 @@
+What is the best way to sell ERC20 for fiat if I am signed up to an exchange that does not support that ERC20 token specifically?
+Using shapeshift to convert ERC20 to Ethereum then selling the Ethereum on the exchange?
+If not Ethereum, then what else?
+Bitcoin?What things should I watch for when converting one coin for another with the end goal of cashing out to fiat?

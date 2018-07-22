@@ -1,0 +1,51 @@
+What is the most secure way to store large amounts of crypto safely, while easy enough for someone who is not tech savvy to work with?
+Eidoo.
+I'd say MyEtherWallet but if you're not tech saavy mew can be intimidating
+Get a Ledger wallet.
+bittrex
+If you're in the US, and need something that has a user interface just about anyone could figure out Coinbase isn't a bad option.Both your fiat & crypto stored on Coinbase are insured in the case of Coinbase get Mt.Gox'd.
+Obviously if the person who needs to access it is fucking retarded and gives their password to the password inspector you're shit out of luck though.https://support.coinbase.com/customer/portal/articles/1662379-how-is-coinbase-insured-
+BIP39 or Electrum/Electron Cash mnemonic written down or etched into low corrosive metal
+what if the email you use for your coinbase is compromised?
+And are there many people with millions worth of bitcoins who still use coinbase?
+How the fuck is MEW intimidating?!
+who is not tech savvy to work with?You need to change this.
+Is the greatest wealth transfer of the millennium not worth 5-10 hours of research?
+Consider TAILS on usb.
+It come with electrum pre-installed.
+Then back up the seed on paper or stamp it into metal.
+Also learn to audit your self.
+parity multisigvery secure.
+your money can LITERALLY not be stolen from it.
+It's definitely worth the research, it's just I'm not confident enough with all the file transferring and encryption stuff, I'm worried I could screw one thing up, or leave something traceable, leaving my wallet compromised.
+People might think their safe doing that, but how many people who thought they were being very safe, and knew what they were doing but still ended up losing bitcoins?
+Right it looks like getting a hardware wallet is the best choice.
+I'm worried I could screw one thing upOnly manage as much as you are willing to lose even if you just start with 1 $.Ethiest are having a hard time with life right now I know that.
+I also know they deserve it.
+If you're working with any serious amount of money use paper or hardware.
+Paper wallet.
+Put a cypher on the key.
+In all of the original wallets of the coins, erase private keys\backup phrases and pictures of them from all computers and cellphones and store them on several USB flash drives- the more the better.
+You just have to physically protect the drives from damage or theft.
+What is 2FA?
+If you don't have 2FA on every financial account you're functionally retarded.
+>And are there many people with millions worth of bitcoins who still use coinbase?Probably not, but people with millions worth of bitcoins spend the time to learn the tech to correctly use a proper solution (i.e.
+hardware/paper wallet)
+4261516
+I got a trezor wallet, but i feel like it's easy to get locked out of your own bitcoin.
+Brain wallet
+if you're intimidated by MEW maybe crypto isn't for you anyway
+Why do noobs get so hung up on this?
+What's wrong with blockchain.info?
+This.
+So goddamn easy to use and it supports multiple alts as well.
+lol
+Memory wallet.
+It is impossible to steal from.
+ELABORATEI'M SCARED
+do you have any idea how stupid you sound?
+"what's the simplest, easiest way, for someone that doesn't really know what they're doing to secure vast amounts of money?
+"with cryptocurrency you're basically acting as your own bank, you have no authority to turn to, no safeguard, no system to protect you from mistakes, fraud, or whatever else.If you aren't tech savvy you should become tech savvy and use the strongest possible measures to keep your crypto safe.
+You are literally your own bank, your own regulator, and your own government when it comes to cryptocurrency.
+Be responsible.
+split it between exchanges and enable 2fa.

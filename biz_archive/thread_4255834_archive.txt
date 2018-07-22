@@ -1,0 +1,53 @@
+Quantum computing threatens BTC security
+bought 100k, thanks
+something something ellipses
+that's why there's a crypto that's quantum resistantyou worry too much anon
+
+For you fags who only know about money and not computers, they are talking about the encryption methods.. the news LOVE to spread fear... AES_256 AND SHA_128 IS GETTING DESTROYED CUZ OF QUANTUM HEELp.The way of "breaking" would be bruteforce...
+Meaning even with a quantom computers it would take fucking ages to break one layer of encryption... For one target....Bitcoin is not in danger.. maybe large targets but it takes ages to break any form of encryption so chances are no
+Nice FUD
+Wrote my masters dissertation about quantum computing.Seeing this as a real thread is 100% retarded and fud.
+FUD.
+Thanks.
+Bought another 100k.
+banks are putting super computes on every city..... no.
+it cannot be
+They can break wallets of exchanges.
+That's not how this works.
+There are so many ways exchanges can protect themselves from stuff like this.
+IOTA.
+In sha la.
+La la la la.
+Meaning even with a quantom computers it would take fucking ages to break one layer of encryptionexcept it won't.
+a proper quantum computer with qbits would solve it in linear time to the key lenght.for example, if my key is 2^512 long, it's literally impossible to test them all in the universe's lifetime, but it would be solve in 512 "cycles" by a quantum computer, which is literally nothing.
+you could hack all btc wallets you want in seconds
+Can you please explain then as to why it would not pose such a threat?
+Define solve.
+You mean bruteforce it?
+Best algorithms in quantum today can brute force sha faster than classic computers, but still nowhere fast enough.Also, should it be really efficient, you would have worse worries, like all RSA based security failing hard.This would basically mean that digital signature could be forged.
+Electronic notaries, https certificates, everything...
+already priced in
+This....But the fucking crypto fags don't care for that... Only "oh mah gawd man bitcoin"
+i mean to find a key of 512 bits for a specific address, in a time linear in 512 instead of 2^512
+
+but that is according to a theoretical model.
+we won't get anywhere near there for atleast 20 years.
+also there are cryptographic algorithm that are secure anyway, so we shouldn't worry about it at all
+You lack understanding of quantum superposition.
+With proper qubits it will solve sha256 hashing in mere seconds.
+By that time miners will already use qPC to mine shit and secure it with quantum encryption.
+fucking one time pads existed for 100 years and there are perfectly secure against quantum adversaries.
+it's won't take long to improve all the existing approaches.
+there is literally nothing to worry about desu
+if a computer today could make an encryption that can't be easily cracked by itself then couldn't a quantum computer make an encryption that can't easily be cracked by itself?
+Btc will become quantum resistant when this is perceived as a real danger.
+Just like they fixed malleability and are on track to fix scaling.
+No point doing a job that may or may not be needed in 10 years.
+What you fuckers don't get is that it is the developers that make the coin.
+What makes shitcoins shit is lack of support by competent devs.
+As long as the manpower is behind btc, btc will be king.
+I don't see it being dethroned any time soon because it is open source.
+That would be like linux losing its king status to templeOS.
+Is there any algo that could replace rsa?
+Within 10 yearsLol, that time I wouldn't even need money as a dead man.
+If not dead then we will live in space like star trek where money got abolished or in a caliphate where whites even converted to Islam or slaves

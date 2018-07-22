@@ -1,0 +1,125 @@
+Can someone please help me?
+I want to invest some of my money into few cryptocurrencies, but don't understand what to do after I obtain address.
+https://en.bitcoin.it/wiki/First-time_buyers_guideExample (I'm not really gonna invest in ETH, but just for the sake of example): I get this addres on Binance, what now?
+How do I deposit money and buy ETH?
+Usually, the first step is the conversion of fiat to crypto.
+Then you move that crypto you bought to the corresponding address on the exchange and then you can trade it for other crypto.
+This fiat to crypto conversion is the trickiest part, some people use Coinbase for this step.
+Don't keep your coins in something like Binance.
+If you don't have a local wallet, paper wallet, whatever, you don't own your coins.Once you have an address that you can actually control, pay someone fiat to send crypto to that address.
+you should invest in kneepads.
+This nigga looks like Channing Tatum and Jhon Cena had a baby.
+I also have Coinbase.
+So I deposit onto coinbase, get BTC address, then deposit from that Address I got on Coinbase onto Binance and exchange BTC for 'x' Cryptocurrency?
+That's fucking me and I mistakenly put this picutre on, instead of this [pic related].
+Fucks sake.And yes, I've been told I look like John Cena when I have 0.3 hair.
+And Tatum when I have longer hair like now.
+But w/e, back to crypto.
+If you keep all of your crypto on an exchange, you'll get fucked over.
+Use a local wallet of some kind.
+you need to use an exchange or a software wallet to transfer crypto to that address.
+if you can't figure it out you will probably lose access to your private keys at some point and lose all of your money.
+i reccomend you consult someone who is technically minded.
+ideally an engineer or nerdy computer person under age 25. they will guide you so you don't fuck yourself.
+godspeed faggot.
+So I should get Ledger Nano S first, or is there any recommended software wallet?
+4390076Watch youtube tutorials because somone on /biz/ might keylog you or scam you.No matter how you store you're coins make sure to always activate 2FA Authentication.Also check youtube videos it's hard just to explain on a thread format.
+Oh and make sure you never click the first page (ADS) mirrored site on google when you search for exchanges and what not.
+Ty for warning.
+Here you go https://www.youtube.com/watch?v=JjDsRN89sIA
+Just my thoughts; I hope it helps:Make Coinbase accountMake Bittrex accountEnable 2FA on bothMove money into Coinbase via bank deposit.
+-You can use your real-deal bank account here if that doesn't freak you out, but your bank may decline the first transaction.
+You may have to call them to let them know it's ok. - If you don't want to link your real-deal account, you can buy a Netspend prepaid visa card and go that route.
+You can set it up as a bank vs. a card, so it's basically the same thing with the exception of a monthly fee paid to Netspend.
+-The bank transfer is slower, so expect to wait a while before the money is ready.
+I'd keep some money in BTC, but you can move the rest to Bittrex.
+Once that's done, you can buy other coins with BTC.
+You can buy LTC on coinbase, move that to Bittrex, and then sell to BTC.
+That will help avoid some transfer fees.
+Yes, well, if I understand correctly I'd do the same: (Use 2FA)1.)
+Buy BTC on CoinBase and get BTC Address2.)
+Deposit this Address on Binance(exchange)3.)
+Exhange BTC for give 'x' Crypto4.)
+Move this 'x' Crypto Address from Binance(exchange) to local/paper wallet, where I actually control private keys Is that it?
+I'm using Binance, because the crypto I wanna invest in is not on bittrex.
+Why the fuck are you guys helping this chad?
+Crypto is for the nerds like me... the losers, the geeks, the dorks.....
+I look a lot like you, and it's freaking me out.
+My lost brother?
+He even talks like a normie it's interesting.
+tfw chad put 10k in bitcoin last year and now hes ready to cash the fuck out
+Yep, that's pretty much it.
+That's all good about the exchange, it will work the same way.
+You'll lose some money in the BTC transfer fees, so going the LTC route that I mentioned may be worth considering.
+If you want to keep it simple, though, the way you have it listed out will work.
+depending on the type of wallet you go with, you may be syncing the blockchain for whichever coin for a while, and you'll need an SSD to avoid any hiccups with the sync.
+Is that it?
+I'm using Binance, because the crypto I wanna invest in is not on bittrex.Dont tell me... he's going to buy LINK /ourcoin/ noooooo.
+A chad is going to get rich from LINK.
+4390454Nah, I'm trying to learn some daytrading on my own, but I guess trading crypto and holding long term some currencies might be a way to go for now in this volatile market.
+Of course I might get fucked, but at least I don't want to miss out like I did with ETH when it was 1$.However, while I'm learning how to daytrade properly, I might just hold and invest my money in few Cryptos over the next 5-6 months.I don't understand you imaptient retards crying everyday on here about you Crypto not mooning yet and losing 80% of your BR due to not understanding Bankroll managment and Risk Principle.If someone is normie it's you retards, because you are fully emotionaly invested into something you don't even have money for in the first place.
+Go to work and save up you fucking crying normies.
+Sounds like you've got a pretty good basic understanding of it all.
+Which crypto are you investing in, Chad?
+Nah, I must research certain things on my own first.
+I won't throw my money into something I know nothing about.
+There's a lot of currencies I have to do research on my own and see them objectively.. and then understand cryptocurrency atmosphere in general.I'm not falling for shills, even though, maybe they are right.
+As I've said, I haven't look too much into this whole thing yet.
+Just starting with basics.
+YM
+Does not compute
+Thanks for being kind and helpful.
+of course it does, Your Mom computes with everybody you son of a whore.
+No problem at all, man.
+I think you'll do well based on your other posts.
+Oh yeah, get a TradingView account as well (no need to pay for it at first.
+You'll get used to killing the popups.
+They are just self-promoting)
+My mother may he a whore, but at least I know better than to come to 4chan for crypto advice Chad
+of course it does, Your Mom computes with everybody you son of a whoreKek this chad is one of us.
+one of us.
+one of us.
+One more account to make.
+Altpocket.io.
+It's a good place to keep up with everything.
+I have mine joined to my Bittrex account via API.
+I'm not sure if you can pair with Binance in the same way, but it's really helpful.
+Can you recommend a safe local/paper wallet where my crypto and keys will be safe, after I send them from exchange to local walelt?
+t. butthurtLook, there's a lot to read and dig into, /biz/ has some kind people that can answer my questions very fast.
+If I believed it get my answer faster somewhere else, I'd go somewhere else.
+However, this place has nice people that are willing to help and so am I.So, if you need some more advice how volatile and fragile YM is, hit me me up.
+I've bought her at ATL quite a few times now and sold her at ATH also.
+It has an easy to understand whorish pattern intraday and overnight.
+I like Exodus, and you won't have to worry about the sync issue that I mentioned earlier with that one.
+I'm not sure if the coin you're looking for will be covered by that wallet, but they've added a lot recently.
+If it isn't covered by Exodus, but it's an ERC20 token, a think a lot of people use Mist.
+I haven't used that, so I can't say if it's good or not.
+I've mostly stuck with coin-specific wallets, and those are usually pretty solid.
+That's all for my long-term stuff, though.
+You'll want to keep what you're day-trading on the exchange just so you can act quickly if needed and avoid transfer fees between the exchange and the wallet.
+Yeah, I've been just reading this and it is also listed in here.https://blockgeeks.com/guides/cryptocurrency-wallet-guide/Will just have to see which one of them supports the cryptos I'm looking to invest in.
+Yeah, you'll just kind of get the hang of that side of it after you mess with a few of them.
+O'm exactly in the same position as Chad.
+Good luck to us both.
+I hope this helped, man.
+Good luck to both of you.
+Just remember, the entire thing is about percentages.
+It's not about how many coins you can get of a certain currency.
+If BTC goes up 50%, you make 50% of your investment.
+If DGB goes up 50%, you make 50% of your investment.
+Are people on /biz/ really that retarded to jerk off at price and not %?Jesus Christ..
+I already got in and bought one BTC at 5.5K and one BCH at 400.
+Bitcoin.de has marketplaces for both of them.
+I will just hold on to that and leave it be.
+Getting into alts is another level and I want sure how to get into that with all the fees.
+haha!
+I'm not sure about here, but it's the main question I get asked from friends/family.
+I just kind of throw it out there by habit now.
+That's cool.
+That's a good start, but you may end up wishing you sold that BCH last weekend.
+I'm not sure if this is the best way to go, but I just margin trade.
+Basically, sell at X% and buy back when it comes back to Earth.
+Daytrade with maybe 10 percent of your stack, everything else should be in good, mid-long term holds.
+Paper wallets is a good idea if you're going to be holding for 6+ months, keeps you from just transferring "a little more" over to your daytrading account for some "sweet golden opportunity"
+I have background in poker, I'm well aware of bad side of the variance, equity and the importance of proper bankroll managment.
+But thanks for making it clear, others need this understanding more than I do probably.

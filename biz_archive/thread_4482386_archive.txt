@@ -1,0 +1,7 @@
+ok /biz/.
+What's your opinion on Vechain?
+I see great potential with all the confirmed partnerships.
+So what's holding it back?
+2017Q4:BLACP, PBCP, DCCP, CHAOS go-live, 3rd generation smart chip, Asymmetric blockchain checksum, VeChain BaaS clound platform launches, more business implementation cases;2018Q2:VeChain v3.0 go-live, Rust-restructure, VeChain Token (VEN) related service including VeChain Token (VEN) wallet, gas exchange, audit service, etc.
+VeChain Token (VEN) launches, completing VeChain Token (VEN) and ERC20 token 1 to 1 exchange.2018Q4:VeChain v4.0 go-live, achieve commercial ecological environment system integration platform.
+Integration with IoT, and more specific industrial blockchain cloud.

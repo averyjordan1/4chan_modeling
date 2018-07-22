@@ -1,0 +1,6 @@
+Is this even remotely important?
+I've never seen it talked about.
+Notice the amount of total work that bitcoin has done in the last month compared to its entire existence before that.
+it's important in that it's what it sounds like: the total work done by miners to secure the chainit's used as a general statistic and also to compare forks like this chart does.
+the growing spread says that more work is being done on the original chain.
+That graph is misleading, notice how it starts from 34,000.

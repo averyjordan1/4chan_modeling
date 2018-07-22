@@ -1,0 +1,57 @@
+Hey Anons, new to the whole market/cryptocurrency investment scene, thought I would make a thread where noobs such as myself can ask questions and some more experienced anons can give a few answers.Guess I'll start it out.
+Any good guides for people starting out explaining specific terms related to trading cryptocurrencies?
+Nice thread thanks for starting it.
+I do believe there are some genuine helpful people on /biz i have seen them post, so will be following
+How do I into bitcoin?
+OP reporting back, not gonna just stand still and wait for feedback so I took the liberty of doing a quick google search.
+Found this beginner guide to cryptocurrency and trading with a table of contents for those interested in specific parts of trading.https://www.tradingheroes.com/cryptocurrency-trading-guide-beginners/
+alright i'll bitesign up to a well-known exchange with a good rating.
+coinbase, poloniex and kraken for example are all decent.
+Datadash on YouTube has some decent video on reading indicators / charts.
+/Biz/ says charts don't matter.
+Note that /biz/ also said buy link.Don't believe all the shillsMake some mistakesLearn from mistakesAlways keep a share of BitcoinDon't believe all the shillsDo your own research (dyor)Setup a tradingview to (dyor)Start with btc and always keep a majority in btc.
+Look at other heavy hitters (Ark, xmr, wings, vtc, omg, salt, strat)Buy the dip (btfd)Set targets and stick to themWhen in doubt hold (Hodl)Don't believe the shills, unless you decide too
+actually come to think of it your id literally spells gaycant believe i helped a faggot, im >>/out/
+kekdon't feel bad, you helped me too, cheers.
+sure thing breh.in crypto, there are wallets.
+wallets are a set array of characters that work as an address.
+you can deposit and withdraw money from them.wallets are made of two keys (array of characters):>a public onethis would be like your email address op@faggots.com.
+you don't get to pick it, it's randomly generated.
+anyone can see the funds, transaction history and send coins to that wallet if they know this key.>a private onethis works like your password, and is the one you must guard with your life.
+it's also randomly generated.
+he who has access to the private key can use any device connected to the internet anywhere in the world to transfer funds from that wallet.
+thanks for this info, am beyond most of the real beginner stuff and want to start learning charts, patterns, etc.
+so will check out your datadash videos.
+it's taken me 6 months to get over alot of the fomo and panic selling but slowly getting there, cheers!
+I read the article I linked above and the writer mentions that you should always presume your private key is compromised when you transfer funds from a paper wallet or any other wallet to a site like coinbase or "insert any other exchange site".
+Why is this ?
+Is it just for security sake or is it because these other wallets and exchanges get access to your private key ?P.S.
+Thanks for the info, glad you could contribute.
+Learn Tradinghttp://www.libertylifetrail.com/education/learntrading/Cryptocurrency Market https://coinmarketcap.com/Buy Cryptos with GDAX https://www.gdax.com/Trade FeesCurrency options: GoodUS Dollars, Euros, Great British Pounds, Bitcoin, Ether, LitecoinTrade FeesMaker fee: 0%Taker fee: 0.1% – 0.25%Deposit / Withdrawal FeelsCredit Card Deposit: 3.99%Credit Card Withdrawal: UnavailableBank Deposit: US – $10, EUR – FreeBank Withdrawal: US – $25, EUR – €0.15Buy bitcoins at atms to avoid paying taxes and i.d
+when your money is at an exchange, they are in charge of the keys.
+if buying a smallish amount of bitcoin (less than 20k usd), i wouldn't bother with cold storage and taking care of my private keys and such.
+the bitcoin market is already decently mature.
+>you can check coinmarketcap.com, a slick, organized list of cryptocurrencies with stats and basic infothe volume of trades in the last 24 hours exceeded 8 billion dollars.
+20k is pocket change compared to that, and it's unlikely that one of the exchanges i mentioned is unable to hand you your money if you try to liquidate, though it has happened before.>look up mtgox, the greatest tragedy to crypto history yet.
+I appreciate the explanation, thanks!On a side note, thank you to everyone who has contributed thus far, when the thread dies down I will be gathering all the information given and making a short beginners guide that I will most likely post.
+Looked this up, because I just didn't know anything about it.
+There are several in my city.There is a general buy process at all bitcoin ATMs: Verification step (optional and may vary substantially depending on machine’s type) Provide bitcoin address for deposit (optionally can be generated and printed/emailed at some ATMs on the fly, but better to have your own with you before using a machine) Insert cash into the ATM Confirm operation (bitcoins sent to your bitcoin address at this moment)This process may vary from ATM to ATM, and this is what we describe for every of the mentioned above bitcoin ATM types.
+It is important to understand that even when machine’s software/hardware support compliance procedures, they are not necessarily activated, as it depends on the operator choice of every particular machine.
+That is why the same type of machine might have different verifications and limits set up.
+it's for security's sake.
+the point of a cold wallet is that you write the private key down when it is generated and never ever type it anywhere.
+the private key has never been in contact with the internet.
+To transfer funds to an exchange you need to actually enter your private key somewhere.
+it's the first time the possibility of it being stolen even exists.
+so you generate a new wallet, transfer funds from the no longer virginal one to the newborn virgin, and store it safely again.
+Understood, thanks for the explanation.
+Alright.
+I'm gonna ask some real simple rapid fire questions.
+I'm coming into this with literally about 2% knowledgeI'm in that situation where I THINK I know the answer, but it feels empty and incomplete.
+Just a comprehensive answer from someone who knows more than I would mean the world.
+I'm recently just getting into normie finance, and it's really interesting me.
+I'm interested in expanding my knowledge, but the posted guides just aren't doing it for me.
+What IS cryptocurrency?
+And what do I accomplish by trading it?
+What do I trade it with?Is it just money that has value because we agree that it does?
+What makes it worth something?

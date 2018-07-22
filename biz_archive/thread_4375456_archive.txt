@@ -1,0 +1,40 @@
+Brainlets still cannot even.
+Making me spell it out for you in extended long form english rather than just throwing charts at you and having you use your own minds.
+Sheesh.Those are charts showing a correlation between the difficulty adjustment algorithms of BCH and BTC, coupled with their correlation between the bitcoin mempool / chain throughput, coupled with their correlation and sensitivity to the BCH price.The BCH DAA adjusts every ten minutes to ensure a ten minute block time.The BTC DAA adjusts every 2016 blocks for the same.If the price of BTC dips, BCH steals miners.If the price of BCH rises, BCH steals miners.If the price of BTC rises, BCH difficulty goes lower and maintains miners.If the price of BCH falls, BCH difficulty goes lower and maintains miners.Simply put; there is only a single pool of rivalrous SHA256 hashing capacity and BCH is competing for it with BTC, but BCH is able to amend its bids once every ten minutes, and BTC is only able to amend its bids after 2016 blocks.This situation has already led to a 20% increase in the time between the previous and next BTC difficulty adjustment.Any price activity not favourable to BTC makes this number go higher.Any price activity not favourable to BTC decreases the total throughput of the BTC chain (1mb block / 10 minutes = 14kbps throughput vs 1mb block / 20 minutes = 7kbps throughput) this leads to BTC being an obviously worse blockchain.
+Fees go up, confirmation times increase as well as the total throughput of the chain decreasing.
+People notice this and the price goes down, it gets worse.
+People notice it got worse and the price goes down more, it gets worse.Worst case scenario, the BTC chain is effectively permanently frozen, with inadequate hashing power to mine blocks and a difficulty adjustment pushed far into the distant time horizon to compensate.Now do the motherfucking needful.
+Where has this 5E hashrate gone all of a sudden on BCH?
+Ridiculous.
+Seems like miners can't really do it right...
+Recently, the EDA was used as part of a bigger plan, to attack the original Bitcoin BTC chain.But the recent Hard Fork of Bitcoin Cash to change the mining algorithm, has changed everything.
+"As reported by CoinDesk, today's hard fork looks to switch the protocol to a different mining algorithm that will favorably adjust how hard it is for miners to create new blocks roughly every 600 seconds.
+"This means that if more hash power moves to the Bitcoin Cash BCH chain, and blocks are found quicker, the mining algorithm will automatically adjust to make it more difficult to mine Bitcoin Cash.
+As it becomes more difficult to mine, miners will move back to Bitcoin BTC.
+The target of this Bitcoin Cash DAA is to maintain an average block time of 10 minutes.
+i dont know man BTC seems pretty strong right now
+Why would I use bch for payment transactions when I can use ETH, Monero, Zcash, and Dash???
+Why would i believe in a centralized chain?
+Bitcoin legacy can be the slowest chain in the market for now or next coupe of months but people will fucking buy it because of it's store of value so it will not die.
+If BTC legacy doesn't die then why the fuck do I need BCH for when I can use the other cryptos mentioned above for payments.
+oh my fucking god just give upGo back to your pnd discord and concoct a new scam to shill here this Bitcoin cash shit is like digibyte deja vu
+Seems like OP is right actually, not defending BCH or BTC or anything.
+(don't own any) but BTC has been loosing a lot more hashing power to BCH recently due to the DAA.
+Why is the assumption that miners will always switch to whichever coin is more profitable in the immediate time frame?
+It's not like they can instantly liquidate their coins, so wouldn't there always be miners focused on what they believe to be more profitable over the long run?
+Completely ignores what is happening in the City.Ignores that billions of institutional dollars are waiting to pile into BTC on the dips.I work for a support group within Goldman Sachs identifying non-financial trends that have financial impacts.GS's cash pile looking for a BTC buy is so huge it bury BCH.
+not really look at  related.
+They literally pick the most profitable coin, that's why the analysis of BTC going down = more hashing for BCH = correctId BCH increases in price compared to BTC it will also gain more hashing power, either way BTC will be more unstable because of this.
+Then Bch will get exponentialy easier and more profitable to mine, if you're bullish on btc it's still profitable (w/ massive mid term potential) to min Bch.
+No idea what the long term implication for crypto is though, if you're analyzing the crypto market as a whole you might as start lumping them together.
+Sorry lads.
+OP is right.
+Just going to take a while for it to happen.
+BCH still needs lots of infrastructure.
+It will slowly begin to happen as more wallets and exchanges add BCH.
+what site is that ?
+fork.lol
+fork.lol
+4377169thanks
+They just have to pump Blockstream Coin 24/7 and it'll be fine :D
+Wow you motherfuckers are like a huge dumb herd of sheep, never having the slightest idea what you're talking about..

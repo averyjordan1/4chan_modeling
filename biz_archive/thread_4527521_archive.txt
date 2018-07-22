@@ -1,0 +1,9 @@
+Sumo is an untraceable digital cryptocurrency forked from the Monero project.
+Sumo uses the same RingCT technology as Monero, but has required 12 mix-ins on each transaction since the network was launched in May 2017.
+Sumo inherits the same level of fungibility, privacy and security behind Monero.Sumo was started as a research project so that the developers could learn and grow Cryptonote technology.
+There are currently four developers working on SUMO core.
+The developers have already built a GUI wallet and GUI miner, and important network features like sub-addresses are in progress.
+The Sumo developers are building brand new features that will improve Sumo's use as a currency and add value to both the Cryptonote and Monero codebases.https://www.reddit.com/r/SumoCurrency/
+Please stop shilling sumo, I'm trying to accumulate.
+Wait for at least a month please.
+Thx

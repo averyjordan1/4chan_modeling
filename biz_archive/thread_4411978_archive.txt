@@ -1,0 +1,13 @@
+any technical indicators that can make us rich or is it all just cope?
+Crypto is legal gambling
+Gambling is legal gambling?
+RSI and Bollinger bands can help you see when to buy and sell more efficiently
+I use this shit:R(V,P) = (2^V/c)*(3^P/c)where:V = Weighted sum of n period of volume differences.P = Weighted sum of n period of price differences.c = constant equal to the max value that any of the weighted sums can achieve.Works fine when you try to visually spot short term changes in trend.
+what is R in this regard also how do you determine c is it just the greater of V or P?
+R is a function of V and P, which returns a unique point that you can plot vs time; c is equal for both cases, so you only need to determine it once.
+You calculate it from the best case scenario given your personal weighted sum formula, which is the most important part of this.
+In my case, the idea is that when V and P are stagnant, the function tends rapidly to 1, but when both are rising fast, the function tends to 6 rapidly also.
+The numbers 2 and 3 are completely arbitrary.
+I forgot to add some parentheses: R(V,P) = (2^(V/c))*(3^(P/c))
+Stoch RSI and MACD are my favorite
+TA wont make you richFundamentals, learn them

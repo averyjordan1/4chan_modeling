@@ -1,0 +1,11 @@
+In his last conference at devcon, why does he start calling oracles middleware?What's the difference?
+Because he is in he middle whenever Rory and Steve pegs his ass.
+Because they [chain]link everything together.
+More like vaporware, am I right?
+Oracle is a data linkMiddleware is how it's achieved
+Nothing because they are.
+Chainlink is a decentralized network of oracles that exists off the chain.
+Wheh you stake a token you aren't even staking it onchain.
+It works similar to an exchange where you sent it Link and your node is credited for it.
+Once Link is staked it doesn't matter what blockchain the transaction is on because it credits it offchain and you only actually get it when you withdrawal.
+Ahhh thanksI'm watching this interview now seems interesting, you might like it https://youtu.be/AfJiRsYpgyc

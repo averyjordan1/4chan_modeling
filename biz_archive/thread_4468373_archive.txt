@@ -1,0 +1,2 @@
+I've made a virtual currency on Google Sheets called Sheetcoin.The idea being people can have Sheetcoins in their row and then send them to other people on other rows.
+(in development so Sheetcoins are currently free)Comments and suggestion?https://docs.google.com/spreadsheets/d/1FhroCBEFtbCrYfHyDZraYaaV1MxyPFEjA1DjM8wSCZk/edit?usp=sharing

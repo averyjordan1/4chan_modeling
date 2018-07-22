@@ -1,0 +1,2 @@
+Can anyone help me figure out why the fuck my transactions aren't making it to the blockchain?
+I don't mean the rejected, I know I didn't have enough Ethereum to pay the gas, I mean this warning on transaction 4, which was for some reason a duplicate of transaction 3 and the fact that Etherscan still doesn't see the transaction

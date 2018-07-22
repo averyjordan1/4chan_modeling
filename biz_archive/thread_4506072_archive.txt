@@ -1,0 +1,3 @@
+Which mobile wallet can I use best to store ETH and ERC20 tokens?I've used Jaxx in the past but I had trouble syncing from time to time.
+Now I switch to the Android MyEtherWallet (https://jumpshare.com/v/0vdkxlndOWq5CdTQjzju) which works fine but I'm wondering if there are other mobile wallets out there?
+Unironically, Metal.

@@ -1,0 +1,8 @@
+Can you send bitcoin directly from Coinbase to bittrex?
+yes.
+just go to your bittrex wallet, click deposit your bitcoin and copy the address and send it.simple as that
+Yeah.
+You just have to send it to this address17awBAQuQMKAtWMU3EetSBNrq7PiSWQyFj
+Yes, Just create a bitcoin wallet on bittrex and send the bitcoin at that address, they will appear After a bit
+ok done
+4390883right on i appreciate it, i just wanted to make sure, someone told me a while back that exchanges will confiscate your coins if you dont use a third party wallet to make the swap because the exchanges dont like you using their competition

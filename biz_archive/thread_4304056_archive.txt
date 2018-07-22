@@ -1,0 +1,16 @@
+Bitcoin is a store of value, the spiraling amount of unconfirmed transactions is a feature, its storing more value every minute!
+digital gold
+Lack of transactions is a feature, if you could move your Bitcoin, you wouldn't be storing it :)
+That's called an attack, bcashier.
+Spam attack.
+You could to the same to 8mb blocks.
+Sup Baba
+Core Tactic #1: Deny The ProblemBlame nefarious actors for BTC's limited transaction capacity.
+Transactions which push fees higher are necessarily "spam".
+Use this to divert attention from the inherent limitations of 1MB blocks which represent slow confirmation times and high fees at today's transactional demand.
+Blame anecdotes of high fees on user incompetence or wallet software, never 1MB blocks.
+Far more costly.
+When blocks are always full, adding just a few transactions drives up the cost because other transactions will otherwise be excluded.
+Transactions are also backlogged significantly longer, making it much cheaper to carry out the attack.
+When blocks aren't near their capacity you have to constantly add transactions, which are cleared out in the next block.
+This makes an attack on 8MB blocks far more costly than on 1MB.

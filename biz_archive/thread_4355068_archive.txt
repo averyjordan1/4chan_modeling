@@ -1,0 +1,4 @@
+I thought the difficulty fork was gonna kill BTC profitability and get BCH all the hashrate?You guys couldn't have been wrong, could you?
+the new difficulty is meant to attracht hash power in proportion to price.
+bch=.2btc so it is working so far.
+Everyone needs a bit more time to see if it plays out though.If the price gets pumped and sustained at .5btc than btc difficulty could seriously cripple it for weeks at a time.

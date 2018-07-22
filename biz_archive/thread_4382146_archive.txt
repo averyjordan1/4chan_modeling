@@ -1,0 +1,133 @@
+20% pump in 24 hours?
+What's behind this?
+bittrex soon
+IOTA is just a dope project.
+It's like monero, anytime bitcoin isn't doing stupid shit it's going to go up.
+>bought iota while back>funds taken into custody of IOTA foundation>run reclaim tool>say they'll processing reveals on Monday>its Wednesday>still don't have my money backThis is such bullshit.
+isnt that price for 1 million coins tho ?since CMC lists the price in MIOTAbit confused here idk
+That'd be huge.
+Gonna be pissed I didn't buy a few thousand at 12¢ if this really takes off
+refugees are awake
+smart money getting in now
+Iota is problematic because the devs can lock up coins at will and not release them.
+Same here Anon.
+I only have 50Mi but they are currently lost in an old snapshot?
+I'm confused on how I get my shit back.
+Ive done the reclaim and I've reattached 30+ addresses, still showing a zero balance
+prepare to be pissed.
+but you still have time to get in.
+lots of good things are coming very soon which will be announced.
+2018 will be the year of IOTA; similar to Ethereum this year
+It's in Millions.
+1Million iota is what they're quoting
+"problematic"
+yeah thats what i thought1 million iota is 70 cents thenwhat a gigantic supply
+It's called iota for a reason.
+Market cap is all that matters, individual price of coin is meaningless, a bitcoin is technically a million Satoshi.
+IOTA AKBAR
+Yea so how do i get the funds back in my wallet?
+Maybe its because IOTA is actually good and is going somewhere
+Aha faggot
+i wanted to buy some a while ago but their wallet gave me aids so i didnt lmao
+IOTA on the paper is by far the best currency-wise token.
+No mining, no staking, fee-less transactions.But it's not there yet and will take quite a while to get there.
+>tfw bought this pile of shit at $1.00 because you faggots told me it had finally broken resistance and was going to explode to $2.00 the next day
+he doesn't know about the actual BTC supply
+no mining>no staking>no feesso miners are just processing the chain out of the goodness of their heart?
+No>>from redditThere are only 2,779,530 GIOTA = 2,779,530,283 MIOTAPeople always complain about the supply being too large, but if you think about it, owning just 1 GIOTA puts you in a club even more exclusive than owning one BTC (supply max 21,000,000).
+There are maximum only 2.8 million people in the world that will ever own a single GIOTA.
+Anyone who says IOTA cant make you rich is a liar, plain and simple.
+(1 GIOTA = 1000 MIOTA = 1,000,000 KIOTA = 1,000,000,000 IOTA)BTC (max circulating supply 21,000,000 BTC)IOTA (max circulating supply 2,779,530 GIOTA = 2,779,530,283,277,761 IOTA total supply)
+No you fucking retard.
+Each transaction processes two others.
+The more network activity, the faster the transactions.
+^this1 BTC = 0.1 GIOTA
+not knowing what DAG is
+There are no miners.
+Only persons with transactions who verify two other transactions.
+you can say that about any coin, but only bitcoin has the exclusive status symbol, the rest of coins are just tools
+taken into custody of IOTA foundation... to protect your coins, because you reused receiving adresses (for every transaction you should generate a new adress) or you didn#t made the transition beforeHave patience and do the reclaim process
+In the wallet, find the Reclaim option.
+If that doesn't work, just keep attaching new addresses over and over in the Receive window.
+Which wallet?
+because of superior characteristics and partnerships e.g with Boschand perhaps:https://support.okex.com/hc/en-us/articles/115002713311-OKEx-supports-IOTA-Deposit-and-Spot-Trading
+That's fucking retarded.
+Iota wasn't built for person to person transactions, like BTC evidently was.
+It's meant for machine to machine transactions.
+Something bitcoin will not even be able to touch once the Internet of Things takes off.
+go with the Iota Light Wallet.https://github.com/iotaledger/wallet/releasesYou bought Iota, correct?
+https://github.com/iotaledger/wallet/releases
+did you read my post?bitcoin doesn't need to do anything besides sitting on its ass and making people money
+Nosupply amount:21 Mio BTC and2,7 Mio GIOTA
+Yes ages ago.
+Put it on android wallet now not there.
+Which download for windows?
+I'd recommend always the light wallet.I had problems with very hot i5-CPU duriing "attaching tangle" >> I switched to CCurl implemantation in config and now its superfast and cool
+version 2.5.4.Every update, you need to reclaim your Iota.
+The tangle is a confusing place at the moment, but you'll never lose your coin.
+Just need to reclaim them.
+The one with the .exe (second one down)
+Bought this refugee cock sucking coin at 0.87, I hope it reaches 1 to dump my bags.
+I'll need to try this because my transactions lately have taken way too long.
+I am so happy about ccurlyou find it in > tools > "config node"
+4382631Super neat system.
+I'll have to do some more homework.
+In the meantime, iota ackbar
+Fuck me no option for light wallet until you download and run it.
+These cunts intentionally trying to make everything as retarded as possible or what?
+Next question reclaim tool asks for old and new seed?
+What new seed?
+I just have my seed.
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+generate a new seedJust be sure that:1) Your seed is a random assortment of letters and 9's2) Is 81 characters long3) You save your seed!Linux (confirmed)cat /dev/urandom | LC_ALL=C tr -dc 'A-Z9' | fold -w 81 | head -n 1 Windows (PowerShell) not tried-join ([char[]](65..90+57..57)*100 | Get-Random -Count 81) Mac not triedcat /dev/urandom |LC_ALL=C tr -dc 'A-Z9' | fold -w 81 | head -n 1
+Hype cause of future news.
+Wont hurt to buy atm desu, balls deep in RVN "the real mission" but if you want to play safe IOTA, great stuff.
+back when iota was trading on ydx we trading in gi's.
+if iota goes back to trading in gi's people will think the supply is "reasonable" and have a completely different perspective.
+pretty sure they plan on changing the trading amount in the near future.
+trading in miota is completely arbitrary.
+it makes sense if you consider why bitfinex picked them up and they became a top 10 out of nowhere.
+Reclaim tool transaction pending.
+How longs it take?
+JUST
+Transaction confirmed balance still 0.
+What the fuck is this shit
+attach tangle!In the past my maximum was 32 times :- (In my opinion, if you did something wrong in the reclaiming process, your iota are NOT lost.Keep your old seeds.read some articles about reclaiming and ask FRIENDLY in the forumhttps://forum.iota.org/
+Fuck me why are the devs incapable of sorting this shit out properly
+I wish you more life experience and to mature, because if you want to be happy in your life, calming down and relaxing is a good way to endure in the storms of workaday life :- )and to live longerhave nice dayPS: may be a good idea to split your iota in two or more wallets (seeds)
+I really like IOTA's idea but....1. distribution is vague.
+2.
+Only volume is on pump exchanges.
+If you aren't harvesting gains on sites like Binance and Bitfinex you are just asking to get raped.3.
+Iota dex exchange is basically handing over your BTC to some guy in Scandinavia who, when you want to move it, you have to trust he is awake and willing to do so at that particular hour.
+1. distribution is vague.https://medium.com/@IngoFiedler_96862/iota-distribution-update-after-snapshot-from-08th-august-2017-21e92cf15eea
+3.
+Iota dex exchangeyou talk about YDX?You can use bitfinex instead
+News every few days, bittrex within a month, ucl wallet within a month, big announcements coming now the foundation has been formed.
+This will be top 3 in market cap in 2018 cap it
+2.?
+I don't understand
+Why does the address contain only 9s other than letters?
+2.
+Only volume is on pump exchanges.The price rise is due to pumps on two major exchanges (see pic)Given that the price has 2x'd in two weeks and we are seeing a 20% increase today investing in IOTA right now looks highly risky (If you are looking for near term increase in price) because:A) Bitfinex is an exchange dominated largely by trade in other assets and B) Binance is a low volume exchange and a lack of liquidiity inhibits large-scale investmentFrom this I conclude that, if you wait, you will be able to buy at a significantly lower price relative to bitcoin in the future.
+Conclusion ---------------Fundamentally IOTA is beta software running on a test-net!
+Think about that.
+:)
+Don't use the powershell command.
+There is a flaw in powershell meaning there is low entropy for randomness.
+If you want really good seeds, use the linux or mac commands, or download keepass and use the Generate Password feature.
+Should have bought more IOTA on the dip (only bought 98...), this is a gem honestly even with the marketcap it is at.
+don't mind me just being used in the real worldhttps://twitter.com/jserv/status/930771971519873025
+
+So how much MIOTA do I need for GIOTA?
+Or how much of this garbage papermoney do I need to dump on it?
+if IOTA is at 1 dollar?
+it's going to dump again soon.
+Be careful with your entry/exit
+tfw when bought at ATH and sold at 50 cents...
+Imo they should hype it for personal transactions too.
+Key spend problem isn't a huge deal
+why dump?
+I've been patient enough.
+I haven't seen my balance in over 2 months by now.
+I ran the reclaim tool last week.

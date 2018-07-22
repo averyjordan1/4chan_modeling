@@ -1,0 +1,29 @@
+Ledger vs. Trezor:Which one is more secure (if used correctly)?I read about a Trezor "security issue" in August of this year and haven't really seen any bad news regarding the Ledger Nano S so far.
+Ledger is sexier.
+I also prefer it, design-wise.
+And it's cheaper, although security is of the highest priority.Trezor apparently has more advanced software
+Trezor.
+No waitlist.
+Extremely simple UI.
+They are both as good as each other.
+Ledger looks great but most people had to wait 6 months this year to get one.
+Luckily, there are enough Ledgers in stock near me
+I'm fond of the ledger more than the Trezor purely because of the design and feel.
+I think using the Trezor is easier though but I don't like typing in my pass phrase on the computer.
+I prefer the Ledger buttons which while atrocious feel more secure.
+Trezor however has easier software.
+You don't have to fuck around with downloading chrome extensions.
+I would advise getting both of them but start with a Ledger because it's sexy and lets you use ED a lot easier and safer.
+Get a Trezor later so you can split your coins up.
+Oh and always use passphrases.
+I'll watch some vids on youtube to get an impression of the ui and everything else.
+Thanks man, I was thinking the same.
+If I don't like the Ledger, is it possible to "reset" it by creating a new seed?
+Spoonfeeding myself: Yes you can reset it / create a new seed
+They have the same sec, but ledger has a cover over the screen so I guess thats a plus
+ledger has a secure element, trezor doesn'tledger has more coins and more comingledger is cheaper and saferledger software isn't really good but updates are on the waywhy am I shilling an hardware wallet, what's wrong with me I don't own any ledger share
+One positive of the ledger is when restoring from the seed, you can do it entirely on the device.
+Trezor requires you enter your seed (albeit in random order) on a computer.
+This is still pretty secure in random order, but it is conceivable a future attacker with a supercomputer could crack it.Trezor has been around longer and that counts for something.I use both along with a paper wallet.
+Anyone tried Ledger Blue?
+Any point to buying this over ledger nano?

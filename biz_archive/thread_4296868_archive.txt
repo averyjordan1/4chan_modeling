@@ -1,0 +1,75 @@
+Am I unlucky, doomed, stupid or what ?In my whole life, I made 2 (two) positive trades.
+The first one was to buy 2.3 bitcoins in 2013 at 400$ and the other walton at 40k sats that I sold at 142k sats.If I only did those trades I'd be at 8.5 bitcoins, but right now I have 0.7 btc.
+I paid 1'000$ so I'm still up though.Everything else I did, hundreds of trades, were negative.
+I stopped trading between 2015 to september 2017 so missed the alt boom.
+My last trades before my big pause was selling all my XMR at 30 cents and stay half btc half Boolberry.Yesterday I went full usdt for the first time, I sold my Modum at 2.6k I bought on ED at 4k, and sold btc at bottom.It feels like when I panic sell/buy, then price changes direction literally the minute I do it, even if it was a trend that lasted for days or even weeks before.
+and when I wait days or weeks for a good entry, it never goes this way so I either missed an opportunity and look another coin, or decide to finally trade it and make the trend reverse.Don't shill me coins I don't fucking care, just tell me to kms or what kind of shit I'm doing and not realising.
+Now I'll just be patient and wait for a further btc correction, that'll make alts go down too, and certainly buy my alt again.
+But knowing me it might never come.
+'000$heres your first mistake, a notional one.>It feels like when I panic sell/buy, then price changes direction literally the minute I do it, even if it was a trend that lasted for days or even weeks before.
+here's your 2nd mistake.
+you're not reading trends accurately.>Everything else I did, hundreds of trades, were negative.here's your biggest mistake...over-trading.
+Why are you selling when it's cheaper than the average price you paid?
+Are you afraid it's never going to come back up and it'll be the forever ATH?
+If your coin dips, add more in the dip to reduce your average price paid per coin, then you can sell for a profit or at least break even quicker.
+stop fucking with coins that are super manipulated by whales / scammers (bittrex devs are scamming trust me)hop on the shitcoin train on like etherdelta/coinexchange/cryptopia and binance to a lesser degree.once i stopped getting scammed on trex i started stockpiling money and hardly ever having bad trades.good luck
+the dirty secret of crypt is that very few people make serious money.
+you'll see people saying "if only you had blah blah, you'd be rich now" but the truth of the matter is everything is obvious in retrospect and no one knows the future or trades perfectly.
+you've, what, tripped your money, so I'd say you've done pretty well for yourself.
+How do you suppose bittrex are scamming the individual trader?
+Don’t day trade at all.
+I’ve certainly learnt my lesson, /biz/ is for shilling whatever you’re holding if you want to sell.
+Do not ever buy into the FOMO here.I hold legit coins and once they moon try and find the top, wait half a day or so to see if it finally starts dipping and sell.
+Hold back in BTC until it’s considerably lower.
+This has worked with ANS/NEO, WTC, QTUM etc.I’ve been burned by this board several times.
+Don’t give up, you just need to learn from your mistakes.
+I would of had 20+ BTC now if I didn’t fuck around chasing shit coin losses.
+OP tripled his initial investment>still mad he doesn't have the max amount if he had done better tradesdude fuck off OP, i'm down 70% and not as sad as you sound.
+stop trading you tardjust buy REQ and hold for the next 2 years.
+boolberry>modumyou're picking terrible coins.
+learn how to differentiate solid projects from trash projects.
+this way you can comfortably hold them for long periods of time.
+because that's what you should be doing, holding for a long time.
+you're not cut out to be a trader.
+you don't have any edge over the other traders so you will continue to be a fish swimming with sharks if you try to trade.
+I did like 150 trades in 4 years, I don't think that's too much.
+How do I read a trend ?
+If it a new promising coin goes up slowly for 10 days with still a low marketcap isn't it an uptrend ?I held coins for weeks or months without recovery, I held MOD for 2 weeks now, it recovered in fiat price but not in sats obviously.I don't daytrade, it's always at least 5 days to months.I guess I should be happy, I'm not angry about the money I don't have, just about the fact I did around 150 trades, and only 2 were positive.I don't buy coins that have dozens of competitors ahead of them in several aspects
+obvious honestly.look at richiela give a 20 min heads up on a new coin coming to trex on twitterthen it pumps and dumps like youve never seen before all in one candle.
+ever wonder why trex only lists super shit tier new coins... bc they can accumulate them dirt cheap and get them to p&d bc people actually think trex is still a good exchange.
+how do you find the top?
+this is the biggest problem with me I never know when to sell.
+This is why I built a robot to trade alts for me.
+Lightning reflexes, zero emotion.
+I let it evolve the best strategies with zero guidance from me.
+Mostly it seems to hone in on and buy big dips with a few extra data checks along the way, and it's doing great.
+I'm up 30% since I turned it on about a month ago.
+Most impressively it kept sustaining gains through the bearish alt market the past two weeks... even during the red wedding in the past 24 hours.
+It only handles a few hundred bucks at the moment but I'm thinking of give it a few thousand soon.
+How can i buy your bot or make a similar one myself?
+start coding friend.
+I didn't know how to code two months ago and now I have a slick bot that makes me passive money.
+Just start learning and doing.
+Look into genetic algorithms, I use genetic principles to make test cases, run them through backtest data, cull the weak ones, 'breed' the winners, mutate their offspring then start all over again.
+Stronger and stronger children emerge over time which deliver better and better results when used as live buy signals.I don't even have any GUI, it's just piles of shitty code in PHP that I run in a xampp stack and automate with windows task scheduler.
+But it gets the job done.
+My advice.
+Buy low or dont buy anything.
+and only buy if you %98 sure your going to make money.
+I just wait until something is smacking me in the face like buying LTC at $48 when BTC was $7k.
+Its like I know for sure LTC isnt gunna go down much lower and it could easily hit 80 again now that BTC is up so high so im fucking going all in.
+What do ya know I made a bunch of fucking profit $$.
+You could also buy some doge, req, xel, coss and cheep shit like that and just check on them but dont sell until they pop good.
+what data do you feed though?
+how do you convert that into a trading strategy & what exchange lets you bot trade?
+or did you just inspect the javascript on their site.i built a bot like that once but quit because i didn't know how to go forward with it.i just gave it info on simple moving averages.
+Wow so youve missed every other alt coins?
+Eth, Omg, ant?
+Ark?
+Seriously just buy ark and leave it.
+i started in june and put 200-400 down.
+around that time was the ANT shares pump.
+i made around 300 more and got greedy and lost.
+had to sell and i was down 100. i got lucky again with other pumps like bcc and other shit.
+but i got greedy even if i learned my lesson the first time.
+had i just took my earnings as was cool with it i wouldnt be down 2k out of 11.5k

@@ -1,0 +1,3 @@
+Say you already bought a particular alt with ETH at one point.
+But you want to monitor that coin's BTC pair in Blockfolio.
+How would you log that trade, without adding the alt/ETH pair just for that single trade?I would just convert the trade price in ETH to BTC, but this trade in question was several weeks ago and bitcoin/ethereum were at vastly different USD amounts.

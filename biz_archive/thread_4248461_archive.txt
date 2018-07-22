@@ -1,0 +1,100 @@
+April 2018.
+$3 / coin
+It's going to be on GDAX by then so it's $8 minimum.
+$12 by april 2018.screenKap this
+is there any rumor about coinbase?
+you mean $14 minimum
+No idea but GDAX (which belongs to coinbase) did reveal their token API, so there will undoubtedly be tokens on there soon enough.
+You mean $300 minimum
+
+What I wanna know is why HCL tweeted about Chainlink
+HCL and Chainlink, sitting in a tree....
+Because there is a lot of shit going on behind the scenes that we know nothing about.
+It's a good sign.
+Ok guys you sold me how do i buy ths?
+Normie here and i need the whole rundown wallet and everything.
+Also send me ur pink wojaks for long term investment
+https://pastebin.com/6xcsc2jR
+People cant read between the lines otherwise we'd have $5 link already.
+It is pretty much positioning itself to own the entire market behind the scenes so once it unveils, there is no chance they can be beat.
+They don't want to make too much noise.
+It's some Art of War type shit going on.
+you mean 2k minimum
+this17k and never been so comfy....
+Only chance to profit from this thing is holding strong and buying low actually (like now).
+Nobody knows when it will moon, but when it does, it will be an explosion and people will most certainly miss the 30s window opportunity to buy in right before.
+I used EtherDelta to get my LINK.
+Site is kind of confusing if you're new to crypto though, I would recommend installing "MetaMask" chrome extension and watching a tutorial video on how to use the site.You use your Ethereum wallet address to store it, since it's a token.
+It won't show in some wallets, but if you put it in your Ethereum address at https://etherscan.io/ you will be able to see your LINK tokens.
+What's even more damning is how HCl is blatantly talking about offering chainlink-type services in the near future.
+Either they are stealing the idea or they are working together.
+Once the network goes up they might announce it.
+4248909Also
+If they wanted to fuck them over, they would not have brought public eye to them in their tweet, praising them as being able to solve smart contract interfacing.I don't want to get my hopes up, but this looks more like some collaboration going on.
+LINK actually complements their efforts, because while they have their own blockchain, which is sensible, smart contracts oracles are a different thing.And therein lies the massive potential Chainlink has.
+The more successful blockchains that are launched, the bigger the market for LINK for integrating all of them into an API library.
+once you become a master of the etherdelta, you realise its the best site of them all.
+it just looks spooky off the start.
+4248924thank u, wise china man
+https://www.hcltech.com/blogs/introduction-cotrust-platformsm-hcl-blockchain-application-platformHere is your clue
+>down 74% in the last month.Yeah, this is really a massive gainer boys.
+Lol, you shills.
+BUY HIGH SELL LOW
+So let's recap, ChainLink is working with or at the VERY LEAST have contact with the following companies/organizations: -SWIFT-Gartner-Cornell-World Economic Forum-Sony-Axa-Microsoft-Factom-Confido
+Hello, neanderthal who can't think in timespans longer than a couple weeks.
+sauce: https://pastebin.com/6xcsc2jR1Ni7vZspcPDGwTg6epkmMdPQRrafu7LUTh
+how do I buy chainlink?
+Binance, Coss, IDEX
+WHAT THE FUCK?
+WHERE IS MY LINK?
+go to sergeys home
+https://pastebin.com/6xcsc2jR>uh muh link xD nice try
+https://pastebin.com/6xcsc2jR>LINKS: (That won't steal your links)A likely story... HODL 2020!
+Never opening another webpage again in case my Nano Ledger gets stolen from my safe!
+I agree
+Can anyone explain this?
+Is is binance or a whale group keeping LINK from dumping or what?
+Group of ICO whales most likely.
+Maybe, well I am £150 up on my £250 purchase last night... jesus
+April 2019.
+$35 / coin
+It's happening!
+So glad I followed my instincts that told me to buy more before I left for work.
+Wow.
+I bought 2k last night and the rest i have had from after sibos which have just broken a profit.
+I am so glad I got that 2k last night, wish it had been more but i think 3500 is enough to get half a lambo.
+This.
+I showed up and he gave me like 6 link to fuck off
+have contact with the following companies So?
+Even if they decided to use the chainlink network, they wouldn't be buying your tokens and your shitty node wouldn't have the data they need.
+So how would you profit from it?
+So can anyone answer this question?
+Yes.
+Read the fucking white paper you dense cunt.
+"The ChainLink network utilizes the LINK token** to pay ChainLink Node operatorsfor the retrieval of data from off-chain data feeds, formatting of data into blockchainreadable formats, off-chain computation, and uptime guarantees they provide as operators.In order for a smart contract on networks like Ethereum to use a ChainLinknode, they will need to pay their chosen ChainLink Node Operator using LINK tokens,with prices being set by the node operator based on demand for the off-chain resourcetheir ChainLink provides, and the supply of other similar resources.
+The LINK tokenis an ERC20 token, with the additional ERC223 “transfer and call” functionalityof transfer(address,uint256,bytes), allowing tokens to be received and processed bycontracts within a single transaction.
+"I'll spell it out with crayons for you.
+In order for the decentralized oracle to work, LINK must be payed to nodes that authenticate smart contract data.
+The LINK token will be used constantly to keep the decentralized system going.
+Even if they decided to use the chainlink network, they wouldn't be buying your tokensIf they wanted to use the network, they'd be paying some way or other.And that money would go towards Link tokens, which are the lifeblood of the network.Remember that we are talking about smart contracts here.Clients could be paying in Zimbabwean governmental rocks and the conversion would be instant.
+So you didn't even read my post Sergey has 650m tokens in reserve to "incentive" the network, meaning they will be given to companies such as axa barclays Sony etc These same companies will run their own nodes as none of you faggots have the data they need.so they run nodes with tokens that aren't yours, getting 1/312th of a TX fee from tokens that also aren't yours so how do you benefit from this situation?
+So who was stupid enough to already drop his Link into this measly +40% pump or in the 3300 dip?
+Because they're going to want more priority over the competition, and there's only 650 million to split between the banksUse your brain
+These same companies will run their own nodeshurrrrrrrrrrrrrrrrrrrrrrrrit amazes me how many idiots post this same shitlearn what decentralization means, you brainless moron.
+This money is simply incentive to get node operators up and running so the system works right from the get go for it's clients.
+These tokens will still be in circulation, I don't see what your fucking point is.>None of you faggots will have the data they needLmao I can't believe how brain dead some people are.
+Read the fucking peer-reviewed whitepaper.Do you know what an SLA proposal is?
+Do you know how companies will request oracles?Holy shit.
+I bought this morning at 17 cents.
+Thinking we'll see 40 again very soon.
+chinks havent even woke up
+It's going to be $300 by this time next year.
+I am from the future.
+> tfw when bought ATH> tfw when doubled down to 32c yesterday> tfw LINK is mooningFinally I feel comfy once again.Yet I wish it tanked back to 15c once again.
+Probably, it will be the case as the volume is down to normal and the price is slowly crawling back to its pit
+ppl still shill this shitcoin?
+his 32m went to your belly LOL its in the cayman islands.
+Hes blowing it on mexican hookers and blow in cancun thats why he went to devcon 3, anyone can speak at a conference as long as you pay LOL he is fooling all of you.This slav wants to target big enterprises with his big bloated belly, their office is above a sushi restaurant next to an iphone apple repair shop LMAO.
+Oh shit I just lost access to my account on binance after buying 200 Euro worth of link.
+It asked me to set up google authenticator after I already had it set up.
+I scanned the qr code it provided and it erased my previous settings for google authenticator and now I can't get into my account.

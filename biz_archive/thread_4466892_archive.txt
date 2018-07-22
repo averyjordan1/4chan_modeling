@@ -1,0 +1,9 @@
+So I sent some eth to a presale pool contract a month ago and i havent seen the tokens nor my eth returned.
+did I get fuckedhttps://etherscan.io/address/0x12365ffbaa6a4387ca536488a8cfbfbfb00b3919
+Did you contact their support?
+Perhaps you did receive the tokens but you have to manually add the tokens to your balance.
+Should've shown up in my wallet on etherscan.
+Cant read smartcontracts but the contract has several internal transactions to other adresses.
+im clueless atm - wish I could read contracts
+You wasnt whitelisted m8 u fucked up
+Says everyone's whitelisted or else it shouldve been returned

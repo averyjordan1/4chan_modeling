@@ -1,0 +1,8 @@
+people are saying btc will change its difficulty mining adjustment on friday.how do they know?
+where did they get that info from?
+is that a set date every month?
+It's every 2016'th block.
+The date is just an estimate of when that block will be mined.
+https://bitcoinwisdom.com/bitcoin/difficultyCurrent estimate is 2.2 days.There is 259 blocks left.
+bitcoinwisdom is a an outdated sitebtc.com/stats/difffork.lol/pow/retargetbtcwisdom.netare all better
+k thx

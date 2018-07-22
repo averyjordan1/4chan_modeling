@@ -1,0 +1,5 @@
+https://www.justice.gov/usao-ndca/pr/former-secret-service-agent-sentenced-scheme-related-silk-road-investigationSo this retarded secret service agent thought he could steal 1500 btc from the silkroad loot, transfer them to exchanges, and get away with it.Now if you wanted to actually get away with it, how would you do it?
+The article says he had access to the private key.I'm thinking something like>memorize private key>get behind 7 proxies and move all of it to a new wallet>transfer as much as you can to monero>book it to eastern yurop or something>cash out only the bare minimum you need to live
+also, leave exactly 10% of the original amount, so it looks the same on first glance
+pretty much.
+also tumbling necessary

@@ -1,0 +1,9 @@
+Can you recognize the coin by looking at an address?
+Also, what would happend if the wrong coin gets sent to an address?Example: 0x8e2ca3b0cc68ce7b53abb62f7d13d5d0cd5f24a8Can you guys figure out which coin this is?
+well it seems to be a smart contract address on eth?
+https://etherscan.io/address/0x8e2ca3b0cc68ce7b53abb62f7d13d5d0cd5f24a8
+I'm making my babysteps here.
+Bought 1 ETH on this address, trying to learn trading and stuff.
+How did you come to the conclusion that it is Ether in the first place?
+because it looks like an eth address and because eth is so popular odds are it was
+starts in 0x filled with a bunch of HEX characters

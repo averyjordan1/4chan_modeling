@@ -1,0 +1,22 @@
+what's the difference between address and compressed address?
+why do they both share the same private key but when i click them they have completely different transaction/btc in storage?
+compressed addresses make the bitcoins smaller so more can fit in a block
+Compression is like zipping files.
+They become smaller thus more data can fill in the blockstream and node endpoints will have an easier way of decrypting the checksum for integrity.
+4297189aren't they both public keys?and if they both share the same private key then shouldn't they share the same transactions?
+bump
+
+
+My private key is somewhere on that database, in the first 100000000000000000000000000000000000000000000000 pages, and I have over 500 BTC on it.I challenge you guys to find it.
+please it is a simple question.
+need answers.
+Compressed addresses got squashed now they are smaller
+my question is why the compressed address and normal address show different transactions in them.
+are they two different wallet?
+how can they share the same private key but not the same account??
+I don't know exactly but what I do know is each private key has many public addresses(not sure how many), but no private key shares the same public addresses.This is why when you setup a wallet you can toss away used addresses after each transaction.
+Compressed address only store x coordinate of a point on elliptic curve and a sign of y coordinate.
+It is enough to get i coordinate from curve equation.
+Uncompressed address (or actually public key it's based on) stores both x and y.
+Because transactions are send to public key anon... All of them are accessible with same private key though.
+When you create a wallet, it will be created either compressed or uncompressed, so you shouldn't be using compressed and uncompressed public keys for same private key.

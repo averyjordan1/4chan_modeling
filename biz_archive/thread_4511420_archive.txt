@@ -1,0 +1,4 @@
+Bodhi, the next generation blockchain based platform that decentralizesthe prediction market.
+Bodhi leverages the advantages of the state-of-the-art decentralized predictionmarkets by integrating third-party Oracles and voting based decentralized Oracles via its Oracle abstractionlayer.
+We introduce a novel replaceable Oracle framework where the prediction market ismore effective and autonomous.> Team based in the US (Silicon Valley)> Weixing Chen, the founder of KuaiDi (the Uber of China) is an advisor> Patrick Dai, founder of QTUM is an advisor> Partnered with Qtum and the biggest blockchain investment groups in China> Big demand from asian market, ICO sold out almost instantlyEnglish Whitepaper: http://www.bodhi.network/file/whitepaper/bodhi.pdf
+Augur and Gnosis do it better, scamcoin copycat NEXT

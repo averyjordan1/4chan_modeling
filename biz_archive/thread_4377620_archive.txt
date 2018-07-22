@@ -1,0 +1,6 @@
+When is BCash getting segwit?
+Never, we don't want that shit.
+Why not?
+because miners wants bigger blocks to mine txalso segwit disable Asicboost
+http://www.trustnodes.com/2017/07/23/bitcoin-cash-splitting-segwit
+Actually it doesn't disable asicboost, it disables the covert use of asicboostIt can still be used, but people will then know that you're using it.Guess why Jihan wants Bcash?

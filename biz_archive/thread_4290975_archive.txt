@@ -1,0 +1,18 @@
+BTC will be x3 more profitable to mine than bcash in about two days.
+Watch for the dump when miners switch.https://www.fork.lol/Hope you guys sold.- Merk
+You are right, although BTC is safe at the moment, this could change overnight.
+Carefully watch the hash-rate of both BTC and BCH network:https://fork.lol/pow/hashrateLook at relative hash distribution on 22&23 Augustus 2017, if that situation happens again, Bitcoin is most likely history.Bitcoin's protocol cannot adapt block difficulty fast enough if it's hash-rate drops too fast due to falling prices.
+That's is probably one of the reasons they (current attackers?)
+released BCH with the emergency difficulty adjustment.
+The time-frame for a successful attack is approximately 3 days (till next difficulty adjustment for Bitcoin Cash).
+If the majority of the miners decide to migrate to BCH for more profit (same SHA-256 hashing algorithm), then new blocks created on the BTC network will be generated extremely slowly or in the worst scenario, never again.
+It's approximately 2 weeks from now when BTC network can adjust to a lower difficulty.
+In short, if hash-rate drops too fast BTC transaction fees will rise to the mountain and confirmation time can take forever.
+Panic selling will follow, and BTC value will drop to pre-2011 level, nearly zero.
+Keep holding those bags, BTC shitcoiner
+i dont think temporary fluctuations in hashrate are relevant since btc isnt used as a currency.
+at this point noone cares anymore how fast it is.
+at this point noone cares anymore how fast it isThis type of assumption is exactly why BCH is skyrocketing
+If mining difficulty of BCH rises.
+That just means its gaining miner adoption.
+No?

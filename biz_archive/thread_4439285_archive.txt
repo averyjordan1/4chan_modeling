@@ -1,0 +1,2 @@
+>Socket Status: Disconnected
+tries clicking it

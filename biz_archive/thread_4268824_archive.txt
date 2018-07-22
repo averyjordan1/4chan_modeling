@@ -1,0 +1,9 @@
+What BCH wallets do you use /biz/?I use Electrum for BTC and Electron Cash looks like a clone of that, but for BCH.
+I've heard a lot of FUD surrounding Electron Cash stealing private keys or w/e.
+I've already moved all my BTC funds to a different wallet (still electrum though) than was used at the time of the fork.
+Should I be safe, anyone have personal experience on this?
+make sure you get it straight from electroncash.org and not from shady ass urls
+Holds a chink miner meme coin>Wants to be "safe"
+segwit>safeThere is a storm coming with Segshit BTC.
+Not only the recent attempt at a hostile take over, but the network itself is cannibalizing itself over fees and transaction times.
+either the above or use Ledger Wallet for Bitcoin Cash

@@ -1,0 +1,6 @@
+how do we convince moot to change the shitty captcha system to coinhive proof of work or some similar system that has lower feesI sent an email to bizdev@4chan.org a while ago but obviously they didn't replyso for those of you don't know coinhive is a web based monero minerProof of Work CaptchaI assume we all hate doing the captcha thing every timeand 4chan has always been hard to monetise, so it seems logical to me that we could avoid the annoyance of the current captcha and still prevent spam by using coinhive proof of work potentially moot could contact coinhive and change some settings to organise lower fees and perhaps increase the proof of work required if one user was posting too oftenfrom the site :Proof of Work CaptchaWe offer an easy to implement captcha-like service where users need to solve a number of hashes (adjustable by you) in order to submit a form.
+This prevents spam at an inconvenience that is comparable to a classic captcha.
+All with the added benefit of earning you money.don't users and moot both stand to gain from this?perhaps this belongs in /g/ but I figured that fellow bizinessmen would have ideas
+mootGot some bad news, son
+Kek
+hahahahahaha

@@ -1,0 +1,64 @@
+Why do we think that the swift-link partnership confirmation would make the price skyrocket?When ibm-stellar lumens was announced it wasn't a big deal.
+Xlm is @ 3 cents now.Why is it gonna be different with link?
+Explain that to me please.
+>comparing IBM to Swiftlollerskates, bro
+xlm x20-ed you absolute mongoloidAlso Swift >>> IBM
+Both are huge companies aren't they?Also no one can explain how is the token going to be used in the real world.
+What's its purpose?
+No one can explain it.
+3 centsLook at its market cap though.
+That's how you compare value.
+Are we looking at the same chart?https://coinmarketcap.com/currencies/stellar/IBM-xlm was announced on October right?You're wrong.
+It x3'd.
+This
+Also no one can explain how is the token going to be used in the real worldyou retarded?
+Yeah because 17 cents is gangsta right?
+Pic related.
+This is bait
+Yes I am retarded.
+Can you explain yes or no?
+See what I mean?
+Everyone prefers to act like this instead of explaining WHATS THE PURPOSE OF THIS TOKEN, THEY CAN JUST USE CHAINLINK ORACLES AND SHIT WITHOUT USING THE TOKEN
+The explanation is you are a total faggot
+.5 LINK token usageThe ChainLink network utilizes the LINK token** to pay ChainLink Node operatorsfor the retrieval of data from off-chain data feeds, formatting of data into blockchainreadable formats, off-chain computation, and uptime guarantees they provide as op-erators.
+In order for a smart contract on networks like Ethereum to use a ChainLinknode, they will need to pay their chosen ChainLink Node Operator using LINK tokens,with prices being set by the node operator based on demand for the off-chain resourcetheir ChainLink provides, and the supply of other similar resources.
+The LINK to-ken is an ERC20 token, with the additional ERC223 “transfer and call” functionalityof transfer(address,uint256,bytes), allowing tokens to be received and processed bycontracts within a single transaction
+Is Sergey a programmer?
+Nobody is going to run a node, which recquires effort, time and money to maintain, for free.
+They will be paid in Link according to the node's trustworthy behaviour and traffic
+IBM is the worst performing outfit I've worked with
+People have explained it multiple times on this board.
+The main use-case of the LINK token, is that a Smart Contract seeking to use the ChainLink oracle network to obtain tamperproof, decentralised, off-chain data (stock prices, flight times, meteorological data, whatever the fuck you like) to execute the contract's conditionals, have to pay for the service in LINK.Another use of the token is for staking (as in node operators of the network will want to hold some, too), but it has already been said that nodes with arbitrarily large stacks of LINK won't always be favoured for their data over other nodes; in fact, LINK held is just one factor of 6 iirc, where the others are things like the data feeds offered and the accuracy of past data provided (reputation).
+To find all of em google ChainLink whitepaper and have a look.
+are you seriously implying people would run nodes for free?
+Kek, nolinkers would probably would because of their salt once link moons>dont use chainlink, use muh free centralized oracle instead
+obviously dude has some serious skills, the fuck do you think?Last year he won 100k at the SIBOS competition and was invited again
+>Why do we think that the swift-link partnership confirmation would make the price skyrocket?because that would literally CONFIRM that EVERY smart contract ON THIS PLANET has to use chainlink.
+Ok everyone fair enough.
+Got a lot of good answer and finally I think I understand everything a bit better.Where can I find info about how to run my own node?
+What do I need besides 100k link?
+a shitload of patience i guess?
+i heard rumors this coin is going to moon hard in 2027.
+https://www.youtube.com/channel/UClIWFp4FV1QuYmnc8FcFDWwTom makes some very good ChainLink resources, and is in regular direct contact with the company.
+Implying smart contracts on other planets will use other oracles.
+NOLINKER.
+Because IBM is speculative price.As soon as banks start using it, the volume and market cap will increase, and so the price.If banks transfer 100m daily using stellar, it means tokens worth 100m floating daily.Can they inflate the price?
+Or will they buy at market price?I don't know but in the end usage is worth more than speculation
+It's not about the "announcement" of the partnership per say.
+Yes it would drive the value of LINK tokens up due to speculation, but the real money would come from the huge increase in demand for the tokens.
+hurr durr it'll moon but in 10 years FUD
+just saying that this tech is global
+You do need access to some useful API.
+You are acting as an oracle so you have to have some kind of data to serve the users of the network.
+By the time Link gets there minimum viable product launched in 3yrs people will not even know who they were.
+Several other oracle teams much further ahead, big teams well funded, etc.
+Link has two dudes.
+lmfao.
+Pic related>No picNolinkers in their natural state, lads
+I make 3400 a month after taxes and live with parents.
+How much LINK should I accumulate?
+or 500 a month is reasonable if u dont care about money and are willing to risk
+why couldn't they just pay you in eth or btc?
+Kek this reminds me of silicon valley.
+I bet it goes horribly wrong too and linkies lose everything
+why couldn't they just pay with monopoly money

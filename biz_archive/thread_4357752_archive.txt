@@ -1,0 +1,8 @@
+I really need help with this one.
+I have been looking quite a while now for accurate option chain data when it comes to *Volume(yesterday)* and ~Open Interest~Scottrade is my measurement for correct Open Interest data but this website has no *Volume(yesterday)*It seems that Yahoo Finance and Marketwatch are not trustworthy especially on mondays!!!!
+*Volume(yesterday)* gets changed a lot throughout the day while the NYSE has been open for hours.
+(It should give the correct data at least 1.5 hours before NYSE opens like it does any other day)Do you guys know why the data on mondays suck?
+Why is it always so late and unreliable?Do you have any alternative for accurate data?
+I don´t mind paying a few bucks for it if necessary.Pls help :(and thank you for every answer in advance
+bump for interest.
+havent seen anyone on biz talk about options in a long time

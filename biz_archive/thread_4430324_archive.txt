@@ -1,0 +1,2 @@
+Thinking of getting a Ledger Nano SI see that EtherDelta has some kind of compatability with it.
+Will it let me directly deposit my ERC20 tokens into EtherDelta for trading without having to go through Metamask (which I have been using up until now)?

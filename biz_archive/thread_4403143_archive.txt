@@ -1,0 +1,7 @@
+>in order for atomic swaps to work they need a decentralized oracleyou feel me
+Too bad it's not on the right blockchain
+ChainLink is blockchain agnostic
+You can go make a ChainLink on BTC blockchain right now.
+This
+Lol off chain data inputs being used for cross chain transactions.
+Not to mention these data imputs are smartcontracts

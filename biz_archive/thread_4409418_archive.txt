@@ -1,0 +1,144 @@
+Hey faggots since most of you play with a shitton of internet money I assume you got your network and shit protected.
+Can we share some tips to avoid getting rekt?Here are mine and these should be a must:- Browser plugins: https everywhere, unlock origin, unlock origin extra, noscript (or scriptsafe for chrome)- Other programs: DnsCrypt (simple dnscrypt on windows)What I do:- I don't play videogames on the same computer I trade.
+Bonus points if you don't pla videogames at all since that shit is for losers and virgins with low income.OS:- Windows is fine as long as you use the setup I detailed above.
+DONT RUN CRACKED GAMES ON THE SAME COMPUTER YOU TRADE YOU RETARD.- Router and other shit:Basics: Don't use default passwords on your router or your modem.
+NEVER NEVER NEVER.
+Some pieces of niggerware will try to log into the router or modem config, paste a custom config and setup a dynamic dns server giving remote access to the attackers.- Bonus points if you can install openwrt with Adblock, dnscrypt and unbound (for dnssec) so you cover all the devices at once.
+I forgot: USE BOOKMARKS.If you google the name of the exchange you wanna use you'll probably get rekt although if you use unlock origin you should be fine but just use bookmarks and don't be a nigglet.
+for me:full LUKS encryptionusing SELinux kerneldon't play video gamesdon't install shit like discord, if you use it it stays in the browser, but IRC is always betteruse a password managerusing icecat as main browser
+You'll get fuck all replies to this.
+People don't like security (but will cry when they get phished.
+)Use a hardware wallet for non traded funds, get a fireproof safe for your seed.Use 2FA when available.
+The google tool is very good for this.
+>DONT RUN CRACKED GAMES ON THE SAME COMPUTER YOU TRADE YOU RETARD.Can I download movies/music though?
+I only have a pay as you go flip phone, it's kind of suck to use a sms for every login.yes, if you aren't a retard.
+use torrent and watch it with mpv, it's not hard to be safe there.
+use private tracker.
+I don't do any multimedia on the same he'd I use to trade.
+I don't download anything either.If you want to play it extra safe use another hard drive exclusively for trading.
+Any 60gb hdd will do.You can use the google authentication app.
+You don't need internet connection to get the codes.
+No SMS required.Another thing I forgot: NO WINDOWS 7.
+Either Linux or windows+common sense+updates enabled.
+google authentication appYou need android/ios for it no?
+4409574
+Yes.
+then I cannot
+>watching porn and playing shit ton of cracked games on same PC my etherdelta account is logged inShould i worry?
+I have malwarebytes
+mfw>no mention of 2fa, IP whitelisting, paperwallets, browser sandboxingyour must list is a shit list.simple rule: dont do stupid shit.
+Get a Chinese cheap android phone on eBayYes!
+The fuck are you doing.
+You can't rely on malwarebhtes and go full retard.
+Even if the antivirus find something don't just assume it will completely remove whatever Russian botnet is in your pc.
+Secure erase/format your hard drive, every-time this happens.Consider yourself lucky that no one stole your shit yet.Save the private key of your ed account on a .zip with password, stop trading on that hard drive right now, get another hard drive and trade there.Once you do this Don't forget to delete any cookies or anything crypto related stuff on the computer you use top for gaymen and porn.
+That's why I said suggestions are welcome you knowitall smartass.
+I didn't mention hardware wallets because I don't use that cuz I'm poor.
+"windows is fine" BWHAHAHAAAHAAAAAAA
+4409574you dont need android for 2fa you can use other providers for authenticators.
+there are several different.
+most of the password locker providers also offer 2fa solutions.
+Get a Chinese cheap android phone on eBayI do not think it is worth it, my email is very secure and is required for withdrawal on exchange.
+A good email host(the best is yourself) is better I think, since android isn't very secure.I'm using keepass now, I don't think it can do that though.
+your whole list is shit.explain why you would need all the plugins.explain why you think that windows is a save system when you cant stop system updates that could wreck your install.your list is uselessly complicatedjust dont do stupid shitif you are not confident in your security dont use the same browser for important things and daily stuffif you are worried about mitm attacks check the cert of the sites you visit before taking actions.
+I believe there's a desktop version for it, but it kinda defeats it's purpose of it.
+Unless of course you run it on a different machine.
+Using windows for crypto is quite retarded.
+Multiboot is better.
+Dedicated laptop with Qubes OS with a specific VM for each wallet / node and usage is the best option.
+have you tryed to google "keepass 2fa"?
+Yes, 99% of niggerware is aimed at Windows but if you don't do retarded shit and update it regularly you're fine.I did not know that.Why don't you get a cheap phone just for the google verification?>keepassI don't trust any password manager because if you get rekt once then someone else will get access to not only one but all of your passwords.Paper and pencil works fine.
+Part on exhange with withdrawal limit and part on nano ledger.
+You guys are fucking paranoid lol.
+Ya'll got me fuckin sketched out.
+Why don't you get a cheap phone just for the google verification?because I don't trust google>I don't trust any password manager because if you get rekt once then someone else will get access to not only one but all of your passwords.oh, it would be very near impossible to bruteforce my private key and the passwords are much safer than anything you can write on a paper.
+Eeeh I could give a long explanation but basically.About plugins is easy: right now if you don't use an ad blocker you can search etherdelta and the google ads will show you a link to etherdeIta, notice etherde i ta (the L is a capslocked i).This happens with bittrex and shit like that aswel.
+Too many scam sites that pay for google ads and google doesn't care.No script?
+Because you don't want to mine crypto for whoever runs the site you're visiting I guess.Google "crypto mining piratepay".
+Also there was a news site doing the same.
+Someone else could go further on all of this but it's late and I want to sleep.
+This is why crypto will never get adopted.
+You think normies know what LINUX is ?
+or what VM or dual boot is?
+this from a IT security persons perspectiveIf you can dont use windows.if you can dont use the same browser for daily and trading/banking.
+OR try private/incognito sessions.Always use 2fa when availible.
+the more the better.
+sms 2fa is fine too and email notifications about transactions and logins.(why?
+the more steps are involved the harder a automated attack gets.
+)dont visit sketchy sites(google offers safe browsing feature in its browser where you get blocked from entering known malware sites).set your default settings to not execute javascript on sites(without asking at least)dont store wallet data on your browsing PC(use paper wallets or any other solution that is not net exposed)this is easy shit that everybody can do without a big hassle.
+if you dont thats on you but there is always the trade of convienience and security
+It's gonna get better.
+Normies can into home banking after all.
+Yea but do you know how many times normies forget/lose their PIN codes?
+I wouldnt consider myself normie and i have forgotten it several times, know of few intelligent people who forgot their codes also.Crypto?
+You forget you priv key you are gone
+It is.
+Windows 10 and even the edge browser are very good on security.
+That meme is over, brah.
+Check the new protected folders option in the security center.
+You can choose folders which then can't be modified anymore unless you make an exception.
+It's pretty interesting stuff.
+Check the new protected folders option in the security center.
+You can choose folders which then can't be modified anymore unless you make an exception.
+It's pretty interesting stuff.you could always do this with truecrypt, it doesn't make the system safe
+Dedicated laptop with Qubes OS with a specific VM for each walletCame to say this.
+Qubes OS is top tier security.A VM for wallets, a VM for each exchange maybe, a disposable VM for shitposting.One downside is it probably doesn't work with hardware wallets.
+Anybody tried?Personally I just use Linux though.
+I've been thinking of setting up a VM for web browsing
+The less extra stuff you have to download from a website the better.
+My point is that Windows is not full of holes and exploits anymore these days.
+The less extra stuff you have to download from a website the betterno, getting an open source program and being able to choose your encryption method is much safer than letting one party do everything for you that you can't even see.
+This.People often forget that ransom only affected windows 7.
+use authy.
+yeah, security by obscurity really worked well and they dont have any 0days or whatsoever :') man if you don't know what you are talking about just shutup
+what about actual hardware?
+Any good security focused arm64 based linux laptops available?
+No intel IMEfuckery?
+shit would be rad for our purposes.
+No, do not use Windows for anything touching private keys, period.
+Coinbase-type shit might be fine with 2fa, but be careful when withdrawing.Tech savvy people running Windows got hacked with 0 days for millions $ worth at Devcon3.
+Tech savvy people running Windows got hacked with 0 days for millions $ worth at Devcon3What happened?
+purism, worth it if you value your privacy in general
+iirc that still has the ME, they can just disable it for you?
+I don't trust intel fuckery.
+I don't trust any of our hardware.
+I want some glass door arm64 chip fab or something that mints silicon not subject to corp fuckery.although I know that's probably a pipe dream given the current state of the world.
+Multiple people who had Bitcoin and Ethereum wallets on their Windows laptops had them emptied.
+We didn't find any virus on their PC nor obvious security hole.
+Quick question:I gather that Windows is pretty shit, but what should I use as a dedicated computer for trading/holding my wallets?
+Is OSX any safer than Windows 10?
+I don't play video games or do much else other than browse the chan.
+Am I at risk?
+So we're assuming some kind of unknown Wifi exploit.
+Also, I'm a retarded idiot who knows nothing about GNU/Linux/etc
+as other people mentioned already: qubes OSyou may also find minimal distros have high security using SELinux kernel, or simple maintenance on alpine linux, arch, void, etc
+"We"?Also sounds like a router with a malicious dynamic dns setup.
+Can't detect anything on the computer yet the attacker has full access to everything.Using shared or public wireless on your crypto laptop = GG.
+https://www.qubes-os.org/doc/installation-guide/
+Me and some people who were affected or interested in helping.We're talking about private keys stored locally on the laptop, never sent on the internet, how would a malicious DNS get access to that ?
+(not that I don't think the attack vector was indeed a malicious router)
+Dynamic dns = remote access man.The devices belong to the attackers, they can do all they want and you won't notice anything.Try it yourself, get a cheap plink router, crate an account on dyndns or any dynamic dns provider and star copy pasting files, turning the webcam on, etc.This is how darkcomet works basically.Closing all ports except 53, 443 and 80 using the windows firewall and running dnscrypt on top of that should work.
+But if you plan to connect to public/shared wifi get a second wallet and transfer only the amount you plan to use during that period of time.
+*tplinkToo many typos it's late.
+haha sorry, been a while since ive dabbled on privacy stuff, after using linux and hardening my shit i mostly chilled out but afaik purism is the best you can get hardware wise for now.
+i didnt go as balls deep as being worried about the ME but iirc they were working on that.
+it's been 6 months though and i cba to read up on it again just to answer your question.
+for the purposes of this thread i dont think going that far is necessary since we are only focusing on the security of our shit against thieves, not alphabet niggers
+Did any of these people connect their laptops to an open wifi hotspot?
+My guess is yes.And no amount of Linux can save you from these attacks since the dyndns setup is at the router level.
+Here's an easier guide that involves much less invasive shit:Step 1: Use 2FA (I mean actual Authenticator 2FA not SMS-based)Step 2: Buy a hardware wallet for long-term storageCongratulations, there's now almost zero chance of you being hacked as long as you're not a total brainlet
+Is it safe to have cracked software on Linux?
+cracked software on linux
+Can't believe no one has mentioned this yet but you can avoid 90% of malware by just setting up a guest account with admin privileges disabled on your windows computer for your everyday 4chan /porn /other bullshit
+>Use a good password>Don't give people you password>Don't be an idiot and click a phishing link>Use 2FA if availableThat's literally all you have to do.
+install openwrt with Adblock, dnscrypt and unbound (for dnssec)>I forgot: USE BOOKMARKS.nice 1 fgt
+I don't get it.
+what software are you gonna "crack" on linux?
+matlab?
+just use foss alternatives
+matlabHow the fuck did you guess that?Yes.But I don't want to use free alternatives.It's the only cracked software I have installed and I got used to it now.Plus it has some unique features.
+How about having a Windows host and linux VM on it for crypto?
+Don't wanna deal with that multiboot bullshit
+MY QUEEN
+You think normies know what fractal reserve banking is or how it creates currency?
+Still they all walk around with home loans, credit cards and cash.

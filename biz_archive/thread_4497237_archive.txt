@@ -1,0 +1,7 @@
+Go is a statically-typed, compiled language.For a project like this, you use a language like Go.
+Go is not a meme-language, it is very powerful.
+Ruby would not be able to handle the demands ChainLink has at scale.
+Ruby was a good language to get a PoC out quickly, but that's it.
+Ruby is a duck-typed and run-time language, shouldn't be used for something like ChainLink.Rewriting shouldn't take that long.
+This.But go back to /g/Geth, which is what the chainlink node will have to bootstrap is also written in GO.
+no templatesback to /g/ with you.

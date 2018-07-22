@@ -1,0 +1,46 @@
+Guys, ETH is going PoS some time in 2018.
+For those who don't know, this will be done by means of a difficulty bomb, making mining impossible and a hard for to a PoS chain.
+What I want to know is where on earth are all these miners going to go?
+I mean they have to mine something right.
+Could it be ETC since they've disabled their difficulty bomb and will forever be PoW?Could it be like BTC and LTC.
+When BTC entered the era of ASIC, all the GPU miners started mining Scrypt coins but they have gone nowhere for the most part.AMD and nVidia both have record revenues this quarter.
+Could we expect them to engineer a bubble in a certain GPU mineable coin so they don't have to explain a fall in earning to their shareholders?Any miners out there?
+What are you going to start mining once ETH goes PoS?
+thats very interesting op thanks for posting
+PoW needs to die off and this is a good way to help that along
+AMD noobs will mine ETC.
+Nvidia masterrace will mine Zcash
+The videocards will go for 1/2 price to gaymers.
+Some will exit the market, other will mine shitcoins and trade them, smartest ones will stake their ETH stash.
+I just now am getting into mining and have ordered a couple vega 56.
+I realize I only have limited time.
+But for now XMR is what I'm mining.
+It has real potential to moon.
+But I should would like some back up options.
+Just curious, how would the DAO hack situation have been resolved without PoW.
+I mean, if it had been PoS then all stakeholders would have had the same amount of coins on the forked and non-forked chains.
+They could have staked them equally with nothing to loose and neither chain would be favoured over the other.
+It was only the fact that people had to commit to spend their real-world hashcycles on a particular chain and not the counter-chain that made it so ETH is the dominant player today.
+Guys, ETH is going PoS some time in 2018.
+>For those who don't know, this will be done by means of a difficulty bomb, making mining impossible and a hard for to a PoS chain.
+>What I want to know is where on earth are all these miners going to go?
+I mean they have to mine something right.
+Could it be ETC since they've disabled their difficulty bomb and will forever be PoW?>Could it be like BTC and LTC.
+>When BTC entered the era of ASIC, all the GPU miners started mining Scrypt coins but they have gone nowhere for the most part.>AMD and nVidia both have record revenues this quarter.
+Could we expect them to engineer a bubble in a certain GPU mineable coin so they don't have to explain a fall in earning to their shareholders?>Any miners out there?
+What are you going to start mining once ETH goes PoS?The miners will be fucked after that.
+There will be no more mining money to be made with proof of stake.
+ELLAEthereum fork that supports almost all Ethereum features, but:>no Vitalik's premine>no hardforks
+- It’s still unclear when PoS will actually go live, and it might really work out after all- There’s a number of ETH forks that might stay PoW: ETC, UBQ- There’s plenty of big GPU PoW networks left, most notably the privacy coins
+I've been trickling my built mining rigs into the market at about 80-90% of purchase price for the last few months.
+I'm currently mining ETC mostly, anyway, because the DAG file with ETH kills the hash rate already.
+Other ETHASH notable mentions are EXP and UBQ ... so I would expect to see a few things happen:1) Miners sell hardware2) Miners switch coins on the same algo3) Miners move to Equihash, Cryptonight, and other algos with out optimal hardware because they already incurred the sunk cost
+xmr
+44321954432407I'm getting a strong consensus about Monero.
+I believe the transition to ETH PoS will be very contentious and people always seem to take refuge in xmr.
+Just look at it's price last weekend.
+Yeah, if there's a safe bet, it's XMR.
+ETC
+bump
+bump
+ETC?Zcash?Metaverse?

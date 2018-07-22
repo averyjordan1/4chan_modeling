@@ -1,0 +1,34 @@
+Can someone smart explain how bitcoin cash will cause btc death spiral?
+What are the optimal conditions for it to happen?
+Asking for a friend of a cousin
+btc flip to bch =death
+BTC difficulty adjusts every 2016 blocks and the rumor is that the miners mine BTC now to rach next difficulty adjustments and then switch to BCH so there will be no miners and next difficulty will not happen = spiral death.BCH difficulty adjusts every 10 min :)You have 7.6 days... You've been warned...
+It won't.
+It's shit tier FUD.
+Deluded, holy shit.
+Sper short compfy explanation.
+Miners mine coins, the more miners mine, the higher the difficulty to mine becomes, otherwise too many coins would get into cuirculation too fast.
+BTC adjusts its difficulty every 2016 Blocks, or approx.
+2 weeks.
+BCH adjusts its algo every block, taking the mining average of the last 144 blocks into account.
+You need to mine blocks to get transactions done on the network.Optimal conditions: BTC sudddenly spikes in value (lets say over 8000 or whatever), many miners will start mining BTC to get those sweeeet gainz.
+in about 7 days, the difficullty adjusts and because EVERYONE was mining BTC because its value shot up so hard, the difficulty gets SUPER hard.
+THEN suddenly "out of the blue ;)) kek" BCH spikes to lets say 1500 usd.
+because teh difficullty algorithm of bch is SUPER low compared top btc (everyone was minng btc remember) miners switch to BCH.
+Now BTC is stuck with a LOT of transactions which are very hard to mine but without miners.
+Transactions can not be processed anymore and the whole chain slowly "freezes" to death buy just getting 200k + unconfirmed transactions.
+Im a bit high but this is basically how it works.
+But difficulty will go down...
+Not if BTC "randomly" has a bullrun ;)
+But if bch ends up with all the miners, difficulty will rise quickly...And then it becomrs unprofitable...It has more chances with the old algorithm than with the new one
+That's not how it works.
+Btc has very slow blocks for a while.
+So it will adjust down.
+The bcash flipping missed it's window It's not going to happen because simple physicsThere are two things, one is rare and expensive, one is cheap and plentifulExplain how the cheap and plentiful replaces the rare and expensive.Bcash had one shot, that was the fork when they (briefly) had the same distribution.Rapidly though they were exchanged for btc.
+Supply of bcash Rose exponentially.The echo pump was just that, a pump.Bcash isn't getting any more instant distribution...
+Meaning it had to fight for alt market share with everything else.
+It had one shot.
+It's over.
+Miners have nothing to do without it and were never decisive.Bcash distribution has dwindled.
+Btc has become rarer and more valuable.
+That's all there is really.

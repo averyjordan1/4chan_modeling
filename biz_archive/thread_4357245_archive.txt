@@ -1,0 +1,6 @@
+How would trying to mine every second block on bch network with massive pool affect?
+Makes mining bch chain alot less profitable?>Mine bch for 1block >difficulty rises>Leave for btc/switch off for next block>Less hashing power more difficulty=longer block>Block found difficulty drops>Join back in for next block>Difficulty rises...>Also dump all bch you manage to getThat would be a good attack wich could be done with less than 51% but not as effectiveIs that a bch vulnerability?
+it's an average, so no, not at all
+But it would annoy other miners and affect their profitability?
+I think i meant it would make it less profitable for legit miners.
+Thus being an attack, with 30% of hash power(0,3 exahashes at bch atm) ypu could make 30% damage when not mining and leeching 30% profits when mining>Long blocks =less block rewards>Short blocks with probability of reward leeching to dumping 3rd party =less block rewards for legit miners

@@ -1,0 +1,5 @@
+Seeing that ETH is a rather reliable coin with fast transaction times, I was thinking about writing a simple arbitage bot which would allow for turning BTC into ETH on one exchange and then selling ETH for BTC on another exchange, with profit.
+From the data I've collected it it would work very well, even despite the withdrawal fees.Is anyone doing something similar?
+What are your experiences?
+DELET
+Silence, you'll give away the racket.

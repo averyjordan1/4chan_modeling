@@ -1,0 +1,18 @@
+Doing to Monero (or any other promising, new, digital gold) what they did to bitcoin?
+I am about to pull the trigger and make my stack all monero and eth but I need this questioned answered.
+Is there any technological feature of Monero that protects it from chink miner fuckery (I know eth has some, wondering about Monero)?
+Thanks.
+nope, all will suffer from fork attacks when they're big enough.
+its part of the growth.
+andreas antonopolis talks about this in his speeches
+Chink miner fuckery exists because Bitcoin has ASICs (application specified integrated circuits).
+The ASIC manufactuerer is Bitmain, located in China, which also has a mining pool.
+They also release the newest models for themselves and delay public release for months for their own competitive edge in bitcoin mining.Monero probably doesn't have enough attention to create specialized mining hardware for.
+The same goes for other altcoins.
+However unless said altcoin is ASIC resistant, a similar amount of attention is going to direct incentives to create ASICs.
+2016>P&D shitcoins like MiloCoin, TrumpCoin, etc>early 2017>ICO shitcoins listed under another shitcoin (ETH)>late 2017>endless BTC forks with "replay protection" to pump up free coinsSame story, new faces.
+asic resistant, gpu based mining
+4317664Just as I thought.
+After this fuckery, proof of stake tech research in crypto should go through the roof.
+It seems that even though monero and "asic resistant" POW coins are suceptible to this form of "attack".
+So although I have always considered proof of stake a bad meme, it will probably take off in 2018

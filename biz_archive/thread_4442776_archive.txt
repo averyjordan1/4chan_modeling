@@ -1,0 +1,10 @@
+Is there any light/web ethereum wallet?
+Turns out I don't have enough space on hard drive to store blockchain
+ark
+Electrum.
+isn't that only for bitcoins?
+The ethereum wallet has a beta light wallet mode, don't know if it still makes you download the blockchain
+Exodus, no doubt
+or myetherwallet.
+kind of complicated but just keep trying it out til you get it.
+It makes you download blockchain at the beginning of installation, so it won't workThanks lad, myetherwallet looks pretty good

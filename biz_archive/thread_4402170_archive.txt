@@ -1,0 +1,8 @@
+Has anyone used this Paid Indicator on TradingView?
+mine is better
+Nice.
+what's it called?
+i wrote it today, i'm still tweaking it.basically it just wait for td-sequential setup and until it's oversold/bought on both stochastics and rsi.work pretty good desu, but i'll tweak it more tomorrow
+nice one, do you plan on sharing it?
+once it's finished yes, i'll make it public on trading view and i'll shill it on /biz/
+anon, I like you.good luck with the development

@@ -1,0 +1,14 @@
+What's the best method for finding coins that are overbought / oversold based on RSI levels?
+Using a daily or 4 hr chart will give you the best overbought/oversold levels.
+Use with stochastics crossover to confirm a shift in trend.
+30-60 for bear periods 40-80 for bullruns.
+I understand that, but is there a fast method of finding coins that have these levels?
+Or do I have to manually search each coin on tradingview.
+That was my question
+ask your rabbi.
+rsihunter dot com
+by joining this pump & dump group https://discord.gg/NKhHtfU
+Nice!
+thanks this is perfect
+never seen that site before, thanks alot!
+look at btc RSI levels, never touch RSI again

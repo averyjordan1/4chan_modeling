@@ -1,0 +1,6 @@
+https://blockchain.info/unconfirmed-transactionstx backlog went from 170k 2days ago to 110k but is now growing again...
+so the miners are still fucking around with bch then?
+Considering it was 130k when I looked an hour ago I’m gonna have to call bullshit on this.It’s slowly working through the backlog, bare in mind over half of these transactions are spamOf 0.20 cent transactions with 7 dollar fee that were a direct attack on bitcoin during the takeover attempt last night
+i think it's still the cumulative backlog, which occured since in the past days lots of blocks have been delayed
+true, lots of small tx
+Brainlet here.Why were there so many worthless btc tx made back in August and again in November.Are the two incidences linked somewhow?

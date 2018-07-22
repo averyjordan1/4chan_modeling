@@ -1,0 +1,19 @@
+If I use a offline wallet to store my crypto bags what happens if my hard drive crashes?
+Would my coins be lost to the void?
+Is there a way to back up crypto to a flash drive or something?
+If your hard drive dies in such a way that you can't retrieve anything from it then your coins are lost forever.
+Wallets can be easily backed up, just transfer the wallet file to a flash drive, or CD (the exact files are different for each wallet.
+If you have an electrum wallet, all you really need to save is your 12 word seed)
+Your coins are actually out there on the block chain, not on your computer.
+What you are essentially storing is your "private key".
+Your private key is what lets you access the block chain and say "yes, these coins are mine and I can do what I want with them.
+"If you set up your wallet with a 12 word seed, make sure you have that written down somewhere that is NOT on the computer (write it on a piece of paper and keep it somewhere very safe)Also if you know your private key, you can write that down too.
+That easy?
+Just copy and paste the files over to a flash drive and it's safe n sound (provided no one steals your flash drive)
+Yes.
+Like I said, google exactly which files you need to transfer for your wallet.However, a better option is to write down your 12 word seed or your private keys.
+There are numerous ways to ensure your wallet is safely backed up.
+For example, you could print out your public and private keys on a piece of paper and safe that somewhere.
+Or take a picture of your public and private key QR codes and print that out.
+You could also practice on an empty wallet of some shitcoin you have 0 of, if you're worried you might fuck it up.
+exchange alpha represent

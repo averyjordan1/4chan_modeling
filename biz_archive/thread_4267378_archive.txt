@@ -1,0 +1,10 @@
+I will quietly leave this here, while linkies and all you null marines look past this and I accumulate to run muh nodes.Crown has released Systemnodes.
+In this release, Systemnodes act as incentivized full-nodes much like traditional Masternodes.
+These nodes require only 500 CRW as opposed to Masternodes’ 10,000 CRW collateral.
+Systemnodes will receive 10% of the block reward which is a proportionately higher payout percentage than Masternodes.
+This has been put in place to incentivize the creation of as many Systemnodes as possible.
+The goal of the Crown project is to provide a decentralized platform that enables individuals to build a future as they envision it by making use our platform to build cloud business applications.Systemnodes provide a way for smaller holders to get involved by providing network infrastructure and the resources for a future layer of utility services for the network, beginning with time keeping servers but is expandable from there.
+Systemnodes are the first piece in a series of updates that will allow this vision to become a reality.
+Systemnodes are a key element in the network features that will drive Crown Atomic (read more: https://crown.tech/atomic).
+shit coin
+scam coinscam nodesscam

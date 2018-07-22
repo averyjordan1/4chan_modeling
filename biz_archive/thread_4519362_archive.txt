@@ -1,0 +1,78 @@
+If I lose coins due to a flaw in EtherDelta's code, can I claim my coins back from ED?
+You're not gonna lose coins due to a flaw in Etherdelta's code.
+t. Etherdelta
+People have lost coins due to a flaw in Etherdelta's code
+How did people lose coins due to a flaw in Etherdelta's code?
+iirc in late September people lost their ED coins because they clicked a simple URL.That URL simply obtained the private key for the ED wallet from the cache or something to that effect.I think ED patched it a few hours later.
+Which is sort of an admission of guilt/negligence on their part.
+Ah yeah, the source of the ol' "AAAAAAAAAAAAA WHERE DID MY LINKIES GOOOO AAAAAAAAAAAAA".
+I remember now.
+Yup.Seems like an extremely blatant exploit that ED should take responsibility for.Or aren't I not unmistaken?
+Um or people could just not click untrustworthy links
+The links looked perfectly trustworthy anon.
+ED fixed that vulnerability.
+Yeah you can ask for a block chain rollback.
+Vitalik rolls eth back to hide his dark web cp purchases all the time
+Yea it was a link to a tumbr blog page that automatically redirected to an etherdelta link
+Did it actually pull the private key from the browser's cache?Or are you not familiar with the details?
+I can't remember the specifics of the exploit off hand but I did analyse the code from the exploit.
+The link was to a tumblr blog the attacker obviously created which redirected the user to Etherdelta with a bunch of code appended to the URL.
+If the user was logged into Etherdelta it took their privatekey and sent it to a postbin that the attacker could access and then steal all the users information.
+Classic CSRF.
+steal all the users coins*not information
+So clearly a flaw on ED's part, right?
+nobody cares either way
+Etherdelta pls.
+you deserved to lose them if you used etherdelta
+It was the only exchange at the time.
+Hard to say on that one, perhaps they didn't pen test their website effectively could be an argument, maybe 2 factor authentication should have been enabled... Would Etherdelta be legally responsible for a loss of money on an exploit on their site?
+Not if they've made considerable investments in the security of their website.
+Also this was a CSRF attack and through external means too so I think the problem is on your end if anything.
+Yea the private key was stored in clear in the browser's cache if I recall well, it just took a few lines of javascript embedded in the URL to pull the key and send it to an email, Etherdelta should have protected itself against that kind of attack like any website manipulating sensitive information should
+I think the problem is on your end if anythingHow?
+It's not, Etherdelta should have disabled execution of javascripts from the URL and shouldn't have stored private keys in clear
+Did the guy get refunded by etherdelta?
+You clicked the link that enabled the attack in the first place, this is textbook social engineering.
+It's not like this attacker got your private key by hacking through Etherdelta servers through some exploit, they used your session against you.
+It would be like losing all your coin due to having a virus on your computer.
+It's impossible to prevent exploits that are unknown, however if Etherdelta spent the time and money to get professionals to ensure their site is secure then on the legal side of things they're in the clear.
+You clicked the link that enabled the attack in the first placeBut isn't "browsing" all about clicking links?Sounds to me like I was simply engaging in normal internet behavior.
+It's impossible to prevent exploits that are unknownBut wasn't this a very basic exploit?
+That's the risk of using the internet, you shouldn't click every hyperlink that shows up in your browser.
+It won't be long before you're got some tasty malware on your computer.There was encoding in the exploit if I recall, perhaps javascript was disabled however was simply bypassed by using encoding.
+The guy had no way of knowing exactly how secure his private key was when he was logged in to etherdelta im pretty sure even reading the internal security data of etherdelta is considered hacking in court and you're basicly saying a company isn't ever at fault for losing your money as long as their website wasn't directly hacked.
+Clicking a hyperlink should not crack a wallet of which only I was supposed to hold the private key.
+You clicked the linkBy this logic "you turned on your computer" places all liability ever on the user, and no internet-based company has any responsibility towards security whatsoever anymore.This was a door left wide open by ED, stop twisting this around.
+As I said in other replies, Etherdelta would easily not be liable if they invested in proper penetration testing of their systems and made use of exploits brought forward to them.
+Etherdeltas setup for storing wallet data is disgusting and shouldn't be used in the first place, I wouldn't touch Etherdelta with a 10 foot pole.
+You as a consumer should do research on the exchanges you want to use and plan accordingly.
+My understanding is that this isn't the first exploit on Etherdelta and likely won't be the last.
+Liability extends to a company only so far, it's their responsibility to ensure their website is secure for their customers which entails paying for penetration testing.
+If Etherdelta has invested that money (Which personally I don't because of another instance with a bug bounty that never got fulfilled) and they've made changes based off that information then how can they be fully liable.
+Etherdelta returned 98 ETH I LOST THIS WAY.
+THOSE GUYS ARE A CLASS ACT.
+So if I use scriptsafe should this protect me from a good percentage of exploits?
+Etherdeltas setup for storing wallet data is disgusting and shouldn't be used in the first place, I wouldn't touch Etherdelta with a 10 foot pole.So you agree they're liable then.
+Pls explain how you did it, whom you contacted, etc.Also, big if true.
+Their implementation of wallet data doesn't make them liable, MyEtherWallet runs off a similar system but isn't stored in the browser long term or between sessions.
+They just made the decision to store them in the browser while that being less secure in it's own way.
+They just made the decision to store them in the browser while that being less secure in it's own way.
+"Less secure" as in "don't click on any links ever".
+This is exactly the reason you use NoScript and whitelist the JS you trust.l2internet
+That's not how ED says you should use their website though.
+How much did you lose, anon ?
+I don't see how Whitelisting ED can have any impact on the usage of the platform.Where exactly do they state you can't/shouldn't use NoScript?Whitelisting ED would've kept you safe simply because the JS is appended to the ED URL, as it's not hosted on the ED server it wouldn't get whitelisted thus not executed.
+I don't see how Whitelisting ED can have any impact on the usage of the platform.No, I mean ED claims their shit is safe to use without it.They don't say anywhere "you need to run noscript etc.
+before you can safely use ED".
+They shouldnt have to eiher, you should know.
+The point is if they claim their shit is safe, while clicking a tumblr link completely annihilates their """security""", they should be liable for that.
+Etherdelta can't protect you from every danger on the internet that goes to their site.
+Of course not.
+This was a very basic attack though.
+Do you click on emails sent to you by the IRS claiming they have extra money for you click this link?
+Wait..
+I also have on my Wallet keystore file backup and ecryption, before you can gain access on MEW..
+They can't magically get through that right, even if they have private key..?
+social engineeringSocial engineering is when someone gets tricked into handing over information like passwords or private keys.
+This doesn't really apply here.At the most it applies to ED, they're the ones who got tricked into handing over the private key.Not the same situation.
+Rest assure anon if you do Etherdelta will pay you back as they are FDIC insured.

@@ -1,0 +1,14 @@
+Before you adopt such an insulting and disrespectful tone it would be prudent to be awfully sure that you haven't been bamboozled by rbtc's reality rewriting-- keeping in mind that the polar opposite of a distortion is also usually a distortion.
+You appear to be confused here, pretty badly, and it does you no service.
+In my opinion you should be embarrassed and ashamed for insulting all the developers who have worked so hard to maintain Bitcoin all these years.
+At no point has any softfork EVER been up for miners to decide.
+Any claim otherwise is just an rbtc reality rewrite.
+The activation for softforks works like it does because a supermajority hashpower is a necessary and sufficient criteria for activation to be maximally disruptionless.
+It will continue to work like it always has for future softforks as well.
+Only a criminally negligent party would subject Bitcoin's users to a guaranteed disruptive network split when a disruptionless deployment is possible.
+No one should have the right to put the funds of uninvolved parties at an unnecessary risk.
+The only developers who would go along with that are the kind of maniacs that run recklessly operated centralized altcoins-- not the sort of people you want working on Bitcoin without adult supervision.
+What you are missing is that if a feature is very widely supported by users but a totally disruptionless activiation isn't possible then there are subsequent steps to take to activate in any case, at all times keeping the disruption to the minimum necessary.
+This was always the case and the plan as stated in public 1001 times...
+It is not possible to know if a feature is widely support until after it has already been deployed, which mandates a two phase deployment.
+Rbtc wanted people to believe that segwit wouldn't activate unless miners approved it, and you've fallen for it.

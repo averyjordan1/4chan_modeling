@@ -1,0 +1,6 @@
+Can someone explain how the price of a coin is set?
+l guess it's only determined by amountOfPeopleWhoBoughtThatCoin - amountOfPeopleWhoSoldThatCoin?
+Not really, it's what people are willing to sell it for and buy it for and where that meets.
+look up spread on investorpedia
+Person a: i want to buy digital token for 1$Person b: i have one digital token but I'll only sell it for 5$Person c: i have a digital token and I'll sell it for 3$Person d: I'll buy it for 2.50$ Person a: I'll pay 2.75$Person b: okay I'll sell it for 2.90$Person d: I'll take it for 2.90$Current price 2.90$
+When you take out orders on the order book, the last price will change, and those orders won't exist anymore forcing people to either buy the next market order or to set their own limit order

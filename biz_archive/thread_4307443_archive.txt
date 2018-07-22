@@ -1,0 +1,10 @@
+What is the quickest way to access my bitcoin wallet from years ago with just the 34 letter key?
+I have no clients or backup files left
+convert your private key into a hash and search directory.io for your wallet address.
+You can search by private key, but not address.
+electrum.orgyou can import a private key with it im pretty sure
+Look up bitcoin wallet, type in your private key.
+Done .
+4307482So if I only have my address, is not not possible to access the coins?
+I don't remember how this worked.
+I used to have multibit but it's no longer supported.

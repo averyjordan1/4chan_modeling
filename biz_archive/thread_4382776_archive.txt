@@ -1,0 +1,6 @@
+what does this mean?
+I've seen the same happen on Verge.
+I think it could be an API issue where the order book comes out of sync when data is passed to your web browser or client via an open socket.Tldr: your client probably drops data packets during execution and is probably to blame
+the graph is updatingthat's all
+jack shit
+uhhhhh

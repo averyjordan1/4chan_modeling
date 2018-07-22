@@ -1,0 +1,11 @@
+How are these private transactions?
+You can see everything lol.
+https://explorer.testnet.z.cash/address/tmYzKR7hevDzvcBEJBdeKhoHoTqoFBHgm4i
+what's the first letter of that address and what does it mean?
+okay, another explorer, no testnet, same result:https://explorer.zcha.in/accounts/t1gWQ1ChX1KPkpcLwD7H5VfYP8PwmC1j6Rfwhat is this bullshit?
+also, no community.
+That will be the next confido
+Why are you people so fucking stupid?
+It's never enough to give you a subtle fucking hint that you're making a clown of yourself, you always have to make me rub your fucking noses in it.https:// z.cash/support/zig.htmlADDRESS TYPESZcash transparent addresses, aka T-addrs, are very similar to Bitcoin addresses.
+Zcash also provides Z-addrs which are used for sending and receiving private funds, with transactions cryptographically protected with Zero-Knowledge proofs.
+T-addrs all begin with a t… prefix whereas Z-addrs always begin with a z… prefix.

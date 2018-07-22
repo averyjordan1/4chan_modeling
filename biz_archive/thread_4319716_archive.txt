@@ -1,0 +1,4 @@
+How long does it take to make a transaction of BTC between Coinbase and Kraken?
+Been waiting for three hours...
+A very long time, there is something like 160k transactions that aren't being filled yet.
+You could be waiting days.

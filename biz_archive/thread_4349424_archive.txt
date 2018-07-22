@@ -1,0 +1,10 @@
+Hey all, I've completed my masters in asset management, and wanted to jump into algo trading.
+I did minor in Artificial intelligence (Python and C++), and want to go further, but not sure where to start.
+any tips?
+constantly scan biz for name dropping of coinsif one is mentioned alongside other specific keywords it weights it more positively or negativelybuy and sell target 1%repeat forever
+Technical analysis.But to be honest just learn about Ichimoku Cloud and write a bot around it.About a month ago it was revealed by accident that the most profitable MQL bot was literally just acting on Ichimoku strong signals.
+I'm probably the guy you should talk toDiscord - jonathanflower#5056
+4349497I've been wondering how to apply this math to bots
+any links about that?
+I started halfway writing an ichimoku bot (I'd tried oscillators and parabolic indicators and they hadn't given me results yet) but I slacked off and never finished.
+build an algo that buys/sells based on how pink the average of the catalog is

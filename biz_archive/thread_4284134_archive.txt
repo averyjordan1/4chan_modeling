@@ -1,0 +1,29 @@
+I'm building a website.
+i want to add a bitcoin marketplace.How do i go about creating user wallets, verifying payments, transferring ownership/ permissions of virtual items?i can't really find what im looking for with google.i need examples of code to learn from.
+Obviously i don't expect to find any shortcuts, but if anyone here has experience please point me in the right direction.
+Do you have any programming experience to begin with?
+fuck no.
+I built a basic page.
+im learning.
+I'm working on accepting Ethereum payments on my webshop as well.
+So I'm also kind of curious.
+Might be a good idea to learn some programming.
+Javascript, PHP, etc.
+Maybe start by learning some code instead of thinking about money and trying to implement a payment system before having a decent page to begin with.
+First learn to build full stack applications.
+Try to create a general marketplace where people can trade fake items with imaginary money.I recommend Javascript using React and Redux for front end, Express for server-side route/API management.
+I use PostGres for my database but I am open to the idea of there being better alternatives, considering Firebase atm.
+especially php
+are you fucking joking or what?if it was about money i'd pay someone to do it for me.I am creating a free marketplace with 0 fees.Users need to be able to trade freely between each other.
+i'd pay someone to do it for me.That is what you're going to have to do unless you learn how to do some programming m8
+You will pay $20k+ yearly to host the whole infrastructure without asking for any trade fees?
+why would i need to pay 20k to host it?im not creating an exchange or an ebay type site.It will have only a few pages.
+i expect no more than a couple of hundred users, that may grow into a couple of thousand.I wouldn't expect more than a couple of trades a day.
+Do you know anything about data or bandwith etc.1000 trades/day is going to need some bandwith.
+You are going to lose some money without asking fees.
+react/redux seems to be the go.
+Thanks
+There wont be 1000 trades a day..maybe at the most, i could see 20?definitely not 1000 as there is limited marketable items.surely it can't use that much bandwidth?
+yeah it won't be that big for a long time.
+You'll probably do fine with free hosting from heroku or firebase
+cuck

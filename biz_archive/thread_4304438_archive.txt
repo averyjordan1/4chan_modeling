@@ -1,0 +1,84 @@
+I posted this in another thread but figured I would make a new one so that people stop asking this question.As far as why the LINK token would increase in value1.
+Companies pay nodes in LINK for data.
+This can be a set amount of money In fiat so the fluctuation may not matter to the companies getting the data, but it's simple supply and demand.
+More companies use nodes which they pay in LINK = more demand = higher price.2.
+Amount of LINK held by node operators signifies higher trust rating and will therefore have more companies using their node.
+It would be beneficial for node operators to hoard LINK therefore decreasing supply = increasing price3.
+Traders speculating on the coin, just like with any other cryptocurrency will drive the price up as well.
+Confido says they will likely use their own node for their three multi-carrier APIs.
+Does that mean Confido has no reason to buy any LINK?
+As far as I know, REQ will be using chainlink.
+This a post from the REQ team a few days ago.
+Sorry.
+You said confido.
+I was thinking REQ hah.
+I think they are using chainlink as well unless things have recently changed.
+4304556I also forgot to mention that Confido will use Chainlink but they still said they might start with their own node.
+There might not be a real answer as to what the oracle network will look like initially, but it seems like companies like Request and Confido will have to use their own nodes until more node operators start supplying similar data.
+If they are using their own nodes then it doesn't make any sense for a company to pay itself in LINK.
+Your first point is correct in the case of a fully implemented network with many oracles but I think there's enough ambiguity regarding what it will look like initially and how it will grow to foster a lot of FUD biz has been seeing.
+For example how the fuck would someone become a node operator that can compete with Confido's that are pulling from the multi-carrier APIs?
+Also I have another question.
+Is there going to be a mechanism to prevent or deter API companies from setting up tons of nodes that supply the exact same data and collecting LINK for it?
+anyone have any thoughts?
+Supply and demand plus Link staking.
+If they want to make 20 nodes which supply the same data they will want to stake Link so they get priority.
+So it's at least 10K Link * 20 staked.
+But if there are other people that aren't staking with dozens of nodes and instead they have 20 competitors which offer the same information and their nodes have 200K Link plus then it's a pointless effort as they will get priority over their nodes.
+This is the kind of game theory shit that will cause Links price to explode if it gets adopted.
+I don't think it will though but I suspect we can hit a 1.5B Market cap.
+Sorry I read that and it might sound retarded.It's basically 20 Low Link nodes from one company versus 20 High Link nodes from a bunch of different companies.
+Competition would require they consolidate or spend more money on Link.
+Confido can use their own nodes, but as they state in the picture I posted, centralized nodes (which is what theirs would be) wouldn't provide the security they need.
+They need to be decentralized.
+Yes it would be an issue of supply and demand.
+I believe there would be cases in which multiple nodes providing the same data might be necessary for information that needs to be "fact checked," but then again, in the the Intel sgx/town crier presentation given at Devcon Sergey states that node operators supplying private data (from banks for example) will not be able to "see" the data they are providing.
+My understanding of chainlink is basic at best, but compared to the rest of biztards it appears to be better than most.
+4304873thanks for your responses anons.
+So what if a big company like Google decides to buy all the LINK currently in circulation and/or convinces the current token holders to sell at a premium?
+At that point many of us would be rich but the network would be far from decentralized.
+Is there anything preventing that kind of a corporate takeover, or a protocol that Sergey would follow to fix it?
+It wouldn't make sense for Google to buy every LINK token (they can't anyways) because if they own them all and never use the tokens for any data then their LINK would be worthless to them.
+It would be a huge waste of time and money for them for nothing in return.
+This thread answered so many of my concerns, please keep discussing.
+Thanks everyone!
+You can't buy all of the anything in circulation because someone won't sell.
+Only 2% of the Link is circulation is being traded.
+If they bought every single bit of Link being sold right now they still wouldn't get mine.
+Also it defeats the entire purpose of the network if only one group has it.
+The network wouldn't exist because it only functions if many groups have it and are providing data to the network through their nodes.
+If they bought all of it out then they would kill the network and make the act pointless.
+Also if someone tries to buy ALL TOKENS then the price would just exponentially increase due to low supply
+Correct.
+If a company such as SWIFT were to somehow "buy of the LINK tokens" (They cant) for the purpose of paying their own in-house nodes for their own data, the network would become co completely useless.
+The more node operators providing different types of data is beneficial for everyone, including SWIFT.
+They can pull different data streams from multiple sources (example being market data/interest rates) and use the data to plug into a specific transaction that would then be executed on a blockchain of their choosing.
+Ok so I rewatched a portion of the Devcon presentation and yes, the node operators providing private data will not be able to "see" or "manipulate" the data and the only thing they would be able to do is turn it off.
+I suppose multiple nodes providing the same data would be insurance in the event of a power outage in any given area or an operator turning off their node for any other reason.
+Does this apply for all nodes?
+Or only the Intel SGX nodes?
+I believe this applies only to the Intel SGX nodes.
+The companies using the data can require certain providers to be running Intel SGX for whichever sort of data they see fit.
+I'm not sure if any nodes would benefit by NOT using it though.
+Maybe it is possible that there are cases in which a node operator will need to manually input or manipulate certain data but nothing that I can think of off the top of my head.
+so as you can see, moon it will be.
+and until then, inevitably, we shall live>rent free
+43052464305105I see.
+So it's cost-prohibitive to attempt to take over/destroy the Chainlink network.Yeah, I'm wondering if people are considering setting up nodes to query from the same multi-carrier APIs that Confido plans to use, although it seems like it would cost more than it would bring in.
+FFS, just accumulate this shit with all you can.
+It is almost at its post-ICO ED stage price — dirt cheap.You've seen how high it can shoot during SIBOSSure, you can flip coins as much as you like and sometimes even make profits, but if you wanna be sure bout making it — LINK is a nobrainer.
+You buy it — you wait — you collect your gains once it goes x10-x100 and than carry on with your life.
+Just make sure you don't waste your money on lambos and bimbos.
+Make it solid.
+Buy a flat is you don't have one, rent it out if you do, open a store, educate yourself, find a better job.
+Whatever floats your boat.BTW, CFD is overpriced rn, wait until it dips when ppl realise UPS n DHL are not real partners and the firm is not making any profits in a couple of years.
+REQ sound solid.
+No idea why it is this cheap now.
+Buying it now is almost as good as buyin CL
+REQ and CL are the only coins atm that actually have WP that look good.
+Ikr?Havent seen any coming ICOs this relevant.
+And if they are relevant, they are so overpriced, they are sure to tank hard post-ico even if you consider presales with 5-10% bonusesBTC delirium and forks make me wanna cry.
+They just pull attention and funds to them for no particular reason.
+Makes sense why a company would want to select what nodes they can transfer.
+I might be wrong, but it sounds like companies that want to send secure sensitive data would use SGX nodes, while other companies would use regular nodes.
+So the payment in LINK would differ depending on the use case

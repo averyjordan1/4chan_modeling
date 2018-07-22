@@ -1,0 +1,4 @@
+I want to write an AutoHotKey script that will auto fill my limit order on GDAX.
+I like to scalp volatility and I want a faster way to get the orders in and entered than I can under pressure with a keyboard.
+Cool.
+Thanks for sharing.

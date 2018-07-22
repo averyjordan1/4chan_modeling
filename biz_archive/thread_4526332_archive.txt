@@ -1,0 +1,114 @@
+hello how do i get started with cryptocurrencies i want to begom rich like you anons
+1.
+Go to the website coss.io.
+Set up verification info.
+buy Ethereum with money.
+buy COSS coin with Ethereum.
+???.
+profit (massively)
+i mean in general pls do not shill your coin
+u need money to make money otherwise invest 1 year ago
+time travel back to early 2010s>buy lots of BTC
+It's too late.We've moved on to trading Bitcoin futures.
+.
+: Crypto 101 :.)
+Lurk moreSearch for what you are about to do, why you shouldn't do this and find a reason to do it anyway.)
+Register walletsPick up some wallets for some coins you wish to keep.Those will be your buffer between trading and "real" money.It doubles as a storage for long term investment.Usually, a single bitcoin wallet is enough, some tho will prefer to have multiple wallets.)
+Fill those walletsConvert some of your "real" money into crypto.Usually it means buying bitcoin on coinbase.)
+Set up for tradeRegister to some trading place and convince yourself of the amount you wish to lose on trading.Usually it means register to bittrex and transfer form wallet to exchange.)
+??
+?Daily lurk on /biz and edge trading skills lead you to make profit.Usually it means shitting on itself whenever bitcoin hiccups and posting "This coin is going to moon, all aboard!".)
+ProfitCongrats, you made profit.Change back your exchange bitcoin to "real" money.Usually it means bittrex to coinbase to your account.And, very important step, buy a Lambo.https://www.tacot.com/listings/lamborghini-centenario-lp-770-4-2016-dark-grey-maisto-85557-0>-1) As a side note- Always luck more- Understand what you are doing- Stop asking for spoonfeed and search by yourself- Only gamble what you are willing to lose- Very few can make a living out of this crypto trading thing, don't expect a lot- Always lurk more- Mining is not profitable on current "big" crypto like Bitcoin or Ether except if doing it with a special desiged rig- stay norm big fella- Buy low sell high- Keep like 60% - 80% in "trusted" coins (BTC, ETH, etc.
+Those will change over time) play with the rest- Lurk more, I told ya.
+thank you anon i was hoping someone would post something like this
+We only trade crypto derivatives anon
+How to enter the market with $0 capital but free time and electricity:https://pastebin.com/4z2kXv9cSimilar to  's guide but more geared towards poorfags or people who feel like this market is too risky to throw their hard earned money into, plus a few ref links because I'm also a poorfag.
+Affiliate marketing is a good strategy too if you can grind out that SEO but it's kind of a scummy shitjob from the outsiders perspective.Good luck, folks.
+I believe in some of you.
+I'll try to figure this shit out, i didnt realize i could enter the market by mining (or getting free shitcoins?)
+- i assume i just trade my way up right?
+That's basically the jist of it.
+You try to mine with a longer term view of the market than typical day traders.
+Monero will be worth a good amount in a year or two, that's an example that everyone could see coming easily from $25.
+I just wish I got in before the god damn Koreans sent it to space.
+Look at how mining economics and the game theory behind it work out in the various coins over the months/years.
+Some use novel schemes that may look like anomalies at first but provide much more pronounced impacts on the supply than proof of work block halving could.
+Run away from here as fast you can.
+This run before its too late
+and this guy makes a great point.
+This board is built around people who will give you bad information to profit off of it.
+When people start threads for obscure shitcoins with no value proposition, it's because they want you to buy their orders so they can finally be free of their bags.
+My incentive for giving you good information is that I have referral links and I am a firm believer in getting more flies with honey than with vinegar.
+Don't buy things if they don't have a concrete reason that people will buy them down the road where the supply where be restricted.
+If you're just here to gamble and speculate, you're just as well off at the horse track.
+It can feel like it's no-risk playing with house money, but when you realize you could have just put it on solid bets instead of moonshots, you feel like a real jackass.
+Not true.
+If you entered a week ago you would have already massive gains (if you would have gone all in ETH or BCH).
+A fucking week.
+God knows what comes after.
+don't spend too much time on biz OP.Find a good, relatively small discord group and pay attention.
+4527537THANK YOU ANON, i'm just here for the memes desu, i follow other people for crypto advice, its just that im just getting started
+mfw entered 2 weeks ago and all my investments are making bankbought bitcoin for 6k during the dip, eth, monero, stratis before they all started mooning and powr before biz was even talking about it @30 centsliterally how is it even possible to lose money on this bull market?
+Glad you found the information helpful, Opie.
+I genuinely want to promote a more healthy market with more transparency & less cons.
+Hopefully I can be an agent in bringing the average level of fundamental knowledge about crypto up, since I believe that is the kind of rising tide that truly lifts all boats.
+If you have any more questions shoot, but I'm not here to give specific trading advice which is what most of the time I end up getting asked.
+so ive signed up for gdax, coinbase, and gemini.
+anything else i should get so i can start trading?
+ive heard bittrex being thrown aroundlets say i get one of those cloud servers for mining.
+would it be as simple as installing mining software remotely?
+could you point me to any mining guides?
+i couldnt figure it out back when the bitcoin hype started on 4chan back in like 2010/2011 and i sorely regret it.how often should i be checking up on my assets and coins?
+i plan on working an ez student job at my uni in winter break and im gonna have a lot of free time
+Binance
+Better than bittrex?
+)
+make a ubuntu server2) set it up, should be mostly done but you may want quality of life enhancements or things that fix specific peculiarities of virtual machines like rng-tools3) Get the correct version of the miner, for monero it's https://github.com/fireice-uk/xmr-stak/blob/master/doc/Linux_deployment.md or the self compiled version if you are okay with doing that (it's really not that hard bruh like 5 commands)4) Link it up with a pool like suprnova.cc in the config file after you register on the siteGuide example: https://www.usxmrpool.com/#easy_mining_guideJust don't use usxmr pool because they are getting new management soon and the minimum withdrawal is quite high where suprnova's is 0.03 I think.With exchanges your choices are fine, but you may want access to a wider selection of crypto so lots of people sign up for either Kraken (speed/support issues), Poloniex(speed/support issues), Bittrex(verification/trading engine issues), Binance(I don't use it), HitBTC(withdrawal fees are high+some straight scamcoins listed), Bitfinex(NYT article warning/sketchy tether associations) or Kucoin (pyramidal ref scheme) depending on their preferences for shitcoins/level of sketchyness.Check the prices as often as you want, it won't change them just by checking them, but it can easily change your mindset and run you into bad decision making.
+Your own psychology is always your own worst enemy in this game, but the psychology of crowds, from panic selling to irrational exuberance, is your friend.
+thanks for the mining guides.
+is monero still a decent choice for mining if i use a cloud server?
+i recall back in like 2013~ people did mining pools where the lots of computers would help each other and each get a fraction of the bitcoin mined.
+is that still at thing?anything i can read up about for psychology of buying/selling?
+books/blogs/whatever?
+Pools are sort of the only way to mine unless you hop onto a new coin that was just announced but that's a great way to get viruses/RATs so only do that inside of very secure environments.
+If you are a total pleb you can use a program like Nicehash to mine the "most profitable" coin although the end impact of a system like Nicehash is that it causes a big glut in extra mining when any coin under the Nicehash umbrella spikes in price, so it can be smart to stay away from Nicehash/whattomine coins entirely.
+Monero has been maintaining high profitability through the last few months.There are all sorts of publications that follow finance too but they aren't a whole lot better than just listening to shills most of the time, since their editors and writers often have a stake in what they are writing about.
+If you want gold shilling, there are sites for that.
+If you want silver shilling, there are sites for that, and if you want crypto shilling well shit you're already here.
+These kinds of publications will more often tell you to buy than give you any good indication of when to sell.
+You have to assess things with a level of critical thinking and on a case-by-case basis.
+Consider the source.
+That being said, I like FT Alphaville & Bitcoin Magazine.The psychology side of it is something you won't master for years, but you'll come to recognize the emotional pattern seen in pic related as you observe it taking place over and over and over again like clockwork.
+The price levels might change or not be exactly as shown in the image, but the psychology never changes.
+It can be applied to almost everything, it works inversely with shorting, and it works with finding a girlfriend that you fall head over heels for.
+When you start to see this cycle everywhere, the red pill has started to take effect.
+You can uwe faucet if you are broke.Moon faucets are interesting because you claim 4 coins, and can convert to each other when you want.Plus, you can mine from the webbrowser.
+(At school, or watever)So, just claim everything, then convert everything to, say, litecoin, and then, wirdraw.I can post my ref link if you want, but I think you will find the website using your favorite search engine.
+Not OP here, and I'm from NZ, what do I use to buy coins?
+I signed up for bittrex.com but it doesn't trade in fiat, except for USDT?
+Cryptopia is based in NZ and accepts nzd bank transfers to NZ tethered token, prices are slightly higher but if you wait a bit for a good price you can usually get a crypto (probably ETH because transaction speed is good) for a 3-5% premium, then send to another exchange that has what you want or withdraw to your wallet.
+99% chance win games are literally FREE money.
+The returns aren't much each time, but as long as you only do it 40-50 times you're pretty much guaranteed to come out ahead.
+If you want to try the one I've been using it's at this address: 12PXS543MJPRKqvp4uAeG88bwuAZR31Jm3
+That sounds ideal thanks man
+I'm sorry anon it's too late now to become truly rich The ship has sailed and unless you're already extremely wealthy you're not going to make it
+99% chance win games are literally FREE money.
+The returns aren't much each time, but as long as you only do it 40-50 times you're pretty much guaranteed to come out aheadNigga just play fuckin dice at 98% win rate.
+In fact, for anyone curious about satoshidice or similar dice games, just fucking go here.
+Fun destroyed.
+Prospects ruined.https://satoshidicebreaker.appspot.com/
+wtf are you guys even talking about?rolling dice with btc?wtf is this magic?
+https://pastebin.com/yfDiwr9zThe EV should be positive with the Jackpot past a certain amount.
+Dice games without a jackpot are black holes though.
+thanks, looks coolYou send BTC to a dice address like the one I posted and it sends you back either your winnings or nothing.
+I haven't lost yet and it can take a long time to lose.
+You just have to limit your greed and get out earlyish.
+wait a minute, i live in the usa, is this legal for me?sounds like gambling desu
+also, how do you know the algorythm of the dice is legit cause this shit cant possibly be regulated?
+Are you paying taxes on all your crypto transactions?
+I live in the US too, but there are a lot of grey areas.
+4527471
+well, i ONLY pay taxes on crypto that i cash out in usd.
+i dont pay taxes on crypto that i have tied up in long term hodl positions if thats what yer askin
+All transaction histories between BTC addresses are public.
+You can see the gains and losses for each address.

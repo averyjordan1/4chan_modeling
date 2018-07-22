@@ -1,0 +1,7 @@
+current* (expected**) 6havg 1davg 7davgBTC 1.00x (3.01x) 1.00x 1.00x 1.00xBCH 1.33x (1.00x) 1.60x 1.72x 1.44x
+what does this mean?
+Mining profitability based on fees, exchange rate and mining difficulty.now its current* (expected**) 6havg 1davg 7davgBTC 1.00x (3.09x) 1.00x 1.00x 1.00xBCH 1.29x (1.00x) 1.59x 1.72x 1.44x
+bitcoin crash incoming, 1h left.
+Someone quote me pls
+wouldnt it go back up since the mining is more profitable which means miners will switch to it and fix the unconfirmed transactions issue?
+Yes.

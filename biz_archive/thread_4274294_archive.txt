@@ -1,0 +1,9 @@
+coinbase or cexio?
+setting up my first wallet, need help buds
+please don't use a browser wallet, that ends in tragedy, use electrum instead
+better for it to be program based?
+thanks bud
+Yes, just so that you may easily create backups, and aren't reliant on someone's server being functional/available, also it limit your exposure to attack surfaces within your browser
+sweet so where do i buy from now?
+heard fees are retardedly high from coinbase.
+im just trying to hop on the chainlink train soon.

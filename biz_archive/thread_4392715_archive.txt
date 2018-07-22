@@ -1,0 +1,4 @@
+Are there any good desktop or Android apps that will ring (like an alarm clock, not like a text message or one-time popup) when a coin hits a certain price?
+Yes
+Blockfolio.
+Blockfolio just gives a little pop-up, but anyways I found one called Boilr that works.

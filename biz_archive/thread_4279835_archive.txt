@@ -1,0 +1,25 @@
+Botbro / fag here.Some might remember me from my attempts of predicting price surges of shitcoins with a bot, which went quite well but was ultimately to inaccurate due to non-realtime volume info from exchanges.Anyways, I'm just teaching myself python and for my first project I thought of an open source exchange companion.Means it will be a program to start on your desktop which adds trading features to existing exchanges, e.g.
+limit buys / sells at Binance or certain conditions to be met to trigger a market sell on Bittrex etc.Would there be any interest for a program like this?
+Id be interested if its as intuitive and easy to use as you can make it.
+I plan on designing a very simplistic GUI, hopefully self explaining and a step by step manual on how to set it up
+cool.
+want to share some thoughts?
+also a programmer doing quite well with python.
+(12 years of experience in all kinds of languages)started a bot/dashboard prog some time ago.
+still working on it.
+(in python)randpythonguy@gmail.com
+Sure thing.
+I just started to get my head around python.
+I think I will design a very simple GUI via tkinter where you type in your API key and are ready to go.
+Then you have a view fields and buttons for various buy / sell conditions.Once I get this going I will look further into helpful features.But that's just the concept after 1 week of python experience...
+ok sounds good.
+i had the same thoughts.
+the prog itself should make your "trading-experience" easier and should extend the basic trading features of the exchanges.
+also conf a set of parameters and the prog does some stuff you dont want to deal with by yourself (kinda a "bot" if you want)my core is a webserver which is the "bot" and the crawler.
+the gui gets updates periodically.
+(have a mongo db in the background to keep everything stored) so you dont have to run the gui all the time if you want to have track of your coins.
+im atm implementing push notifications too so you also can get trade signals/or other information to your android/ios device.
+supporting bitfinex, bittrex (have it setup so it should be easy to add other existing apis too - like binance, cryptopia etc)never worked with tkinter.
+ive always used wxpython but now i switched to QT (https://www.riverbankcomputing.com/software/pyqt/download5) its cool (if you know c++ because most of the doc is in c++)
+Thanks for sharing your ideas / progress!I read about wxpython but opted for tkinter for now as it is natively included in the python package download and so quite friendly to install and run for anyone.The webserver sounds awesome but I wouldn't know how to implement that.
+I think for now I will try to run the whole code on the client's machine (which unfortunately means it needs to stay switched on).On the other hands you don't face security risks regarding the API key if they are stored on a server / external database

@@ -1,0 +1,9 @@
+/biz/ thoughts on Ripio?Ripio intends to provide there users with an alternative Credit Facility.
+How does it work?The Network will consist of a Borrower, Lender, Wallet Provider, and Credit Exchange.
+All of which will be connected through a Smart Contract.
+The flow of money is as below:Borrower <- Wallet Provider <- Smart Contract <- Credit Exchange <- LenderAll loans work on a Fiat basis between borrower and lender, by simply using RCN Tokens as a medium of exchange.What does this mean and how can we benefit from it?
+There are 2 main ways to benefit from the Ripio Credit Network ecosystem:If you are a lender, you can lend in Fiat and earn interest in Fiat.If you are a RCN token holder, you will become a liquidity provider to facilitate the P2P loans, and earn through the increase in value of RCN.All RCN token holders will become liquidity providers.
+For any loan to go through, RCN tokens will need to be purchased from the Market to facilitate the transfers.
+The higher the number of transactions, the higher the demand for RCN, and thus the higher the Price of RCN tokens.• The ONLY source of RCN Tokens at the moment are held by the public, as the Company’s tokens are locked for 1 year.• Ripio has an actual working product with 100k users, all 100k of whom will be migrated to the RCN Exchange next week!
+- http://rcn.exchange/• Ripio themselves will be the first big lender, which means that they will go to the market and acquire the RCN tokens, generating demand.• As new credit exchanges and lenders join to the network there will be even more demand for the RCN token.• Top A-grade institutional investor such as Pantera Capital, Fenbushi (Vitalik Buterin's Fund), Tim Draper, Digital Currency Group, Medici Ventures, Huiyin Blockchain Ventures has invested in the company• Bittrex • Binance • Huobi Pro • More to follow.https://ripiocredit.network/
+tfw bought some at around 1600 yesterday>feelsgood.jpegwe will be millionaires soon girls (male)

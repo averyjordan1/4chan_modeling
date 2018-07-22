@@ -1,0 +1,49 @@
+Hello, i have a "SMALL" problem, i know that i had bitcoin walled and i have some bitcoin in there, i don't know how much, but i know i have it.Long story shortIn about 2010-2011 i get interested in bitcoin, downloaded the wallet, later on i get some bitcoins from some kind of websites (some advertising websites, click an ad and get bitcoin).Later that year, my pc broke down, because of power supply fault.
+I get it fixed, but also i rewrite my windows.I have my HDD, i tried to recover bitcoin wallet, but unsuccessfully.
+I found the wallet files but there is no wallet.dat file.I check it out and it turn out i have beta version wallet, maybe the wallet file was in different name?
+?How the hell can i get it back?I am willing to donate half of my coins if somebody will help my out, and it will work.
+if you were using bitcoin core with wallet.dat it should still be in Users/UserName/AppData/Bitcoin and if your wallet.dat file isn't there then maybe it didn't exist.
+You may have also backed up or exported your private key in a text file but that could be named anything.
+Good luck OP!
+text file?
+You could try to search a string (this is an assortment of letters) in all of your files on the PC.
+Wallet.dat is stored in the "bitkeys" format, so no luck finding a piece of text there, but you could maybe try to generate another wallet.dat and search for a fragment of it on your PC.https://www.howtogeek.com/99406/how-to-search-for-text-inside-of-any-file-using-windows-search/
+Yes but you most likely would have remembered doing it because it's not a process done in the GUI AFAIK.
+Did the Bitcoin folder exist in your AppData?
+Did you run a blanket search on the old HDD for wallet.dat?
+Are you positive you were using Bitcoin Core as your wallet?
+Yes, im on other pc, just connecting my old hdd and i make screenshot of the folder, give me 5min
+What I'm saying is that if the wallet.dat file isn't in that Bitcoin folder then your chances get slimmer.
+It could either be A) You installed bitcoin over that wallet.
+B) You moved the wallet C) The wallet never existed.
+If it's A or B though, there's a slim chance that you may be able to recover the files.
+I would not use that old HDD anymore and put them through a file recovery software such as EaseUS Recovery Software(I've used it multiple times and it does work).
+Best of luck OP
+When i get my bitcoins i know i checked them in blockchain and i saw the transaction by my wallet address
+Then I would say you have a good chance of recovering through data recovery tools.
+Do not use your old HDD at all if you have searched for wallet.dat and not found it.
+Any further use puts the chances lower and lower.
+I don't know how much use the failing HDD has taken since the wallet went missing but if I was you I would unhook it until you get the software ready.
+Let me know how it turns out
+i didnt use my old pc (with old hdd) for 4-5 years, i just take it out from my old pc, anfd searched it for 2-3 times when i get idea on maybe how i can recover them
+Hi sir.Need some help retrieving your wallet?
+yes
+Then try the data recovery software I mentioned.
+You might have luck with that.
+i am scanning now :D
+good luck, let me know if you get anything
+earlier i used other programs to scan hdd, i found something that time, but it was newer wallet file, i tried all of them to open in bitcoin program
+Best of luck!
+Here is my BTC address if it is fruitful and you feel like delivering.
+Either way I hope your wallet is found!
+(I found my old wallet this way as well)1D2J9SD7SMePmRqKYu9iFN3Ktc4zAidUmS
+I hope this anon find his wallet and keeps his word, I want to believe there is still decency in this godforsaken place.
+I WANT TO BELIEVE!!!!
+if i found them with your program i will definitely send you half of them :) because programs i used before didnt find anything good
+0ofc i will, just need to find it..
+And what I was saying before is that you could have dumped your private key but you would have done it in the debug console.
+My only thinking is you may not remember moving your wallet before the computer finally died or maybe even encrypting it.
+But we can hope that it was simply deleted/moved from the folder and the tool can recover it.
+maybe my wallet address was save in any file (in old version)?
+so could check it on blockchain?
+for now i can just find wallet.ccp file

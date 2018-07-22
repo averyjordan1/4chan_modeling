@@ -1,0 +1,6 @@
+https://youtu.be/ZA5fHnyjreA?t=112Ari Juels talks about how Town Crier uses secure hardware to provide authenticated data feeds to oracles, allow private queries, and allow sensitive data into nodes securely.This speech isn't too complicated and begins with an interesting outline of the major challenges facing blockchain technology.
+It amazes me how many self styled experts there are out there when an excellent resource like this only has 500 views.
+How did you find this?
+Just through the Town Crier website.
+Oh fuck ye
+>big hard technical problemsVery phallic

@@ -1,0 +1,6 @@
+When I go to search my ETH wallet address on nanopool.org, It says account not found.
+I am getting shares but, still not able to see if I am doing it correctly.
+I have no idea what I am doing and just watched youtube to figure this shit out.
+Help?
+Eth wallet: 0x3e4Ffe1fBd0366C00B375D011Ef82988cd561674
+https://eth.nanopool.org/account/0x3e4Ffe1fBd0366C00B375D011Ef82988cd561674Donation accepted: 0x09b6ec4d65A08B20d354979cd244de7b6B910fa1

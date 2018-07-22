@@ -1,0 +1,52 @@
+>analysts accuracy in finance is normal distributed>noone so far could systematically beat the market>backtesting TA does not result in returns even when ignoring frictions>people still use TAwhy would you expose yourself as a retard?why not just accept that daytrading is a gamble?TA is what it seems like... drawing random bullshit into graphs... monkeys predict aswell as you TA fags doalso ever noticed that those who do TA most of the time have no education in IT or finance at all?>inb4 TA fags have no arguments against that
+I swear to god you faggots just read one headline in a major news source about trading being too hard so you just buy and hold.
+Of course a minority of people are going to have substantially higher gains, ITS A COMPETITIVE MARKET.
+YOU'RE TAKING A FINITE MONEY FROM SOMEONE ELSES POCKET AND PUTTING IT INTO YOURS.As for not beating the market, plenty of people do it reliably.
+Go lurk algo trading boards / blogs.
+I keep hearing about these studies which show apparent lack of effectiveness of technical analysis.
+Personally, I would find it difficult to see what someone has found in a study about chart reading as being worthwhile to incorporate in an opinion.With these sorts of things, you must trial them for yourself, objectively.
+It's a common theme among to those who are labelled as "deniers" (I use quotation marks as the market is what it is, it does not obey opinions of "believers" or "deniers") KNOW that this does not work, and therefore, will NOT work.
+You do not even attempt to even bother doing the most basic self-observation, or if you do, it's with such cynicism as to make certain that what you make yourself see will confirm what you already KNOW to be true.If you are looking for something that is 100%, have fun fighting over fleeting arbitrage opportunities (whether done through derivatives, ETFs, or by selling across different markets).
+No analysis will give you this.Trading must incorporate mental discipline to cut losses (something which is VERY hard to do), and to let winners run/ add to them.
+Tendencies which are given by support/resistance/trends (in combination of use with volume to show that the market is reacting to these areas) are there to help us be systematic.
+They are not full proof.
+And they require discipline in use.
+I believe this discipline can be learnt by anyone, but the majority will never fully pick it up.I expect you to through responses back in terms of references to Alpha, random-walk, and Weak Form Efficiency.My retort: Give things a fair try.
+That's all I can say, reality will surprise you.
+plenty of people do it reliablythat where you are wrongpeople do it yesbut thats just by chaneif you have millions of traders you will have some who are almost always right by chancethats still randomness mr. what is a normal distribution of chanceatleast try to use 1+ braincell when you respond to my mockery
+This is breakdown of possible explanation for why these things work: Larger market movers (and their bots) look for reference points to help them be systematic in what they do.So, what you guys call "meme lines" and self-fulfilling prophecies (used in a derogatory manner to imply it somehow dumbs things down) are actually this:Lines, shapes, and patterns used for Entry (perhaps scaling)/ Exit (perhaps scaling) points, Profit-talking objectives, and perhaps one of the most important of all - Risk management areas (if price moves towards a certain point reduce position size, stuff like that).Technical analysis also helps with understanding market structure - where is support/resistance occurring, are there any breakouts of these areas taking place, is there consolidation around certain areas?Traders look for areas to step into, and help them with decision-making and risk management.Both Fundamentals and Technicals are important aspects to combine together to help you understand general market sentiment.
+You form your own opinion on something, using fundamentals.
+You then see the Market's real-time sentiment, using Technicals.
+Give things a fair try.
+That's all I can say, reality will surprise you.so backtesting tons of TA strategies on bloomberg is not fair?so taking the 30 biggest investment banks to compare their stock picking accuracy which shows that their success is perfectly normal distributed is not a fair test?plotting charts of stocks, mix them up with random walks to then give them to pro analysts for them toidentify which one is which also shows that there is no consensus whatsover.
+thats not fair either?so whats a fair try in your opinion?
+Because I can't really know what techniques they used.
+Important things like risk management - how did they scale out of losing positions/use stop losses.
+Did they do the exact kind of risk management across all markets, times, and time frames?
+These are extremely important things to account for.
+There is no one singular method to trial here, you have to be dynamic, it's a very mentally straining task (for me, anyway).
+Larger market movers (and their bots) look for reference points to help them be systematic in what they do.most bots are market makers or hf bots which are scanning for arbitrage by abusing speedthey dont trade by TA.
+they trade with an upper hand on speed and therefore win>Technical analysis also helps with understanding market structure - where is support/resistance occurring, are there any breakouts of these areas taking place, is there consolidation around certain areas?too bad not a single TA anticipated the breakout of VW which was a 20% drop in 2 daysalso who is telling you which orders are fake or only iceberg-order tips?how can you even base anything on such inconsistent volatil information.thats not science thats gambling>Both Fundamentals and Technicals are important aspects to combine togetherthats what people believe although every somewhat credible study done by people who actually know what they are talking about say the exact opposite?why?
+why is there no technical analyst with a nobel price if this is such a free mone making machine?i think i know why
+you could say the exact same about someone who got rich by playing roulettethat doesnt mean he systematically beat roulette.so what is your point?
+if you have millions of traders you will have some who are almost always right by chance>almost always right by chanceYou are acting like there is zero skill involved in trading and it all comes down to blindly guessing.How can you seriously act like there are are no trends?
+If you buy during a downtrend you'll much more likely lose your money than if you buy on an uptrend.
+And that's a fact.
+Prolonged trends can make people money.
+If you let a monkey (or you) randomly buy and sell and then compare it to what an experienced trader does you will have severe differences in the end.tl;dr: You're a buttmad retard who lost money and now tries to rationalize it by convincing himself that "duh I'm just part of those in the distribution that HAPPEN to lose money while others are just lucky ALL THE TIME"
+There are Bots which do trade technical analysis, they will pay attention to ranges and moving averages, although obviously, they will look at these things in a numerical manner, rather than using things like lines.
+Anything arbitrage related will bot heavy.Trading is not gambling.
+Once you place a bet in roulette, you lose that entire amount, should you lose on a spin.
+The house has an the edge over you, so they WILL win, in the long run.
+Risk management's primary purpose is there to contain your loses.
+The overall purpose in successful trading is to develop the discipline to effectively manage risk.
+This allows your winners to outweigh your losers, in the long run.
+And you won't bother to look into something as basic as support/resistance, and examine, for yourself, if some strategy could be formed around that.
+In gambling, it's much harder to perform this same level of risk management.
+You're labeling everything that does not abide by your methods/views as gambling.
+This is the wrong view to approach the reality of the market.And you may ask how can something so simple actually work?
+My response is more of a philosophical one: It's not that it's "simple", it's just that maybe we're over-complicating things.
+If you buy during a downtrend you'll much more likely lose your money than if you buy on an uptrend.
+And that's a fact.
+Honestly don't think the average /biz/ poster even realises this.
+The amount of people you read about trying to "time the dip" and just get completely slaughtered.

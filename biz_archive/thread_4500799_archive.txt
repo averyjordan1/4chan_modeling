@@ -1,0 +1,8 @@
+is there any way to see what website you sent your bitcoins to?
+I have the transaction details but don't know what site I sent them to a few years agoFML
+Check the address in a block explorer, there should be the name of the website associated with it somewhere.
+I know when I send shit to a binance wallet, for example, I can look up the destination address in the block explorer and it says "binance" on the page somewhere
+Doesn't say that for me.here is an example1EPDxJYiMQV6ymMFTmV8gBL2bsfMcrTaxg
+You could try Googling the addresses if you haven’t already
+No luck.
+I'm honestly feeling like it's a loss.

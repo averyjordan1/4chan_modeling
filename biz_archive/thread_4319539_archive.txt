@@ -1,0 +1,2 @@
+The btc tx network will become functional in about 6 hours again.
+If your tx is stuck, don't worry.

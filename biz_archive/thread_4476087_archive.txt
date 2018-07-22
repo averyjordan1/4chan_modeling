@@ -1,0 +1,6 @@
+What did GDAX mean by this?
+pajeet detecteddo not attach screenshots of your gdax window, i'm sure this is some stupid scam somehow
+In an attempt to address Bitcoin's increasing struggle at handling transactions, the mining rules have been relaxed into what is known as "Fuzzy Confirmation".
+This allows miners to partially confirm blocks to increase the confidence in transactions while we wait for the blocks in question to be completely confirmed.
+It's a modified version of the Progressive JPEG algorithm.For you the end user all this means is that recent transactions will be blurry.
+Just give it time and they'll eventually clear up.

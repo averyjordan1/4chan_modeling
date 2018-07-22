@@ -1,0 +1,11 @@
+So one of the biggest "store of value" thoughts behind bitcoin is the limited inflation capped at 21million coins.
+This is a cool concept but what happens on the day we mine the last bitcoin reward?Currently each mining reward 12.5BTC * ~$8000 is rewarding miners with $100,000 per block.
+Are we going to be expected to pay transaction fees high enough to cover that once there are no more rewards?
+Maybe the hash rate will drop off a lot once the rewards are gone but doesn't that leave the blockchain vulnerable?
+Seems like this design has some serious flaws.
+The block reward decreases steadily over more than the next hundred years.Assuming increased transaction throughput (compromised by BTC) and increasing value (exercise left to the reader in light of the aforementioned) this would not be a problem.
+Those 100k blocks right now are much more valuable than the 50 btc blocks of five years ago if measured at the time of mining.This however if analysed closely is just another reason BCH is better than BTC.
+Miners would do it solely for transaction fees
+It's expected to be mined in late 2100s.
+Im hodling until then
+because bitcoin will be like 7 billion a coin by then

@@ -1,0 +1,5 @@
+Can someone explain how GDAX is free?
+I see a bunch of videos on youtube saying its free, but this url and pic related says there are fees.
+I don't get how these fees work, can someone explain for an idiot how it's free?https://www.gdax.com/fees/BTC-USD
+It says if you are a maker, your fee is zero.
+If you are a taker it's between .1%-.3%.

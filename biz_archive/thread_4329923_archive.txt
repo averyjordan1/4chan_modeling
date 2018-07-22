@@ -1,0 +1,220 @@
+Am I fucked?I am from the US.
+I made a bunch of money this year on crypto, but did not understand the tax implications.
+I then proceeded to trade with it, thereby realizing the gains on my bitcoin when i traded it for altcoins.Unfortunately, my altcoin portfolio has tanked.If i invested 10k, and it became 100k, and i have to pay (50%) in capital gains tax (90k/2)=45k.
+My portfolio is now 20k total.
+What happens if my portfolio is now under the 45k tax I owe because I held?
+Am I fucked as you can only declare 3k capital losses?
+Talk to an accountant, leave enough time so you can sell before the end of the year and realize those losses.
+Then get back into crypto after being out 30 days.
+move
+have you read those news articles about people going bankrupt because they owe the irs?
+pretty much this.
+your losses cancel your gains.
+You pay capital gains tax on what you've earned.
+You said you started with 10k and now your portfolio is worth 20k.
+So thats 10k in gains
+Sorry to say it OP but you're fucked.
+Godspeed with your trades for the rest of the year.
+Don't drop the soap, Al Capone.
+This.
+But you might need the transaction records from your exchange to prove it.
+why cant the government just let us keep the money we earn
+lmao what does OP think this is.Could you imagine?>hold 0.0001BTC worth of some shitty alt on etherdelta>some idiot fatfingers a trade on that coin>my net work skyrockets to 3 billion dollars for a split second>oh crap now Im going to jail for tax fraud because I can never pay a billion dollarswhat sort of autistic logic is that
+Don't worry.
+You're not fucked.
+What you take in to account is the net gain for the year.
+The IRS doesn't have clear rules on what to do with crypto anyways, so don't stress out.
+As long as you are paying your taxes as you think you should in good faith, they will be nice with you or just ignore you.
+The IRS is only scary when you deliberately try to mess with them.
+They are actually quite helpful in most cases.Also, the long term capital gains tax is different.
+As long as you didn't sell, it's a minimal 15% tax rate.https://www.nerdwallet.com/blog/taxes/capital-gains-tax-rates/
+Should be like this.
+In most countries you only pay tax on your net gains.
+Just move your Gains to a non verified wallet.
+Problem solved.
+There is no official legislation, dont cash out through jewbase
+reported for tax evasion faggot
+Wow you're a fucking retard.
+Report what you started with and what you ended with.
+That's what you pay tax on, and only if you cash out to USD.
+Wait a year and if the gain is under 15k there is 0% tax.
+If you didn’t cash out to fiat you got nothing to worry about my friend.
+Sorry OP but I'm gonna hijack your thread as it looks like a good one to ask.How does crypto tax work exactly?
+Do I have to write down every trade I do every day and how they end up so I can report the gains later?
+I do 100 or more trades per day, please don't tell me I have to report them all separately.
+Or can I just write down "X gained in January"?
+4330214From my understanding everytime that you cash out a crypto into USD that counts as a realized gain and you need to pay short-term capital gains on that transaction.
+You people thinking that it only is a realized gain if you move it back to your bank account are wrong.
+Ideally they want a printout of all your transactions.
+If you go on Bittrex FAQs, for example, it states that they can provide you with that data for a price.
+Check if the exchanges you use have something like that for tax purposes.
+If you're going to DIY, ideally they want an excel file.
+Try to follow the model for short term capital gains, thats what it will be taxed as.
+Google it.
+Idk exactly, this is still very gray area and shady
+Bitcoin.tax calculates everything automatically as long as you have less than 100 trades.
+Otherwise they make you pay for the service.
+If you are doing a lot of trades you should have an accountant anyway.
+And if you're trading with under 20k I wouldnt worry
+Please explain to me where you think people are cashing out into USD that is not their bank account.
+For instance with GDAX or Coinbase you have wallets on their websites that people trade back and forth between.
+I think he means if you trade a BTC/alt pair then there's no taxes on the BTC gain, but if you do a USD/BTC trade to then realize those alt gains into USD gains, that's taxable.
+Yes, better wording.
+When I can pay those taxes in BTC I'll do so.I'm not gonna cash out a little bit after each transaction and generate even more capital gains just to pay the IRS like 10 bucks.I'm also not gonna pay that out of pocket when it's internet funny money I'm gaining and not real USD.The IRS needs to get their shit together and give proper, reasonable guidance.
+Just dont sell for fiat and youre fineThey dont know youre trading, nobody is going to bother you.
+If you haven't moved any of your internet funny money back into USD then you should not owe taxes on anything.
+I THINK.
+I am just a hodl on ETH so none of this applies to me.
+4330294Oh Jesus an accountant?
+I just want to earn a living, now I need to pay an accountant just so he can write down my 5$ profit trades?
+and where would we get the roads?
+where would we get food, housing, clothing, education and health care for Mohammed and Obongo and their 7 children?
+The guidance they offered isn't specific enough and moralfag redditors are trying to scare everyone into paying some sort of tax on their crypto gains.
+It's not true though.
+All cryptos are considered property.
+If you trade property for property, you owe capital gains based on the fair market value at the time of the trade as if you sold for USD first and then bought the second asset.
+This is unless you can get it deferred as a like-kind exchange, which is muddy because the IRS will not clarify the rules for like-kind in crypto despite AICPA writing them a letter asking them to clarify it.
+I've heard of no one successfully filing their alt-coin trades as like-kind.
+I pay enough of other taxes.
+37% on income is plenty.
+Property tax where I live is 16k a year.
+Thanks for the insightful reply friend.
+Im scared as shit right now.
+So the $3,000 capital loss can only be deducted against other forms of income, but in terms of the overall capital gains tax it would be generated from net total capital gains?
+you can only declare 3k capital lossesSurely you mean net capital loss?
+Can you clarify?
+Stop spreading this meme.
+If you did any transaction at all including buying something with bitcoin or buying another crypto with it, you owe capital gains.
+4330408If you are trading that small amounts up, your income is probably so low you only owe 15% tax for short term capital gains tax.
+Short term trades fall under your ordinary income tax bracket.
+dun worry, keep trading
+Ya thats my understanding net loss 3k limit per year.
+Otherwise it would not make sense
+ACTUALLY PAYING TAXESHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
+yes, net loss.
+Not per trade lol.Reverse OP's story, if he had started with 20k and ended with 10k this year, he can only claim 3k.
+Pretty fucked up, I know
+how do they track these transactions?coinbase is the only exchange that has my full information.all i did was buy eth on coinbase and transfer to MEW then transfered to binance to trade.and binance is unverified.
+No you stop spreading this meme.Nobody should fork over cash to the IRS until they clarify how they expect altcoin traders to pay their taxes.The guidance they've offered was about cryptocurrency in general.
+They didn't even acknowledge the possibility of trading between cryptos.
+hurr I earned this money sitting on my ass clicking buy and sell buttons
+I'm sure most altcoin traders trading 100k+ are calculating there taxes properly.
+One of the few benefits of living a 3rd world shithole is that the our IRS equivalent is fucking RETARDED.
+I don't think they even know crypto exists.
+Hey, they take your money no matter what you do.
+hey if I made the money I made the moneyI don't care if I was laying bricks or I clicked a link that gave me 70 million dollars
+They most likely can't.
+(right now) But you're taking the risk that they will never get their hands on your trade records from these exchanges for the rest of your life.
+Also you can't cash more eth out of coinbase than you bought or else you'd have to explain where all these extra eth came from.
+It's true by inference.
+They say all virtual currencies are PROPERTY.
+So if you trade your BTC for an item.
+You have to pay capital gains based on the fair market value of the item.
+The guidance was absolutely clear on that.
+So trading for an alt-coin would be a property for property trade, which would follow the same rules.
+Welfare king and queens who get a vote.
+We need a 28th amendment "Citizens who receive funds from the federal or state government relinquish voting rights."
+iv made over 100 trades, so im just going to pay taxes on whatever i cash out to my bank account.im sure they will be fine with that.
+But I don't have to pay the extra 10k right?
+ok so what are you gonna do when you cash out to your bank account and then mr. smith comes to your house and asks you where did the money come from?
+Good way to get audited.
+You can't show inconsistencies.
+It would be better to not file at all then to show inconsistencies.
+If you bought 5 BTC from coinbase and then later cashed out 20, you can't just have the 15 BTC appearing out of nowhere.
+You need to put the actual cost basis for everything and you can't fraudulently make it up.
+the IRS really doesn't look hard.
+Chances of them asking about it is low, their way too busy with other shit.
+Even if you get caught, the worst that happens is you pay anyway, they just want their money.
+Just use localbitcoins.com to cash out so you dont pay taxes
+But you might need the transaction records from your exchange to prove it.For moderate sums the .CSV download of your transactions that is available from most reputable exchanges and a statement or excel sheet supporting your claims is probably sufficient, and I seriously doubt they are going to pore over it with a fine tooth comb.They will probably be grateful you reported anything at all.
+NobodyFuckingCares.Quit being such a god damn autist.
+what if i just dont cash out to fiat?
+its funny because shrekli is in jail and supported crypto right before his legal troubles.
+I hate taxes as much as anyone, in fact I would advocate evading them if you're 100% sure you could get away with it.
+But you have to know what you're in violation of to not get fucked unexpectedly and not show inconsistencies in tax records.
+I have made hundreds of trades.
+I have them assembled in a spreadsheet for records.No fucking clue what to do on my taxes this year.
+Pretty sure someday I’ll get a knock from mib.
+I don’t know.
+See you in club fed
+Fuck the IRS.
+It's unconstitutional
+Lord Shkrellian, esquire, was wrongly accused of securities fraud (and later had his bail revoked for a tweet).
+Not crypto related.
+Anyone know how margin/leverage trading plays into this?
+Let's say you lose 5BTC for example, can you subtract that from capital gains or is that just a loss?
+That's why I'm not cashing out.I'll do SALT lending or something like that if I have to.And the day that the IRS starts investigating the source of crypto used for that is the day I off myself.
+You pay whatever tax bracket you're in.
+The lowest tax bracket pays nothing.
+Like I said, it doesn't matter.
+Because crypto is property, EVERY transaction is a tax event.
+If you buy BTC for 1000 and then later trade for 5000 dollars worth of ETH, LTC, LINK, a car, land, chickens, bricks, anything at all that has monetary value, you owe capital gains on the 4000 as if you sold for fiat first and then bought the second asset.
+The ONLY way to defer this is to report it as a like-kind exchange, and see if they accept it.
+And so far I'm not hearing anyone reporting as like-kind.
+I've heard some CPAs say it's inappropriate for crypto.
+But whether it's deferred or not you still have to report every trade.
+You can not report it but you're taking a gamble that they will never find your trade records on any exchanges for the rest of you life.
+If they find a trade you didn't report you'll be fucked.
+bro, its super fucking easyall you have to do is take a bunch of junk to a charity auction and make the listing price over what the item is seriously worthwooden chair you picked up for 10 bucks at a thrift store?
+starting price it at 20 bucks at a charity auction, then use the charity writeoff on your income taxesjesus christ you morons just dont think anymore do you
+IRS is comically understaffed with the jewed-up, lawyered-up autistic legalise it is suppose to enforce spanning hundreds of millions of people.
+youre a dufus if you report any of that.
+the irs only gets by off the perceived threat it doesnt actually have
+Laws work a bit differently here.
+Just because you're doing something illegal and the authorities know about it, doesnt mean they are actually coming after you.
+They're corrupt, poorly funded, and incompetent, they simply don't care enough to go after small fish.
+4331001Whether you cash out of fiat or not, you still have those tax liabilities for trading.
+You either have to get a second source of income to pay those capital gains, or liquidate a portion of your portfolio, calculate any taxes for gains realized in the process of liquidating, and use the left over money to pay tax again on your crypto trades.
+i think the irs only collects something like half of the taxes by law its suppose to thats not employee-employer earnings.
+if people knew how incompetent the irs is itd be lucky to be 10 percent
+hahaha I always wonder about all these idiots claiming to get rich as fuck on crypto but hardly anyone talks about the taxes involved.
+literally make it back in a week pumping and dumping with us faggotsIts retarded ponzie scheme but if you move up just a little its so profitablehttps://discord.gg/htafjG
+sign up for bitcoin.tax, gather all your trade information from the exchanges and input them into there (Time consuming yes, but it will calculate everything for you) ... Then go to the "reports & export" tab ... go to the capital gains report, click "options" .. select both "ignore zero gains" and "show rounded" (IRS rounds everything).. then click "download" and get IRS form 8949 ... give this to whoever does your taxes... now click on the "calculate" tab... select your tax bracket... look at how much the program says you will likely owe... and cash that amount of crypto out immediately into FIAT and put it directly into a savings account until you do your taxes
+bump this question.
+I've done a little bit of leverage trading.
+Why is this all so confusing.
+Why cant we just pay the capital gains on our profit for the whole year -__-
+Have none of you noticed OP’s ID says “kEk”?
+I am sure that is what the written law says you are supposed to do but there is no way this is how it actually works in practice.
+For one taxing each individual exchange wouldn't get the IRS any extra cash since the total gains rate would be equivalent to sum of individual gains at transaction.
+It would ultimately just burden them with extra paperwork and produce nothing of value.
+Do HFTs show the IRS the millions of automated transactions they made per year with something like +0.0034$, - 0.00019$, +0.67$ or just take the initial and final USD and pay their capital gains tax based on that?
+Define "sell".
+Please just say sell for USD = sell.
++1
+Can you do addition math that you learned in elementary school?
+Can you do subtraction math that you learned in elementary school?Use these incredibly advanced mathematics to calculate whether you gained money or lost money overall, and thats what you fucking put in your taxes for the "money gained/lost from stocks/investments" section you fucking brainlet.Like I don't really understand how OP's brain works.
+Does the various gain numbers that he got from individual trades float around in his head like a pack of bats, harassing him and screeching "TAXES!
+TAXESS!
+GIVE TAXES TO THE GAIN BATS!"
+Even though he specifically said overall, he LOST money, he's concerned about being taxed?
+Christ.
+Fucker.
+Do HFTs show the IRS the millions of automated transactions they made per year with something like +0.0034$, - 0.00019$, +0.67$ or just take the initial and final USD and pay their capital gains tax based on that?Interesting question.
+I did just discover that there is a "frequent trader" classification where to IRS will allow you to account for taxes using your networth at the start of the year and the end.
+But apparently the qualifications are EXTREMELY vague and hard to meet, and they are contested in court a lot of the times.
+http://www.tradejuice.com/traders-tax/irs-defines-trader-ta.htmI don't know what HFT firms do but most stock traders report every trade on form 1099-B through their broker.Define "sell".
+Please just say sell for USD = sell.If you sold for anything before 1 year, including other cryptos, that's a sell and you no longer qualify for long term capital gains treatment for that portion.
+thanks man.
+Tangentially related to the thread topic, what's the best way to turn money into crypto?
+buy crypto
+Right, how?What sites are best?
+Coinbase
+GDAX lets you make orders that you pay 0% transaction fee on but it only lists BTC, ETH, and LTC.
+It also has free network transfers
+republican turnout would be  in some states roflamo
+from fucking corporations you retardthe common persons contribution to taxes has literally only grow exponentially since the industrial revolution while corporations tax %have gone down exponentiallyits fucking horse shit
+how do you cash out thru a different exchange if you bought everything thru coinbase?which exchange would be best?
+Crypto currencies is treated like a commodity for tax purposes.
+If you are trading in your wallet/investment account, so long as you don't withdraw from it, no tax.
+It is when you withdraw money from it becomes taxable at the capital gains rate, which would be the net profit you earned from when you bought it.
+If you cashed out and lost money, you could actually right down the losses on your taxes and reduce your tax bill.
+>paying taxes on cryptoI hate you so much you fucking commies.
+localbitcoins
+tfw OP is going to be among the 800 who file taxes for crypto>tfw I know I should take this more seriously and apply for taxes but cba>tfw will probably have to flee to japan to avoid getting fucked by the IRSPost yfw IRS crypto bubble pops
+I've heard of no one successfully filing their alt-coin trades as like-kind.you think this has been decided or litigated idiot?
+fucking idiot, try me in 10 years
+What about mining?
+How do you tax mined coins?
+What about ICO coins?
+good goys will ignore this

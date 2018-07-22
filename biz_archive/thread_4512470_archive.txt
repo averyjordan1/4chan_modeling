@@ -1,0 +1,24 @@
+How hard is it to create a bot to catch dumps?
+if(low){BUY BUY BUY}
+It's that easy?
+predicting randomness
+Uses JavascriptFag.
+It's quite easy, and quite effective.
+I built a bot that spitballs random data associations, uses them as buy and sell signals, takes the best performing ones and breeds them to create better signals.
+So I evolve technical indicators over time.
+With great consistency, the best performers end up being ones that tell my robot to buy the dip and sell at ~5% profit.
+I've been live algo trading using one of those indicators for 3 weeks now and my portfolio is up 44% as of an hour ago.Literally buying the dip just requires something like: "is the moving average of the last X candles Y% lower than the moving average of the last (X+Z) candles?
+If yes buy."
+javascripti don't even know what javascript looks like but this is pretty common in C, C++, and Java
+doesnt even need to be that complicated.if(dropped10%inlasthour){buy(5%); // where function param is sell at gain %}
+MAs are helpful to avoid blips.
+ie, if my bot had used that logic and read POT as it was crashing from its 5x pump at 5:07PM yesterday, it would have bought in just in time to lose 50% and never recover.
+MAs give some momentum to price movement (which is why they're used in... you guessed it... momentum oscillators)
+touche, I was being super simplewas going to mention adding layers of complexity until you are happy with your success rate> adding stop loss (ie sell at 5% gain, or sell 2% loss with possibility of re-buy) > if (gained more than 100% in last week) do not buythat said I do like your MA idea, what params on what timeslice do you use if you dont mind?
+(ie exponential and last 50, on 30min?
+etc)
+anon, can you tell us more about this?
+what language and libraries did you use?
+could you share some resources on this sort of genetic algorithm?i'd like to program a bot like that but i just got into coding a couple of months ago
+Ive been trading myself and I'm up 119% this month.
+Fuck a bot.

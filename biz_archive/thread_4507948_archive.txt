@@ -1,0 +1,25 @@
+My transaction got stuck (unconfirmed, since November 17 today it’s the 22) because I put a low fee (yeah I’m a noob).
+It’s was between my Bitcoin.com Wallet and QuadriguaCX Wallet.
+What can I do?Help /biz bro.
+Love you all
+its stuck in bitcoin limbo dude.yes, bitcoin is a shitcoin.
+Use ETH to move money around.
+Its faster
+This, and it depends on how low the fee you put on there- if its really super low you might want to look into an accelerator service.
+If its just under the norm you should just wait.
+Corecucks will defend this
+Bitcoin is not for small and fast transactions.
+Yeah, the "future" is fucking garbage.Use any other coin for whatever you need to do quick and fast and at low fees.
+I put 1sat/b ... witch accelerator should I use?
+use ethlol eth holder detected.
+no point in using eth over something better than that to send money.
+try like dash or something cause instant send.
+Not sure but i think it drops out of the mempool by itself after two weeks or so.
+look up "child pays for parent"
+I had exactly the same problem.
+Used a bitcoin accelerator that charged me $4 usd
+Witch one did you use
+I think if you send a priority feed tx from or to that bitcoin.com account it will make the miner pick up the earlier limbo tx to be able to confirm the latter tx With the priority fee.
+I dunno why my transaction get confirmed so quickly even when I put the lowest fee.
+What am I doing right?
+Or rather what's Poloniex doing right?

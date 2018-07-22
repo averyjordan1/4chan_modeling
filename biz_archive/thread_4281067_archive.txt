@@ -1,0 +1,9 @@
+What are some coins that are still profitable to mine in this year of 2017?
+Bitcoin
+Pretty much all of them, as long as you have a reasonable electricity provider.
+If you don’t want to buy an ASIC, go with XMR, ETH, ZEC, …If you want to go full-noob, use nicehash.
+Otherwise dyor and mine what you believe in, on a pool that you believe in.
+barrier to entry is like 100,000k or more probablyi wouldn't mine bitcoin even if I had the moneyI was thinking what coins are the most profitable to mine, specifically for a high end PC with a decent GUI - no ASIC hardware
+use whattomine.com and you can tell it what you have and it will tell you what to mine.
+Just use winminer.com or something and it mines for you
+Thanks for the hot tip brotha

@@ -1,0 +1,470 @@
+Holy shit am I retarded or deluded but isn't chainlink gonna be fucking huge if news come true?Swift just released this video 4 hours ago>https://www.youtube.com/watch?v=Zt5VRZ5YjeM>The first one is that we will introduce a new name screening solution, SWIFT already has a transaction screening solution, now we will be able to help our customers screen names as well, on the basis of clients, suppliers etc.
+Quite a new development, Name Screening - that's the first one.>Second one which is very important, Fraud detection this is also a key priority to us.
+We will be introducing a brand new service in terms of real time fraud detection over the SWIFT network that will come in the summer next year, quite an important development.
+>Then of course we will keep on implementing our vision to other utilities for Know Your Customer, Sanction, AML and Fraud detection within the existing services.
+Isn't this what Chainlink network is for, tamper-proof bringing data between services?https://www.swift.com/our-solutions/compliance-and-shared-services/financial-crime-compliance/sanctions-solutions/name-screening#topic-tabs-menu>Smart technology reduces falsepositives >Name Screening enables you to checkentire databases and single names ofindividuals and companies against abroad range of the most commonlyused sanctions lists, and more than 1.5million PEPs and RCAs, as well as yourinstitution’s private lists.
+This is apparently coming next summerCan we dig deeper?
+>people actually think the moon to 10k was impressiveyou ain't seen nothin' yet, people
+ Wait what the fuck?
+RT fraud detection is a major function of the decrentalized oracle network is it not?
+B I G T R U E
+ye I think so aswell
+connect the dots
+We all know Chainlink is amazingWe just need a real use case for the token there really isn't enough uses for it to be that valuable right now even if all this stuff becomes true (which is almost certainly will, swifts been using their product since early this year)
+Rory said nodes will be live Q2 of 2018.
+Fraud detection is going live summer 2018.
+>Chainlink nor Smart Contract mentionedStay deluded
+so this summer ill be rich?
+there really isn't enough uses for it to be that valuable right nowLINK is required for the entire system to work, nobody will run oracle nodes for free and the more LINK you have, the more trustworthy your oracle is.
+I feel like that's pretty fucking important desu.
+connect>the>dots
+Summer 2018 is Q2 2018. bo-bois... am i gon make it with 50k LINK?
+No, it will most likely be hovering around $3
+Sorry but if you dont thintk fraud detection is a use case you need to read up.
+It is a MASSIVE source of cost and time.
+Whole departments are set up to deal with tracking information and legitimising flase purchases claims.That is massive.
+The cost saving and efficiency alone.
+Selling some DCR as we speak.
+Could not care.
+You're dumb if you cant see the correlation.Brb Ill have a sausage type meat in a logn bun with mustard ketchup and onions.
+"Hurr durr he didnt say hotdog so its not a hotdog"
+I'll be have 2 million if its $3 holy shit
+Could easily be bratwurst.
+Your argument doesn't really fit
+ALREADY PRICED IN
+ Did you actually just switch to fudding LINK to fudding hotdogs?Is this how you planned your life would turn out?
+Arguing over cyclindrical meat types on an anonymous board?
+Bratwurst is literally just fancy hotdogsBut also what kind of Neanderthal puts all that shit on bratwurst anyway?
+kek
+already priced in.
+The same scum who put ketchup on a well done steak
+>that videoThis guys voice is the most soothing sound in the worldHow do i invest in him?
+Is it cool to put ketchup on a rare steak
+i want bratwurst now
+Isn't this the proof of work they did at SIBOS conference ?
+holy shit this is huge
+You're making me ill
+4269985Have either of you done even the slightest research into the token use?I'm literally 80% my portfolio in LINK but you have to understand the only use case we have been given for a use of the token is a factor in defining the "trust" of a node aslong with age of the node ect Swift could literally use a group of inhouse nodes they trust and they know relay perfect information and use 0 LINK tokens to do this and even if they wanted to use the token sergey has 33% of the tokens reserved for node operators that wish to use the system.So basically even you can run a chainlink node with ZERO of the tokens and it will work just the same as a node with 10mil tokens.I'm bullish on link because I see future token plans such as staking rewards and other token uses but if things stay as they are right now you cant expect the tokens you hold and trade on exchanges to be worth much they are simply just another erc20 token at the moment.I would like to see someone debate anything I've said with proof
+ETH won't be worth much cuz gas n utility token n shit
+This is now BRATWURST thread
+Another person who has no fucking idea how link works.Ethereum is needed to run the whole fucking network every single transaction fee is a use case for ethereum.Fucking hell if this is your arguement then you do realise link is an erc20 token anyway?
+so its ethereum that would be used to any sort of transfering of tokens not linkYou use 0 link to interact with a node there is no use case for the token there other than to show trust of a node like i said, as if a node goes rogue relays bad information they will lose LINK
+I would like to see someone debate anything I've said with proofI would like to see you use proper punctuation.
+I'm on a phone I don't give a fuck, doesn't change the facts and its easy enough to read
+Do you think it will hit $300 if this is true?
+you need to reread the white paper
+?
+?what you posted has nothing to do with chainlink at all
+$50 at least
+Would you plan on using a 0 LINK node then?
+No.Yes nodes can be run without LINK.
+But who on earth would use them?Stop making it out to be that USEFUL nodes dont require LINK; that LINK is nearly a positive accessory.Having LINK isn't "required" to run a node, but your node will not be interacted with without LINK.I can agree on the staking though; a pool perhaps to increase the reputation of a a group of nodes, dividend like payout of the profit.
+Another person who has no fucking idea how link works.the fucking irony of you saying this.
+read the fucking whitepaper m8, you don't have the slightest clue about how chainlink works.
+How the fuck would it ever reach 300?
+You know there's a billion LINK in circulation right?
+That's like a 3 trillion dollar market cap.
+The absolute state.
+hell even 1k linkies will make it if this swift shit is legit
+4270388Why would it matter if a node uses link or not?
+(serious question).
+What makes it better?
+Your only contribution to this thread is being posting meme's and saying link will hit $50 (which is fucking retarded even for someone bullish on link)I'm starting to think i'm the only that actually read that shit because you guys are clueless to this actual tokens USE cases and a reason for it to have value.
+Smartcontract.com and Chainlink can literally achieve everything they sought out to do in the whitepaper without ever using the LINK token and when do want to use it 33% is reserved for these companies to run their own nodes so they won't have to buy the tokens off a bunch of neets on exchanges, you can't deny that is the truth.
+I would like to see someone debate anything I've said with proofGladly.Look at pic related.This slide (and variations of it) made up half of Sergey's presentation at SIBOS.Notice how you have a series of banks from which information is drawn, as well as Standard & Poor's.There is only node directly communicating with SWIFT in this example.For this transaction (smart security) to have any kind of legitimacy, the oracle computations need to be as trustless as possible, for everyone involved (those banks, S&P, Swift, Security buyers, ...).
+That's one reason for the decentralized network (and thus the token).Another reason is this: with a decentralized network with built-in trust features, SWIFT would not have to set up a new node every time a new external party is added.And SWIFT also wouldn't have to keep nodes online for all that time they don't actually need it or its data.Make sense?If you can poke holes in this, I'm unironically all ears.
+It doesn't.. its literally just a way to show "trust" in a node.Because if a node relays bad information it would lose LINK its staked, therefore if someone is willing to stake 1million link on a node you can assume they are not willing to risk throwing away money to relay wrong information but the node network can work regardless if you have any of the erc20 tokens.
+The ChainLink network utilizes the LINK token** to pay ChainLink Node operatorsfor the retrieval of data from off-chain data feeds, formatting of data into blockchainreadable formats, off-chain computation, and uptime guarantees they provide as operators.In order for a smart contract on networks like Ethereum to use a ChainLinknode, they will need to pay their chosen ChainLink Node Operator using LINK tokens,with prices being set by the node operator based on demand for the off-chain resourcetheir ChainLink provides, and the supply of other similar resources.
+The LINK tokenis an ERC20 token, with the additional ERC223 “transfer and call” functionalityof transfer(address,uint256,bytes), allowing tokens to be received and processed bycontracts within a single transaction.
+You know there's a billion LINK in circulation right?no there isn't, dumbass.
+Imagine you want these tickets (data) to an event.
+You can go to the "licensed" ticket distributor, with the level of trust and legitimacy of that license verified by the amount of LINK they have' their reputation.You can also buy them off the dodgy scalper going around who has such a bad reputation because he kept selling the wrong tickets and he lost his license in intervals; like nodes will with LINK.
+You know he'll give you the wrong/ fake tickets, because he has fucked up these type of processes before, losing his LINK in the process.DOnt mind thr articulate fudder who's "80% in", and his claims that LINK is an accessory at best.Yeah nodes with LINK arent required.
+But to be used they are.
+SO they really are required.
+Kek the fudder is ignoring your reply
+I havent posted one meme or called any price speculation, at all you absolute mongoloid.
+I talked about uses only.
+Learn to fucking read you complete handicap.Christ you're fucking stupid.
+This
+reminder that everyone said the ripple token was 100% useless before it mooned from less than 1 cent to over 40
+what is math
+Oh FYI everyone, this is an example of what a fudder looks liek trying to sound "articualte".They take a core concept to the value of the token; not the tech.
+And then talk about the tokens functions in a speculative, negative fashion.DOnt mind him.
+He's a fucking retard.
+That is not addressing anything I said.Everything on that slide is completely unrelated to the erc20 token we are discussing.
+Listen I'm totally sold on Chainlink as a product and sergeys vision (He's been developing this atleast 4 years we know of before he even decided to host a ICO) and thats the reason why i hold 180k of these tokens.But these actual tokens that we are talking about here and trading today have no actual use in any of this or any role in any of those slides you're referring to and even if they are 33% of the entire chainlink supply is already locked away in reserve for first companies that wish to use chainlink.I'm just really hoping there is plans for staking rewards in the future as it makes sense as it's a node based token but the way the system has been designed and set up gives the token no real value or purpose atall.
+If that’s you reason for puting “80%” of your imaginary portfolio in LINK, you’re pretty retarded
+holds 180k LINK>thinks the LINK tokens are uselessyeah, you couldn't just be a dumbass FUDer with no LINK who didn't read the white paper.
+That is not addressing anything I said.But it do.You implied Swift would just set up its own in-house Chainlink nodes, meaning those nodes would essentially be centralized and they wouldn't need Link tokens.As my post explained to you, there are VERY good reasons why Swift would indeed be using decentralized Chainlink nodes.The slide shows a multitude of different parties; if Swift used internal nodes there would be no trustlessness towards any of those parties.
+Only towards Swift.And using in-house nodes would mean that Swift would be constantly setting up its own nodes for every single party to every single transaction, instead of simply finding nodes that are already online, have already built up a reputation, and are part of the much more trustless decentralized network.You said Swift would be using its own Chainlink nodes, without using Link tokens.
+And I directly refuted this point.
+SWIFT feels the threat of Ripple as their existing networks of banks feel they're not getting the value for their money as they have closely monitored the value proposition of XRP and the shit ton of money being saved.
+Whales are aware of this and wanted to buy as much Link as cheaply as they could.
+Now that the Whales are happy and SWIFT is under pressure for the constant hacks, prepare the rocket ship.
+4270569He's right though you fucking retards.
+Currently, no there isn't, but there WILL be 1 Billion tokens in circulation.
+Hell the devs own like 90% of circulating tokens atm.
+$ is too much.
+Essentially, LINK is a transaction fee, I can't see it going any higher than 10$ and that's being generous.
+Now if you're operating a master node and collecting dividends, that's a whole mother story.
+How is there no use for the token when the token is used to pay for transfer of data into the smart contract?Even if Sergey decides to hand out LINK to the first users what does it matter?
+(which we still don't know if he'll do this)It would help the network grow with this massive institutional recognition and that same LINK would still go to node operators (meaning us who run the nodes).And of course they have no use TODAY because the network is still not live, most of the crypto projects are not finished.
+Why are you talking shit about LINK when this applies to all of crypto space?
+I was going to show my portfolio with the 180k link but I think this monthly chart shows more proof that I held 180k link and that I believe in the token long term (I didn’t even sell or touch my ledger after it crashed)Tbh I’m the only one actually talking about the token and it’s use cases the rest of you just blindly obsessed with speculating about it’s value and linking sibos slides that don’t involve the token.
+LMAO THE FUDDER DELETED IT
+see
+Didn't delete it, its hereit just double posted it cause i'm on phone
+Make it $50 and we're cool.
+Anyway this transaction fee bullshit isnt really a viable argument since ETH shouldnt have mooned then.
+Remember that LINK is not only for ETH smart contracts, its currently an oracle for ETH, BTC, and Hyperledger blockchains.
+4270522Oh ok thanks.
+Makes sense.
+How does a node lose its LINK if it were to provide fake data though?
+Who decides this?
+I’m the only one actually talking about the token and it’s use casesNo you're not, see 4270466
+4270640No he isn't and anything he says should be disregarded because he is incapable of basic math.
+300*1 Billion is 300 Billion not 3 Trillion.
+tfw a fudder has 3x more LINK than you
+His point is still semi-valid.
+If link reaches 207 it will be worth as much as every coin combined is currently.
+My bad but still, that's too much don't you think
+ is delusional yes.
+50 is more reasonable as a best case scenario
+Assuming ever token is in circulation sure.
+But ETH currently has a market cap higher than all of crypto had last year.
+The market cap of crypto as a whole grows with time.
+By the time every token is on circulation it will be 2023.
+A large chunk of that is for nodes; and once they start being distributed to nodes, that would imply the network is gaining mainstream usage.Those additional tokens being released will be a drop in the water compared to the price pump Link will experience in case of mainstream usage.
+For example; XRP is currently at 10 billion market cap, even though the token isn't needed at all for any of Ripple's functionalities, and it's basically a testnet currency.If Link gains mainstream traction, a 10 billion market cap would be very reasonable to say the least; so even with all 1 billion tokens in circulation, that's $10 per Link.
+Someone posted a meme related to the game theoretical implications of Swift using Link as a proxy to counter Ripple.
+Now that I think of it, I can totally picture this transpiring.
+And as I do, I can imagine Link exploding in value.
+I'd say you negate around 30% fo that, given that the ones given to the industries are going to be to verify the industries legitmacy/ verification.
+Account for a 10% loss of those tokens (300 mill for industry) due to mistakes, so a 3% increase into the total circualting supply.
+Ball figure it at 700 million supply.
+Not a fudder wtf I'm just another investor telling you guys something you don't want to believe that the token we hold could literally be useless.The whole reason I hold LINK is cause I'm so sold on Chainlink and have so much faith in Sergey, I'm really hoping for staking rewards or other incentives to hold the token or I really can't see it ever being worth much more than a dollar.Th
+Do you know how many programmers swift and a myriad of other companies would need to employ to write custom API connectors for each and every smart contract that their customers might wish to create?
+ChainLink brings to the table an entire network of oracles for anything they might need already up and running?
+Are they going to buy tokens or hire tons of people they have to pay and supply benefits to?
+They don't need to buy the tokens to use it though the entire ecosystem can work without the token ever being used and say they did use it there is already 33% of the total supply sitting in reserves for them as per the whitepaper
+So did clear things up?
+SWIFT handles $1.25 quadrillion in transactions per year
+“It’s in Blockfolio it must be legit”, fuck people are dumb; you realise if LINK was a POS coin and nothing else it wouldn’t be worth fuck all.
+Sell your 1,800 Link and put a deposit on a double wide trailer Ricky, this is too much for you, at least “Get learnt” about investing first
+first 50 (You)s get 1000 link each
+the entire ecosystem can work without the tokenAbsolutely not.That's like saying there would be just as many bitcoin nodes as today if bitcoin were worth $0.You're crossing into braindead fud at this point.
+Not a fudder wtf I'm just another investor telling you guys something you don't want to believe that the token we hold could literally be useless.so you're saying Sergey is a scam artist
+and all that will flow through LinkHoly$500/Link
+They don't need to buy the tokensThe LINK token is literally the fucking payment system of the network...holy fucking shit dude.
+This.
+Nobody will want to make a node if there is no payout given.
+LINK is required to hold the network running
+also no mention of link or smart contract
+I'm actually quite confused why your portfolio is so heavy on LINK then.
+I mean my portfolio has a larger BTC value but i only have 50k to 60k LINK and it seems Im more optimistic on LINK's future value.
+Why do you have 180k LINK when you believe that the tokens are useless?
+I dont get it.
+If a company decides to use only their own nodes , it kind of defeats the point of a centralized oracle doesn't it?
+(You)re probably lying but still0xdc382eD8D2e5521F8AA13138814703A86e351a68
+No its the same point fucking everyone else is saying.
+You might aswell of just linked a sibos slide with SWIFT and a chainlink logo next to it cause what you said was literally the text version of that.I have no doubt swift will eventually use link they have been involved for ages in the development and there seems to be a close connection between sergey and them.But like I said 33% of the ENTIRE chainlink supply is already reserved for future node operators which could pretty much just say will be used to build swifts decentralized oracle network because we already know that's what it will be used for.
+xEE247682520be5810E8Ea4a78E52738663dc5475
+I have no doubt swift will eventually use linkGlad I was able to change your mind.>swifts decentralized oracle networkHaha what?
+yeah but eventually the supply will run dry.
+it's all you, baby0x8082a2885db413a2aeb31f13d11d9401eab1b106
+PAJEEET HERE!
+GIVE ME SUM!
+I IS PAJEET!
+Dude, just leave it be, I'm 100% this is some crypto group trying to FUD, this bullshit has been posted a MILLION fucking times by now.EVERY single thread it's the same shit:>THE TOKEN IS USELESS, PEOPLE CAN SET UP NODES WITHOUT LINKKK (like this fucking network doesn't need a payment system, people are just going to run nodes for free, amirite?
+)>THE COMPANY IS JUST GOING TO RUN THEIR OWN NODES (defeating the whole fucking purpose of decentralized tech)
+swifts decentralized oracle network>comcast's decentralized internet service>centralized entity's decentralized service
+Yeah I'd love to larp about losing 7 btc in a month holding link but sadly that is the reality, if you look at the graph its literally mirror of chainlinks graph as it does make up 80% my portfolio like I said.IDK why you guys think im fudding, I've did nothing but praise chainlink but these tokens we hold have no value now and no correlation with the sucess of chainlink right now.I guess you guys just don't want to listen to anything that isn't memes and overvalued ridiculous price speculation.
+I'm pretty sure a staking model has to happen because if companies or whatever wants to use the network, they will pay in LINK.
+However, the link supply is going to get smaller and smaller unless node operators sell back into the market.
+It'll take a long time but there has to be some way for link tokens to re-enter the market.
+fuck it 0xb8B6C520c8733f8D524A9391B14290C38883Af26
+i cant wait to see when this shit comes crashing down
+Yea that's also what I'm hoping for and why I am so deep in LINKChainlink is the only node based coin that doesn't offer a staking feature right now.
+It doesn't seem scalable for link to be used as a payment method with no way to create new link tokens.
+Rory said details for the node operations will come out in the future to address this.just my 2 cents
+Most crypto bitches are too afraid of profits.
+Dumb kikes.
+This is exactly why LINK is a great investment.
+LINK tokens will re-enter the market through selling when the price is absurdly high because of diminishing token supply.
+xa16cE290f3d5DADA27d2e92b15C7f81B7f9Ba80FKek me up.
+If there is no staking/mining method to create LINK, then yes you're right.
+The token is divisible by 18 decimals (i think?
+not sure about that 100%) which would eventually just make the price rise as supply gets lower and demand higher.
+x76acc0513c1ddd416fe09b388a31967560d88458Forgot my address w/ that pic thx anon
+But that would also make a flaw because at that point, I don't really see why node operators would ever sell since the price will just increase indefinitely.
+GIBSMEDAT0x4eb10770334283770bfdf7f47a8ddd76c753dbc6
+I don't even know how to respond to that because of how incredibly dense you have to be to actually post that.
+haaaaalp im poor0xceD372E6B77C787B1476312530AeBFE2f8c0a6f2
+x65cfa66a56ed3602b47ec41184bff8934fc0077aIk you're BSing us but I still have hopes
+sigh0xa34dc35ba202a11d26c63026090279110e5187cb
+reputation>trustlessWHAT
+Sergeant reporting init's like saying noone's gonna sell their btc even if it hits 1m$, man, people WILL take profits at some point, thats how it works, early investors take profits and pass the money maker onto other people, and the cycle of making people rich goes on.There is also no need to call that anon with doubts a fudder, it's good to have rational argumentsOf course LINK token technically could be skipped by either>running your own node - I'm pretty sure it would get more expensive especially for large institutions who would've to run multiple nodes to assure a good security level>running a node without LINK and paying to eachother with FIAT - of course it's not gonna happen, people would have to contac eachother, wire transfers techowever there are still some downsides of the LINK token, this guy here sums it up pretty well>https://www.reddit.com/r/LINKTrader/comments/7a3kwb/major_flaw_in_chainlink/?st=j9ra0pyo&sh=1969e90dwhat do you guys think?I'm already holding some LINKS pretty comfy and I think the project is a freaking genius in its complexity, Sergey is a smart mofo, but I need to go through the whitepaper during the weekend, and lurk more slack to lose all my doubts and go balls deep in it to retire in 2020
+x2ca3a5c518766b7b506ecd6babe2d53ea8cd94e9Thanks
+)0xf1a0f97e62ef27c7aad156cec48f12956f929b25
+x7536D128F9b7E6E9d04BAa37CbbD78f9397785cb
+xa55d20072982b3e6872d8688dd5ce5363ff822cb
+xB7C4e82874980633d8B20106c99c6A4120ADa6a2
+x44ade32dd5b64a00cbc57e53da817df549cd8896Thanks
+They're not talking about chainlink they're talking about bitconnect
+also thisYou have to realize how dumb this market iseven if a token is completely useless/not corelated with the product, people will still buy it based on the hypeit's all about self fulfilling prophecies herepeople treate tokens as company shares, they don't even know how 99% of all this stuff works
+thank you sir 0x1E0cABeF79e70DDaca8859e9A33b306DE1a368f9
+"Trustless" essentially means "extreme trustworthiness".Look it up.
+TRIGGERED!!!!
+REEEEE
+Which again.
+ETH shouldn't have mooned like it did; but damn it it did.So seriously is $300 per LINK too far fetched.
+Especially if this deal hoes through?!
+x26756b4c2f973CE79cfE32929bCDE840BB61424EThx if not larping
+x46E8bBA717d3307B6Ec026C9287B8717c5e5d25frollin
+Nothing ruins a thread like street shitters and fake giveaway.
+agree99% of all coins' prices even most of those in TOP10 are based purely on speculation, we don't really know how much they're worth untill the real use case demand kicks inso imagine LINK with all those future juicy announcement AND a huge use case deman on top of that,doesn't matter that it's an ERC20 token, token is just a payment method, there is absolutely no reason why Chainlink project wouldn't be worth more than ETHthat's why money skelly is secretely so butthurt about Sergey, he knows damn well that Sergey has the missing link to smart contracts.
+Vitalik has the fish and Sergey has a top calss fishing wand
+so what's the realistic price speculation ?
+2$ only?
+I'm ok with that too
+xd311669D4551E742A5e763304416893bA51e0586Thank for the airdrop
+x140b16aa988fb498e5e937219aad00bca8c5ae9fI will reply to this post if anon is the real beans
+$2 would put it below NEO's and LTC's current marketcap.
+WTF?
+LINK will totally go past $2.
+Into the trash this thread goes
+thanks anon!0xA6A18c6D42E8f00eD81Ab257020E2E1bB47B3EFE
+I don't have any more money to invest right now, so I'm hoping it doesn't moon until next year.
+They don't need to buy the tokens to use itYes they fucking do.
+Read the whitepaper you functional autist.
+thank u anon.
+0xf6873bc57e49467232136c14538a1dfb2dd7127b
+thanks anon!
+0xf6873bc57e49467232136c14538a1dfb2dd7127b
+no way is this real but here it goes 0xa50897bd8d159e76ab42b345364640a15f181d44
+You have 666,666.667 Link?Satan?
+Yes, a 300 billion market cap is too far fetched
+Ty anon!
+0x4a640dd1668f5571832d53ac9d16058abd82a31b
+Yeah $2 is reasonable I think.
+It will take years to reach its true potential.
+Maybe you should read the white paper dick head Why do you think so many tokens are in reserve?
+Do you really think any big names wanting to use the chainlink network are going to buy your bags off etherdelta?The 350m circulating supply was just to get funding.
+The 650m locked away is going to be distributed to customers, for free or sold privately.Your tokens are literally worthless.
+AMEN - Lambo Land IMMINENT
+$2 is only OMG's marketcap wtf.
+You really dont see this surpassing Litecoin's or NEO's marketcap kek.
+Not selling till at least $5 to $10.
+Amazing if true.
+Worth a go... 0x0Fe611B381e2552196103AC4DDD01de0E272F1ef
+I agree with half of your statement, but when the node operators want to turn some of their tokens into fiat or btc they will need to go to an exchange to do so.
+That's where the 350 million tokens get their value.
+xA85F8B2eD6399723E3f78B9897d5f8980e0B914C
+x20bfad462ed84208f4e0e93ee7b8801235ffe7a2PLEASE SENPAI, I BEG OF YOU!
+Do you not believe that those big names will want to buy more LINK once they see how much they can cut costs by using the chainlink network?
+It sure is nice of you to donate over a hundred grand!0xe5AC7d98ae1865FD3536668a0b4D310926cC3B07
+Their website:% going to Node Operators and to Incentivize the EcosystemDo you think that getting a fixed amount of that reserve will last for a lifetime?
+No.
+That reserve is to get them started.
+"Big names" needs to BUY MORE to keep using ChainLink.You have to spend LINK to use the ChainLink network.
+If you keep spending it, you have to buy more.
+Supply and demand dude.
+Its like giving people free heroin then jacking up the price!
+Have mercy!0x072da815ed1326c941779F34f8eac91FfEe1E8F5
+They don't have to buy much to use the network The tx fee for communicating with nodes is 1/312th of a link The network is designed to be cheap
+yeah.... or just a "free trial".
+Call it whatever you want.
+The point is that they get to test it, see how it works, see how much they would benefit from it, then spend big money buying it, creating buy pressure.The tx fee for communicating with nodes is 1/312th of a linkYou could not be more wrong.
+The fee is whatever the fuck the node operators want.
+If the node operator wants 10,000 LINK for one request, he will get that if the user is willing to pay that.
+Goes the same way if LINK price is high and the node operator only wants 0.000001 LINK per request.
+can someone tell me what ICO price of link wasim a noob here only getting started, and im thinking about going all in because i feel the meme magic is with link
+To add onto this, the companies that recognize chainlink's value earlier are incentivized to buy as much as possible before its value is recognized by competitors (i.e.
+before the price goes up due to increasing demand).
+This is why I think it's more likely for LINK's price to skyrocket without big news - companies have every incentive to keep their mouth shut when they find a gold mine.
+mil cap
+4269957>skateboard?
+apple?
+connect the dots buddy
+u will change me life#360x9801D8a67F3b4a160f4394c46bc1FaC0FE7C9433
+42709400xaa7ef14fe10bdf14b07464fc10d00027bd6e732c thanks
+xaec13a5ff93256b0eb72c6706bf5ed332e5201ddbless you
+
+Thank (you) 0x1Ff4B14adcCBa9D0D44B27d5eD5F44a96d781CF0
+Ah ill jump on 0x3f92b6ff0f737c8ae6f979b7b7b7466829d435d6
+x49D741a26EDEbBf21655C353ad7a7a2C505a9868yes pls
+Thx m80x08054549a87daf0703f14354a0ea9B108791c759
+x9c651c192dee1e85810905b30696e04a5b78d933 THANK YOU
+ty dude0x1ccba74a08769b56ed3589cbdd8e512aeaf71047
+what is circulating supply vs total supplydon't talk
+Shit just inThanks!!
+!0x63109c00ada35bf7b3c71b32e3826058d380e2ea
+heard it all before with ripple dude
+x11c749043bbe9e205c52ec0d050139c5deb8774bWorth a shot.
+I'm about 30% in LINK right now, would like more.
+Thanks anon0x445dF5e7CaFd67324A3Eaf54444288dE069B7689
+thx bought 100k
+t-thank you sir0x089D04b11f16ebCBfAaf0c01a0d616B6ac97Cc59
+(((((YOU))))))0x6f34a0060A7de4bDBEa7bc3711669c149F9a9c9C
+xc77b062f6314e640d35b2acc4a2bbfa653dd0060
+Yea right0xE3b95961D540683deeF4771cff7dE357d601D3E6
+Odds aren't in my favor on this one but who knows maybe there are people this generous in this world.0x71623366639ab5d7ed7108cb386dbebefc8784d2
+If it was so great you wouldn't need to shill it all day .
+Scammmmmmm
+Even 2$ which is really easily possible will make some people very much money.But I don't sell anyway before 10$.
+Even if I take my fucking bags to my grave.
+There is no other better things I would rather do with those 20k$ I've thrown at this sucker.
+This is the chance.
+This is actually like a lottery ticket with 50% chance of winning.
+It doesn't matter if you lose money if you have the chance to get dirty amounts of money.I have enough other money lying around, can afford a decent living and wagecuck moderately.
+I don't need those 20k$.
+They wouldn't be so beneficial in order to change my whole life situation anyway.
+So it just doesn't fucking matter if there is 20k$ lying around in cryptos in something semi-risky as an attempt to make me financially independent.People are just dumb if they prefer to buy overpriced shitty things or brand-stuff instead of giving it a shot to not wagecuck until the end of days.
+But then again, money doesn't come easy.
+Iron will, iron hands.
+bbruhh
+10$it could easily reach for 50$
+You have 20k sunk into LINKHoly shit SHIT dude
+that's the right mindsetit's either escaping wagecuckery or not, nothing in between
+Rich fag who buys coins on /biz/ if it has good memes.
+I have 400k LINK, if I set up a node q2 2018 how much will i make a day
+I'll drink to that, brother.
+if I set up a node q2 2018 how much will i make a dayNot much at all.
+Do you even have any data that people would want?
+A chainlink node isnt staking.
+I bought most of it around 1900ish.
+I am already so much in the positives, that I feel comfy like pepe under his fucking blanket.
+Best thing: I don't have to do shit.
+I afk 2 years and begin my new life.This is the one biggest shot after BTC, ETH (and XRP) to make your investment x100 to x500 if you just hold.
+Don't do anything else.
+Don't time the market.
+Don't do shit.
+Just sell when you feel rich enough.
+Don't fuck it up with your weak will so that you can't look at yourself in the mirror ever again.Just ask the people how messed up they are for selling 10k Ethers for 1000$.
+You want to be an emotional wreck until the end of your days?
+No?
+I guess so.
+Then hold.
+Probably a good 200 -300$ USD.
+But we're talking years until you reach that point.
+If you're a thirdworlder, you're set.
+But if you live in Canada or US, you're fucked.
+am I too late?
+x20c1be85f79ef976043449380316213ad51998d4thanks, friend
+hey look, another moron who doesn't know anything about LINK talking like he's some kind of authority on the subject.
+It could reach such level but only after long time when it's implemented and companies will try to buy last Links from some crazy bastards keeping it for like 8-10 years
+I gave you the benefit of the doubt and watched this.
+Nope, you're deluded as fuck.
+:o 0x745721a075b3b9099ddbe3116b43c6de6e85aaa2 if true thanks
+Damn, LINK is looking hot.It might moon b4 I'm ready.I really hope it goes back to sub-20c at least for 1 day
+42709400xbb493599c6fd44363dab13b859396686b2b57731
+i really hope you get ran over by an elephant stampede on your 2nd favorite shitting street during monsoon season, pajeet.
+4274404Thank you based anon!
+did hed delivered
+I was thanking him in advance.
+I just realized though I was 53rd and will now be looking for rope bc i missed my chance
+ Thanks, (you)'re so generous to a poorfag.0x4152efAedCa4035f9DE9318ceFE53E5c76076B75
+Bless (You)0x072da815ed1326c941779F34f8eac91FfEe1E8F5
+He didn't deliver anyway
+READW H I T E P A P E R
+Holy fuck, this is a good point.
+What oracle deems another oracle false?
+Kek notice he only screencapped his porfolio performance chart?
+He obviously gave into the FUD and literally sold all his LINK today, he bought high sold low, classic /biz/, and now he needs to FUD it so he can buy back in.
+After I've called him out he'll probably reopen blockfolio add LINK and post another screencap.
+Truly SAD>
+Hur dur my taste in food preparation is objectively superior lolll XDDDD
+In the banking industry and Swift is a laughing stock to be honest.
+They are a dinosaur and almost put out to pasture at this point.
+Everyone in the industry knows it, and I can assure you a fat coder with a shitcoin ICO is not going to save them.
+What wallet should I use to keep my LINK on?Its on binance atm 2FA of coursePC is windows so garunteed malware
+Coffee runner at Goldman?
+So you gave up on FUDing Link and start FUDing Swift?
+You're getting desperate.
+A dinosaur which is looking at Blockchain technology and getting involved.
+Do you not understand how progress works?
+Ok nice thread, bought for 1eth.
+Ico holder
+LMAO and yeah, Kodak started looking into digital cameras.
+How'd that work out for them.
+Swift is already being passed by as I type.
+Their blockchain investigating is completely inconclusive, in fact they mention "no time soon".
+Have fun holding those bags.
+I'll be making gains for the next 3yrs.
+I hate it when people larp.
+The fact is you don't work in the banking industry.
+My grandpa on the other hand ran a bank up until last year, and has quite a few friends in the industry.
+While none of them are fucking sold on blockchain technlogoy etc., not one of them shit on swift or said they were putting it out to pasture.
+They were more the mindset, "if it aint broke don't fix it."
+(You) think I'm too late?0x203F015D6A306D55230db5d12F35F89E93950eF7
+Did anyone actually receive 1000 tokens?
+I vote no.
+he has a point, why not just transfer money the old fashioned way
+50$ per LINKYou will be stuck holdin them bags forever then
+Fuck.
+Toronto weed guy here.
+How do I keep missing this shit :(Been holding and buying more this week but my rank is whack son0x08cc5c4b81f5a743c1200373ce0b0a9d57ed1f88
+Dude yes.
+Lost hard.
+shut the fuck up faggotbuy link
+I mean I literally said in the post I’ve been in since presage so I’ve technically never lost any money on LINK and you will see the graph starts recovering the date link did too.
+I really don’t know why you think I would lie about it, and I literally don’t know why you guys are so defensive.I am holding the same coin as you and praising chainlink the product, I’m just poking holes in why things might not go exactly as we expect them and showing how the entire system can function without these erc20 tokens ever having any value but you guys just say read the white paper and call me a fudder when the white paper is place I got all of this fucking information from in the first place, unironically think id of had better discussion on plebbit you guys should be ashamed
+x035949FE2617a83f12e89b92293B3331581E452Fyou're definitely going to just give away 50k link right??
+your story just makes no sense dude.
+you're holding 6 figures of LINK but you're adamant that the token is useless and you're just praying that they will eventually make the token not useless?
+ridiculous.
+the story makes no sense.
+xe847E5aF880152256c891147b7E85757F4b98118Just starting out.
+you make no sense
+Alright ya bunch of fags, I need to no shit know when LINK is gonna hit $200
+Uhh I dunno, Q3 2019
+Chainlink benefits from their business ties to Ari Juels, The World Economic Forum, Cornell, et all.Oh yeah, Swift has a partnership of more than 11,000 banks.
+Who do you think will be buying up chainlink soon?
+The banks!
+Prepare your bags boy, we're on a special space mission to Jupiter.
+On what basis do u think this?
+They've explained it to you, such as in these.
+You need to read them better if you think they don't address your points.4270466So you think the transaction costs component is negligible?
+How do you think ether should be valued, seeing as it is only gas at the moment?
+Image is pajeet-tier shill, only going to drive people away
+plz and ty0x691D4C8e597437C12c307bb4377bD65C4a863F6Flets go link
+Whatever I roll will be links end price
+no its w/e i roll
+I'd say $2 is guaranteed this month, news or not.
+congrats bro
+the entire system can function without these erc20 tokens ever having any valueBullshit.There is a basic supply and demand principle at play.I've explained the use of the token here: 4270466And you have been completely unable to refute it.Stop this "hello fellow Linkies" bs; it's very clear at this point that you're just another clueless fuder.
+I'm guessing 8k LINK isn't enough to run a node.. How much more do I need?
+I want to understand LINK more.So, in a nutshell, what you're saying is that LINK is used to pay for LINK related services?
+To use the LINK network that utilizes real life data, you need to pay the operators LINK, which in turn is transmuted to profits for SWIFT, am I tangically correct?
+Not just SWIFT - anyone who is running a node.
+Chainlink is a decentralized network of oracle nodes.These nodes are paid in Link tokens for their services.This means that if they do a good job, the network becomes that much more successful, which in turn means their Link becomes more valuable (because demand will increase).With the Link token, the value of the network is represented in the value of the token.This explains why using another already existing coin/token makes no sense.It's also important to note that users of nodes may never realize they bought Link when they pay the nodes they use.
+Chainlink is a smart contract platform, and smart contracts eat fiat-crypto conversions for breakfast.So parties like Swift, AXA, Sony, your neighbor, ... will NOT need to go to Binance to buy Link to pay nodes.
+"in the banking industry"holy fucking kek.
+what's your title then faggot?
+you a teller?
+https://www.myetherwallet.com/
+My buddies in SWIFT here in Brussels have informed me that many in the mgmt position are buying LINK before they begin a more aggressive campaign amongst their banking clients around the globe.
+Holy Hell!
+Link will explode in value in 2018 and 2019.
+Brace yourselves, Brethen!
+Salut collègue-Bruxellois.
+Tu travailles où, au juste?
+Je ne peux pas révéler ma position ou entreprise exacte, vu que je pourrais facilement etre découvert.
+En fait, je travaille comme consultant tiers et l'un de nos clients est SWIFT.
+Désolé, je ne peux pas donner plus d'infos.
+.
+Tu habites effectivement à Bxl?C'est qd-même chouette d'avoir un crypto avec tant de potentiel notamment grâce à une entreprise située non loin d'ici.Cela m'a permis de découvrir pas mal de choses en recherchant sur des sites belges.
+Just bought another 3k, nearly at 10k linkMy mind starts running away with fantasies of $50 LINK - it would change my life so wildlyThis really does have the same feel as ETH did back in March
+4281133The fuck is this, english pls
+Holy shit am I retarded or deludedboth.
+Nigga why the fuck do you have to disturb the french insiders in their natural habitat?
+I was fucking eavesdropping lie James Bond armed with google translate before you spooked them.
+Any more details about this?
+We all have, in our future, the possibility to win the lottery.Chainlink is going to become a top-10 market cap coin and in a 1-2 year time frame all bets are off.I hope you've picked out the color lambo you want
+En fait, je vis ici, croit le ou non, et je vais prendre un verre ou deux avec des amis près de Grande Place; ) Chainlink a un potentiel énorme, et sera très intéressant à observer.
+J'espère que ce projet pourra sérieusement prendre de la valeur.
+Je suis d'ailleurs pret a arrêter de travailler en tant que consultant ici.
+Trop de travail.
+scurries away in French
+Tu ferais mieux de dire la vérité à l'homme français, j'ai google translate et ma bite est dure à cause de ce que tu viens de dire

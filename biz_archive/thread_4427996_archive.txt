@@ -1,0 +1,36 @@
+Just realized that I've poured more than $25,000 of my hard-earned money into this shit and I have no fucking clue what I'm dealing with here.I kinda get the basics of Blockchain but I had no fucking clue what was going on during the fork, what Segwit2x is, the Litecoin and Bitcoin atomic swaps, smart contracts and a bunch of other shit.Can anybody who actually knows what they're doing post infographics or just explain in more detail the basics?
+Pictures and infographics preferred.
+Buy high, sell low
+
+This
+I dont give a fuck how you feel, autistic fuck>muh blokkchein>muh tekk>muh problum solbinggggo fuck yourself you emaciated metrosexual bobblehead faggotI dont give a fuck about your gayboy TEKNOLOGEEI want MONEY, thats all I fucking care about you fucking SPERG RATMONEY>muh SMART KUNTRACCSMONEYM O N E YONEY
+Hope you're not in BTC...
+Posting ininformed answers since that's the easiest way to get corrected (i.e.
+an answer)>what Segwit2x isNodes can download a small portion of the blockchain rather than the whole thing and start confirming new transactions.
+For some reason this makes things faster.> smart contracts A smart contract is basically a program with a "if... then..." routine that is solved only when the conditions are met - but it needs to be confirmed by a random selection of nodes.
+It being randomized is very important otherwise theoretically if you owned a majority of the nodes you could fudge the software to say a contract's conditions were met even when they weren't.It's important to distinguish it from crypto-currency transactions, although most of the time it will involve transferring currency, because Smart Contracts are only useful if they start using "off-chain" data.
+For example, ordering plane or concert tickets - what would happen is when you transfer the price of the tickets that triggers the ticker-seller to send you the ticket.Or with sports betting, you could have a live-feed of the scores that in real-time pays out to people who made the right predictions.How to ensure that the tickets get delivered, or that the sports scores are trustworthy is still a matter of debate - hence why the "Oracle Problem" isn't actually such a big deal.>atomic swapsThe idea is to use the scripting language native to different crypto coins to create "hash time-locked contracts" that basically perform simultaneous transactions - two people agree to a trade, and the transferring from one address to the other triggers the inverted transaction on the other currencies blockchain.
+(so there's 4 addresses involved - two on each blockchain, but only two parties).The thinking is that this can be done better by use of the Lightning Network
+I did the same thing as you last year, OP.
+I was way in over my head but I put $10,000 into Ethereum anyway, and slowly learned more about crypto, various coins.
+and how it all works over the course of the year.
+I am now worth over $800,000 because of that.
+u okay over there buddy?
+In case you are not larping.
+I'm in the same boat as you were last year, I just have even more capital which I could put into this.
+What happened in between?
+Did you do alt trading?Any good resources you can recommend for learning?
+Hope you're not in segwitless trash like bcash.
+Ask me how I know you have no idea what you're investing in.
+Maybe it's where I said "uninformed answers"?
+If he knows nothing how can he also know one thing?
+Socrates confirmed for ledditorThis was a good
+Bitcoin: historically first cryptocurrency.
+Completely outdated tech, cannot be transacted in reality because it can process 3 transactions per second worldwide.
+Yet, the coin is worth $7.6K because people think it's a "store of value".
+2X: a simple proposal to make it work by allowing it do 12 tranasctions per second, which should be enough for a while.
+Segwit: another proposal to make it work by splitting the blckchain.
+Technically, Segwit-coin is not a Bitcoin.
+LTC: Bitcoin that actually works.
+Atomic swaps: since BTC cannot be transacted, the idea is that to send BTC to your buddy, the network should BTC to LTC, transact LTC (since that shit works) and swap LTC to BTC on the other end.
+you dont have to know anything about it to speculate.

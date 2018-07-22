@@ -1,0 +1,18 @@
+How is Biz doing security?
+Seeds, passwords, etc.
+What is your way of storing these things?
+How to keep them safe?
+Hard wallet for my long term hodls.
+Everything else in my portfolio I space out across many hot wallets.
+Not gonna tell you because OPSEC
+i use keepassx and common sense
+I keep everything on my Nano Ledger, except for BTC, which I keep on GDAX (the safest exchange imo) in case I need to sell in a hurry.
+a paper wallet in a safe
+Bunch of different hardware wallets for everythingIf you don't have at least 1 hw wallet you're a poorfag
+Lain knows./thread
+I have just one MEW and use it everywhere, at my uni, at my job and in public cafes.
+what are common things which people who are unexperienced with crypto do?
+I use my brain.
+Using the same password everywhere.Exposing your private keyDoing dumb shit on the same device you keep your wallets on.Buying high and selling low.
+Ledger Nano S, but I didnt use their generated wallet since they might have a masterseed going for the adresses.I literally took 4 dices and a coin to randomly pick words for me and "imported" it into the ledger.
+Also using cryptosteel for saving the seed.

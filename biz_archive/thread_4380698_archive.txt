@@ -1,0 +1,15 @@
+How do you spoof orders on EtherDelta?I've seen orders filled way above or below the mid-market price without filling orders in between.
+Supposedly most of these are just people trading with themselves to trigger price alerts and try to fool the market.
+How is this possible?
+There's absolutely no regulations in cryptoWho's gonna stop em?
+Who do you report market manipulation to?
+Ahah enjoy the bag
+No shit, I'm asking how you do it.
+Welcome to ED mate.
+You don't fill orders placed unless you select them.
+Which is why you often see sell orders lower than the highest buy.That's the beauty of it.
+It's a shame bots get all those orders, I think a couple of /biz/lamists have managed to pull some crazy orders
+put up high buy order, sell to that high buy order.
+SImples.
+4380746Ah, okay, thanks.
+So it's really as easy as placing some ridiculous order nobody else would ever fill, then filling it yourself?

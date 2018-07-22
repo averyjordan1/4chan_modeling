@@ -1,0 +1,3 @@
+Does stop loss on poloniex actually work?
+Even when site freezes during stampede?
+If not what other exchanges have one that works?

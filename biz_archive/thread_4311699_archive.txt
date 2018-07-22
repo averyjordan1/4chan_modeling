@@ -1,0 +1,4 @@
+Thinking of getting a Ledger Nano S. I noticed it doesn't "natively" support some ERC20 tokens like SALT though.Does the Ledger Nano S allow me to access my private key so that I can use MyEtherWallet to access my ERC20 tokens?
+Does the Ledger Nano S allow me to access my private key so that I can use MyEtherWallet to access my ERC20 tokens?Yes, works well.
+Oh nevermind.
+I see there is a "ledger" option on MyEtherWallet when sending.

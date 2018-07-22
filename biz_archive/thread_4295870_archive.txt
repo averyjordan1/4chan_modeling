@@ -1,0 +1,30 @@
+1/2A couple of notes on ChainLink token value:Firstly, in response to the FUD that 650 million of the 1 billion total tokens are in reserve.
+This is usually accompanied by people saying "They'll just give those tokens away for free!
+Yours won't be worth anything".
+The 650 million tokens are divided in half.
+300m go to "the company", and 350m are used to incentivise node operators.
+For holders of the remaining 350m, here's why both of those things are good.Firstly, having a third of the tokens in the company's hands means that the company has a direct incentive to maintain and increase token value.
+Accusations that the system is somehow geared up so that the tokens won't be worth anything, suggests that for some reason Sergey et al don't want their stake to be worth anything.
+The fact that their own profit is tied to the value of the token is a good thing.
+It means they have a direct incentive to create a valuable product.Additionally, the fact that 350m tokens are set aside to incentivise node operators is absolutely critical to this project.
+For decentralised solutions like this to work, you need wide adoption.
+You can't have a decentralised system with only a handful of nodes.
+As a result, it in directly in every token holder's interests that ChainLink develops a large and robust network of node operators.
+The best way to do that is to give node operators incentives.
+"Try before you buy", as it were.
+That 350m will slowly enter the general ecosystem, and be used to get node operators on the network.
+More node operators means a more robust oracle system which means greater adoption which means more value.
+2/2Secondly, in response to speculation about the possible dollar value of each token.
+"But there are a billion tokens and all they are doing is paying node operators".
+One major thing to consider in response to this is how market caps relate to the amount of money actually performing processes within that ecosystem.
+How much of Ethereum's $30 billion market cap is actually being used on GAS or ICOs at any given time?The reality is that only a small fraction of any token's market cap is actually "doing work" at any point in time.
+The total market cap is more of a valuation of the entire ecosystem, than it is a reflection of the amount of value being used in transactions at any given point.
+When you consider that ChainLink could conceivably be performing billions of dollars worth of "work" a day, and that that value will only be a small proportion of total market cap, it is easy to understand how valuations of $10 per token within the next couple of years, and even significantly higher on a 10 year time scale, are not as overenthusiastic as they may initially seem.
+delet this, I still havent bought
+the only way to make actual profit from chainlink is to operate a node.
+to operate a node you need data that people want.
+and node operators only receive 1/312th of the transaction fee.have fun.
+Why?
+If you acknowledge that node operators make actual profit, and if their payment is in LINK tokens, then you acknowledge that LINK tokens will be valuable.
+Michael?
+Where the fuck do you keep pulling that 1/312 from?

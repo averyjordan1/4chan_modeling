@@ -1,0 +1,208 @@
+lads i know we have to pay capital gains tax when we cash out, but do us Brits have to pay taxes when we trade crypto to crypto like Americans do?
+Every trade is taxable and subject to capital gains, unfortunately.
+You will have an allowance though of about 10-11k (I can't remember exactly).
+But they still technically need to be reported.
+Losses also need to be reported.
+so even if i don't cash out, and make under $11k in the year, I still have to report everything?
+https://www.gov.uk/government/publications/revenue-and-customs-brief-9-2014-bitcoin-and-other-cryptocurrenciesYou only pay in the tax year you cash out to GBP.You have 11.3k free (this year).
+No tax declaration needed below that.If you cash and are above the tax exempt amount you need to show proof of every purchase, trade, etc.Good luck.
+When I heard about this I abandoned my trading bot and an account worth 10k.
+Can someone explain to me like I'm 6 why the fuck would you declare crypto gains?
+How can the irs know how much money you have?
+Wrong.
+Only in the year you cash out you need to report your gains.Also below 11.3k you don't need to report anything.
+Stop sprrading wrong information.The 11.3k change every tax year, usually go up by a few hundred £
+Wouldn't trading crypto for crypto circumvent this?
+4527499cheers lads, I dont plan on cashing out in the current 2017/18 tax year, so no tax for me then
+KYC, blockchain analysis, big amounts of money appearing.
+Obviously no one cares about your 10k if that's what you mean.But if you buy a house in cash, people start asking questions
+Circumvent what?
+As soon as your crypto gets converted into anything else than crypto you need to declare the gains you made
+think tenx coin, if i go buy crisps for bitcoin and they receive bitcoin i have technically never converted to fiat
+For now, they can't.
+That's because they're old and don't think the right way.
+However, blockchains are public information.
+Since our 5 eyes countries all share "national security related" information, that means shipping information too.
+Combine those things, along with government getting real cozy with companies such as amazon, and pretty soon you won't be able to use the cryptocurrency without it being traceable to you.
+Then comes the letter in the mail, the knock at the door, saying it looks like you've been hiding your finances from us.
+By the way, you got a license for your tv?
+We looked through the walls and saw you have one.
+As soon as you buy crisps you have to pay your taxes.
+“converting“ a crypto in any type of other value creates a taxable event / gain realisation.This.
+what if i cashout with localbitcoins and actually dont move anything thru banks?just hide my cash under bed and spend it slowly
+you pay VAT which is less than CPT though?
+Since when do Americans have to pay taxes crypto to crypto?
+That would work until you sold your crypto to an undercover agent.
+Don't underestimate the power the money system has.
+If they feel it's in danger, they will react as any cornered animal would.
+Also, due to such neat places as the utah data center, and now amazon.cloud.gov, everything's being recorded and squirreled away so they can comb through it later if they want.
+That is tax evasion.
+Probably a good way at the moment but who knows what technology they use in 5 years to analyse the blockchain.
+The IRS requested a “John Doe“ fepm Coinbase and won the court case - all userdata will be handed over.
+The same fate could happen to localbitcoins.
+They are regulated, although not obviously.VAT has nothing to do with capital gains.
+You buy 1 BTC for £100.5 years later you buy a car worth 20k with your 1 BTC.You now have to declare 19'900 in capital gains in that year.19,900 - 11,300 and then 20% of that.Your VAT is already in the car price - the seller has to pay that
+Kek, found the guy who fucked up.
+no you don't understand you aren't buying the car for 20k you're buying the car for 1 bitcoin, there is no fiat involved
+I understand but still - you gained buying power with your investment and that will be taxed.
+The next best thing to compare the buying power to will be fiat, so you will have to tax the difference.Sorry anon, no loophole there.
+Buy a TV on overstock?
+Need to declare your capital gains.
+fair enough i'm not saying it's right just saying it as a possibility, how would this even work though let's say you bought a car with 1 btc and then come tax time the btc is worth .5 of what a btc was worth when you bought the car.
+does this mean they then go on a snapshot taken when the coin was exchanged?
+in which case if someone was going to do a serious buy they could manipulate the btc price down in order to minimise tax
+wait new t ocrypto here, so I can't just buy low sell high like I have been doing?
+Yes.
+It is always the GBP price at the time of the exchange that matters.
+It doesn't need exact on the penny but you would need to show a consistent exchange price and a realistic price for that day.
+So, as a brit, do i only pay tax when i want to withdraw the money into my personal bank account?
+i actively trade and am constantly converting bitcoin to GBP and vice versa on the exchange, i dont need to report that right?
+You don't have to change to fiat.
+The value of the car will be taken as the realised gain.Crypto here in UK is treated as a foreign currency for accounting purposes, so it is treated as having the same effects as foreign exchange gains and losses.
+In the US they treat it as property and not currency, so there is a big difference.
+You can but if you make more than 11k in UK or any amount in US then you need to show and calculate the gains / losses of every trade.And yes, this is a nightmare, especially when you trade on different exchanges, ED, ICOs, etc.
+Can you not declare 20k capital gains over 5 years?and keep track of records that show that that 20k was indeed made over 5 years so that it doesn't go over your 11.3k threshold?
+Doesn't matter where you have your money.
+Converting to fiat is a taxable event.
+Coinfloor I guess?
+Source?
+just never cash out senpai.
+The year you “made“ the gains is the year you convert.You can hold 50k and convert 10k every year over 5 years without paying a penny.But if you trade over 5 years and then cash out you need to tax 40k, no matter when you bought or traded
+Who are you buying the car from?
+Did it have a unigue serial number?
+Car dealers have to pay taxes too you know.
+Do you think maybe the car dealership has a record of who they sold which cars to?
+"Yup, here's John G. Anon, bought the 2019 Dodge Dildo, looks like he paid with 1 bitcoin.
+Sure IRS, here's that form, thanks for letting us stay in business."
+being surprised that you need to pay taxes in the USI assumed you have not kept records of your trades, hence fucked up.US is much different, you need to declare every year, no matter if you cash out or not
+i actually use coinfloor, i've been buying/selling for awhile and had no idea i had to declare this.
+not a penny has hit my bank account, its all stayed on the exchange.
+thats why i thought it wouldnt matter
+My solution to CGT for UK people is to just open a bank account in an EU country with a more favourable capital gains tax rate.
+Use the 11k personal allowance, and if you need to cash out any more then just send it in Euros to the European account and take the hit on the lower CGT.
+Easy if you are dual citizen or have relatives or spouses in Europe.Then you can just do SEPA transfers to UK account to GBP after having already paid CGT on the amounts.
+If you are HODL and not trading then you could potentially pass it off as speculative gambling.
+i.e.
+no CGT - however you would need to buy bitcoin or whatever and just hold it.
+the only way to circumvent this is if you can show you are going all in on various shitcoins and if you get a good lawyer/accountant you can pass it off as gambling.it has not been court tested mind you
+oh shit that's actually very easy for me to do, already have a trust account in eu cheers anon.
+What about creating a company and cashing out directly into that company as an initial investment?
+cash out all to prepaid visa cards when the option becomes available.
+or just spend it after wider adoption.
+fuck off taxman.
+realised gain
+thisI chose Monaco for that sweet crypto cashback and slick rose gold card
+Surely gambling requires a realised odd with a capped risk/reward.
+I doubt the courts (if it ever came to it) would be inclined to agree that it is speculative gambling.
+Particularly if you are making a lot of money on it.
+Is this tax avoidance or evasion?
+It matters, but as I described only if you make more than £11.3k this tax yearConsider the CGT in the UK is actually really low - 20%.But yes there are plenty of ways of avoiding / use loopholes.
+But it might catch up with you if you don't know exactly what you are doing (which I assume for most anons here based on the questions)
+UK tax, if you keep all your cyrpto in Bitcoin over a year it is long term investment, 20% capital gains tax to be paid.
+No VAT as it is no longer classed as something like a gift voucher.If you make profit/loss from alt coins its gambling, you dont pay tax on gambling in the UK and you cant claim tax back from losses.
+100% your money
+who gives a fuck?!
+(government excluded)
+Yeah, after months and months of my hair falling out, crying myself to sleep, girlfriend wondering why I am not giving her attention anymore and keep staring at charts, flushing the toilet multiple times a day for "good luck", flipping my stack over and over to increase amounts but never increase in value....After all of the pain and suffering, the taxman is NOT taking any of my LINKI don't care about the social contract.
+Darkies, boomers with no retirement savings, SJW students and bennie scroungers can starve in the street for all I care.
+what about using a bunch of relatives tax free allowances?
+We don't pay taxes for each exchange, that's Germany.
+In the USA we have to show the math on each transaction in order to prove losses or gains.
+You might be lucky with that in Germany.
+They got an exception.
+When you can prove that you converted into BTC for personal use, not investment, and then hold for one year and convert back you are tax free.In all other cases they will most likely only see it as gambling when you try to claim losses back
+I pay more than enough tax from my job earnings (in my opinion), anything I can make on the side is going straight in my pocket.
+UK govt are cunts.
+% for companies ladFor regular plebs its either 18% or 28% if you are in higher tax band.And if crypto really moons then we might end up all in the higher tax rate.28% is shitty, plus it will probably push your wagecuck salary into the higher tax band too.
+I'll just stick to the 11k limits and any excess withdraw in Euros in Lithuania where my girlfriend is from and pay a flat rate of 15% irrespective of amounts.
+my man
+"gift" it,use relatives tax free allowancesuse a crypto debit carduse localbitcoinsuse a bitcoin ATMmore ways will present themself in future too
+This is wrong or no one tried it yet successfully at least.You can use your wife or spouse's tax allowance, so 22k in total
+If you can get an account in the netherlands it's 0% (I believe)
+>People still fall for this tax memeIt's the most elaborate one, true.
+But it's retarded.
+Crypto is regarded as a commodity, so selling it would be like selling a second hand car, no taxes.
+US is much different, you need to declare every year, no matter if you cash out or notYes, and could you provide a source for this?
+I'm sure I could find the records for most of my transactions if I had to, but what about stuff like shapeshift?
+Germany is cucked as fuck
+Crypto in the UK is treated as a FOREIGN CURRENCY not a commodity, faggot.
+taxable events occur in the moment of transfer, as they are 'disposals' under UK tax law, and you calculate the profit on the taxable event, which is the value of the disposal minus the value of the acquisition, so it would be 20000 - 100 = tax liability of 19900.
+can't you avoid taxes by using cards like TenX?
+You have 11.3k free (this year).
+No tax declaration needed below that.Is that another 11.3k on top of the usual 11.3k allowance on my salary?i.e can i earn 11.3k tax free capital gains and also 11.3k tax free salary?
+if you have really high holdings you could go to university in the netherlands for the sole purpose of being able to open a bank account.
+then you can cash out to it.
+Fair enough, sounds like a decent plan.Gifting it is a taxable event.Relative's allowance not allowed apart from wife.All other options are just cashing out without declaring.
+You can do that but if you get caught you're fucked
+What a homo gathering of countries.
+Nah m8 - We've been over this:It's "gambling" profits remember, and therefore not liable to tax
+yesyou may also be able to put money into a SIPP (self invested pension fund) and use that to shield some CGT.
+Also this
+He thinks you pay tax based on where your bank account is located
+non taxable as long as the person who gifted it remains alive for 7 years after the gift has happened.Its to stop old people from "gifting" their estate befor ethe die, its perfectly legalhttp://www.independent.co.uk/news/uk/politics/panama-papers-david-cameron-inherited-300000-from-father-and-received-200000-gift-from-mother-tax-a6976991.html
+I'm not american, check the IRS website, I don't have a source.Yes.
+Your salary is actually a bit less than 11k I think.CGT is completely different and a free allowance you have for shit like crypto on the side
+https://www.dnsassociates.co.uk/blog/bitcoins-tax-implications-uk
+That is inherence tax anon.
+Yes, you don't need that with a gift.
+But ad soon as you gift your BTC the gift is valued at its GBP value and at that moment counted ad realised
+>they withdraw the crypto in the ukYou guys are really stupid aren't you.Crypto is borderless.
+If you have a large enough portfolio that you'll suffer huge tax implications then cash out abroad.
+Ukraine has 0 crypto tax.
+Move there (the west part isn't bad).
+Live there for few months and cash out while creating a trail that shows you made it in country.
+Then move back to the uk.Also fuck mad slav girls while there.It's not fucking hardDon't ever pay taxes
+oh i see what you mean...grey area.
+so you persnally would still be liable for the CGTI think your wrong, respectfully.
+im not sure thoughhttps://www.gov.uk/inheritance-tax/gifts
+I see nothing anywhere about gifting money to people being a taxable event.
+Here is a questionI am a US and UK dual nationalI livein the UK and have never lived in the USA although i have a passport and SSNWhat tax implications is there for me?I dont owe uncle sam anything right?
+case specificTry to claim losses back -> gamblingMake gains -> investingThat's how it nearly always goes
+I am a US and UK dual nationalsucks to be you mate desu, drop US asap
+Gifting itself is not taxable.
+But it triggers a gains realisation and therefore your capital gains at the end of the year.Looking for a source now
+Ok but it states anything but bitcoin is highly speculative/ gambling, with high trade volume maybe something can be done here?
+% each for double dipping
+in fact - id just move to the isle of man
+I simplified the answer a bit.
+I know you pay tax where you are resident and domiciled.A way of doing it would be taking advantage of the gift allowances.e.g.
+I send Gf's relatives in Lithuania BTC, they convert to Euros, they then gift her Euro amounts into her LTU bank account.
+She then SEPA transfers them to me to GBP within the gift allowance amounts.
+Gifts to spouses / civil partners are not taxable.
+LTU / Eastern Euro tax laws are lax as fuck so gifts from her relatives into her LTU account (parents, grandparents, brothers and sisters) are tax free.
+Are you total cucks??????
+?FOR FUCK SAKEIf you had kebab stall you dont pay tax on every shit soldYearly gains minus expenses, THEN taxYou are giving up to the taxmen willingly whats wrong with you
+This anon gets it.But you need a foreign wife / spouse / charity for that
+Oh, they can fuck right off, I will just live on 11k a year.
+I have literally done thousands of swing trades.
+Blergh.
+Well, I guess I can copy and paste my trading history off the exchanges.
+Or maybe just the history from the 'one' I win big on lol.
+Honestly HMRC, I bought 100BTC back in 2012!
+promise.
+just inspect element your trading history and fuck themor OOPS i lost my 2FA code SRY
+They can't do shit about the TV unless you let them in.
+Tax is different but on the TV matter they can piss off.
+Not that I own one, I have told them this but I still get a letter a month demanding £££.
+That tv detection is a myth, it is the guy knocking on doors that can bust you if you let him in.
+Maybe if you have digital linked to the internet and they get the ISPs permission but apart from that... well unless you live in a detached house :D
+Wait hold on So if I male 100k or more in crypto And only slowly cash out 10k every year and deposit it into my banks savings accountI can get away tax free?
+Literally my plan.
+But if you're unlucky and can't prove your 100BTC purchase it might get confiscated.I think trying to cash out 11k a year is the most feasible if you fall in that bracket of gains.
+Maybe marry and make it 22k a year
+Yes.
+If it is still worth something in 10 years
+Nice idea.
+I need me a woman.
+Actually, my mate is single... 5k a year to be my husband might be enough...
+but if you have 100 BTC you'll die before you can cash it all out
+I would probs just hire an accountant and let my taxes get sorted out.I was referring to the guy who just wants to make up trades a la “I bought many years ago and never traded“
+Ukraine has 0 crypto taxYou sure?
+source?
+Be careful.
+If they think your "trading" you might have to pay higher income tax rates on your gains instead of capital gains tax.
+4528857i actually agree witth 4528857 OP you are being an english muffin, just like the rest.
+UK is too lazy to do searches like the US just fucking get some balls and do some reserach...dont cash out more than a few thousand so it doesnt look like you are trading constantlyand if you make it, sell BTC locally, for fuck sake!!!
+!just be a real business man and do what real business people dodont pay any tax; find every single way to reduce tax; consider getting a charity
+Accountants don't know anything about crypto.Most accountants are boomer faggots in suits that only know how to slap together a profit and loss account and balance sheet using obsolete software like Sage.The market hasn't even got crypto-based tax advisors yet primarily because tax authorities are so far behind the mark they don't even know how to tax cryptos properly yet.
+put money 3k in from bank>deposit 12k from exchange 6 months later>exchange you deposited from must file a 1099 form in order to be complaint with US policies>bank tips off irs that a deposit more than 10k has happened in your account>irs comes and freezes your funds for possibly years investigating all the transactions you made on tawainese sits that barely skirt by the laws even in their own country

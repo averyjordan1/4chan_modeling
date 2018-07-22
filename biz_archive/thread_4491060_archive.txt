@@ -1,0 +1,10 @@
+So I'm a bit new to EtherDelta and I think I messed up in the whole "Leave som ETH for gas" part.
+Is it correct that I need to transfer some ETH from another place/wallet to my EtherDelta wallet to make it work.Any help/answers would be greatly appreciatedAlso.
+If some kind soul could spare 0.1 ETH (or what the amount required is) for the gas I would be so happy, since I currently don't have EHT anywhere else.0x48E1c56Cd7A894a06cC133bb0f86B8C485401aFdThanks in advance guys!
+Just change your buy order to 1 gwei you have enough to do 3-4 transactions on ed
+Sorry for being a rookie, but that made absolutely no sense to me.
+You need about 0.05 ETH,you can send something back to your eth wallet from ether delta by reducing the gas fees on the right column in the top i guess.here some instructionshttps://www.reddit.com/r/EtherDelta/comments/6hrmsl/how_to_deposit_withdraw_and_transfer/
+https://www.reddit.com/r/EtherDelta/comments/6hrmsl/how_to_deposit_withdraw_and_transfer/That seemed to do something!Big thanks Anon!!
+I do all my tx at 0.1 since Byzantium fork
+And at 0.01Gwei when my wallet is synced
+>Is it correct that I need to transfer some ETH from another place/wallet to my EtherDelta wallet to make it work.YesYou need gas to take out of trading account and even more gas to take it off the wallet you are using on the exchange.Yeah you can just leave it on that wallet...Which is a great way to get your Eth and Tokens stolen.Trade some other crypto for some quick Ether at shapeshift.ioBe sure to pay enough for the transaction or you could be waiting days if it is something like BTC you are trading for ETH.Sucks to be you.

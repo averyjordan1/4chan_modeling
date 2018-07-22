@@ -1,0 +1,29 @@
+I have a few questions about starting off in crypto,wallets, security, anonymity, etc>what wallet is best for ease of use / security / privacy>how do i generate a paper wallet securely?>iOS or Android for better wallet security(about to upgrade phone)>general tips about keeping my wallet anonymous / secure?sorry for my retardation
+bump so i don't get my private keys stolen
+Phone traders....kys
+also,how is it possible to generate a private key,whether on my phone, laptop, paper or metal,without anyone ever seeing/recording my private key?
+i would only store a small % of crypto on my mobile / laptop wallet
+A wallet is just a pair of keys, one public and one private, you can write them down on a piece of toilet paper if you wish
+if it's less than 20k just spread it across a couple of the better exchanges like coinbase, bittrex, bitfinex, binance.
+They'll take better care of your keys than you while you get used to the whole scene.
+You can transfer it to cold storage at a later point when you're more familiar with the tech
+I’m kinda new too.
+Bags are:2.3 BTC5000 LINK1000 BMC(Yes you can make fun of me for the last 2)I keep my BTC in Electrum (it’s a software wallet).
+I got this from a recco on /biz.
+They have a Windows .exe and a Mac APP.
+It is NOT accessible via iPhone but may have an Android app.
+Not sure as I have an iPhone.
+Again the client works in Mac OS and Windows.
+I keep all other coins in MyEtherWallet.
+It’s a browser/web wallet (ie doesn’t require software.
+It will hold basically any crypto EXCEPT for BTC.
+thanks, but how do i actually generate a private / public key?
+(anonymously and securely)for example, if i wanted to put all my crypto in cold storage just to hodl(I want to engrave the keys on metal myself and hide that away)how would i generate the keys for that, without them ever being seen by another person / going through a computer?i'm starting with about $3k to test the waters, then i'll gradually increase over time to upwards of $30k
+USE EXODUS success
+I don't think it's possible to generate the keys without a computerYou can download the official bitcoin client, run it on an offline computer and then generate the keys
+ok great, thank you
+Also recommended on /biz (for when you get enough BTC that you want it in cold storage) is the Ledger Nano S. Google it.
+It’s a USB Type hardware wallet.
+I actually have one but had trouble setting it up and ran out of patience.
+(Again I only have 2.3 BTC right now anyway).
+I’ll give it another shot when I get to my goal of 5.0

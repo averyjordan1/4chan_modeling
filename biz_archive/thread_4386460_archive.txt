@@ -1,0 +1,121 @@
+are there any newbie crypto guides that cover everything ?
+mining, making wallets, trading, exchanges etc..
+i'll give you one right here>mining is a bad idea >MyEtherWallet for ETH and tokens and you can really just leave BTC on Coinbase>day trading is just gambling>exhanges are exactly what they sound like
+reddit ethtrader sub
+daytrading is just gamblingnot if you know what your doing and are doing it with stop losses in place.
+(If your not on an exchange iwth a stop loss feature your being scammed)
+I've got an old 6 part guide someone was posting here right before the last fork when btc was around $2500.
+Keep the thread bumped long enough for me to get to my computer(5 mins) and I'll start posting it.
+I'll write one for you.Step 1: Buy BTC.Step 2: Send BTC to exchange - 1CxZUXb9kyNwZX64Y7st4jnJ78p4gQ2mJVStep 3: Realize you just got scammed.
+sends deposits to withdraw addresses
+thanks this was fun
+There ain't no rules in this shit white Boi.
+Bump.
+I was lamenting about how I didn't buy any BTC back in 2012 when they were $40 because I was a college freshman with $0 in my bank account.
+I just came over to /biz/ to see if you guys had a crypto sticky because I want to dive down this rabbit hole now.
+This will do instead, I think.
+Go to bitcointalk.org you will find a lot of info..Good luck
+Ill state before posting, I did not write this guide.
+I simply copied it down when it was originally posted about 6 months ago because it seemed to be pretty informational.
+Also for anyone looking for a permanent link to the guide along with other info I made a discord for general Biz discussion.
+It's been dead for awhile and I'm hoping to breath some new life into it.
+Now onto the guide
+ATTENTION newbies and aspiring coiners!As we have a extreme amount of newbies that do not know what theyactually do, I thought I write something for them.
+Way too many people lose money because they miss out the basics.
+Yes, you are in for a huge wall of text.
+Feel free to ask questions, as long as I am online.PART 1/6So you are into cryptos.
+You set up your account on bittrex, bought some BTC on coinbase and you are ready to go, right?Wrong.
+Trying to get profits now is just like trying a slot machine with a high chance of winning.
+And trying to daytrade transfers almost certainly your money in the wallet of someone else.First you need the basics:http://www.investopedia.com/terms/t/technicalanalysis.asphttp://www.investopedia.com/university/technical/Read it, understand it, try it.
+This is what will indeed make you money.I don’t want to overly shill technical analysis, but this helps you to analyze and understand the history of the graph better.
+They often confirm themselves through their broad usage alone.
+And it all boils down to probabilities and anticipation - not predicting the future, because this is impossible.Again: technical analysis is more like a self-fulfilling prophecy because many people use it, it is not a physical law.Then, you need to consider news & rumors.
+Buy the rumors, sell the news.It sounds easy, but sometimes it is a bit harder to distinguish, as many things are bullshit and the devil is in the details.
+Let’s say a fan of a coin uses the technology of said coin on a counter-strike server, so the players can get coins for every headshot.
+Someone might overly shill the coin with "CS!!!
+PARTNERSHIP WITH VALVE!!!
+PRICE WILL MOON!!!!".
+This could trigger a newbie to buy at the new all-time high price (believing it rises even higher), which the newbie then has to hold for a long time or sell at a loss.
+google "bitcoin for dummies pdf" if you need to be spoonfed so badly OP
+Part 2/6Then you need a set of rules, e.g.
+:- set stop-limits every!
+fucking!
+time!
+you buy into something- don’t buy at or near a new ATH (rarely goes well)- always have a valid reason for buying (no, "/biz/ said it’s going to moon" is not valid)- never rely on single platforms alone - reddit, twitter, bitcoin forums, /biz/, blogs, news-sites etc.
+are very good if used together (stay away from zerohedge tough – tinfoil alert)- never focus on a single coin alone; diversify in at least 2 time horizons (1-7 days short (ST); 2-4 weeks mid (MT); 1-12 months long term (LT)) & reevaluate them accordingly- never!!!
+daytrade with more than 5% of your funds per week/month, if you are not consistently in the greens with these 5%- if you are in a ugly situation (like having % of your stuff being stuck) and NOT in dire need of money: HOLD THE COIN!
+The market is exploding and the burst of the bubble is months if not years away, you will at least get your money back, if you did not buy useless coins on small platformsIMPORTANT!Stop-limit-orders are not a joke, they can literally save your ass!
+Set one at e.g.
+95% of your entrance point/adjusted to the current price, when you are away from the computer or watching a movie etc.
+Yes, sometimes it is only a short bounce and you lose some money or profit, while the value goes bonkers afterwards - but most the time, it just prevents you from heavy losses or missing opportunities to sell your stuff at a good price, because you were sleeping/shitting/suffocating on a Cheeto while wanking on your possible profits while selling on a ATH.
+thanks this was fun
+thanks this was fun
+Part 3/6Now you could start to trade with e.g.
+an excel-sheet, where you insert the buy of a coin and a sale when you sold it.
+This is called "paper trading" and for just getting a feeling for it.
+Do this for some days, while you are learning the basics of analysis.Then start with small amounts - 10 dollar, maybe 50.
+If you are comfortable with that, pimp it up with stocking it up with the same amount per week or month.
+If you lose some, it won’t hurt and if you gain some, it is a sense of achievement.
+Keep in mind that there are days where you look at the charts and say "Yay, nothing to do here but to adjust my stop limits", as everything is green and fine.
+And then there are days, where you see all your stop limit orders triggered, because everything is falling into abysmal depths.Both days are cool, because the first one nets you profit and the second one cuts short your losses or triggered taking profits to enter again.
+Because remember: "if there is blood in the streets, it is good to buy".
+This say was true when Baron Rothschild made a fortune in the 18th century (I am not implying something anti-Semitic here, he indeed said and did this).Start to think this way and you get a boner when thinking about crashes.Also, remember that the meme "HODL" or "hold your coin" only applies to people that bought at a low price and are in the green even in the middle of a crash and the ones that bought at a high price and did not place a stop limit order.
+The first ones know that the price will rise further & holding the coin will enlarge their gains later.
+The second ones know that the high times will come back and then they can keep their losses small by holding the coin until then.
+There is little to no reason to see a coin crashing and not cutting your losses/grabbing the profit so far and buying back in, when the foothold is confirmed.
+Part 4/6Let’s get to some general security measures:On every exchange, take your mobile and enable 2FA (two factor authentification).
+That way, when you want to withdraw cryptos, you need to enter a code from your mobile which changes every minute.
+So even if your PC somehow gets compromised, an attacker is not able to steal your money, except when he also steals your mobile.
+2FA is the easiest and most efficient way to secure your stuff on an exchange.
+There is absolutely no reason to go without it and it should be the first thing to do after registering at an exchange.Also, keep your computer safe.
+Better not watch that pron from the dubious website on the same computer you do cryptos with.
+Or at least use a virtual machine for this and be much much safer.
+It is easier than you might think of.
+I am a finance guy and even I learned it with some tutorials from YouTube.If you start to store coins on your own wallet for holding them long term, make sure you have offline backups.
+And a backup from the backup.
+Store them in at least 3 different SAVE locations (e.g.
+one at your parents’ house, one in the cellar behind a brick and one at bank in a locker etc.).
+Be aware of the dangers of doing this with HDDs, as they less resistant to damage than a stick.Be paranoid.
+You are handling money and the number of scammers is huge.
+You can discuss and talk with other people on the internet like you always do, but never give out personal information (except your wallet address - besides someone sending you coins, nothing can happen).
+The "send me your coins, I double them"-scam is nothing but bullshit, but people still fall for it more often than you might think.
+Be aware of these things, even with dealing with people you write often with.
+Social engineering is an art for itself, which is mastered by many scammers and conman, just to trick you out of your stuff without you realizing it being bad.
+examples of exchanges with stop losses?
+Part 5/6Speaking of crazy things – here are the two most important rules of all:NEVER EVER trade with money which you cannot afford to lose.
+100k of a shitcoin won’t make the landlord happy, even if it might spike up again and get you dem delicious gains, which could lead to homelessness faster than you can imagine.
+This proves even more relevant when it comes to food - a bag full of coins is not eatable.NEVER EVER lend money from relatives, friends, colleagues, banks, neighbors or the mafia just for trading cryptos.
+If you lose money, you not only put them in financial danger but also the (hopefully lovely) relationship between you and them can get strained.No money on the world is it worth to risk or even strain your relationship to a loved one.
+Especially when we talk about the mob, you are in for a world of hurts, if you want to tell them that "THE COINS WILL BE WORTH MORE NEXT WEEK, I SWEAR!!!"
+when they come to collect their money.
+They are pretty old fashioned, I guess.And finally: don’t be fooled by thinking you can get rich fast and lay off for the rest of your life.
+"Lamboland" and "moon" are memes to entertain, they are not an accurate description what happens when you only trade for a week or so.
+You CAN get lucky and get x20 or x100 your investment in a few days.
+But you also need to consider, that you can very much lose everything, especially when you are new.
+That’s why "only trade what you can afford to lose" is such a golden rule.
+Running for fast pump & dumps will make you the bagholder for organized groups and worthless coins sooner or later.
+This is a gamble you can win or lose in a couple of hours.
+Researching and investing is more relaxing and also a secure possibility of multiplying your capital over days, weeks or months, depending on the coin.
+The number of people getting money by researching the coins however is a multitude higher than the number of people getting rich on p&d-actions.
+Part 6/6Finally let’s give you a practical homework, if you are still interested: try applying the stuff you learned with litecoin.Check how the upcoming fork of bitcoin might affect the price of litecoin.How did the prices react to past crashes of bitcoin?What major announcements are made that might affect or affected the price?
+(Hint: RUMOR and NEWS)Did it touch an important point recently?
+(Hint: ALL TIME HIGH)Check twitter how the general air about litecoin is – calm, heated with discussions or confident?What do specialized bloggers say about it being under- or overvalued?Is there something like a trendline?Draw your own conclusions.
+Or how it is called: DYOR - do your own research.
+Now you have the tools to do that.
+It might be hard, but in the long run it pays out, as there are too many people out there that see cryptos as a slot machine and not as a craftsmanship.In 2-3 weeks, if you got some gains - maybe drop me a beer in form of Litecoin, if this posts and/or the answers I give you in this thread helped you somehow to get profit out of your investments:17YxKKeag67N1WUnucAcADE8GyLjhiKactOr even better: treat yourself for a new game.Or take your dog to a walk in the park and get some icecream.Or how about going to the cinema for the movie you wanted to see for real, not pirated in bad quality on the internet.
+Take your friends with your or make some there.There are many things out there to see and enjoy - dont look at charts all day and dream about "lambos" or "moons".
+It’s the small cash outs that make it worthwhile to do, if you are not required to life from it.Disclaimer:Even if you have read this wall of text carefully and follow the advice of experienced traders, you still can lose money.
+I am not accountable for any losses you encounter while trading crypto currencies.
+Trading can lead to addicting gambling behavior, for which you should consult a professional, please – otherwise you might lose everything.
+how to make offline backups other than on fragile HDD drives senpai?
+>using THAT chart style on poloniex
+yes, its called dont bother mining for profit unless your rich and live in Asia, buy a trezor/ledger wallet, buy bitcoin and just hold, you WILL lose trying to trade alts in the upcoming market.
+Buy a new fucking HDD drive, or paper wallets.
+What are you trying to backup?
+Beautiful, thanks mate.
+I wasnt on my computer at the time the guides were posted to I just copied them to a notepad on mobile.
+Have a pepe, hopefully one you wont have to use.
+also>Litecoin
+43870434387081438711543871334387386Thanks this was fun
+Thanks this was autism
+thanks this was fun

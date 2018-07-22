@@ -1,0 +1,8 @@
+Can someone redpill me on these bars?
+Are they a histogram of the range of buy/sell prices?
+Thanks senpai
+Yup.Works like this:The body of the candle (the thick part) shows the open and close prices.
+The open/close is determined by the period of the candle, so if you have a 5 minute period, then each candle will show price action for 5 minutes.
+If the candle is red, it closed below the opening price.
+If it is green, it closed above the opening price.
+If there is a skinny part to the candle, then there was price action during the period that was above/below the open/close price.

@@ -1,0 +1,17 @@
+Could MetaMask or Electrum ever get hacked like the Parity multisig wallets did?
+Fantastic question.
+That is what everyone is afraid of.
+Partly.
+The thing with the Parity bug is you cannot escape it.
+All wallets got irrevocably (barring HF) nuked.With electrum, I believe you are also trusting a third party, but if it goes rogue, you’ll know soon enough, and if you haven’t touched your wallet in a while, nothing will have happened to it.
+It cannot be remote-nuked when it’s not running.
+Because it’s not on the blockchain.
+I'm not sure but don't have anything in Binance tomorrow
+The code of the contract was the problem.
+MetaMask and Electrum aren't smart contracts.
+W-why?
+4262027I'm also curious
+Bullshit.
+Anti NULS coin shills are out in force.
+Does parity not allow to export private keys?Couldn't you export and import to another wallet?Is this why exodus is safer?Hmmmmmm.
+Vert on Exodus when?

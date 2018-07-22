@@ -1,0 +1,78 @@
+I'm thinking of doing an investment (700-800€) and buying some mining hardware, but I would like to know some experts' opinion.
+Is it still worth it?
+What would be the best coin to go through with this investment?Also, mining thread
+>november 2017>mining
+add a zero then its OK
+I'm a poorfag so I can't make this much of an investment.
+I don't want massive gains from it, just want to ride this BTC moon mission within the next years.
+I wouldn't mind mining only alts, I just don't know which ones are the most profitable
+Stop thinking about mining, trading can yield better profits.
+This.You'll make better and faster gains just parking it in ethereum imo.Total crypto marketcap will 5x over the next year at minimum.
+No way you'll get anywhere near those gains with asics.
+The future of both BTC and BCH are also uncertain, depending on the credibility damaging fallout of their current war and if Ethereum will flip over whoever wins afterwards with a vengeance.
+I like to think long term more, short term is very unpredictable and your statement is not completely true unless I can get into some alt moon mission.
+Trading BTC isn't yielding me much money so far, but I've missed the golden days of btc
+ETH is currently overpriced, it's true value is zero.You're confusing a currency (BCH) with a scam platform that doesn't actually provide utility (ETH).
+NIGGA eth is gonna moon really fucking hard someday
+can probaly get like 2 graphic card setup for 700 euro
+mine monero
+To be honest, I think you'll make more just buying BTC and holding for a year.
+>Market cap 5x>Mining won't be profitableDo you faggots even understand what mining does?Reality: it's easy money, it's just not a ton of money.
+High learning curve to get the best returns, but that's the same everywhere.Most GPU miners who have how to videos and instructions are underselling how much they make.
+I know this because I've done a bit of it.
+It's not a ton of money, but it's long-term profitable.Get a 4 or 6-gpu capable mobo, couple of used cards, 4gb ram, and do some GPU mining.
+You can always sell the cards and upgrade if you want to go balls deep.
+The GPUs are the only expensive investment.
+Pay attention to the power use - work out if a faster hashing card is actually more profitable ($0.40/day more income but $0.60/day more cost is a loss.)
+Work out how long it will take you to recoup investments.-- Mobo, PSU, and CPU together don't cost much.
+There are setups where 1-mobo, 6 $600 are less profitable than 2 mobo, 8 $400 cards once power costs are factored.
+Learn this shit.The more transactions there are, the more miners are needed.
+GPUs can do work that others can't.
+And they can still do the others' work too.Start small.
+Get a 6-card Mobo, 2 GPUs, a shitty used monitor, diy the riser, learn what to do differently while you figure out what you're doing.
+Depends on your Electricity costs.
+Anything more than Canadian electricity costs won't be worth it.If you have free electricity somewhere you might be making some money, however, if you're trying to tap it somewhere secretly, it will take so much energy that they will notice.700-800 is only good enough for a GPU and not a real ASIC miner though.
+You do realize the only reason you've made money with mining is because most of the coins you mined gained value and that if you had just bought those coins instead of waste your parents electricity you'd have much more money.
+It has already mooned because of shitcoins
+The more transactions there are, the more miners are needed.That's not how it works, it doesn't matter how many transactions there are, the more miners the more difficult the algo, the more profitable the more miners.But companies buying 100s GPU's with cheap electricity will outperform hobbyists too easily.
+Ethereum is a few months from going proof of stake and you advise buying GPUs for mining?
+GPU hash power is going to be way higher than the demand for it in a few month.
+Mining on your personal gaming gpu to warm your room in the winter is fine but getting significant gains from GPU mining is over.
+Alpereum just shut down and you can guess why.
+Nvidia and AMD are projecting low for-mining gpu sales and you can guess why.It's over.
+ETH isn't the only GPU coin, there will always be ETC and now Bitcoin gold that will get many of the miners.
+It would be more profitable to buy those coins than to mine them though.I wouldn't get them unless you have free energy.
+But if you really want to mine badly without free energy, place them in Canada or China through some hosting thingy and buy a new ASIC Miner, maybe wait for the next.
+Mining is terribly unprofitable right now and you should definitely not do it or try and validate that for yourself or anything.
+Don't.Please.
+, place them in Canada or China through some hosting thingy 'splain please
+Good post.Generally it’s not hard to get an idea of mining would be worth it, by doing some calcs based on your power cost beforehand.
+Unless you have a terrible electricity provider, it will be "profitable", though your expected ROI (if network hashrates and currency prices stayed exactly the same from now on) will probably something like a year or more.If you only have 700-800€, you should only do mining if you personally care for the experience, because you like to tinker with computers and such, I’d say.
+On this budget I’d be looking to build a PC with 2-3 AMD cards.
+If you want to use it for other stuff as well, consider getting a Ryzen CPU too, as these are relatively good at mining Monero, besides being good CPUs.
+(Intel CPUs don’t do anywhere near as well.)
+get a nuls and wtc masternode and become a milloinaire easy.
+LookLet's dig in to BTC for exampleAntminer S9 - 1,7k $, 13TH/s, 1300kW.
+Look below at network speed.
+Marvelous isn't it?
+Let's say they release 1000 S9 miners.
+All customers get them within a month and in that month period 1000 S9 miners joins the network.
+That's my pham is instant 13 PH/s to the network.
+That means, when you joined mining you automatically loose your calculated future earnings, by contributing more to the network.
+It's not a lot, but if you add just few GH/s you automatically loose on electricity.
+Those 1000 miners are just out of thin air, I can't even imagine how many they sell.
+Mining BTC is for those who can put a lot of cash on instant.
+Let's say you bought 10 S9's, that's 17k USD.
+130TH/s and estimates around 5k USD per month, 4-5 months to break even, and everything else pure profit.
+Estimates 67k USD per year.
+BUT IF BTC PRICE STAYS SAME OR GOES HIGHER.That's bitcoin nowadays.For something like you would be wise just to pic promising alt's, buy some for 100$ each and forget about it.
+If you really want to set up mining rig, do it with GPUs.
+1.
+Give 0 Ducks about the coin you are mining.
+I run a script that checks the current prices, pool fees and exchange rates.
+It then starts to mine the coin with the best $ per kW/h ratio.
+2.
+Benchmark your cards with all the coins.
+Coin hash X might run better on your GPU then coin hash Y.
+Also the relationship between GPU mining efficency and power usage is not linear.
+A underclocked GPU might mine 10% slower but consume 20% less power with a given hash or mine 20% faster while only drawing 10% more energy when overclocked.

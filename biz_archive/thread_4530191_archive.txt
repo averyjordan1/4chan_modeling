@@ -1,0 +1,1 @@
+Does Blockfolio actually update the fiat value of your wallet to reflect the USD value of BTC/ETH?

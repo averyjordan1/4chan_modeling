@@ -1,0 +1,1 @@
+>send $100 of ETH to kraken>confirms okay>attempt to buy XMR on 5x margin>only 2x is available>ok buy $200 of XMR on 2x margin then>Your order may have failed>try 5 more times>Your order may have failed>Your order may have failed>Get frustrated and decide to widthdraw>pressing eth on the widthdraw tab does nothing>refresh the page erroris this the worst exchange ever made?

@@ -1,0 +1,7 @@
+Talk about not promoting LTC wtf https://twitter.com/SatoshiLite/status/930342356984913921Update on Confidential Transactions (CT) by Greg Maxwell: https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-November/015283.html …Previously CT txns are ~16x size of normal txns.
+New breakthroughs by Benedikt Bünz and Jonathan Bootle results in only a ~3x size increase.
+CoinJoin can combine txns to make this negligible!https://twitter.com/SatoshiLite/status/930343030342561792I'm excited to see progress on Confidential Transactions.
+Fungibility is the only feature of good money that Bitcoin/Litecoin is missing.I look forward to adding this to Litecoin when it is ready.
+And this can be done with a soft fork.
+Stay tuned!https://twitter.com/SatoshiLite/status/930352553203658752Primary advantage of CT:- no new cryptographic assumptions- high performance- no trusted setup- no forever-growing unprunable accumulators
+Charlie sucks almost as much as Litecoin itself

@@ -1,0 +1,10 @@
+What should I set my BTC limit order to in anticipation of a small dip this weekend?
+It's not gonna dip $1500 because of another BCH pump and dump.
+At most, maybe $300-$500 is what i'm guessing.
+Should I set my buy order to $7700?
+Also, what exactly does the difficulty adjustment in BTC mean?
+How could this be good for BTC?
+Bad for it?
+difficulty adjustment for BTC doesn't matter, because BCH now adjusts every block.
+If miners "flock" to BCH, it will instantly get more difficult, making it less profitable, and miners will go back to BTC within the same day, or even within hours.So the problems with long wait for transactions and really high fees is not going to happen (unless they just spam the mempool)
+This sounds truthy, but is actually wrong.As long as the difficulty increase in BCH is slower than the price differential increase between BTC and BCH, BCH permanently steals miners from BTC.This kills BTC.

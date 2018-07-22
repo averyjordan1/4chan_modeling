@@ -1,0 +1,3 @@
+I need a site or an App what everyone can visit but I am the only one who can edit it.I need a value-databasethe only thing I need on this site/app/bot is to read valuesEx : Value1 = 64etc.How can I create a site/app/bot like this for free?The best answer will receive 10$ worth of Ethereum.
+I was thinking about these ideas so far :Making an Online Ms.Excel documentCreating a Wix site where these values are storedCreating a Discord bot which can store these values.
+(I have the Discord Bot maker on steam)

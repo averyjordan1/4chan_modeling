@@ -1,0 +1,3 @@
+i want to securely store my 24 word seed electronically, while getting around the fact most hardware is backdoored.
+i have my coins on my ledger, but dont want to store the backup on paperi was thinking about creating several Tails USB sticks and storing the words in a keepass DB with networking disabled.isnt this the only way to do it with 100% transparency?
+Bitcoin Core on Libreboot t400everything else is a scam

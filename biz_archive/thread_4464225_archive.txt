@@ -1,0 +1,22 @@
+The latest update from COSS was bad news.
+I dumped everything after reading because it is going to go down a long way from here.Key points from the update and what they mean:- the UI "sneak preview" is terrible.
+As another anon said, it looked like a graphic design intern's weekend project- Rune said the new UI can not be built until the new backend is in place.
+So there will be minimal updates to the UI until the entire backend is rebuilt- There are *three* remote development teams building the project.
+The project knowledge is split across three remote companies, which move team members around between internal projects.
+Every time they add a new developer to the remote team there will be a ramp-up period before they can start delivering value.
+Dev progress will be *slow*- Fiat gateways - the only reason anyone bought this crap - are basically postponed until they can fix the foundations.
+Fixing the foundations means... getting the three remote development teams to rebuild the entire backend- Rune said he is currently getting quotes for rebuilding the backend.
+i.e.
+the development process hasn't even started yetIt will be Q1 2018 before they even start building the new backend.
+Let's say they finish it in Q2 and then start the UI.
+Then maybe Q3/Q4 start working on fiat gateways.
+So they will be stuck with the existing UI for over six months, and the most promising feature won't even enter development for almost a year.
+The idea (exchange with profit sharing and fiat gateways) is amazing and will see lots of competition, but I don't see COSS taking the lead in this space.
+By the time they get to launch fiat gateways a new team (with in-house devs) will have eaten their lunch.
+Should I just sell?
+Honestly it doesnt look too bright
+Yes sell now mr and buy powr
+I did.
+I took a slight loss, but that is preferable to HODLing while it bleeds out for the next nine months.
+I've lost so much buying 30k at 20c I want to kms.
+Still holding for the past month but fuck

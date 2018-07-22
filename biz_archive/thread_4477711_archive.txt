@@ -1,0 +1,5 @@
+https://tether.to/tether-critical-announcement/Yesterday, we discovered that funds were improperly removed from the Tether treasury wallet through malicious action by an external attacker.
+Tether integrators must take immediate action, as discussed below, to prevent further ecosystem disruption.$30,950,010 USDT was removed from the Tether Treasury wallet on November 19, 2017 and sent to an unauthorized bitcoin address.
+As Tether is the issuer of the USDT managed asset, we will not redeem any of the stolen tokens, and we are in the process of attempting token recovery to prevent them from entering the broader ecosystem.
+The attacker is holding funds in the following address: 16tg2RJuEPtZooy18Wxn2me2RhUdC94N7r.
+If you receive any USDT tokens from the above address, or from any downstream address that receives these tokens, do not accept them, as they have been flagged and will not be redeemable by Tether for USD.

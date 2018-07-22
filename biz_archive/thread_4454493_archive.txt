@@ -1,0 +1,10 @@
+3,000,000 max supplyCurrently $0.02 per tokenWhat is it?
+"At its core a prediction market does two things - it allows to create predictive assets (tokens that represent a specific real world even and which will have a guaranteed value of 1 unit if this outcome happens - 0 otherwise) and second the trading of those assets.
+Since Nucleus it will be a open platform those assets can be traded on any exchange (decentralized exchanges, centralised exchanges or even services like “Shapeshift”).
+However - predictive assets have some properties which make some market mechanisms more effective - like the use of automated market makers that guarantee to provide liquidity.
+Those mechanisms will be the focus of the Corethum team but will actively contribute to making predictive assets tradable on many places.
+"Whitepaper:https://docs.wixstatic.com/ugd/eb1f0d_79f41774545047a18698ed7e54daea5e.pdf
+>predictive assets
+You never know with crypto so I put in a measly 30USD
+Thanks OP, picked some up.
+meh, lied about airdrop, what is to follow

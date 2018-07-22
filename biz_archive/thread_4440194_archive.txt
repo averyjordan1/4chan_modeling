@@ -1,0 +1,38 @@
+Fellow linkers I want to ask:- When is the main net getting released?
+Any info?
+If not, any estimate date of delivery?- I would like to run a node, should I start working on it now or just wait until the thing ackchually works?- Did anyone here already went through the node setup?
+Is running it on a VM enough?
+Wouldn't be better to run it on bare metal?
+running a node means you will have data that people will want to pay for.
+what data do you possess
+Tons of memes.Also I'm pretty sure that's not how it works.I forgot to ask: what ports do you need to open?
+It's exactly how it works.
+The node connects to an API or data source and that information becomes available to the blockchain.
+It's why they want to be get companies with valuable data on board because it increases the value of the network by having that information be available.
+There is literally no reason to run a node unless you have some information to offer.
+I went through Thomas' instructions on the VPS setup.
+It worked..mostly.
+I have issues with geth spiking more cpu consumption than the specs say it should.
+Not sure why.
+But supposedly the current tutorial of using one machine to operate the node won't be suffficient once the system is live.
+You'll need to offload api adapters to separate machines.
+Would probably be preferable to go VPS route unless you have a high end setup with a generator in case of power outage because you will be fucked if your node goes down during operation.
+Much better to let someone else be responsible for the hardware
+the APIs are going to be available online for that stuff m8don't know why you people don't think regular people wont be able to run nodes
+yeah, anyone can setup an API adapter, you just need to be given permission by the data provider.
+It might cost something, though, so there seems to be some risk or complication involved for the operator.
+Obv you take the cost into consideration when bidding on a contract, but it does create some complexity to the process
+Your pc will be connected to the servers that has all that data.
+Imagine if I provide my own data and cat throw any random shit at it.
+Kek.About the outage thing I think you get higher priority if your uptime is high but now that you mention it I wonder what happens if something happens with your setup during an operation.How can I contact the CL dev team to ask about this?
+I would assume it gives that operation to the next available node but I have no idea honestly.
+slack
+What kind of hardware is it going to take and how much could it cost??
+node operator channel on slackWell, I think that since there will be many nodes pulling from the same data source as you, if you drop out, the rest of the nodes will continue without disruption.
+But I think uptime will be one of the most critical factors.
+I expect that if you go down during operation, you won't get a second chance.
+So these nodes will have to run 24/7
+I expect that if you go down during operation, you won't get a second chance.That would be to harsh.Can you link me the LINK slack chat?
+I think you can get an invite to the slack channel from rory if you contact from the smartcontract website
+I live in an area that will lose power a few times a year; don't want that to be a concern.
+Any ideas for working around this?

@@ -1,0 +1,15 @@
+Does anyone have any advice for arbitrage trading using cryptocurrencies?Currently I have a program written that will trade between Poloniex, GDAX, and Gemini.
+My issue is currently that when I move ETH, it takes about 2 mins to actually trade (well, way longer on Poloniex).
+Currently the delay is too much, and it kind of defeats the whole purpose.
+Do any of you here in /biz/ do arbitrage trading with cryptos and have any advice?
+Wouldn't you want to keep stacks of USD/ETH/BTC/BCH on each exchange?Then you can instantly buy up on exchange A, sell off on exchange B, then, with some time and transaction fees, rebalance.
+See, I've thought about doing that.
+I have no rebuttal against that, but would I have to keep both BTC/ETH on every exchange or just one of the two?
+Depends if you're consistently buying off one exchange, like it's got really good prices or something.
+Then your flow is going to be mostly one way.Really though, you should run the numbers on transaction and trading fees.
+Check your margins, see how much volume you need to push.
+That'll matter more than min-maxing your wallet balances.
+(Donate my consulting fees to a local animal shelter)
+transaction fees are so high on most exchanges you can't make a profit from it.1.5 % tx fee means there has to at least be a 1.5% price difference.for bitcoin that'd be ~ $100 differential to break even.
+(Donate my consulting fees to a local animal shelter)Can do, but I have to make the money first.One last question, is there an exchange that confirms faster than others?
+This is definitely viable with ETH having a confirmation time of 20 seconds or so, but are there any exchanges that will confirm faster than others?

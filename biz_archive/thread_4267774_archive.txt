@@ -1,0 +1,22 @@
+ITT : you try to explain blockchain technology and bitcoin without looking on the webLet see if the average /biz/ user knows what he is investing into or just larping hard to pretend what is going on
+BIIITCONEEEEEEEEEEEEEEEEEEE
+blockchain good you buy now make rich yes
+Decentralized ledger.
+Each miner verifies transactions.
+Transactions must be verified by the majority of miners.
+I have no idea how verifying transaction get you money, I just know that it behaves like a stock market.
+This
+I'll bite.A blockchain is a history of mailing code to another.
+As the code gets written, it gets scrambled with some sort of incompletion to it.
+In order for the code to arrive, a miner needs to read the code and throw algorithms or numbers at it to descramble or complete it.
+Once it gets completed it is added to a public history of all mail.
+They are then awarded with code(coins) that gets written out of thin air, but there's only so much coins that can be written.The more mining that happens, the more difficult codes are to descramble?This is literally how it is portrayed in youtube videos mind you, and that's all I've looked up about it.Well there you go OP.
+I'm pretty sure this is the response that you were looking for.
+glhf
+A protocol that process information through every single server connected to the blockchain network as opposed to one centralized server
+Source
+>send coin to friend>coin travels through a giant group of pajeet middlemen on the way>friend receives coin>friend sends u malcolm in the middle season 2 dvd in exchange
+GPUs or ASICs throwing random inputs into SHA256 hashing algorithm until it stumbles across the right one to verify the transaction.
+That's my understanding of it.
+Huge waste of power to do all those dead-end-calculations which is why I like the low energy and efficient PoS verification method.
+Don't ask me how that works though, because I understand it even less than PoW.

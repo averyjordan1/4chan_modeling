@@ -1,0 +1,24 @@
+0x47ca7dc9336c0fb403f18b39ff29f5c5532744b0I made this, and I am shilling, but I think it's pretty cool.
+It's a ERC20 token that can only be "mined" by calling the contract's mining function, during the first week of each year for the next 120 years.
+I think it will cost about ~$3 worth of eth to mine 100 tokens with each call starting on New Year's Eve at midnight eastern standard time.
+Each year the mining reward will be split and the total available, starting at 10,000,000, will be split every 5 years, with 100,000,000 tokens total.
+Damn thats really cool OP
+ok, you fucked up OP.
+a year in crypto is like 10 years IRL.should have called it Friday Token or something rofl.
+or weekend token.
+where can i sign up, awesome love it
+there is no signing up, you call the contract mine function between midnight on january 1st and midnight january 8th.
+The easiest way to call the contract is to make a wallet at myetherwallet, put some eth in it, then go to the contract tab and paste the contract info in, then there will be a drop down menu and one of the options is mine, you select it and pay the txn fee and if there are coins left and it is the first week of the year, you will get some.
+What time zone will the new year be based off?
+Eastern Standard Time USA
+Will this token be worth anything just wondering
+already got mew.
+I like this it's like a collectors coin, rare
+I just made it as an experiment, I have no idea if it will have value.
+It will cost money to mine though.
+Nice job, love the idea
+Cool, I will try to collect some!
+Hopefully the "rarity" of it makes it worth something.
+Thanks, it is also pretty much adaptable to make into any kind of scheduled mining function, such as holidays and stuff.
+New dayNew shitcoin
+jojo token>calling it

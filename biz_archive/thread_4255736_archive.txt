@@ -1,0 +1,42 @@
+https://www.reddit.com/r/raidennetwork/comments/7aia4b/gnosis_invested_3500eth_tried_investing_5000eth/Stop buying shitcoins and get on a real moon mission
+https://etherscan.io/address/0x198ef1ec325a96cc354c7266a038be8b5c558f67 - this one invested 6k ether and it is probably Vitalik himself as the address had received 600k+ eth from the genesis blockhttps://etherscan.io/address/0x00ee4bb1c662180b3c76045e630e4d46a79709d3 - There is a huge chance that this is a Poloniex account.
+Most of the transactions lead to Poloniex corporate accounts some of which do not transact with user accounts but only have internal poloniex transactions.https://etherscan.io/address/0xa3ae668b6239fa3eb1dc26daabb03f244d0259f0 - Either a huge Chinese whale or Yunbi exchanges itself.
+Just explore the transactions on this one.
+Practically all of them are conected to Yunbi corporate accounts.
+Thats right, motherfucking poloniex and vitalik invested in this shit, if you dont buy this you dont deserve to be rich
+already 50mil mkt cap- priced in
+The tokens are worthless.
+Vitalik hates Raiden now lmao.
+Raiden has competition anyways and their product is at least 6 months from being finished.
+This.
+Get rekt, you invested in a greedy cash grab.
+This is all good and well but the token has a hard limit to its price appreciation which will be pegged to the actual electricity/hardware cost of running a verification node.
+Given the dutch format auction and the last minute buys, I think people in the know calculated a profit from this almost-constant value and decided to commit an amount that wouldn't push the token past its appreciation limit.I suggest tracking the big holders and mimicking their moves, there's no other way to profit from this.
+How are more people not talking about this?!?!
+Also isn't this token used for governance as well?
+Giving it more value than purely utility value.
+This team has so much on their Github as well.
+Rly impressive https://github.com/raiden-network/raiden
+https://www.youtube.com/watch?v=aMs0wAFIu7I&feature=youtu.be&t=3h57m30s
+Governance is the only thing it's used for.
+At least with a token like ZRX (0x project) you need ZRX for transaction fees.
+Raiden is free to use though so the token itself is worthless.
+That's why vitalik was so pissed and everyone said it's a cash grab.
+Well XRP is useless as well and look where it got.
+I still think it can pump, just be aware that the fundamentals don't allow for a real moon mission(tm).
+Guys think.
+Would Vitalik hate justany rubbish ICO?
+Heis pissed because Raiden is most advanced LN solution for ETH and in the cryptospace overall.
+They have over 100k lines of code on github and are running this project since 2 years.
+All other solutions are in the woods with just whitepapers and maybe some mere prototypes.
+While Raiden is launching their product (micro Raiden) this month and the whole network is just months away.
+He is pissed because he wanted them to work as part of core Ethereum project.
+The thing is he can't do much about it because they are bringing a vast upgrade for ETH network and soon everyone will be able to use it.https://www.reddit.com/r/ethtrader/comments/7676wj/misconceptions_about_raiden/
+The FUD for Raiden is real.Raiden basically had to do an ICO because they are a privately owned company and they NEEDED some way to hold value in their product - hence the token.
+It's cool that people wanted them to work for free/donations but that is generally not how it works.Also, I see alot of shit about Plasma vs Raiden.
+This is lolz.
+Plasma is a sub-chain solution to the scaling problem.
+Raiden is an off-chain solution which provides low-latency transfers.
+They are complementary to each other.The only thing that can stop Raiden now is the state-channel solution that Vitalik is funding.
+As far as I know there is no ETA on that, so who really cares.
+hot dog

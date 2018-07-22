@@ -1,0 +1,11 @@
+Is anyone keeping their coins on native segwit addresses?
+Currently only Electrum supports them.
+how can i make a segwit adress on electrum ?its currently empty so why not
+You need to create a new wallet and use a segwit seed.There's no other wallet that supports them yet, so you can't send directly to a native segwit address from a non-Electrum.
+Native addresses start with bc1.
+Here I go: moving some coins to a native segwit-address.I'm scared.
+so whats the use then if i cant use it to send coins to bittrex n shit
+You can send to any address you want, you just have to use Electrum.The only problem is receiving payments to native addresses.>Wallet that isn't Electrum -> native addressdoesn't work.Read > https://btcmanager.com/electrum-3-0-first-wallet-enable-bech32-segwit-addresses/
+Ledger hardware wallets support them too.
+Bitcoin Core wallet and most that are based on it as well, you just have to set it up manually
+I think they only have non-native segwit addresses, those start with a 3.Native ones start with bc1.

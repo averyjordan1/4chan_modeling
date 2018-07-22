@@ -1,0 +1,2 @@
+Probably the first Cryptodebitcard that will allow ZCash transactions.
+Isnt't that the last thing a token focused on privacy actually needs?

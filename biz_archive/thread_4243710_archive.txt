@@ -1,0 +1,21 @@
+I found a wallet.dat file on my old hdd that dates back to 2013, only thing is I have no idea what coin it is for.Does anyone know what it could be, I have tried loading it in bit,lite,doge qt's and they all seem to just crash.Someone help pls
+LITECOIN YOU STUPID FAGGOT.
+They all say the same thing, client crashes and writes this in the log2017-11-08 05:15:55 *** System error while flushing: CDB: Error -30974, can't open database wallet.dat2017-11-08 05:17:15 CDBEnv::EnvShutdown: Error -30974 shutting down database environment: DB_RUNRECOVERY: Fatal error, run database recovery
+I'll fix it, email me the wallet.dat
+What r u offering
+Sent "^)
+NamecoinNovacoinPeercoinpls donate if I helped1DacqTuwzzeUajNd9gHo9Uwe9HuX9bgkVt
+go to coinmarket cap and check what coins were around at the date start from the top and go to the bottom.
+wasn't many in 2013
+I'm in a similar position as OP.
+I have an old Litecoin wallet.dat.
+I have the address saved on a word doc, and when I look it up, nothing shows up on the blockchain explorer.
+It definitely existed, but it shows nothing.
+This is from 2013
+OMNINXTQuarkFeathercoin
+searching the tranaction shows nothing online, usually something comes up.Does this mean the wallet is encrypted?
+also, this is what happens when the wallet tries to load in bitcoinqt, now it is "rescanning"
+]Someone can transfer to me some cents to i see how it works?1Q41qU92x26TxWajA4EspNzU56cJFjYoFf
+does anyone know what it could be,>Litecoin Core>(LTC)nah m8 haven't got a fuckin clue
+I have tried it in Doge Lite and BItcoin core, they all crash.
+Try exchanging the word opinion with your wallet.dat

@@ -1,0 +1,6 @@
+Long position on IOP.
+Support starting to form.First target - 0.00058-0.00060Second target - 0.00125-0.00140
+The Internet of People (IoP) is a complete infrastructure for apps and payments that is not server based.
+Instead, it is completely decentralized and based on nodes.
+Those nodes could run on home computers or even smaller devices like a Raspberry Pi (fully) or smartphone (in part).The IoP token is a currency that is used for payments on the IoP.
+It also grants holders a share in the Internet of People as a decentralized autonomous organisation (DAO).Bluepaper and roadmap is coming in 1 day 1 hours.

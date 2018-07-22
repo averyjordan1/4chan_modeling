@@ -1,0 +1,15 @@
+how does the pricing on amazon (and on online selling sites) works?
+it fluctuates a lot, even on the same day.Also how to interpret price trackers?
+sorry I'm a noob
+bump
+What is this that we're looking at?
+Kinda looks like NYC skyline 10th September 2001
+what coin is this?
+4266124it's an extension for firefox/chrome that keeps tracking of amazon prices fluctuations, it's called keepa.You go into a product page and this graphs will pop out.
+I found this because I'm trying to buy a laptot and I'm sick of fuckheads sellers (amazon included) changing prices every fucking day: which is why I'm asking here, how does this work, the online pricing of goods?
+Oh, okay.
+I never knew that existed, thank you.I wrote a script years ago to arbitrage used laptop prices on ebay - it turned out that the same laptops would be cheaper on sales ending at certain times of day than others: basically buy late evening, sell it next day between 2-3pm.
+The difference was about 23%.
+Never carried it through because reconditioning was a chore.Anyway, I would imagine doing this at amazon means doing it to several company's selling the same product and seeing who's best.
+Also if poss look back a year and see if they were 'holiday pricing' esp if they drop prices right after.
+it might change based on cookies / tied to ip traffic on Amazon or it might grab other meta data

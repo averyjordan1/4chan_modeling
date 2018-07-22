@@ -1,0 +1,4 @@
+I built a tiny PHP bot that will simply market buy an amount of coin for me on Bittrex when I run it.
+Since Bittrex doesn't have a market buy option by design, and since it takes like 10 seconds to load the exchange page, I'm hoping this helps me get ahead of the crowd during PNDs like Teeka Masala's big pick tomorrow.Am I going to fuck myself when I jump on Mr. Tiwari's Wild Ride like this?
+I'm worried an army of bots will somehow modify the entire order book microseconds after the pick leaks and my bot will end up buying the coin at 10x the pre-pump rate.
+You should definetely try your bot with some test data first, and make sure it acts appropriately.I too have built a bot for this purpose ;)

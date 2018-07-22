@@ -1,0 +1,11 @@
+What will we do once 1 sat is worth 10 cents.
+Cant divide it any further
+Lightning network enables sub-satoshi payments by e.g.
+a 1% chance of paying a satoshi, such that it all comes out on average.
+Or a softfork or sidechain could give us another 10 decimal places, to math ethereum's 10^18 divisibility.
+It can be divided further if they want.
+We don't want that though, as the circulating supply could effectively 10x and devalues bitcoin.
+This is the whole point of scarcity.
+million USD per bitcoin.hrm I think we got bigger problems at that point.
+Hard fork more decimals.
+Another /biz/tard that doesn't understand multiplication.

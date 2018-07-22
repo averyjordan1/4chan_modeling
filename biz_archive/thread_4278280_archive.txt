@@ -1,0 +1,40 @@
+I've been working on my own algo for months and it hasn't done shit for me, but I tweaked a few settings and suddenly it's up 20% in the last few days.
+I think I'm finally dialed in.
+My robot butler is going to personally serve me up my first crypto million while I stay comfy in bed and fap all day to futa porn.
+I'm gonna fucking make it, guys.Who else /algotrading/ here?
+Been looking to make my own bot, what language would you recommend?
+c++?
+couldn't you have just held almost any alt for the same returns?
+no, you fucking idiot.
+it's the 'segwit2x is kill' bounce.
+I wrote it in fucking php because I'm autistic, but I would probably recommend python, seems like what all the cool kids are using.
+you didn't backtest your algorithms?this lmao
+Python was my other choice but I'm not sure how much the difference in speed might matter.
+wrote it in php>doesnt backtest>will go all in now because of the alt bouncenigga you could have picked random shit out of a hat and made 30% gains yesterday.
+looking forward to hearing how your butler sold bought 1 LINK for 10 BTC because you fudged a decimal.
+If you're writing a program to manage large amounts of money the only language you should be using is Rust or if you're autistic, Ada.
+4278340No, fuck all you, I backtest all my shit on multiple chunks of data to make sure I'm not just overfitting to a line.I don't think speed matters too much, PHP can backtest a case on two months of 5-minute candles for 200 coins in about 10 seconds.
+Suits my needs just fine.
+Sound good then.
+I hope you know what you're doing anon
+Alright nice.
+One more question, do you have to pull all the exchange data yourself in real time?
+Some exchanges API's I've seen don't keep say the 5 minute data for longer than a certain period.
+I hold the positions for usually 6-12 hours and it's not imperative to check them every microsecond for movement.
+I scan everything on bittrex once every five minutes, and yes, I just pull down candles from their 2.0 api.
+They keep 20 days worth available, more for longer intervals.
+The problem is this: Would you let a human trader who have made huge gains in the past trade with your money?
+1 - It could have been simple luck.
+2 - Due to the non-stationary characteristics of the market, he may fail to reach the same success.An ideal validation scheme should be able to come up with a likelihood of success (e.g.
+a number between 0 and 1).
+The difficulty with implementing that is what the other posters mention: Even a hodler makes great gains in some times.
+One could argue that in our case, this is not limited to the segwit2x stuff.
+When you zoom out enough, crypto prices just keep increasing, so you might have written a hodling bot.
+you might have written a hodling botThe future is truly now.
+I'm currently working on an algo with python.
+I'm very interested on what metrics everyone is checking, and how often?
+Personally, I intend to use purely live data, based on volume, bid, ask, open buy, open sell.
+Using these 5 points I hope to make micro trades many times a day to overall cut a profit.
+I am trying to create a relationship between those five metrics such that my bot can determine when to trade, and how much (which will be solely based on data within the past x minutes).Am I a retard?
+Should I just use historical data to build support and resistance lines to try and have a better chance at this?
+This is my first time and I know it will take a lot of failing to get it to where I want but I feel like once your bot makes 1-2%/day then you're set.

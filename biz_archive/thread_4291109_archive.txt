@@ -1,0 +1,72 @@
+I'm waiting for over 50 minutes..does this make sense?
+hours
+no for real
+You have no idea what's happening, right?The whole BTC-BCC crypto drama, am I right?
+i knowso miners are all at BCH and i'll waot npw for hours?it's jsut that iv'e never waited this longover 1 hour..so it can be much longer?
+>four (4) transactions per minute
+wait* now* for hours
+post the TXID, also how many sats/byte?
+how many inputs and outputs?
+I'm collecting data.
+.888 sat/B79.063 sat/WU0.043 btc transactionhow long?
+too damn longtime to get bch
+ok ok i got itone hour it took
+No they haven't ditched it yet.
+total hash power for BTC is approximately the same as 10 hours ago.There's simply too many transactions happening right now and it's creating a massive queue.Pic related.
+https://blockchain.info/unconfirmed-transactionsIt keeps growing.
+It's gone up 20 000 the last 3 hours.It's just an implication of BTC's crappy technology.
+it depends on what tx fee you usedA couple weeks ago I sold some stuff online and the guy used a low fee (0.0001 SATS) and it took almost 4 days
+total hash power for BTC is approximately the same as 10 hours ago.this is false, check fork.lol
+sold some stuff online>using BTCmhmm, okay.
+why don't you just take a seat over there.
+None larper here - i've just waited 2 hours and 40 minutes to send 0,1BTC from one market place to another one with 6 needed confirmations.Fucking paypal is better than this.
+Hell fucking bank wire is sometimes faster.
+This is just unacceptable for any payment method.
+(0.0001 SATS)
+https://mempool.observerThis says you may have to wait days for it to clear if there isn't a lull in network activity.
+If there is a lull it may clear in as few as 20 blocks.Sorry dude.
+You can actually do that, you can set as low as 1/226 sats per byte on a standard transaction by only paying a 1 sat fee.
+If your inputs and outputs sum to a full kilobyte and you only offer a 1 sat fee total on the transaction thats a 0.001sat/byte fee.
+ah whatever you know what i meantactually before i got into crypto I used to buy and selll on the steam market.
+I had thousands in csgo items and I started selling them to fund my crypto investment
+Mempool is getting really bad, this could be it
+today i waited 2 hours
+Just spam.
+Bitcoiner don’t even move their bitcoin.
+wouldn't the difficulty go down and it'd be easier to mine?-t. bitcoin illiterate here
+yes, but 2016 blocks must be created before bitcoin adjusts its difficulty.if the hashrate becomes 50% of what is necessary to solve a block at an average of 10 minutes per block (making it 20 minutes), then the time to adjust difficulty doubles.this increases the transactions in mempool waiting to be processed.if the hashrate goes to 10%, then the time it takes to adjust difficulty increases by 10x.
+it will take 100 minutes per block, blowing the mempool sky high and crippling the network.this is an achilles heel of bitcoin as it is, and the reason for DAA in bitcoin cash to be more nimble in difficulty adjustment.if miners quickly switch to bitcoin cash and stay there, then there is a very real chance the bitcoin network will have a 'death spiral' and freeze.
+It really is increasing, but if bitcoin adoption is sowed by fees it still would never stop, the fees are determined by the free market when users choose what fee level they are willing to participate at.
+Essentially it will reach equilibrium finding the fair market price for a Bitcoin transaction.
+been waiting 8 hours for my transaction to confirm.
+I set the transaction fee to the minimum in Electrum (still $5).
+Usually minimum fee still goes through in a reasonable time but not today
+How many inputs and outputs did your transaction have?
+what was its sat/byte level?
+input, 2 outputs.
+256.054 sat/B.
+Just a basic transaction.
+Hello fellow Exodus user!
+i had to wait over 2 hrs earlyer this day.
+Were u dealing with a (((merchant)))?
+man, it could easily be days, or your transaction may need to be rebroadcast.
+This is because hashing power is switching over to BCH.
+Expect confirmation times to increase exponentially while BTC continues it slow death spiral.
+I'VE BEEN WAITING FOR 9 FUCKING HOURS ON ELECTRUM I'VE LOST HUNDREDSREEEEEEEEEEEEE
+dubs nice now give me bitcoins thanks 1GnJo14kCruYse5mVrXbzvMbVRucBkMGB1
+My Bitcoin transaction times are literally seconds.
+Not sure what's up on your end, those sound almost as bad as Bitcoin Core's transaction times.
+Thank god we don't have to deal with that anymore.
+My Bitcoin transactionShut the fuck up you cash cuck.
+Never use BTC to transfer valueNever use BCH either that shit is way too slowUse xlm, ethereum or litecoin
++1 bch is gonna break all of your hearts, be ready for it
+https://twitter.com/JihanWu/status/928418534014664704Pay some BCH to speed up your shitty BTC transactions, lmao.
+He is taunting you.
+It is all a part of his plan.
+He didn't change to BCH only for this service today for no reason.
+You should have listened.
+It's not too late though.
+You can still do the right thing and either get out of BTC and sit on the sidelines in ETH or USD, or you can run with the bulls and side with the flippening, buying BCH.Either way, BTC is low reward high risk.
+I can just use Ethereum or Litecoin and get stable prices with even cheaper and faster transactions
+
+gibberish

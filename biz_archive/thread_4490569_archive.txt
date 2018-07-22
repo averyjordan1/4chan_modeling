@@ -1,0 +1,12 @@
+are there any resources that actually test shit like ichimoku using past data and find it would have been profitable to use, or is this shit just complete astrology?
+These guy draw waves and when they end up wrong it's "oh I misidentified these waves" not my methods are BS
+try tradingview.
+I've backtested ichimoku using a few commonly advertised settings.
+A lot is still open to interpretation since there around a half dozen buy and sell signals and they all come in weak, medium and strong versions.
+You have to distill all that down to "buy now" and "sell now" using code instead of your intuition.Anyways, I think I've worked the signals a lot of ways and they all uniformly suck dick on those default settings.
+When I let it pick random-ass settings (shit like 7, 45, 130, 67 or whatever - just an example) it sometimes comes up net profitable.
+I typically require 2 strong buy signals to buy in and 2 strong sells to sell.
+But it's not huge profit, and most of it vanishes when I switch out datasets - evidence that I've just been overfitting.It hasn't been compelling enough to port over to live trading with yet.
+what do you use for your 'experiments'?
+it's an algorithm written in PHP.
+I grab the backtest data from cryptocompare.

@@ -1,0 +1,142 @@
+I posted a couple days ago about a ERC20 token I made called New Year Token, well, I decided to make some improvements and change the name of it.
+It is now called Per Annum.
+It is a ERC20 token which can be "mined" by calling the mine function of the contract.
+It can only be mined during the first two weeks of the year, for the next 120 years.
+The mining reward starts at 100 every time the function is called during the mining period and is halved every year.
+It will cost about ~$3.50 to mine.
+The maximum available starts at 9,960,000 the first year, because 20,000 went to me and I am going to give away the remaining 20,000.
+If you want some post your eth address.
+contract address: 0xEf83e29f3C7e8C0b92a25781E4FAECD973A7d55A
+Interesting concept.
+x51A26D37c58f59530a65e4Cfd71d0f1822034c32 TNA
+Where my money?
+0x48f61d40bAeC1FEb3d3062b70ec22E4e4ed3A390
+xfe025a5e9e1d67103280ba70ab5c40f68d7ba7f3Hope you make it Bro
+x72D365b5760821e2Ed6607bE4b080bA8f7a751AAsounds cool, well done, and thanks
+0xAE8e6260bfC30c8Ebd91BBE6c311D4971DF47204
+Ill take some0x66dEbf4fDE39687E530F8BE5cB7dF6E21CD1F6bD
+x922A208443203a16705F42f3A14BA3d1B051c964interesting concept, but meh
+
+x54ba2f7DCeDFDcc1C12ec36c04858c29A9997DBdwhy not call it kiketoken and let it have a low gas price
+Cool concept!0xae84d064498dc0f08d8ad5ae4d03aa4d68532a49
+I like it OP.
+It could be an xmas holiday project for me to set up a little node,js miner for it and learn some solidity.
+The token source code is very easy to understand.0x891e14509ee043f38E1Ae30C2F8090e38cE9925f0x891e14509ee043f38E1Ae30C2F8090e38cE9925f
+Nice idea, OP.0x52C85bEd8753c6555Cb1f93D8fc872B19dcE3995
+Is EtherWallet a good way to get an eth address
+Very nice of you OP, thank you0x7f3fe454C3C707f565Bc8841B97076cFe8b808A2
+Thanks OP, keep up the good work0xe9012440c4a7b2fc4817c98bc826cd4d7b7886cd
+thanks I wanted to try to make something that was a little different, It's a bit novel I guess, but I was happy with how it turned out.
+x20bfad462ed84208f4e0e93ee7b8801235ffe7a2I'll be keeping tabs on your project.
+Thank you OP, I saw your original thread and thought it was a good idea.0x205BaE4C80002A013a7aA6702aDD38E7AECDdC99
+0x60241C641D818a28C63c00FB2C318719cc0316e4Thank OP, il check it out
+Cool, I was hoping some people from the original thread would show up.
+Thanks OP0x4152efAedCa4035f9DE9318ceFE53E5c76076B75
+0xED7552857f49b9Ae069C52F4848A005A07cBFa88
+Thank you senpai, just got them.Cool idea, hopefully it will be worth something someday.
+0xFf3D5de57bbb59D2416CB7947B6B01dc3Cbe2b07thanks OP, finally something good happens this week!
+0x71DAC97A077F4f47a5C99fd607FCdD003B92cdB7Thanks anon!
+Ty anon, love the byzantine aesthetics.
+Sounds interesting0x62Dd64C49148F57c833b5e855Ee50f71958966B3
+Is this on etherdelta?
+please dont' go away until I get my eth address!!
+IT'S TAKING SO LONG TO INSTALL THE WALLET
+4425627Hey OP, please let me know if/when its been sent to my address, at work atm.Really appreciate it again, thanks man
+So just to be clear OP, it will cot $~3.50 (in ETH) or so to run the mining function once.
+First year the mining function will reward 100 per mining, next year 50, next year 25, etc?
+correct
+0xD6dA5b97151c2fea9CcF11287985A21304A521A1thanks
+Can op send tokens to my ethereum address if i got it from etherdelta?
+Do i need to link it to a wallet first?
+I think I missed you earlier, I just sent some.
+I'm a noob.
+I can't seem to find the mine function under "Select a function"?
+I have only used ethdelta with another wallet, but if you have an address, I would assume it would go to your accounts wallet.
+0x075D5056Db05142b1c73d736D14d558455ce8B1ETnx
+dont call the function until January 1st and only call it between then and the 14th, otherwise it will fail and you will not get any tokens.
+But did you past the abi into the abi field?
+Oh got it!
+Yes I did, just was looking for the mine button
+Aside from this unique mining feature, what does this coin do?
+ef7f0b383671c425f81e31cd1f95a6edd87f6fc4dc729ab22bf83f27858c2e99thanks anon, ill keep an eye on the project!
+I am intrigued.0x8F6C97fFFF3033f82C8fA24C6406568d27552D8DThanks
+checked and nothing
+0xd6877b86dF3b7fD649169fd66F01386d0A0df3F8I think this is my address.It came from here, is this right?
+this is your private key
+Where does its value come from then?
+Or is this just a pet project of yours?
+xE6275c99df9b8F7061d9376156cBd3aE3AcD4952thanks anon, its a somewhat different idea.
+i like it
+0x4c7bdecdd038adbf09abb0b4449de3246eb91922cheers to you op.
+I've never used that wallet, I don't know if you will be able to see it in your balance, but you can paste your address into etherscan and see them in there.
+yeah, pretty much just a pet project.
+I thought it was an interesting idea and decided to make it.
+I've not seen anything mined in this way, very interesting0x4ee5cd68f22e363C1248AC1d2b122C02Db2e3de6
+I found it but it's blank.
+Will it only show up there after the transaction is confirmed?
+0xf05640c09bf280b6481abd5a8075a6bdd08e5e13Thx!
+https://etherscan.io/address/0xd6877b86dF3b7fD649169fd66F01386d0A0df3F8in the upper right it says view tokens.
+0xc243315de6edf3b1da1db31dcdd9e672d4f48119ma hero  might be able to feed my family with these coins in 2030. thanks op
+0x10667E2d9eBBb16FC97421167c3bf78e2Bef2821ty lad
+0x71b690ED67070d1aE3cfc316417C99FE14707fe2thanks
+To the new year!0xCb2c119Af68e4DF57B102B848880613A0bc93e34
+thanks a ton man
+x6B7295dad2DE4c083C0684F2242e809550003030Cool mang
+0x43758C47aA989E8B34b3FCad32B6127434a5bbFdCheers
+0x48fe7b6aE198B06767a5ca7B608FA783D627DD6cBig thanks
+0xb52687509884fB1eBf45046a5A8f6bF6C48eEBa6
+Might actually setup a script to mine this.So wait?
+you get 100 tokens everytime you call the mine function?
+For the First two weeks of the year??
+that would be cool, and yes, and each year the reward halves.
+please0xD9FCa813D62dcd1d0e748B638077042beE80cAa3
+That's all for tonight.
+0xfc42Dc32333F2839FA2CCFc3d2771Cf06790285DSounds cool
+Thanks, I appreciate it
+Thanks.
+Missed out this time but look forward to hearing from you in the future
+Please and thankyou OP0x607a1443b83cb4fd04bfccfb05c71b3538f09983
+Okay.
+Sure.Thanks bro0xdDcf74E26Fa23a72eCA42C094B48aCC34Be7F4Ed
+Ah alright have a good one.
+Thanks anon !0xe1554DB5d9548466cd6613b869D623Fc6aB008bC
+0xdc2fd9723aef79c7c58a44f29a18606269620e82thanks !
+Hey guys !
+Thanks for your airdrop0x0583F65f2fE8833DE52fAfb1263CB25624e8CceA
+Thanks OP.0x815711A5b87108bed31113c3032D7E6F8C7D49dd
+0xdbeDB1B7d359b0776E139D385c78a5ac9B27C0f9Thx !
+Hey, I'm interested :-)Thank you!0x849c693aDC12534E4D46E172b1d7a68E9f5CFBD5
+0xDdDB9240934cd40FC5F8D1452e644e4Ce97012C4
+0x7b89b0972b9081f832B4e55034973A7330877A5AInteresssssted !
+Thx
+0xCdA3d6eD4D78A30c5EC38Ad26714ee8798295e1athank you man!
+0xe3c7b49d61b079b68928ab2db9e56c364cac0bb5
+Thx buddy0xFeFbFF7E15ff91F046e8314AB61017C54Dee8A6E
+Thank you.0x25621541ae541f170aEEB4C507f3cC7cBF4c1a73
+Good idea !0x726002C5682F3e333E1B4cb03dcaE3f247b5A6d9
+Interested in this :)Thanks 0x362e949ff9a47517e75d50721691aa4896E8cF3a
+Thanks 0x91c3f62b73FDC9523cf8E4B180A0dc57E12FA547
+Thanks OP0xd6D27a906693a1f70452c260fDD25c1A4C6fC826
+0x8E81Dc5dE8F2d23B6e27663c441bE1925d4E717b
+Very interesting!
+And thanks0xf60a06a2dea6ebf2d2cb5eab24fd085616f08624
+0x964D22D80FDA5CeeAEFf106211fB4843feE9b4A6
+nice ty OP0x47538b958bc2d70c09d5938c73353966fd41e7ef
+Thanks OP0x7FB57F27b7Be47E5245fFE3588cecCd0D98A83e4
+0x295f14207f1B99DeA6225160055767F8e6A9a967 TY OP!
+0x7D070118423c1Ebacd8435Ed16FBd19ee0872B73
+Sounds quite interesting OP, would love some:0x06339Bb6ec6d90C1495c3c18604Cc96dC9573332
+TY0x125D85BBaD77023f059F35a0B38B0Ab1765de828
+>a currency with no purpose but a unique way of being gainedCrypto is dying and shit like this accelerates it.
+0xce1c606926040f2a980fced1f5fe31d5bb9b3843thanks
+0x631393AdAC6240D195DcE15DE98961463d32Fc1aPost ABI because I can't mine this shit with just a contract address... :/
+I'd like to check it out0xe1597bA2220947d0f0B3888cdd475E4D2e19cD96
+0x13AD07A376F612A8e0084B3DA03D486dD7748355Thx a lot !
+Where do I know this guy from
+0x9803c7AA4206944eD227e6D3DcfBD313B05bf6ddI’ll take free any day
+Thanks0xAd6b3f83E148e966a650EFEf5e9bE0Ec04755AC6
+0x6cd0791eef2f15008a3fc282dbbf6460f99a678dThanks anon, I'll try it out
+0xcc232fac2361d3c335ef30102a82cdb55763bd6c
+I'd change my wallet now if I were you
+Thanks OP!
+!0x2f6da2a48cae9162ef86d91156b65d8febb31c38

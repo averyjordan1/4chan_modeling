@@ -1,0 +1,25 @@
+https://steemit.com/cryptocurrency/@dawidrams/there-is-a-coin-with-2000-upside-potential
+yes.
+This is going to $5 easy.
+This is pure tech, doing an ICO for it was super stupid.
+why should this coin be valuable?
+This is one of the most important Ethereum projects.
+1bil marketcap by 2018.Get in or stay poor.
+This is a scam made with ERC20 token, please dont invest.
+https://medium.com/@raiden_network/the-raiden-network-token-model-9b6ef8d0b64Token is needed to pay for helper services, which most users will depend on.
+/thread Sad seeing these anons lose money on shitcoins
+Vitalik's opinion (https://disqus.com/by/vitalik_buterin/):I am not against all ethereum scaling projects having ICOs.
+Cosmos doing an ICO is totally fine, for example.
+However, tokens have their place, and what I am against is protocols that really do not need to have their own tokens for any technical reason shoving a token into their protocol in order to be able to ICO it.Individual plasma chains (eg.
+OMG) are also totally okay to ICO.
+What makes no sense is ICO'ing Plasma _as a concept_, as (i) it's trivial to just take a plasma chain, rip out the plasmoids or whatever name the tokens would be given, and run the chain without them, and (ii) if we somehow tried to make this hard, it would put plasma and OMG (and future plasma-based projects in the future) at odds with each other, rather than collaborating as they do now.Raiden also does not require any kind of built-in ecosystem token; the design can totally be built in a way that is token agnostic.
+There is no consensus, and so there's no need for protocol-wide "governance" either (the only "governance" required is releasing new software versions, which users can simply opt in or not opt in to).
+There's no central point of fee collection.If developers have to be paid, then one model I do reasonably like is the etherdelta model - a simple transparent 0.3% fee charged inside the default interface.
+If they want to frontload the revenue, they could issue N tokens, sell N/2, and then use all fee proceeds to purchase tokens off the market and destroy them; this way regular users would never see the tokens.
+The "ecosystem internal medium of exchange" model is just really hard to economically analyze, and it's very possible that the value of these tokens will drop to near-zero.
+Another fucking payment system, that's like the 5th just this month seriously.And it has already 120M marketcap.Come on guys please.
+It's a second layer scaling system that has been in development for roughly two years.
+It's Ethereum's Lightning Network.
+undervaluedThat scam should be half that price.
+IT HAS SOME NICE NULS MOVEMENT GUYS GET IN HEREEEE
+I went balls deep in this

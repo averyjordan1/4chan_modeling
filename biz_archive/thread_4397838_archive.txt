@@ -1,0 +1,4 @@
+I've got an oldish desktop with a NVIDIA that was decent like 5 years ago.What shitcoins can I mine?
+Vertcoin would be an easy one and good to start with
+just use nicehash
+with the difficulty adjusted for modern hardware, it won't be profitable

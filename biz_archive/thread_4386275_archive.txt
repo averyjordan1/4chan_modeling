@@ -1,0 +1,24 @@
+Anyone here write/run a crypto bot?
+Wanna talk about it?What's everyone's thoughts on TA?
+Is it a waste of time in crypto, where markets seem to be driven by FUD and FOMO?How complex are your strategies?
+What frequencies do you trade on?What language/frameworks do you use?Let's talk bots boys.
+To start us off, I'm currently working on a (swing + momentum trading) bot as well as an automated TA tool.Currently using Node as it seemed well suited to heavy I/O work (and interfaces with web sockets really nicely).
+We're logging every order that comes through on a few exchanges/pairs and using this data to build strategies, the trading bot will query this analysis/data server for the information it actually needs.Has anyone had a good experience with commercial bots?
+All the ones I looked at seemed... lacking... or way over priced for what they do.
+I use python and have coded bots for many solo projects.
+I've added about $1k and right now im in the process to figure out which indicators can be the most profitable.
+Up about 25% right now if anyone has any resources to learn about day trading let me know.
+Any reason for python, or is that just what you're used to?
+What are most traditional bots written in?I have some day trading resources but I'm fairly new to this so it's all beginner stuff, probably a bit below your level.
+i'm going to take my first dive and write a bot for trading on GDAX so that I can leave a buy order for a predicted dip and have it immediately post a limit sell order at a higher price.
+And also to send me alerts when a point of interest is created.
+This is a great starting point, I'm about to have mine up and running.
+Perfect for this BCH drama
+Mostly a personal preference since i run bots for my own use also I feel like I save time coding in python.
+I did confirm however there are a lot of bots trading.
+Since these bots have been running from months it means they are profitable and have some patterns or indicators which are profitable.
+Just need to figure that out.
+Yeah fair enough, with how simple trading bots actually are I'm sure it does matter (unless dealing with super high frequency I guess).
+That's a fantastic point, will have do to some research on other bots.
+Reckon it's possible to determine strategies from order data alone?
+What programming language or guides do I have to read for creating a trading bot on GDAX?

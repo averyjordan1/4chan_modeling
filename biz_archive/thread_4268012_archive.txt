@@ -1,0 +1,39 @@
+https://www.swift.com/news-events/press-releases/swift-tests-show-blockchain-has-potential-for-global-liquidity-optimisation?utm_campaign=SWIFT%20gpi%20DLT%20PoC&utm_medium=social%20&utm_source=social>"About the SWIFT PoC interim reportSWIFT developed, as part of SWIFT’s gpi strategic roadmap, together with 33 leading banks around the world, a proof of concept where a distributed ledger is used to provide real-time visibility on Nostro accounts.
+This initiative started in January 2017 and is due to end towards the end of the year.This interim report shares information on the proof of concept, its business and technical objectives, the DLT solution developed by SWIFT through a collaborative approach and the testing strategy.
+It also provides a summary of conclusions both at business and technology levels from the testing conducted so far by the 6 banks forming the founding group.The validation group with 27 participating banks have just started their work to further test the application and the data model.
+This report will be updated following completion of their testing with the consolidated feedback from the two groups and to draw the final conclusions."
+>SWIFT’s DLT PoC started in April 2017 and will conclude in November 2017, with the final results available in December.
+>ctrl + f "chainlink" >ctrl + f "smartcontract"NO RESULTS FOUND
+This is going to be a very merry Christmas.
+apart fromhttps://create.smartcontract.com/sibos17swift written all over>muh no chainlink mentioned when Sergey presented their idea at SIBOS
+i believe
+This retard market won't care.
+Nobody wants to connect the dots.Even if it pumps binance bots will push the price right back down.
+This has to do with Swift's GPI project, it doesn't have anything to do with Chainlink.GPI is about cross-border payments, and it may or may not involve blockchain tech (the blockchain here being Hyperledger, which Chainlink can interact with).It sure looks like Swift will be using some kind of blockchain tech (maybe not necessarily Hyperledger) for cross-border payments; especially since IBM is not temporarily going to use Lumens for the same purpose.Swift's GPI so far (without blockchain tech) takes a full day to process cross-border payments, while blockchain tech (e.g.
+Lumens) does it instantly.So you can see the pressure they're under, even though they're acting like it's not a sure thing yet.Either way, it does not affect Chainlink much.
+Chainlink's PoC was a very different thing.
+yeah market is fucked.
+rather ivnest in a skateboard and a google scamalso see picutre related
+This, still kinda shocked people haven't realized this
+IBM is not temporarily going to use LumensGod damn it, meant to say "IBM is NOWWW temporarily going to use Lumens"
+we are the linkmarines who have connected all the dots alreadyrest will catch up later
+connect the dots, bro
+fucking hell this again.
+Don't.Swift may very well come out next month and say "we're not going to use Hyperledger for our GPI project", and if you (incorrectly) associate this GPI thing with Chainlink too much, it's going to cause a Link dump.The reality is that so far there is NOTHING that ties this GPI/Nostro thing to Chainlink.Let's keep it that way.
+SWIFT not changed systems in 40+ years, and their competitors already far ahead of them.
+pressure is on.
+chainlink is a legit project being developed for ages.
+SWIFT is paying them since 2016 to help them come up with a solution>PoC so far has been positivewe'll know for sure when SWIFT announcees anyway
+pressure is onI definitely agree.>chainlink is a legit project being developed for ages.
+SWIFT is paying them since 2016 to help them come up with a solutionAbsolutely.This year's SIBOS was the most blockchain-heavy yet, by far.And Chainlink was the ONLY (external) crypto dev to be invited by Swift to do a PoC and showcase it at Swift's premier conference: SIBOS.This is HUUUUUUUUUUUGE, and the repercussions have not even begun yet to manifest.BUT BUT BUT BUT BUT BUT BUT BUT BUT BUT BUT BUT BUT BUT BUT Please don't associate this GPI/Hyperledger thing with Chainlink.
+GPI is a very distinct project, and Swift may very well decide not to use any blockchain tech in it (although that wouldn't be smart), and this news would dump Link if is associated with GPI (incorrectly).Chainlink's PoC has absolutely nothing directly to do with GPI.
+great viewpoint >let's see how it unfold :)
+Let's assume it's hyperledger they using.
+Without using ChainLink it's absolutely useless, you know this to be true faggot.
+This shit can't moon, I fucking sold with -40% lossMy only joy is that you people will lose even more money and the best part is YOU WILL
+No wonder you're salty.
+You were probably asleep when the fork cancellation news was released.
+You didn't believe anon.
+SAD!
+Let's assume it's hyperledger they using.The PoC for the GPI project was about hyperledger, yes.But it's not certain at all that they will actually end up using it.And Chainlink is not directly tied to GPI at all.So why connect Chainlink with this GPI/Hyperledger thing?
+If Swift announces it will not use Hyperledger for GPI, it'll negatively impact the price of Link, even though the Link PoC had nothing to do with GPI.

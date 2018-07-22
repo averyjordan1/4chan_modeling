@@ -1,0 +1,4 @@
+Is coinmarketcap loading graphs for you??
+both blockfolio and coinmarketcap are down
+its working for me but very slow
+working about 50% of the time and really slow

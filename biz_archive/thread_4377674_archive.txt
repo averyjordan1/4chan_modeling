@@ -1,0 +1,6 @@
+CHANCOIN is on a RIIISSE!!!
+I've got 4.50, will I make it?
+buying 100k right now at tradesatoshi
+did you update openssl yet?no one wants to use deprecated openssl
+DEVS, read the post above me!!!
+Main dev:''1) we're still on a 0.8 codebase2) we're prepping an upgrade to 0.153) PRs are welcome4) there are plenty of coins that are still using openssl 1 and 'moon' i'm sure''

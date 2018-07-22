@@ -1,0 +1,3 @@
+Is there a way to set an alarm on Blockfolio based on your total portfolio value?
+i looked and can't seem to see anything but maybe I'm a brainletBasically rather than setting an alarm for each coin/token I just want something to alert if my overall value reaches/drops to a certain point so I know shits hitting the fan.
+if you know how to code you can use the api and make one

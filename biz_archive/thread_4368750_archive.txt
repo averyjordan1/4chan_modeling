@@ -1,0 +1,66 @@
+I think we'll see $1, then $3-$5, then $10-$20.
+It'll be like a cult favorite until the ethtrader faggots discover it around $5.
+Then it's rocketing and never coming back.
+The best comparison, to be quite honest, is Ark.
+It took like a month following ICO like we had Oct.Then three months.
+June, July, August.
+it got a solid 5-10x.
+Then in Sept it flew up make Ark holders rich about 50x.
+I'm sure we'll see $0.18, then $0.14, then $0.10 *toilet water flushing*
+I hope it does actually.
+I want some discounted LINKs before it inevitably moonshots to the heavens above.
+fuck you I want this at $100 so I can retire not at a pathetic $20.
+105x is not enough for me
+get more links brah.
+$20 would make me a millionaire
+if you had $10k to lock up for potentially more than a year then you're well off already.
+probably inherited.
+Ever consider the market cap?
+$5 would put LINK over 1 billion.
+If you think there will be anyone "discovering" a billion+ coin then you're stupid as fuck.
+And thinking it will ever go over $5 in your lifetime is laughable
+D E L U D E D
+You guys realize swift is open source right?
+It's never going above 3k says again.
+4369835brainlets detected
+wow, a billion.
+we've never seen a crypto reach that before!!
+3k saysyou gotta proofread your posts, street shitter.
+you won't get paid for such sloppy work.
+$5 would put LINK over 1 billionWell okay then.
+No shit.
+We are going to $10
+Yes because the overall crypto marketcap will never increase in an entire lifetime.
+stay poor retard
+woah 1 billion?
+slow down there cowboy that's an unfathomably high number!
+Ever consider the market cap?
+$400 would put ETH over 30 billion.
+If you think there will be anyone "discovering" a billion+ coin then you're stupid as fuck.
+And thinking it will ever go over $400 in your lifetime is laughableT.
+Retard in april
+Why would oracle operators want to be paid in LINK?
+I imagine they'd prefer being paid in BTC or ETH...or atleast as soon as they get LINK they'll sell it for BTC/ETH
+Why would node operators want to be paid in a currency that they can sell or stake to increase the value of their node
+try reading the white paper.
+oh wait you're too stupid for that.
+Why would node operators want to be paid in the token that powers the entire network for the specific purpose of paying node operators
+I don't understand wtf Link us trying to achieve.In SIMPLE words, explain what ChainLink will do.
+it will allow smartcontracts to be used in everyday life safely, smartcontracts being an automated protocol meant to verify and enforce payments based on real world data that they get from link's trustless decentralized nodeswithout link you can't have trustless nodes thus nobody uses smart contracts because it's too big of a risk as data the contract could pull could be tampered with easily.
+with link it can't be tampered and so companies like swift could finally adopt it to stay competitive
+ChainLink will put a lambo in every NEET garage and a mansion when held with REQ
+/2 Smart contracts do automatic trades between people.Basically if I'm trading you ETH for LINK in a smart contract, the smart contract is a bit of code that will "look" to see that you've fronted your 1 ETH, and I have fronted my 1000 LINK, and when both those conditions are met it will automatically do the trade.
+There is no chance for us to fuck each other over.
+The trade only happens when we have both put up our respective part of the deal.This is super handy for trading shitcoins on the Ethereum network, but the reason it's not as handy in real life is because smart contracts can only "read" stuff that is coded in a certain way.
+So while ETH and LINK are coded in a way an Ethereum contract can understand, it doesn't work when, say, you want to exchange some of your ETH for my VIP movie tickets.
+The Ethereum network doesn't know what "VIP movie tickets" look like, so it has no way to know if what I have put in the smart contract is a legit copy of the tickets.That's where Oracles come in.
+Oracles are prvate companies whose job is to translate outside information into info that the blockchain understands.
+So I could pay an Oracle company to code "VIP movie tickets" in a blockchain-readable way that would then let me trade them instantly and trustlessly with your Eth.But here's the issue.
+If the whole reason we are using smart contracts is that it lets us do trustless exchanges without a third party, but if I need a third party Oracle to rewrite my tickets, then what's the point?
+I might as well just get a 3rd party company to oversee the trade.
+It makes the whole idea of a smart contract pointless, because you're still going through a private third party to make the exchange works.ChainLink sets up a system where information can be moved on and off the blockchain, through Oracles, in a completely decentralised way.
+It never passes through a single third party with control over the information...
+/2Suddenly, smart contracts are useful.
+Suddenly, business has a way to put *any* external information into a smart contract without having to trust a single source.
+It moves through the ChainLink network of nodes, a bunch of reeally clever shit happens, and then the data appears on the blockchain.This is the "Oracle problem" that everyone jokes and memes about.
+It's a really fucking big deal, and ChainLink are on track to not only be the first people to solve it, but to be the #1, first mover, decentralised oracle system that will really bring smart contracts into the mainstream.

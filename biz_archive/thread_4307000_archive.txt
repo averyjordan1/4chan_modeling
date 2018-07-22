@@ -1,0 +1,68 @@
+Monero is not based on Bitcoin.
+It is based on the CryptoNote protocol.
+Bitcoin is a completely transparent system, where people can see exactly how much money is being sent from one user to another.
+Monero hides this information to protect user privacy in all transactions.
+It also has a dynamic block size and dynamic fees, an ASIC-resistant proof of work, and a tail coin emission, among several other changes.Monero uses three different privacy technologies: ring signatures, ring confidential transactions (RingCT), and stealth addresses.
+These hide the sender, amount, and receiver in the transaction, respectively.
+All transactions on the network are private by mandate; there is no way to accidentally send a transparent transaction.
+This feature is exclusive to Monero.
+You do not need to trust anyone else with your privacy.
+dam bro dats some cool ass shit
+>nontransparent, asic resistant, stealth, blah blah blahYeah I know, and it's super frustrating to deal with off-exchange.
+I also know about the +25% shit planned for December 12th, so you can just tell your group to fuck off.
+We're trying to make money, not do it while sneaking around behind stealth setting = 4.
+Just advertize your shit and move on.
+so fucking comfy with my xmr
+Coinbase following Monero on Twitter (Only other coins that are followed are ETH, LTC and BTC)>Stuff coming dec 12th>Drug markets started using Monero, some only accept MoneroI'm not even shilling, it sounds like it is going somewhere, I'm holding 3 XMR for now.
+Nigga we know what Monero is.
+stfu
+nigga must have moonphobia
+glad to know you represent the entire community
+Monero is always a great buy.
+It'll have an insane breakout someday, probably when noobs realize Bitcoin is going to get them arrested buying drugs.
+Pic related, present portfolio.
+That's a big portfolio
+Go big or go home
+xmr going straight to 240$ by december
+maybe "noobs" will if dumbfucks like you keep spreading this misinformation.People have never been arrested based on the currency they have used to buy drugs.
+This idea that the police have the means to just "know" youve been purchasing drugs with bitcoin is utterly idiotic.The two security flaws in purchasing drugs from online vendors, be that on the clearnet or the darknet marketplaces, is and always will be: 1. morons running the exchanges doing stupid shit that makes them the target of LEO investigations and 2.
+Using postal mail systems to get your drugsHow people do not understand this is both amazing and terrifying.ALL of the busts in relation to darknet vendors and exchange owners have been of these two factors.
+The currency used is IRRELEVANT.You will commonly see a dumb infographic being posted here being used to laud monero and dump on all other cryptos, suggesting that the Alexandre Cazes arrest was somehow related to his crypto stashes.
+It was not, that came AFTER THE FACT - the police never wouldve been able to seize his wallets if this moron didn't have them on the same (literally in a .txt file) computer he was using to LARP as tony montana.Yes they couldn't ascertain how much monero he had, but it remains seized all the same.
+In this sense, sure it is advantageous, but the myth being spread by idiots that LEO have a magic machine that detects when bitcoin is being used for criminal acts is simply wrong.
+holy frick anon made 750k dollars today.
+tell me based anon.. what the fuck do i do with 10k EARK
+cool man, but either way that shit is one comfy hodl $$$$
+This idea that the police have the means to just "know" youve been purchasing drugs with bitcoin is utterly idiotic1.
+Undercover agents make a few controlled buy with Bitcoins2.
+Follow the coins, oh they've been intermingled with these other coins3.
+Coins have been sold in exchange account registered to dealer.4.
+Bust dealer.5.
+Coins also sent to dealer came from coinbase, subpoena coinbase for account records6.
+Your funds went from you to the dealer.
+Dealer cooperates as part of plea bargain, leaving you boned
+thx, just set up a script to notify my phone as soon as it gets listed on coinbase if it does.
+Monero is the only fungible cryptocurrency.
+If you understand how blockchains work, mandatory privacy is a prerequisite for fungibility.
+Fungibility is a prerequisite of money.
+finally someone with understandingit's pretty hard to explain this concept to people who say "i don't need privacy because i don't buy drugs"
+Monero is the only legit coin outside of btc/eth
+Well you're wrong, people have been arrested based on blockchain analysis.It's funny though, the only reason bitcoin is even functional is because cash exchanges on local bitcoins break the link.
+A world where BTC is universal currency would be a dystopia.
+Where do you buy your BCH?
+Dude, Monero is an extremely good call to mitigate the severity of charges that one could incur in illicit marketplaces.
+If LEOs can approximate the amount of throughput for an operation, they can use that in precedent.
+Even if they seize the wallet, you don't want them knowing how much has gone through it or how frequently.
+Monero is the only useful alt currently.
+Any other niggas preorder the christmas sweater?
+For you.
+Monero is also a stupid buy because the total market cap of the darknet markets is relatively really small.
+I'd like this script pls.
+I'm going innawoods and would like notification when I'm on the top top of the mountain where there's signal.
+we're gonna be 200 usd before bitcoin recovers from this sell off
+That's not the point, dumbass.
+It's that Monero is actually being used to buy things in the real world, and it does what it was designed to do which is obfuscate transaction info.
+It being used in Dmarkets is proof of concept.
+I agree that monero is a suprisingly non-shit altcoin, in fact probably the only non-shit alt, however, this myth that is being perpetuated that idiots like alexandre cazes got busted BECAUSE of <x> currency is simply wrong, and dangerous misinformation that works in favor of LEO.Similarly, people buying from the darknet should be very worried about the actual security flaw - the postal system - instead of imagining that they are safe because they used monero or verge or pivx or whatevr imagined "haha cant touch me" blanket is next in vogue.The facts don't change, people buying drugs from the internet - be that clearnet sources or darknet sources, the major points of failure remain the same and they are NOT the currency being used, contrary to popular (stupid) belief.
+Almost finished syncing up.
+Took half a week on my 400kb amerifat connection.

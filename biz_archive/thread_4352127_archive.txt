@@ -1,0 +1,5 @@
+Is it safe to start sending my bitcoin around exchanges again?
+It wont get stuck in limbo?
+Mempool.observerYou can check the fee dynamics here.
+You should arbitrage using a faster coin.
+ETH or LTC - the latter of which is otherwise useless

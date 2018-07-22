@@ -1,0 +1,131 @@
+Ok /biz/tards, I've got an offer for you.
+I've written a script, a Python script, that I run every morning that identifies 5 coins that might move up in the next 24 hours.
+The script uses various TA techniques, looks at the MktCap, 24 hour volume, current exchanges but also analyses social factors like: subreddit activity, Twitter mentions and even /biz/ mentions.
+These are all weighted differently, obviously, and then plugged in an equation out and the best 5 coins are printed out along with predicted gains and some other things.
+The code itself is simple but these weighing factors and the specific TA used is my trade secret.
+For the past 2 weeks that I've been using this script I've made an average of 8.16% a day just buying what the script recommends.
+I've lost only 3 trades out of 50+ that it recommended.
+I'd be willing to share the picks each morning but only after I get 0.3 ETH per thread.
+That's pretty insignificant considering there's like hundreds or thousands of traders here.
+Ofc I have to gain your trust so I'll be posting the first set here:> XMR - ~9.15% gain in next 24h> VTC - ~14.25% gain in next 24h> ARK - ~7.5% gain in next 24h> VEN - ~7.66% gain in next 24h> MTL - ~6.55% gain in next 24hSee you tomorrow.
+welp time to learn python
+Rather post your previous picks and the weights associated to each trigger so we know you are not bullshitting
+This
+What would that prove when I can just look up how much the coin moved without the use of any kind of script?
+Make a trip newfag
+Here
+How do I learn to code python, please tell me.
+OP is trying to start a self fulfilling prophecy from announcing coins from his so called "script" none of us see.
+If one, or all of his coins are eventually coincidentally right...he will claim it was due to his programming skills and attempt to turn it into another pump and dump where he pre-loads on the coin, then announces and dumps on other investors.
+Neck yourself, OP.
+There's enough faggots out there trying to scam people out of their money already.
+This is another scam discord group simply in a different form.
+lol it's literally the easiest programming language to learn.
+I learned it in like a month without any previous experience (i'm not a CS fag).
+Your best bet is a MOOC, that's how I got my feet wet and then went on my own making various internet scripts just for the fun of it.
+Trust me, the TA part is the hard part with my script
+This.
+Look at the coins I'm recommending.
+They're all top 100 (top 50 even) coins.
+Do you really think /biz/ can move these coins significantly?
+Even if all of /biz/ followed my picks it wouldn't be enough to move XMR, VTC or ARK (might move VEN and MTL 0.5%).
+I'm not shilling shitcoins
+This would imply you've design an algorithm to weigh all the social media posts contribution the netgain, and what could you possibly know about reddit that you could translate into a number?How could your software distinguish between an active reddit filled with negative posts?
+How do /biz/ mentions fare and weigh?
+This is bullshit DESU.
+Show us some code ;]
+The original implementation didn't have any social media variables at all.
+I started with reddit and twitter because I already had experience with their APIs.
+I don't analyse the contents of the post at all.
+I simply look at the number of mentions, or new posts or tweets.
+The social factors have a lower weight than the TA factors.
+I also go over every coin manually to make sure the social mentions aren't because of some huge negative event (which the script wouldn't be able to identify).
+I just started experimenting with /biz/ mentions
+Threw some money into VTC and MTL just for the fuck of it.Let's see what happens....
+are you willing to share the script, or at least a part of it?
+i'd be willing to pay money for it IF its predictions are decently accurate.
+Read my post above.
+It would prove if your model actually works.
+Yes, but it wouldn't prove to you that I predicted those gains because they already happened and I can just look up how much the price went up.
+How would it prove anything if I came here and said: "My script predicted BCH would go up"?
+It wouldn't
+the volume on those coins is way too high to be influenced by some nerds on /biz/.
+Retard
+so open source it anonyou show me yours I'll show you mineI actually have proof that I made somethingit acts as a notification system that tries to catch moons early, from bittrex, and sends me a text on Telegram when configurable thresholds (ewma so far and sma) are crossedit is by no means perfect but it catches the ones that aren't overly artificial (the ones that jump 50% in literally a minute, nobody can catch those in time because they're staged)
+if i make one it's going to be closed source so you nerds can't look at it1-2 people partnership at most if ur cool
+kekReal "scripts" that work rely on up to 200 independent indicators
+You can't even code lol
+cool story brosurely there aren't waaaay better services already available out therey'know, without the shady dealings of some /biz/ faggotI still haven't found any reliable triggers but I'm not some finance geniusdo you have any references for that anon?>I wish to learn
+fug
+I made one, the coins that'll go up a lot on binance is link request and nuls.
+Check tommorow to see results.
+4307321it was a joke u autistic dweebs
+4307327I will reveal that the biggest boon for me so far has been using volume weighing and condensed elliott waves
+MOOCthanks
+Why are you so faggy, can't you google?
+why are u so dumb.
+im bumping ur thread retard
+Real "scripts" that work rely on up to 200 independent indicatorsThat's not true in the least.
+I've been netting around 1% daily gains with my bot the last month; it uses multiple buy indicator files to identify good picks and each one usually only has around 3-4 data checks in it.
+So if a coin passes all 3 or 4 checks it'll buy in.
+Here's one of my better-performing ones for instance.
+Stuff at the bottom are the coins it chose during backtesting.
+There are a few losses at the bottom of the list but it's like less than 1/10 of the cases.
+volume weighing like VWAP?
+Isnt that used for a mean-reversion style of trading?
+that's kind of cool... what do the lines mean?
+all i can figure is they are looking at candlesticks, i cant decipher the rest.
+did you just guess at these until you found something that worked?
+may I ask why you use unix timestamps?
+unless you somehow feed that input back into some other code I don't see any reason, it's not like you can read italso, what exchange?
+I have a pretty basic knowledge of python, took a class in uni.
+Are APIs easy to learn?
+APIs are just easy to use implementations of some application or website or whatever.
+You just import them and read the documentation.
+There's nothing more to them than that
+1. pick shitcoin2.
+predict its rise3.
+pump it4.
+predict its fall5.
+dump it6.
+repeat
+But the most reliable bot on MT4 was revealed to just give obfuscated Ichimoku signals, kek.
+I feed it back into the backtester, as it'll be used as breeding stock to make the next generation of test cases with.
+DESU there's no reason I couldn't convert it to something legible and then convert back when I read it back into the script.
+I'm just a lazy shit is all.Simplyifying, each line is something like: "is the n-candlestick moving average of the close starting at position x greater/lesser than [some factor] of the m-candlestick moving average of the high starting at position y?"
+Or it could be topshadow compared to gain, or whatever.
+Or it can compare the moving average to an integer.
+It is all randomly generated and then the genelets duke it out, the winners fuck, their kids mutate, and then I do it again until I have check conditions that work well.
+what do we get if you're wrong about all 5?
+I don't believe you, sorry.
+Pretty easy question here.
+Still waiting for an answer.
+How do you use the VWAP to predict trends?
+Most people trade it as a mean reversion (eg shorting when the price is "too far" above the VWAP, or buying when the price is "too far" below the VWAP).
+Not really meant for predicting trends is it?
+Do it for ZENCASH.I have 10 BTC in ZEN, if your prediction is correct, I could tip you 0.2 ETH
+I was thinking about making a thread like this too.
+My model predicts weekly gains but i also feed my opinionated "truths" and a confidence score in it.
+Ex this week i tell it bitcoin will fall and bth will rise 80% confidence, and it suggested iota, bch, salt.
+I only have outputs as coins in binance atm.
+I think i will try to make it more automatic and general.
+If i find it working well in alt bleeds i will maybe open source it/rent predictions as a service.
+Im really not a math geek so it could be just lucky shit so i need to test it for a longer time.
+Share a source code or get out LARPer.
+I don't use it like that at all.
+I just use it as part of an adjuster I have.
+I don't know what to call it.
+Like a constant that I multiply with just to adjust the values I use a bit.
+There are several values in that "adjuster" but I found it improves my outcomes significantly when I multiply with it
+I believe you, I can see these happening, although not within the exact ranges.
+But you did mention "might move up" and if your ratio is 3/50 then I bet you'll gain some popularity here.
+I'll be monitoring these threads.
+let's see if its donation worthy.
+I'm a software engineer currently working in finance.I have enough cash from what I earn, but I'd help you out if you want collaboration.Drop an email to hkillmore at the most popular email provider.
+I'll hook you up to my linked-in.I have some ideas of my own, but if you have anything with sharing, I'll take your crypto market business knowledge and supply my software, AI dev knowledge.I won't share your shit either, you'll understand when you get as far as my LinkedIn.
+This is a mix of:- Dieter Behringhttps://www.swissinfo.ch/eng/financial-fraud---_behring-handed-stiff-prison-sentence/42485220https://de.wikipedia.org/wiki/Dieter_Behringand- Jonathan G. Lebedhttps://en.wikipedia.org/wiki/Jonathan_Lebed
+Check our public TGgroup.Exactly what we are trying to do.t.me/WolfCryptoPub
+OP are you that guy from the movie pi
+Pretty sure someone was giving away the same script for free over in Reddit..
+L I N K W H E R E
+double retard

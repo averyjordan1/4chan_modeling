@@ -1,0 +1,78 @@
+Okay fudders and Odin bros tell me why or why not to buyCons>constantly fudded>many haters>only marketing isnon Biz>shit their memes>alledgedly marketing guy involved with scams>has two devs hanging out in slack all dayPros>under ICO price in sats>very small market cap>cheap to buy masternodes>fluffy pony advisor>small circulating supply>very active slack >most impatient bagholders have already sold>can do everything stratis can and is geared towards privacy>anonymous messengerFudders please tell me why not to buyOdin bros please tell me why to buyWhat will a masternodes be worth eoy?
+because im currently in EDY
+It's not under icoAlso 80% for the devs fuck that
+You missed the tamico partnership.
+Weekly newsletter.
+This shit is a no brainer.
+Here we bring you weekly reports and notifications of our progress, including a CEO's Update, the CTO Perspective and a Market View.CEO’s UpdateI’m very proud of the hard work put in by all of the team on Obsidian 2.0, especially in the past two weeks.
+We have made some excellent progress with future planning, rebranding, partner building opportunities, and importantly with a range of development work.
+Much is happening behind the scenes at Obsidian, and lots more will be revealed over the next few weeks!We believe in the true power of decentralisation: in a time, not that long in the future, where all people will have the power to completely control their own money and their own personal information.
+We will give you this power with Obsidian’s mobile apps.CTO’s PerspectiveThis week we have streamlined all of our development activities.
+We reorganised all code artefacts into the Obsidian project github organisation repositories (10), and assigned developers (6) to their teams and code.
+Our #csharp-development Slack channel helps us share progress transparently and visibly with the community, which is highlighted to help further attract additional developers to join our Open Source project and share ideas.Significant progress was made on the Obsidian Stratis Node - we synced our blockchain for the first time on the .net platform, which will underpin future products.
+Everyone can use this node right now to build custom projects for our blockchain, with or without our input - we are an open platform and everyone is invited to build on it.
+We also merged the new Android frontend code with the Messenger's existing cryptography routines, and are now working to send the first message via Android.
+Fluffypony is no longer an advisor
+Finally, we decided to offer our master node owners a special dashboard-app, 'ObsidianXXL', for health-monitoring of their node through an attractive web UI, with showcasing functions for the node and the ODN blockchain.
+Both ObsidianXXL and the Blockexplorer will share address search capabilities to allow the investigation of other peoples' address balances, which is a much-requested stalker feature.Check out some sneak-peeks of screens, directly from our ODN XXL Development Team
+It's a good coin.
+Buy it or don't.
+Idgaf
+Market ViewProbably the biggest news to hit the Messaging / Payments space this week was the announcement that Facebook have integrated payments into their Messenger app for users outside the US – starting with the UK.
+This generated a lot of discussion and debate around the area, with many asking the natural and logical question: ‘Facebook already have so much of my data – am I comfortable giving them data on my financial activity as well?’At Obsidian we’re committed to building this kind of functionality, but in a way that preserves and ensures our users’ privacy, confidentiality and security – not generating more data for targeted advertising and other commercial exploitation.We hope this update is useful and informative on the progress we have made and continue to make.
+They pay him whenever they need audits done.
+He asked to be removed from the page because of the attention it brings, similar to Vitalik and his “endorsements”.
+you are dumb.
+Ive already got my masternode at 10k, but should i buy more?Would 5k make much of a difference?
+more ODN a year.
+Plus it brings you half way to two Masternodes.
+is two 10k masternodes supposed to be more efficient than 20k or something?i dont see why it would be
+I believe ICO price was 4666 satsCurrently at 3850 sats
+Proof of fluffypony advisor?
+It got taken off the website I believe
+pic related
+There's no difference
+Its on bitcointalk I used to have screens but I deleted them.
+where is the weirdo obsessed with sagemark?
+Did he miss this thread?
+As a disclaimer, I hope everyone who is in ODN makes gains.
+I held 30k through ATH and sold this piece of shit around 9k for a great profit, so kudos for that.
+As far as what the devs are saying now, and what they have been saying for the past month has been "but wait, there's more" horseshit.
+No crypto is going to flat out tell you they're going to fuck you, and you can find support groups for every little pajeet shitcoin out there.
+The coin is shitting in value, the team is a mess, we can't get a basic mobile app alpha that doesn't look like something from 2009, Crackstone is off his rocker, and yes, December is coming fast.
+If you've done your research and looked at this from an investor's viewpoint, and you're still in; power fucking to you.
+That being said, fuck ya'll.
+You believe wrong
+The app appearances you're referring to is for functionality testing only, you stupid retard
+Dude!
+There you are.
+I knew you would show up eventually.
+What took so long?
+nope
+>Mr.
+Steal your money
+Well that's great news!
+You will surely be buying Lambos in no time!
+The stalker has arrived
+Are you guys working as a team now?
+Do you have a super-secret AOL chatroom to plan your "bombs"?
+WrongIt was 3 cents per coin
+>Solid Dev Team>Don't worry about anything guys We will Moon :D>Blockexplorer?
+nah don't worry about that!
+Soon!
+weeks later, fire dev assigned to it.
+Its all good guys :D Soon moon!>Christmas guys!
+Uh, no.
+It was 13.4 cents or so if you paid with eth, more if you paid in BTC (like 20 cents IIRC)
+Be honest... do you have a cage or a deep pit in your basement?
+I think the ODN fud brigade is second in sadness only to the DGB marines.
+Shit is bordering on outright mental illness.....
+More like poop on the gravel in front of his shack.
+See my post earlier in thread.
+Dev said this on Slack.
+I think the ODN fud brigade is second in sadness only to the DGB marines.
+Shit is bordering on outright mental illness.....
+Dev 1, working on bettering current inherited Block Explorer from Stratis written in C# and .NET.
+Dev 1 was fired for his incompetency to keep it simple.Dev 2, working on ObsidianXXL.
+An enhanced dashboard for Masternodes with ability to also be a Block Explorer.
+UI progress being made as you can see from the Obsidian Update released today.See:https://obsidianplatform.com/post/outlook-for-odn-plus-dev-updates

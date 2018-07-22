@@ -1,0 +1,5 @@
+I'm trying to buy ETH at X price with USDT.
+I have an order on binance at 295, and the price is already below that number... how the fuck is it not filling?
+If I'm buying at a higher price than the market price it should fill.
+please help, I can't buy
+help

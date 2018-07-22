@@ -1,0 +1,25 @@
+Lets say I have 1BTC or $7000 as my starting balance, I want to be able to set 100 limit orders to buy at $7000 and if it hits $7400 to sell.
+The problem is on most exchanges you need to provide the full amount for 100 limit orders, so I can only do 1 limit order at a time.
+Some would say to just use leverage but that can kill you in a bad swing and leverage won't buy again after the position is sold if the limit order is hit again.
+Where can I trade like this?
+I have a Python script that does just this.
+It connects to Bitfinex/Bittrex and trades between two limits, putting up new buy and sell orders as it goes.
+As far as I know, this is the only way to do it.
+If you're interested, give me an offer.
+Not op but I'm interested - what kind of price are we talking?
+I'll open a Discord for us to talk in, anyone else interested is welcome toohttps://discord.gg/5MftVe
+I'll do it $100 cheaper than OP in Bash in 5 minutes.
+I want to spend the same Bitcoin 100 times on one order without using 100x leverage, why can't I do this?Am I reading this correctly?
+1btc$holy FUCK this is so surreal
+Oh I think I know what you mean.
+I would definitely like to see an exchange where you can set up trade sequencesprice = coin_price;if (price < 100){limitbuy (market, wallet_total); limitsell (120, wallet_total);>//buys your order and automatically sets your limit sell after your order processes, helping you preset your trading margins without constantly watching the market and possibly missing short buy/sell windows by continuously making and holding limit buy/sells}You see what I mean
+No.
+100 limit orders but each time it hits the limit order is one instance.
+Something like if it drops to $7000 it goes all in with that amount at 1x, then it sets a limit order at $7400 to sell, once it reaches the sell price it closes the position.
+After that cycle completes you would have 99 limit orders left to buy at $7000.
+Dubs confirm.
+I also have .py script that does this with the exchange API.
+Yes, you got it.
+I am not good at coding but I think it will go crazy if you set price < 100.
+Also limitbuy @ market I think you will have to pay higher taker fees.PS.
+Isn't there a free open source solution or something if a bot is needed instead of having to pay guy above.

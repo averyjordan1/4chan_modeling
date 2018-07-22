@@ -1,0 +1,26 @@
+So since nobody responds to threads that aren't on first page.
+Creating my own.
+There is currently 64k unconfirmed transactions on btc.
+Let's say I send 0.005 btc.
+When will it get confirmed?
+How long will it take?Does confirmation time depends on amount of BTC?Does fee get bigger if I send more BTC?
+The amount of btc sent doesnt matter.
+The size of transaction is what determines the tx cost.
+Transactions with multiple inputs and outputs are more expensive.
+bump for more answers
+PAY MORE AND IT WILL TAKE LESS YOU FUCKIN FUCK
+You're not gonna get more answers if you don't say anything about txfees and just txsize
+no idea id calculate in 24 hours at this point
+510 sat/byte would be fast, (less than an hour) but that would be 1/5th of ur tx size in fees.Try ~260sat/byte and expect to wait a couple of hours (would be 10% of what you're sending)
+You want to send $37.5 and pay $14 for the transaction, really?https://bitinfocharts.com/comparison/bitcoin-transactionfees.html#3m
+Thank you.I don't own any crypto.
+I have 0.I'm interested, I want to understand shills on here, when there was over 100k unconfirmet tx, they made it look like end of the world and I thought it's a very huge flaw in the system.
+Later in mid december I will have some spare $ and I have two alt's on my watch for year.
+Easiest way to acquire alt's here is to by btc with cash then, buy alts with btc.I'm interested how long it will take for me to acquire btc.PAY MORE AND IT WILL TAKE LESS YOU FUCKIN FUCKYou mean you can choose how much you can pay in fees just to get your transactions faster?
+>YOU FUCKIN FUCKThank you.
+about 80 minutes.
+just bought moda yesterday and was worried it'd take too long to confirm but they said they got it so yeah
+Then i think this is for you:https://estimatefee.com/https://bitcoinfees.earn.com/Both shows you how long it takes at what fee.
+It doesn't matter how many BTC you send.
+What matters is the fee and the size of the transaction.
+thank you

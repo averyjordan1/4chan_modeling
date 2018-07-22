@@ -1,0 +1,71 @@
+We're back at it folks!
+Let's dissect this shit!
+It is a prediction market platform.
+A major reservation I have with these, and there are a few, is that the Efficient Market Hypothesis literally does not hold, even in the weak sense, in Crypto right now.
+Information literally does not filter down or anywhere often.
+So, it is a little awkward thinking a subset of this highly emotional and irrational market will do prediction correctly.
+This is a good read if you are not familiar with the applications of prediction markets or what they are.
+I can answer any questions.
+I have long known about them so I am not going to rehash any of the basics here.
+-RR
+They of course have an Oracle problem.
+give me the quick rundown
+They honestly will have a bitch of a time ensuring that "Operators", those who create and run the markets, are reliable oracles (won't lie about events to make money).
+Trust is a huge issue.
+The platform is completely open.
+Decentralization is so in vogue we sometimes forget that in instances like this it guarantees many, many people will be ripped off.
+It is a platform for prediction markets that is decentralized.
+They basically are designing a bare framework and other people have to show up to run the markets.
+It could gain a lot of hype, but there are already gaping holes in the framework and I am not half way through the whitepaper.
+I look at things from a long term perspective though.
+Short term, the ICO may be flippable, I haven't looked at the token yet.
+MOI is predictably just the cash of the system.
+It is used on all levels.
+To pay providers, to make bets, to pay out bets, to reward Operators, etc.. One thing, like Nav, they will let people buy tokens with a credit card basically.
+Which is nice and important.
+Being regulated is sometimes good.
+Very few crypto companies can legally pull this off, and it drastically opens up the market.
+Moirai seems to promise that Operators will be required to keep a reserve that can pay out under all circumstances, but that is a generous reading, and the wording is awkward.
+Hopefully that is the plan.
+This whole section is one big lol: Generalisation of Cryptographic Currency for PublicHalf the shit they say is bullshit.
+But whatever.
+Most isn't that important for our uses.
+These charts are fucking lolWhat is this?
+"Yes, Mr. Lawyer, we just need this whitepaper to be 10,000 more words, and add graphs, thanks!"
+Sorry, I am dozing off.
+The whitepaper is 80% filler and has diagrams like this.
+lol lol loldoes this use the Bancor protocol?
+It says so in one instance shown.
+I have reservations about the Bancor protocol anyways (see links), but the Bancor protocol would be horrifically stupid for a prediction market to implement.
+Horrifically.
+Arbitrage could be literally created by savvy marketers and information manipulators.
+The is enormous volatility in prediction markets.
+it would be a fucking joke.
+https://steemit.com/icon/@roosterred/icon-icx-ico-a-promising-coin-with-major-flawshttps://steemit.com/scams/@roosterred/why-bancor-unless-it-changes-will-be-pump-and-dump-nightmare-for-investors
+There is literally nothing else on this.
+Just a check mark.
+And not how it would be implemented, so I shouldn't make any definite proclamations now.
+But lol.
+What a horrible idea.
+Who is talking to these people?
+You shouldn't have a liquidity problem in a successful prediction market.
+If you have one, your market is already a failure.
+What a fucking joke.
+The token is actually really interested and done in the right way (for this type of ICO).
+It is a capped ICO, which many like for post-ICO gains.
+All unsold tokens are burned.
+The token pays dividends.
+15% of profits are distributed to token holders.
+That is quite a lot, actually.
+This incentivizes holding tokens too, which further increases value.
+I'll have to look at the breakdown later, but token wise, it looks good at first glance.
+4297785I still can't get over this shit.
+At worst for liquidity in these types of uses you'd just make your own exchange like Steemit does.
+There is too much fucking volatility in prediction markets (Superbowl, presidential elections, etc) that having a backed coin, even not using the suspect Bancor protocol, is a bad idea.
+Just a horribly bad idea.
+Later Biz.
+I know some of you lurkers find this interesting.
+I think this is worth doing another write up on.
+I have done one in over a month because I was busy promoting my ICO model.
+I have not given up.
+We are all going to make it, but showing this type of skill set could pay my rent soon.

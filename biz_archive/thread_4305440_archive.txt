@@ -1,0 +1,25 @@
+Found on reddit:>>Nuls—the Global Open Source Platform for Blockchain-based Applications to Be Adopted in Business Scenarios “This is a really good start.
+Nuls price rises by more than 300% on the first day at Binance.
+We will get listed on more exchanges and plan to have new offices in Japan and other countries to serve people all over the world,” says Yang Lin, initiator of the Nuls project.The blockchain technology featured with transparency and irreversibility is believed to disrupt many industries and change the world for better.
+But the hard fact is that not so many blockchain-based applications have been launched.
+The main problem would be it’s not technically friendly to blockchain beginners or small companies.
+That's how Nuls enters the picture.What is Nuls?
+It is a highly customizable modular blockchain platform that aims to break the technical barriers of blockchain, to reduce the cost of development, and to promote the usage of blockchain technology in the commercial world.Different from other projects, Nuls divides blockchain into several modules network, account, ledger, storage, consensus, and smart contract.
+Every module performs independently, ignoring the changes of other modules.
+The modules of Nuls cooperate through the service bus and event bus.
+The microkernel manages the service bus and event bus.
+“We make Nuls a blockchain infrastructure that is easy to use.
+You don’t have to understand such underlying technologies as cryptography and consensus mechanism to develop an application for commercial scenarios.
+Meanwhile, we implement the cross-chain consensus to audit the data of sub-chain without breaching confidentiality,” comments lead developer Zhang Xing.
+>>Why Nuls tokens?
+The initial issuance of Nuls is 100 million and the token growth is supported by constant demand on it.
+Nuls will be used to pay transaction fees and 5 million of Nuls tokens will be used to reward volunteers who help maintain network stability.
+In addition, 20 million will be used to support business cooperation and Nuls-based applications.
+Developers and project initiators have to buy Nuls tokens at exchanges to register sub-chains on the platform.
+Therefore, the constant demand on tokens at the exchange will sustain its appreciation.>>The team behind Nuls is a group of blockchain industrial players who want to make trust easy and better serve blockchain startups.
+“We aim to build a global Nuls ecosystem and we welcome volunteers to help develop and contribute the community,” notes Nuls COO Wang Xiaoli .
+Found on reddit?
+This was shilled here days ago and did 300% for the people who got in when it was shilled first.
+Old news.
+Won't have its next moon for a while.
+I thought we had decided on Hyperledger.

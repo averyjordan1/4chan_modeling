@@ -1,0 +1,225 @@
+This coin is currently at around $4 million market capThis coin is a great fucking idea, one I genuinely look forward to using personally..
+Perfect use of smart contractsThis coin isn't created by greedy bastards, they capped their ICO at $400kThis coin communicates with their community (has a dedicated reddit account that responds to queries and also interacts in telegram)This coin has at the time of writing $730,000 volume on ETHER DELTA of all places (it's # in volume)Don't wait around for this thing to be 20m market cap and then ask biz if it can still 2x, get on the rocket ship nowThey're announcing exchange news by Sunday - it's likely binance (they listed MOD after seeing it have great volume on ED).
+If it is, this thing is 20m cap in no time at all.Thank me later
+>This coin isn't created by greedy bastards
+They knew.
+https://view.publitas.com/p222-15491/harvestmoon-14-urgent-dispatch-oct-17-2017/page/2
+Also is going to use Chainlinks oracles.https://www.reddit.com/r/LINKTrader/comments/78659k/weekly_link_discussion_23rd_october_2017/doyj1jg/
+Sold my ICO bags at x10 - feels great.Just a heads up to everyone listening to OP, the devs are constantly speculating about the price in the telegram, a terrible sign and the reason I decided to take my profits instead of holding.
+You can draw you own conclusions but nothing is happening for this coin until January at the earliest.
+Buying into a x10 pump is usually a terribly idea, regardless of market cap, but who knows, maybe this time will be different right?
+it's a smart contract service for escrowTell me why literally every blockchain can't build this in, instead of relying on a third party service.
+Escrow smart contracts already exist on the eth network.
+Also, the fucking font on this concept art triggers the shit out of me
+BUY CONFIDO TO SHOW THESE OTHER FAGGOT ICOS TO STOP RAISING 50MILLION WHEN THEY CUD RAISE 5
+this
+the only mention ive seen from the team re price is them clarifying to people who ask what the ico price wascongrats on your moon though, shame you didn't stay for 40x
+10x niggersI made more with confido than you niggers made with linkI turned 2 eth into 20 Get fucked I'm better than u
+First mover.I agree.
+I'll try socially engineering the devs to talk less and finish the Shopify plugin.
+You're asking why every blockchain can't build a dApp?
+Wat?
+You realize this "argument" applies to every dApp ever right?>rationalizing not buying a moon mission
+It uses the eth blockchain with ChainLink to track your parcel delivery and it pays dividends
+screenshot of them talking about shopify plugin?
+You don't get first mover bonus on creating something anyone can add themselves to their own blockchain.
+Heimlich had the first mover on jamming your closed fists into someone's diaphragm, but they just get you to do it now without calling it the Heimlich Manoeuvre because he demanded royalties for it.
+>that font in OP pic>Their websiteScam
+I'm actually in BIG on Confido but lol at the "time for me to aware you" like everyone on Biz doesn't know about this already.
+Bit late to the party pal.
+fuck off for not posting that earlier
+I made more money from link than I did with confido and I bought 2 ETH worth too.
+You'd have too be stupid to not have made money with link
+the reason why bitcoin is huge is first mover advantagepeople talking themselves out of 10x gains with a 5 mill cap is funny
+People selling their entire bags at 10x ICO are brainlets.
+oh I just got 1000% gains>nah lets not sell it it might go higher :)
+It's a weak teamI doubt it'll get a larger cap than block cat lmao
+When I'm back home yeah.
+Don't have telegram on my new phone.Where do they not name it?
+And yes you do.
+Adhesive bandages have existed for ages but half the US still calls them band-aid
+sell some, but not all idiot
+Is this CFD on etherdelta?
+The whole "team" thing is a blockchain ico teenage investor meme.
+Fact is you just need a good idea with good devs with good experience.
+Just because they haven't paid random people with nice titles copious amounts of money to be listed as "advisor" doesn't mean they won't make quality.
+If you haven't noticed, most successful startups don't start with all stars.
+Besides, their CTO is from TU Munich - amazing school (MIT tier)
+Confido is not a dapp it's a standalone blockchain which expects people to buy its token to use its smart contract.
+There is no reason you cannot simply do this with an etherium smart contract.
+Shipment tracking is a gimmick.>only releases the funds when the package is delivered>relies on the shippers tracking being 100% and then irreversibly releasing funds via blockchain with zero actual proof of delivery>only got interest because it was using ChainLink, already a vaporware projectFuck man, it's an enormous red flag.
+Without shipper adoption, nobody will use confido.
+It can access a shippers API but shippers often err on the side of the shipper being correct and take funds on shipment, and already have the individuals money in case of shipping discrepancies.
+an anonymous individual online is a high risk, where the company is public and required by law to account for their dollars for services.The company ships something to the wrong address, that means now they are both out dollars and product.
+This will never catch on as long as they err on the side of the consumer.Why the hell wpild
+https://etherdelta.com/#CFD-ETH
+Uh... what?
+I'm in the telegram all the time.
+Only time devs talk about price is when they are answering what the ICO price a million times per hour.
+Honestly those guys are saints for putting up with the same questions over and over again.
+I couldnt do it
+Yes, but only by contract addy atm
+Every possible ERC-20 is on etherdelta
+Educate the ignorant!
+only releases the funds when the package is deliveredWrong
+It's not a standalone blockchain, it uses ethereum smart contracts.
+Pls research before fudYou mention a red flag is disputes, well thats hardly a red flag because 1.
+They've partnered with a decentralised disputes resolution service in Kleros 2.
+This isn't just for stores, it's for peer to peer payments like craigslist and facebook.
+For these use cases it will be revolutionary
+https://www.reddit.com/r/LINKTrader/comments/763zqp/my_research_on_confido_an_escrow_payment_platform/A good summary for those interested.
+Like 2 days before the whitelist opened, one of the telegram users shilled to a pajeet channel.
+The result was a flood of ESL (the bad kind) shitting up the channel and I think the guy that let them in wound up not getting any CFD
+....Confido is built on Ethereum..... you are so plainly and utterly wrong.
+Why the hell do you think the tokens are ERC20 tokens?
+Because its its own blockchain?>There is no reason you cannot simply do this with an etherium smart contract.Lol... thats literally what Confido is.
+They produce a nice clean smartcontract for you that incorporates a decentralized oracle in chainlink and then uses Kleros as dispute resolution.
+You pay .07% fee for the service, for the user interface, and for the simplicity of use (you really wanna deal with making your own smartcontract and having someone you've never met insert a tracking number into the contract?
+when they probably dont even know the first thing about ethereum coding?)
+What are you smoking?
+Have you done any research at all?Take a look at the ChainLink plush scam that just happened.
+PLUSHTARD scammed this whole board out of thousands.
+If we had Confido at the time, we could have used Confido and no one would have gotten scammed.>Without shipper adoption, nobody will use confidoIts drawing shipping APIs.
+There is nothing for shippers to "adopt" - any shipper that uses tracking numbers can use Confido.
+Furthermore, the greentext you posted is also just plain wrong.
+Feel free to learn more here:https://www.reddit.com/r/CryptoCurrency/comments/79gkl4/confido_awesome_chainlink_use_case/
+They use third parties for conflict resolution in the case of a freeze being triggered by the customer and the parties not agreeing.Escrow isn't released immediately upon delivery, it's released automatically some time after delivery.
+There is a time window in which the customer can make sure they got what they needed and if they don't, they can trigger a freeze until conflict is resolved.
+There will likely be an alert for the buyer when the time window starts.
+4240499Funny how asking for information gets you flamed but completely blindly and ignorantly FUDding gets people to thoughtfully educate you.
+Pretty neat system guys.
+CF is still mooning despite the FUD!
+Look I offloaded my bags at 10x 10 facing XThis is my biggest win ever and 4k more than I've ever had I'm not gonna let it all run on confido lolI'm gonna diversify niggers
+Haha who else watching the show?
+Sell walls appearing and just getting eaten up.
+Its not staying at the current price.
+Rule #1 of the internet: if you want a question answered, do not ask a question.
+Instead, be proudly wrong and someone will quickly correct you
+That said, with the amount of info I got here and the amount of technical detail involved, I'm almost certain this thread contains genuine confido shills.
+That said, it isn't a big deal, and trustless peer to peer shipping is pretty fucking cool.
+No product for a long time, got out at 9x, buy now and get burnt
+It will go up by quite a bit when it hits Kucoin and Binance.
+Some people don't want to deal with ED
+Yeah if you want to try flipping it's fine.
+Confido doesn't release fully until 2019.
+I'm selling at the first 50x and buying back in when it dips on Jan.
+Popcorn time xD
+OP for the love of god, do not shill our coin on biz.You shill in the hope for exposure and price rise, when in fact what will happen is the stupid /biz/tards will jump in and ruin our coin.Trust me, /biz/tards ruin everything they touch.
+Biz is not worthy.
+2019Alpha is early 2018 actually
+Yup and payouts start in q2 2018
+I'm a student in Germany and I can confirm that TU München is the best technical university in Germany, above TU Berlin and RWTH Aachen.I honestly didn't know that the CTO was a TUM graduate -- that makes me even more CONFIDENT with CONFIDO.
+Great news for the project.
+That’s pretty awesome.
+Can other German anons confirm?
+It’s not meant to be for people buying shit from companies, it’s meant to allow people to buy shit from each other.
+For example, the LINK plushie guy scammed like 2500 USD out of idiots on here, which wouldn’t have been possible if they used Confido
+Tune in to the moon show ladshttps://etherdelta.com/#CFD-ETH
+Biz missing out on a moon mission.
+LOL what else is new around here.
+h-holy shit, are you seeing this anons?
+FAO readers, it's already up 35% since I posted this.
+Much more to come - not even at 5m cap yet.
+There are no more 5x aside from maybe BTC.Shitcoin season is closed forever, starting with the king of shitcoins - ETH
+Crazy.
+Sell walls keep popping up and being taken down.
+Whales might want to hold off for a while.
+>bought last night at like 5x ico>already 2x profitsAww baby
+Shhhhhh.
+This really doesn't need to be shilled here.
+Would prefer biz stay away so we can grow organically.
+I would buy some, but my cucked bank card only allows me to transfer 3200 usd a month.
+Fuck.
+How do you neets do it?
+The bank doesn't allow me to hold or move more money.
+someome fill my buy order
+Pay more and I'll gladly help you out
+Please don't tell me this has something to do with chainlink.
+Huge fucking buy's and sells.
+THIS
+What price should i buy in at or am I to late ???
+it just dipped a little, anything around 0.0015 is good i would say
+just bought 22 eth worth
+Confido = Scam ShitcoinNO product, team is a joke.They dumped on noobs.Enjoy your bags morons LOLOLOLOLOL
+after being whitelisted and forgetting about the ico, i cant justify buying someones bags at x10will be looking out for other icos similar to this one (with the exception of shit like ethbet lol)
+Been in the confido Telegram for 2 weeks now.
+Here's what I've discovered:>"Joost" sits in telegram ALL day.
+There is never mention of the product, just vague dismissals with "gona work with chainlink".
+Recently "Chris" has joined in.
+>What they DO talk about is speculation.
+I have never seen ICO founders that speculate on the price of their own token so hard while avoiding any discussion of a product.> they created a document in palm Beach style then disseminated it on various outlets.
+The paper is entirely speculative promising "insane gains."
+> this is the poinziest shit I've see since bitconnect
+Take a look at the ChainLink plush scam that just happened.I missed this, quick rundown?
+lol, nice try.
+only price talk they have is answering what ICO price over and over again because they're saints that actually answer the same question to people over and over again.
+they love talking about their product, try again.
+no one here even knew about the awesome paper, i wish i had seen it earlierpic related its you
+Thanks for the tip, buddy boy.
+Looks juicy.
+Nice try m8 but I'm voluntarily joining the Confido dev team myself to force things to get done lmao
+You good Samaritan you!
+Keep doing what you're doing.
+My wallet is stacked now because of good people like you.
+Reading the other threads and seeing weak FUD makes this pump more satisfying,
+classic pnd.
+nailed it
+This is getting Nice, in at 2000
+PLUSHTARD made link plushies, said he was giving them away for free, only charged shipping, plushies looked awesome, he never sent them, scammed half of biz
+
+That is fucking hilarious
+who cares this place is 90% scams even if you were right it wouldn't matter.
+Are we fucking mooning?
+Yes!
+Still mooning
+tfw the Golden era is not fucking overI love y'all motherfuckers
+tfw plushtard was a lie :'(
+These plushies must have been fucking sick
+I want a plushie
+Confido just started the ico renaissance.
+As shit
+just bought at 0.0024how absolutely JUST'd am i going to wake up tomorrow morning
+new exchanges annoucement at the end of the week.
+i hope everyone is in alrdy... easiest x4 from here
+This shit is fucking exciting too watch, fucking roller coaster
+Same man Looks like I bought myself a ticket to a sleepless night...
+Joost'd
+hope its binance...i heard they love high volume and confido is perfect!
+ITS ALL JUSTD FROM HERE BOIS
+Wait so it's not going above a dollar tonight?
+What the fuck man
+thismore low cap ICOs nao
+Kek
+Niggas are y'all dumb?
+This shit isn't even on a real exchange, the market cap is still low, and you think you got JUST'd just from a correction?
+The same correction happened 2 hours after it hit the markets, and then it pumped.
+God fucking damnit why the fuck do you invest in shit if you're so scared of dips.
+So you're saying I should panic sell?
+Yeah thanks let me buy them
+Are you fuckers retarded?
+Look att he teams linkedin profile.
+A bunch of frat boys trying to make money.God dammit.
+I hate this place.
+None of you will make it.
+Ok so why would I buy this thing now?
+Market cap is low as fuck, but at the same time what application does the token have?
+As far as I know, it has no application at all and was a way for the team to raise money.
+Someone is salty that they didn't take advantage of comfydo.Sold my ICO at 120k, bought all the way back up to 100k.
+Who cares if the whitepaper looks like a 2nd years CS project, the marketcap is so low and what do all these 100+ million ICOs do differently?
+Nothing - they all have no products and no worthwhile use cases.
+Its going to be one of the first applications to use biz's very own Chainlink for starters.
+Alpha is out in q1 2018, less than 2 months away.Payouts start in q2 2018.
+Thats what all ICO's have been about, fund raising.
+Except this is a team that have stated they're fed up with the landscape of asking for millions and millions of dollars and instead asked for 400k to get started.
+Which in todays crypto world is nothing.
+Now its sat around $5 million.
+The token itself acts as a dividend with each transaction fee getting 0.7%.
+Its a web application/ mobile app outside of blockchain thats using smart contracts on ethereum through Chainlink.
+Seriously?
+Is 4chan really this bad?
+All fees on the confido platform are shapeshifted into ETH and divided between token holders.Using the token itself on the platform incurs no fees
+ITS GOING TO GET LISTED ON KUCOIN TODAY 13:00 CETsource is their Telegram.
+https://twitter.com/kucoincom/status/928197961988714496
+Etherdelta is so fucking weird ?Why is someone offering 19900001 for 199 eth ?I dont get that ?
+That Joost looks like a stoner.
+Never give money to a junkie

@@ -1,0 +1,5 @@
+>increase blocksize from 1mb to 8mb because blocks are full>average blocksize: 0.1mb
+But muh coffee
+to increase tps and lower fees
+Kek.
+How does bigger blocks do that?

@@ -1,0 +1,9 @@
+If i receive money from someone and this money was sent from an exchange wallet, can i send the money to the same wallet that sent me the money?Let's say you sent me the money from a Bittrex/Poloniex/NovaExchange wallet and i want to return you that money but i can not contact you, can i simply send the bitcoins back to the same wallet that sent me the bitcoins?
+Bump.
+yep!
+Ye
+no that is an aggregated wallet used by the exchange.
+they wont know what to do with the coins they receive
+They create new addresses for each account though, right?
+Don't do it, it's a bad ideathey create new addresses to recieve and track the incoming.
+They send out from hot wallets which will send out on behalf many account holderd at once

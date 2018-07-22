@@ -1,0 +1,7 @@
+Hey, new guy here.
+How do I read an order book properly
+buy high sell low
+Just watch it for an hour and you'll be able to figure it out.
+People have buy order wanting that an certain amount of that asset for a price, people have sell orders wanting to get rid of it at a certain amount and price.The buyers have to buy it at the price the lowest seller is willing to get rid of it for, or a seller has to sell where the buyers want in.
+It's just people bidding for what they want to buy/sell an asset for and the order book shows the amount and price people are willing to do it for.
+You don't, it's all bots and manipulation 95% of the time

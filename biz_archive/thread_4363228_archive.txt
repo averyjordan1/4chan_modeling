@@ -1,0 +1,6 @@
+is it worth trying to learn it for trading?
+I am terrible trader but already know python
+Just find some blue chip coins like Digibyte, buy and don't touch it for 30 years.
+Yes, it is useful.
+But you have to be creative with your variables.
+Past price is not useful at all.Things like Google Trends data, Twitter sentiment analysis, Reddit subscriber count, etc etc are unique variables that should help you.

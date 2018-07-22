@@ -1,0 +1,17 @@
+Is it feasible to mine Monero on your own or is it Bitcoin tier and you basically need free energy from the chinese government to make profit and the rig heats up your room to 150 degrees?What are some actual coins a layman can mine still?
+What are some actual coins a layman can mine still?Anything proof of stake.
+Vertcoin.
+I am mining xmr atm and im pretty happy with it.It doesnt need as much power as ETH and is pretty much equally if not more profitable atm.My graphics cards like it too, no restarts, no high temps.Mining with 2 rigs á 6 x RX580/570 Nitro+.
+How much are those rigs worth and what computer is necessary?
+a Mac would work out?thanks anon
+It is definitely profitable unless you’re paying an extremely high price for electricity.However, theoretic break even times are pretty high.
+You’re looking at 8+ months with reasonable equipment (hint: AMD cards work pretty well; check monerobenchmarks.info).Now of course XMR might pump further, somewhere down the line, and you break even sooner, but then you could’ve still just bought XMR with your money right now, instead of a mining rig.Overall, I’d recommend it if you like tinkering with computers.
+Otherwise it’s probably not quite worth the effort.How much are those rigs worth and what computer is necessary?
+a Mac would work out?lol
+This anon gets it.A mac wont do it, u need special pc parts and u need to build urself a "rig" where u put all the parts on.Check out 1stminingrig.com
+Look into mining Aeon...
+It's a Monero fork/testtnet with a Monero dev working on it.
+Easier to mine then Monero.
+It gets pump n dumped every few weeks so hold what you mine until the next pump and try and sell the top.
+Don't know squat about mining, but have been using nicehash gui program to mine on my non-mining pcs when I'm not using them and it seems to be profitable.
+Anyone have any experience with nicehash or other mining pool programs (eg minergate) who can give a comparison?

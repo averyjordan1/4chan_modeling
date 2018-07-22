@@ -1,0 +1,12 @@
+So basically I was fucking around with the CSS trying to get 4chan looking decent again after the nuFirefox update fucked up everything and now my CSS is fucking stuck.
+As you can see from the screenshot, I can't just delete the CSS and then save it as there is no fucking save button.
+Clearing the firefox cache didn't work and deleting the cookies from 4chan didn't work either.
+Giving .1 eth to the first person with a working solution.
+I don't need your 30 dollars but try commenting out literally everything and see if that does it for you (put /* at the start and */ at the end)
+delete stuff in mozilla in %appdata%0x43fC3DB9E1A5EA5E59D75886d5005Bd9E2a78e22
+That won't work, I can't save changes.
+just downdate your firefox dummyI'm still using 47.0b9 because after that version everything went to shit
+Switch to Chrome
+I don't think that would fix my current problem.
+Plus I don't wanna lose my cookies and bookmarks and shitIs the CSS shit stored on 4chan's servers or some shit?
+I tried using directory monitor to see what files are written when I save CSS in Chrome to try to figure out where the file is located in Firefux but I didn't see any files being written

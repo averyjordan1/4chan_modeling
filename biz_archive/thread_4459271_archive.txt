@@ -1,0 +1,5 @@
+Can someone redpill me on what a sell wall, buy wall and bid wall are?K thx
+Sell wall is the price range of what ppl are willing to sell.
+Buy wall is the same.
+Sell wall is when a whale puts up a huge sell order effectively to scare people and push the price down, buy/bid wall is the same but opposite pushing the price up.
+The walls are usually paper tigers since as soon as the price touches the wall, it is removed and put back up at a different price.

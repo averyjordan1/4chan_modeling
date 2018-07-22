@@ -1,0 +1,41 @@
+Is this a scam?
+How exactly would it go about donating coins to anonymous anime image board users?
+You tip people like a good burger tips a waitress.Which is a pretty legit analogy since every anon is your imaginary cockslut.
+Its a scam in the sense that its another coin with no real world purpose.
+I just hate how they spam up threads, mass (you) people, and generally are obnoxiously shilling.
+see 
+I swing trade 4chn with some success but they really need to keep it in their general when on /biz/.
+It's not a terrible idea and probably could catch on on other boards, just shitpost as normal with your wallet linked.
+We all whore ourselves for (you)s anyway.
+If anyone asks about it, direct them to the general.
+fun fact: he was replying to my post in that thread
+2017>Not tipping your submissive cutie trap with 4CHN if she post nudes.
+The current Chancoin is little more than a Litecoin clone with some very small changes (diff retarget time is 2 blocks, testnet min diff, etc).
+Obviously, in order to actually provide features and usability for the coin, we need to change that.
+Andy decided to fork a very old version of litecoin (0.8.7) which doesn’t even have the features we want, so we’re going to need to change that as well.The biggest point on our unannounced roadmap is updating Chancoin’s codebase to the latest version of Litecoin.
+This will allow us to actually start doing stuff, and name has gotten a pretty good beta version working already - we just need to squash some bugs and that’s it.
+Once we have the updated client, we can start working on real features, most notably, blockchain-based data storage and Cloverhash, our new mining algorithm.Cloverhash will solve many, many issues, most notably the complete domination of ASICs.
+In the current Chancoin mining scene, it’s practically impossible to get a block mined using a regular GPU.
+Cloverhash, based on Dagger (the same mining algorithm that Ethereum, Zcash and many other coins use) and Lyra2RE (Vertcoin), makes it extremely easy for the end user to mine Chancoins using their normal graphics cards and immensely helps with decentralization of the network.
+Blockchain-based data storage is another very interesting feature we are exploring.
+Using OP_RETURN and transaction metadata, we can store long strings of information on the blockchain, without any central server.
+With this, we can then develop:- Tripcodes and usernames stored on the blockchain!
+This eliminates the need for those huge ‘$4CHN:’ names on imageboards and allows us to link usernames on other websites (Twitch, Youtube, Twitter, etc) to a specific Chancoin address, which can then be sent coins to using the tripcodes stored on the blockchain.- A blockchain-based chan archive, in which users pay a certain amount of coins to upload a post to the blockchain, thus effectively archiving and storing it *forever*.- An imageboard, or forum, stored completely on the blockchain
+Gossamer Socks (main dev) - ''from my perspective the success of this project is measured in the degree to which it becomes an approachable project for people who want to learn about crypto or integrate it with imageboard-related projects or other projects from our corner of the internet''
+CHANCOIN IS NOT A SCAM.
+KEGELS GUY HERE..........TELLIN YOU TO MAKE SURE YOU DO YOUR KEGELS.
+REPS OF 20............GOOD.........NOW HERE'S A TOWL.
+REMEMBER KIDS, MOST ALTCOINS ACTUALLY HAVEN'T PROVIDED AN ACTUAL PRODUCT.
+THAT'S WHY I STICK WITH CHANCOIN.......A TRUE AND BONAFIDE MEMECOIN THAT WILL BE WORTH MILLIONS IN MARKETCAP.
+% this.
+The low volume makes it a little bit annoying to trade, and I don't know whether people will actually use it for its intended purpose.
+But the community is fun and the gambling and other memeing on the discord are entertaining enough for me to be alright with having money in it.
+As for using it to make money, you just have to hope others feel the same.
+But yeah the shilling anywhere besides its actual thread probably does more harm than good and is generally annoying.
+When are you cashing out?
+So if nothing else good comes from this coin, I learned about kegles, that shit is no joke.
+They should bait /g/ if they want to become successful.
+They attempt to market their coin with memes and making 5 threads a day but nothing about it seems organic, really gives me the feeling that there's like 10 people in a discord somewhere trying to drum up interest for it so they can dump their holdings later.
+The charts for this coin are fishy af too.I don't think anybody cares about it.
+I agree, but don't shill, just use the wallet in your posts and people will ask, guaranteed.
+Also, there are ALOT of chans out there, not sure if the extension works elsewhere, but it should.

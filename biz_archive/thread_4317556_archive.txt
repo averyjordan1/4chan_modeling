@@ -1,0 +1,9 @@
+Lets face it.
+Hoping that big international Chains like Starbucks or McDonalds will accept Bitcoin or BitcoinCash will NEVER happen.
+The more likely scenario is that you will be able to pay with Crypto through your Cryptodebitcard.
+You're right: they'll never accept Bicoin Cash; do you know what they will accept?
+What everyone will technically accept?
+Not because it will take the place of cash or credit -- it won't -- but because it will make cash, credit & crypto seemless at point-of-transaction.>brainlets still don't understand this
+why are so many retards here so ignorant about the actual scaling debate?LN has instant and almost fee-less transactions.It's already working in the testnet, and it will be implemented sooner or later.Once it's implemented, you don't need to wait for confirmations, and you don't need to pay fees for tiny transactions.
+You can make 1 satoshi transactions if you want.More info on BTC upgrades (mostly enabled thanks to segwit) here:https://twitter.com/jfnewbery/status/928642936555876354
+No, anon: what I meant to say was:>you'll be able to pay for coffee at starbucks with cash>you'll be able to pay for coffee at starbucks with credit>you'll be able to pay for coffee at starbucks with bitcoin...and so on, all *through* the chainlink network, which is what will seemless handle the transfers between everything & everything else.>the absolute state of the linkless

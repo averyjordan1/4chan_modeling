@@ -1,0 +1,36 @@
+I have several old hard drives that I am planning to scan for old Bitcoin/ETH wallet files.I know for certain that one had an ETH wallet with at least 30+ ETH in from when ETH was less than a dollar.
+Up until now I haven't touched them since I didn't want to further erode the drives.
+Someone from /biz/ also sent me 60 ETH for free when ETH was first released..What would be the best approach to do this?A few questions that I can't seem to find the answer to:>How do I go about doing this properly and thoroughly?>Are there any specific things I should search for?
+(i.e searching for a specific folder, file type)>Are there any tools I can use to assist?
+(I am using EaseUS Data recovery atm)>What do if I find a corrupt .dat file?
+Can it be restored?>How do I use Pywallet (I can't into linux or python)>I read briefly about a method of scanning the entire drive for any string that resembles a string in a PV key?
+Anyone have any good info?
+Methods?If I can access them, I'll obviously give some to people who helped
+Give it back
+why not connect them directly to your computer?also, what kind of wallet did you use?
+I don't know, but there are companies that can restore damaged hardwares if everything fails
+Hey Jamal /g/ here.
+You can lock files permanently in place by driving a nail all the way through the drive
+I mean hard drives.
+It's too late here
+If I manage to find the wallets I'll give away some.
+As I said, some anon gave me some of the ETH in the first place.
+Yeah no shit, I've done that.
+What am I retarded?I've scanned the drives already and found an old BTC wallet on one of them, however I'm not sure the scan was thorough enough.
+I have several HD's as I said, from 2011~ to early 2017.
+All from diff laptops, various wallets, various clients, etc.
+They're all thievesThe fuck are you smoking faggot?
+Some of the drives were in PCs with Win 7 32, one was used in an win XP laptop and the rest are Win 7 64 bit.I had a specific laptop for BTC at one point during the silk road era of BTC.
+As I said, I am 99 percent sure that one of these drives has 30ETH (possibly more), however the drive was either wiped and the data may be able to be recovered using programs, etc, or it's gone forever.
+I disagree
+Bump
+bumppppppppppppppppppppppppppppppppppppppppppppppppppppp
+string search I would use the dd and ddrescue tools to copy the drive to a more modern counterpart.
+Saved as a file you can the use grep to search for specific strings.Why copy?
+Because you’ll probably want to make several passes now and in the future - and it’s better not to risk that with the original disk
+I was going to help you, but you were rude to this anon so go fuck yourself
+Yeah but I don't know what strings I'm searching for.
+Hence the thread.
+This is 4chan you fucking faggot
+This is 4chan you fucking faggotExactly.
+Proceed to go fuck yourself

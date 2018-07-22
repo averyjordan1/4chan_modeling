@@ -1,0 +1,17 @@
+am i actually retarded?MEW confuses the fuck out of me, i literally cannot get my head around it.
+I coded my ethereum wallet myself.
+it's pretty easy and you don't have to trust anybody to fuck you over.
+Watch a youtube video
+What are you trying to do mate?
+What questions do you need answering?A lot of this shit can be confusing at first.
+I fully understand logging in and my personal key etc.
+- it's sending shit from binance to MEW that confuses the hell outta me.Doing a test run with some LINK now to see if it makes it in there.Do you literally just send all tokens/coins to one address?Have tried that, they are useful but not helping with my problems.
+All your Ethereum and ERC20 tokens (every token based on Ethereum) all use your Ethereum address, yeah.
+So whatever your ethereum address is, just send it all to that.
+you are not sending it 'to MEW'.
+You are telling Binance to send it to that public address for which you own the private key.
+MEW doesn't host anything.
+It only provides a node so you can interact with the Ethereum blockchain.
+You can download MEW and run it locally, which is very much advised as you'll probably be scammed otherwise someday.
+ayyyy lmao
+do you remember that time you forgot about 9/11?

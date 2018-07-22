@@ -1,0 +1,70 @@
+Newb here.So what makes an altcoin shit and what makes it worth buying?
+What signs do I have to look at to determine if a coin is shit?
+I hear horror stories of pajeet poocoins, I don't want to end up on the designated street.
+Read whitepapers and ask yourself "does this solve a problem?
+and if so, how big is the market for the problem that is going to be solved?"
+Then ask yourself "who is also trying to solve this problem?"
+If you're talking about chasing temporary moon missions then forget all the above and just learn to read charts.
+For every hour you spend on /biz/ do atleast 2 hours of research elsewhere / on your own.
+thanks anon
+Its best to ignore anything remotely resembling shilling until you have done your own analysis of whatever coin is being shilled/FUDed.
+Don't fall for FOMO, most of the time if you make an investment purely on FOMO with no other research you will lose money.
+4435112These are the first steps.
+The much more important steps are:- Why does the product have to be decentralized?- Why does the product have to be a crypto token?- Why does the company not go the usual way and acquire money from venture capitalists?- Is there competition?- Do I have to wait many years until the product is finished?And then you will notice that basically 99.9% of all altcoins are shit, and you are wasting time chasing the 0.1% viable tokens whose value is still manipulated by whales such that you will lose money trading it.
+I'm definitely in agreement here.
+I don't think there are more than 3 or 4 altcoins that actually have potential for sustainable growth (i.e.
+coins worth a shit if you are not chasing moon missions.)
+Just curious, which altcoins do you have?
+XMR>OMG>LINK>LTCThoughts?
+I'm not emotionally invested in my coins, I think XMR and OMG have solid potential.
+LINK I think has a lot of potential but depends on a lot of factors.
+TTTCTechnologyTeamTokenCommunity
+Read white paper, or at least a summary, and figure out how wide the adoption will be for the particular coin.
+Look for real world use cases, not just crypto stuff.
+buy nuls
+Monero: Generally fine, I'm just not sure how good of an investment it is.
+If you need privacy, then you might use some upcoming features of BTC, or simply trade your BTC to Monero, do a few transactions, and trade back to a new BTC address.
+Also, Monero might be one of the first coins that get seriously attacked by governments.OMG: No opinion, don't know enought about it (even though it was shilled here a few months ago)LINK: There is a market but it's probably still overvalued depending on the size of the market of smart contracts.
+The thing about smart contracts is that they are built on the ETH chain and from what I know the programming language is extremely awkward to use and prone to mistakes.
+BTC recently introduced its own language (simplicity) which might be a better tool in the long term (although it's not Turing Complete like ETH's language).
+So I'm not sure about it.
+LINK could be big but could also be a dud.LTC: I generally like LTC but again I'm not sure if it's a good investment.
+In the long term it is not unrealistic that only one crypto currency will survive whose primary usecase is to be a currency.
+But it's possible that it will become something like the silver to BTC's gold.
+4434692> Read whitepapers and ask yourself "does this solve a problem?imo this is wrong, ideas are fucking cheap, Github/code repository updates or GTFO.
+this is my first criteria, the idea is fucking pointless if they havent started building the thing, you eliminate 95% of "investments" by just going to their github, finding who writes code, how often they commit and then coming back and working out the fundamentals.
+XMRYou raise a good point, I may not stay in for the long haul but I believe there are gains to be had for a year or so.>OMGI read the white paper to see what the fuss was about, its a short read I'd recommend atleast a skim.https://cdn.omise.co/omg/whitepaper.pdfinterestingly I have a hunch that is OMG succeeds it will affect LINK in a positive manner.>LINKRight now is cheap, I like their white paper and my intuition tells me its a coin toss honestly.
+The lack of hype that they themselves generate is a good sign imo, what /biz/ is doing is the antithesis of what they themselves want to do for their idea.
+/biz/ wants moon missions and I think LINK is much more of a long term hodl.>LTCI'm honestly in LTC right now because the transaction times are relatively fast and I'm not sure whether to put my money in BTC or BCH at the moment.
+It seems like a more stable bet than either of these coins right now.
+(If I'm wrong here, explain, I'd love to feel enlightened about these two.)
+buy gvt.
+its about to blow
+What if they are using their own git server?
+Is it standard practice to publish all of your code on github?
+OMGI read the white paper to see what the fuss was about, its a short read I'd recommend atleast a skim.>https://cdn.omise.co/omg/whitepaper.pdf>interestingly I have a hunch that is OMG succeeds it will affect LINK in a positive manner.Alright, I'll take a look at it.>>LINK>Right now is cheap, I like their white paper and my intuition tells me its a coin toss honestly.
+The lack of hype that they themselves generate is a good sign imo, what /biz/ is doing is the antithesis of what they themselves want to do for their idea.
+/biz/ wants moon missions and I think LINK is much more of a long term hodl.This is possible, I don't want to talk you out of the idea that is a good token.
+I simply don't know.
+Another thing that keeps me from investing in it is that often, when it turns out that a product is viable, someone else with much more resources and connections implements the same thing but better.
+I'm more of a person who waits and gets on board later when an investment is less risky.>>LTC>I'm honestly in LTC right now because the transaction times are relatively fast and I'm not sure whether to put my money in BTC or BCH at the moment.
+It seems like a more stable bet than either of these coins right now.
+(If I'm wrong here, explain, I'd love to feel enlightened about these two.
+)BTC will win in the long run, I'm 99.99% sure of it.
+The idea to scale on-chain won't work if the goal is to stay decentralized and scale to Visa levels and beyond (the "and beyond" is very relevant, our economy will probably change in a way nobody is really able to grasp at the moment).I'm trusting my own intuition due to my education (I have a CS degree and PhD and did research on networks and efficient algorithms; not want to brag but it's just as it is).The only chance BCH has is if it somehow manages to win fast, to win now.
+The window of opportunity for BCH is extremely small imho.
+Ok thats good insight, it makes sense.
+I don't trust BCH at all but the level of war between the two coins is intense.
+Your intuition makes me consider diversifying into BTC/LTC.
+Using LTC as my only stable value store is not as much fun, better to have both gold and silver.
+Please make your own decision, though, pretend you didn't read any of what I wrote.
+I don't want to be responsible if you lose money because of me.One thing I forgot to mention is: BCH could actually win if governments support it and use it as a tool to destroy BTC.
+So there's that kind of risk.
+sitting on a gold fish cracker
+I make my own decisions mate, I haven't done anything yet.
+You make a strong argument that I'm going to mull over is all I'm saying.
+On that not in relation to OMG, ARK is a serious competitor imo.
+Currently I only have OMG but I plan on going in on both.
+I don't see why one would necessarily cause the other to fail.
+If it's not XMR it's shit.
+Hope that is simple enough for you to understand.

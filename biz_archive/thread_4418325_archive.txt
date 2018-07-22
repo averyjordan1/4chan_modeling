@@ -1,0 +1,13 @@
+REEEEEEEE I REALLY NEED TO WITHDRAW SOME MONEY AND THIS FUCKING CHINKS ARE OBLIGATING ME TO USE THE 2FA TO DO SO.
+SO I TRY TO ENABLE IT BUT ALL IT SAYS IS "BINDING FAILED" >"BINDING FAILED""BINDING FAILED">"BINDING FAILED""BINDING FAILED"HELP
+Which app?
+Try Authy or LastPass Authenticator.
+Had the same problem.
+Send an email an request to reset the 2fa and then enable it
+"liquidity"
+Oh, you can use Authy with this?
+I'll try itI got an email from support and it says: >(1),Download an authenticator app , click "add an account" and choose "Manually add account " with filling in your binance account name in the form.>(2).Copy your key (2FA backup key ) from binance web page and fill it in the form of "enter your key " on the app .>(3).Fill in your password in the "Enter login password"form ,please double check if there is a capital letter in your password.>(4).Enter your authentication code in the form of "Enter 2FA code from the app".>(5).Please make sure your phone time is the same as the Binance website timeLike if it isn't what I just did
+Also had that reply but I then specifically requested to reset and send me a new code.
+So had to post 3 selfies and such and then it worked
+GOD BLESS YOU ANON I USED AUTHY AND IT WORKED AT THE FIRST TRY YEAAAAAAAAH BOYYYYYYYYYYYYY
+which one has worked?

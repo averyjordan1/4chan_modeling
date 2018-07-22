@@ -1,0 +1,20 @@
+It's 2003 and Dave had just come off yet another great paying Visual C++ gig.This was before the .NET took off, and with his in-demand skills Dave was making some serious money…He'd had a good run over the last 6 years, and thanks to some real estate investments and a runup in the stock market, by his late 30s he could see a path to early retirement.Then a few things happen in quick succession:First Hurricane Katrina hits in 2005, wiping out his real estate investments.Then Dave watches his Visual C++ skill go from in-demand to obsolete almost overnight.Employers shifted their focus to web technologies, and Win32 development jobs disappeared from his local job market.At this point Dave's scrambling to learn ASP.NET in order to become a web developer.
+That's what his local job market demands.There's just one problem: Dave’s playing catchup.
+ASP.NET had hit its stride and now the “surface area” of what he had to know to be employable was HUGE.Dave's always worked on desktop apps—so learning how to build web apps is a monumental task for him.
+Not to mention that finding the headspace for studying is hard when you're racking up debt by the hour…And so Dave accepts some C# WinForms work as a crutch.
+He knows this isn't where the puck's going, but it'll be enough to tide him over.
+For now.But it gets worse for Dave:The 2008 recession hits, vaporizing the retirement savings he'd invested in the stock market.
+Things spiral out of control for Dave from there… 12 months later he files for chapter 7 bankruptcy to discard his personal debt.Dave never returned to the dev industry.This tale had me thinking about the pitfalls of the tech industry.I know the market for software developers is booming right now.But that doesn't mean it will stay that way.Technology changes so fast—but fundamentally it's basic market forces at play here:Your hard-earned skills are ONLY valuable if there are "buyers.
+"And what's in demand may change RAPIDLY.
+It's not changing RAPIDLY anymore buddy.
+Even then, companies will need robots like you to fix their legacy codes.
+It's definitely still a good way to make a living though.
+Just don't be another one of those plebs that didn't network in his undergraduate years.
+>ASP.NET had hit its stride and now the “surface area” of what he had to know to be employable was HUGE.lol how can you fail to be employable for these shit technologies
+I know the market for software developers is booming right now.>But that doesn't mean it will stay that way.You could say the same thing for every industry.
+Dave's always worked on desktop apps—so learning how to build web apps is a monumental task for himSpotted the bullshitAlso, programming jobs will always be in demand and 90% of them are for maintaining old legacy code bases.
+Want an easy 90k+ programming job?
+Learn COBOL.
+The individuals who used to maintain said code bases are either retiring or dying.
+You learn fundamentals not some specific language lmao.
+Your coding bootcamp is not a cs degree

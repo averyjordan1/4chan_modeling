@@ -1,0 +1,64 @@
+If you're invested in Chink, shouldn't you also deffo be invested in Ether?
+Seeing as Chink relies on the success of Ether?
+Or am I not getting this.
+chainlink is an erc20 token, yes.
+but the product itself is not dependent on eth at all.
+chainlink oracles can be used with any API and therefore with any blockchain.i think this is the greatest weakness of the chainlink token (not the network), because the network could function without the token.
+LINK has absolutely no use as of right now, which might be the reason that it's price is so low.
+is this why people are hyping the first project of 2018?
+how can a decentralized network function without a token?
+you just said it isnt dependent on the ETH blockchain right?
+so they cant just use Ether as an incentive.Also you're wrong.
+LINK currently only supports Ethereum, Bitcoin, and Hyperledger blockchains.
+How are you going to have a trustless network without incentives?
+Wrong.
+ChainLink works with BTC and hyperledger and potentially other platforms like Neo and others.
+How do you incentivize anything without Link?
+if chinklink relies on ether then this is DOA>sell your neos
+Wrong.
+The network depends on LINK just like you depend on your money for your weekly groceries.
+Users, running Smart contracts on their platform of choice (Bitcoin, Ethereum, Hyperledger currently supported with all the others coming in future) will seek trustworthy external data feeds to trigger events within their contracts.
+ChainLink oracle nodes will provide this decentralised, tamper-proof data.
+Users HAVE to pay for this data in LINK.
+That's the primary use case of LINK.
+It is the lifeblood of the entire system, utterly impossible to circumvent.
+so who again gives a fuck about underage autistic marxist money skellyfag who has no real world understanding aside from being billionaire because of some lines of code at the right moment before other people manged to write them?
+llol and then we lose all our links, nice one retard.
+you brainlets don't understand how advanced the project is, is so well designed as if the God itself put his fingers to it.it is well known that Sergey received divine inspiration to create this token.
+make no mistake, God himself is working through Sergey.
+He is merely the vessel through which our Lord operates.
+42689664268980>what does 'as of right now' meanwhat does the network need to run?1.
+a working oracle that takes in external DATA and sends it to a smartcontract2.
+at least 1 master node that verifies the DATAboth things already exist and there are guides how to set up your oracle or a master node on the test net.
+yet nobody is getting paid in LINK for running a node just yet.
+therefore the network CAN run without LINK.of course the use of the token is to give an incentive to people to host master nodes, but this is not implemented yet, which means the token is useless as of right now.
+Pointless statement.
+That's like saying I can run a construction company without paying the employees.
+The only reason people are running nodes on the test network are to speed up the development of the main net and to get familiar with it.
+the absolute state of LINK FUDers
+ Hurr durr it doesnt need a token yet because the project is not completely finishedWhat is even your point?
+The same thing applies for majority of the crypto projects.
+Can you use your SALT, OMG, REQ, or Kyber tokens right now?
+By the time the platform is finished we would all be driving in fucking lambos.
+Thats why biz is offering you the chance to buy low for once.
+The network doesn't exist 'to function'.
+Your statement that 'the network CAN run without LINK' is trivial.
+Roads can exist without cars.
+They're still made for cars.
+ChainLink isn't made for node operators - it's made for smart contract users, who will pay the toll in LINK.
+You say LINK has absolutely no use right now - technically you are correct, but the statement comes across as 'there is no clearly defined need for LINK', which is horribly unnecessary FUD in a highly speculative marketplace.
+There is a need for LINK now, and it's the same as the 'need' for any other cryptoasset - high demand for its use case in the near future.
+Investment.
+ThisUtility tokens literally just exist to get early investors, which they did, and it's only value is you sell it for gainsProtocol tokens on the other hand, have an actual use in the ecosystem, which LINK isn't
+the double standards used to judge LINK are unreal
+I'm going to shill this shit because I fucking love my Trezor.
+Never worrying about malware stealing my hard-earned crypto is amazing.
+If you have more than $10k in crypto, don't be cheap.
+Get a fucking hardware wallet.
+Not to mention its buttons are easier to press than that fucking stupid Ledger Nano S.
+ohh shit wrong thread.
+Enjoy your factory made chink backdoor that will rape you when crypto go mainstream
+people are so bored knowing that they're going to make it they just fud
+you just know its going to be huge when people are trying to FUD this tirelessly like absolute retards for no reason because deep down they already subconsciously know they are making a mistake by not investing thus getting increasingly nervous about being too chicken shit to grab the opportunity when it presents itself right in front of them and hold onto it for a while.
+How the fuck does the master node verify the accuracy of the oracles data??
+It doesn't, they fell for meme buzzwords and think it makes the oracles decentralized

@@ -1,0 +1,5 @@
+Is there a way to save my studies like RSI/MACD/MA so i don't have to constantly remake them every time i open the page?
+Use TradingView or Coinigy
+fuck i like bittrexes ui lol
+Install the chrome extension 'Bittrex Enhanced' and it has the option to replace their charts with TradingView charts.
+It also will convert prices to USD in the main market/wallet pages.

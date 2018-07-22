@@ -1,0 +1,8 @@
+https://www.adbank.network/Youtube video: https://www.youtube.com/watch?v=e6vrlODdRgQToken launching Dec 2017Here's the white paper: https://www.adbank.network/AdBankDeck.pdfMassive market they're trying to be the "Uber" of to combat fraud.
+Apparently 51% of ad interaction online comes from bots.
+What do you guys think?And yes, they're Leafs.
+Fraud in advertising is a big deal, its also very costly to validate every click.
+I'd imagine reducing high cost of validating the clicks is something they wish to achieve over the blockchain?
+Is that possible?
+Youd need to be using APIs of some sort to look up information on the IPs viewing/clicking ads.There used to be agreed upon standards of like hosting IPs vs residential ISP IPs but fraud is so sophisticated and the status if IPs change (being compromised with malware and used to click on ads).
+Its really a crazy industry.Im sure buying/selling ads via a blockchain is a good idea, but i wouldnt count on them somehow reducing fraud by any large margin.Google lost a lawsuit recently and had to payout to their advertisers for counting bot clicks.

@@ -1,0 +1,36 @@
+http://www.coinparator.com/Website for tracking owned coins.
+Yesterday I've finished fixing last bugs and it's in usable state.
+Add owned coins, watch rates/charts.
+Profit!> MFW he still tracks his coins in an Excel
+portfolio chart
+coin summary in FIAT
+coin summary in %
+coin value
+Will this steal my link?
+coin movement
+Coinparator is not asking for your address (you don't have to prove, that you really own that coins)you can put 1000 BTC and 99999 ETH into your portfolio and it will track it for you as if you really owned it (although you just own 2 LINKs)
+investment distribution
+portfolio history
+
+btc/usd live stream
+Can you Bittrex API?
+It's freeWhat's the catch, are you selling our data?
+There's an advertisment in the header (not on the index page, on sub-pages)not selling data
+I like the site, but I don't like manually entering how much I bought coins in USD since it goes back to the beginning of this year in thousands of trades.
+Right now, I use https://cointracking.info/It kinda sucks, if you can incorporate automated collection of trading data, I'd pay BTC for that shit.
+how many coins do you own?
+i own ~30 coins and it was matter of 2 minutes to submit it all into portfoliomaking automated import from all exchanges and all blockchains?
+i can't even imagine how much time would it take to program it, and it wouldn't make situation a lot easier
+
+Well I bought the same coins at different prices, like I could import the coins I own at their current price to have a nice little chart, but updating it for every single small trade I make would be annoying.
+Furthermore, if you could set trade date you can import past data to complete the portfolio chart.This is more for capital gains tax reporting, what you got is a Blockfolio basically.
+Which I'm sure some people will like.
+Is this just a side project or are you gonna monetize this in the future?
+Can I important all my past bittrex / binance trades?
+you can submit same coin multiple timeseg:0.1 BTC for $4000.2 BTC for $12000.1 BTC for $380and it will track it separetelyit's developed in focus on people, who are holding and waiting for long term profits, if you're a day trader i understand that it might not fit your needs, you can't satisfy everybody....
+side projecti monetize it already, there's and ad banner in header (on sub-pages, not on index page)i'm not going to put there more ads or ad positions, as it would affect user-experience etc.only plan how to grow profits -> get big -> attract advertisers, that will be fighting over that single positionbut profit is not main reason behind this website, i like crypto
+currently no importsas I said, importing even big portfolio by hand is a 1-2 minutes one time job
+BTW since server has to recalculate rates in real time and there's a lot of data i have to store, it's very demanding on server hostingcurrently ads doesn't even cover hosting costs.....(and im not accepting donations)if i didn't have unused server resources, i would have to drown my own money in itso you don't have to worry, that i'm getting rich of you
+4389955Well, the design is nice and sleek.
+So I am saying that if you add importing and tracking people would be willing to pay for such features
+i will definitely look into thisbut as I said - there's about 80 crypto exchanges + 50 trading platforms + 2000+ main blockchains (ok, if  merge ERC20 tokens, maybe 1000 blockchains)I can't really see, how would I program individual import scripts for every possibility there is

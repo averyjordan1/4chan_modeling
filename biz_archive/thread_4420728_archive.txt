@@ -1,0 +1,13 @@
+https://medium.com/@john_draper/how-posw-flash-tx-differs-from-other-scalability-solutions-such-as-lighting-network-and-segwit-6732e59f04f6We’ve talked here before about TPoS, a new and unique protocol being used on launch in a few months, which is an upgrade to PoS and in my (obviously biased) opinion will lead to trustless banking and is absolutely huge.
+There’s a link on posw.io to the white paper if you’re interested.That aside, there’s another new piece of tech here - Flash TxThis is a masternode-based anti-centralisation scalability solution that has significant advantages over Segwit and LN.
+Read for yourself (link above)Posw is currently sitting at rank 303, with a 5m market cap.
+Tesnet is later this month and in December a larger exchange and the date of the launch will be announced.
+Price action right now is an exact replica of just before the last run up, which went x and would’ve kept going if the old team didn’t fuck everything up.
+Don’t worry, there is now a >solid dev teamIts worth a small buy just for the innovation here alone.
+If you are, make sure you have 25k for a masternode - these will give around 100%pa ROI on launch
+biz does not like my coin?!
+I do friendo.
+Big things to come.
+Let the brainlets miss out.
+k for master node?
+I thought it was 15k

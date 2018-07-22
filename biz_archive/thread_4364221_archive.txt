@@ -1,0 +1,27 @@
+Segwit has already been activated and will give Bitcoin ~3x capacity increase as adoption for this new type of wallet and addresses grows.
+You can track the adoption rate here: http://segwit.party/charts/ Once we reach 50+% we would have an effective doubling of transaction capacity.Shnorr signatures.
+This basically combines multiple signatures into one, compressing the transaction sizes potentially by a large degree, especially if you lots of smaller ones coming in.
+Capacity increase is roughly ~25%+, in addition this will increase privacy.
+This can be implemented via soft fork.Lightning Network is a second layer solution that will basically create an 'internet of payments'.
+It will allow organizations and individuals create payment hubs and channels which will find a route between sender and receiver like an email.
+This will increase transaction capacity 1000x, but it will require people to lock up their bitcoins in channels.
+On the plus side it will allow instant and virtually free transactions (no miner fees).
+This will free up on-chain capacity a lot because there are certain users who use the blockchain heavily with dozens of hundreds of transactions a day.
+These would all be moved to this second layer for speed and efficiency.
+This will come out later this year, but likely will take another year to materialize for a significant portion of users.Rootstock is another second layer solution.
+It's basically a clone of Ethereum, that will be pegged to bitcoin.
+Rootstock will be able to have Ethereum level scaling (and smart contracts) promised to be ~2000 tx/second.
+This second level chain could serve as a checking or debit account for Bitcoin users, while the regular bitcoin will serve as their savings account.
+Rootstock has been promised to come out by the end of the year as well.
+None of what you said is true.
+Are you a retard?
+Glad you brought this to my attention.
+It sounds like a terrible roadmap.
+I will double down on BCH.
+correction: lightning network is now a third layer solution
+Yeah, go on on this shitcoin.
+Rootstock has its own coin.
+It’s not really a second layer solution...
+bitcoin won't scale.
+better keep all your bitcoins on a trading platform or otherwise you wont be able to transfer it out of your wallet when you want to sell.
+https://blockchain.info/unconfirmed-transactions100k coming up

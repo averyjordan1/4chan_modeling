@@ -1,0 +1,51 @@
+>$8,000,000,000 fineBitcoin is a fraud
+He's right though, Segwit is a fraud,
+I bet you couldn't explain why with a gun to your head.
+You just puke quotes like a credulous moron.
+I bet you've never read the whitepaper and never learned anything about how a blockchain works.
+a real zionist
+oh this is going to end well for you
+I prefer the historic feeling of bitcoin desu
+Oh yeah, like on page 10 where Satoshi describes how he wants network 'upgrades' to be handled by forking with replay protection, and mining thousands of blocks ahead of the legacy chain using an intentionally bad difficulty adjustment system.
+k+ blocks ahead in BCH+ gb more transactions on BTC chain.If people were using BCH, then there should be a similar total blockchain size, but in reality there are 13 gigabytes worth of transactions more on BTC, even though BCH could have been 72 gb ahead, considering its blocksize.
+Segwit was a contentious fork and bch had no choice.
+Segwit should have been a HF because it changes protocol, the problems it solves are minimal and Segwit allows for cartel attacks.
+Not to mention it is a completely unnecessary at this point in bitcoin's life to look at sedimentary layering to solve scaling.
+A simple block increase solves scaling and leaves the protocol unchanged.I do agree with you over difficulty, however this would have all been avoided if Segwit would have hardforked off and instead the mainchain remained either unchanged or increased blocksize.
+Segwit allows for cartel attacksElucidate.
+Never had anyone show evidence for this.
+We don't pretend to be this stupid around here
+https://coingeek.com/risks-segregated-witness-opening-door-mining-cartels-undermine-bitcoin-network/
+so you're done?
+You give up?
+Find small exploit on bitcoin PoW.
+Make ASIC miners that take advantage of that.
+Patent it so I can sue other people who try to copy me.
+Upgrade to bitcoin would nullify my exploit (Segwit) https://medium.com/@WhalePanda/asicboost-the-reason-why-bitmain-blocked-segwit-901fd346ee9fSpam the network with small fee transactions to clog the mempool http://i.imgur.com/cmRIBIM.png (embed) https://jochen-hoenicke.de/queue/#24h https://bitcoin.stackexchange.com/questions/58166/who-is-spamming-the-bitcoin-cash-mempool-and-whyTell people that we need bigger blocks and not the new upgrade Fork the coin so I can keep mining it with my special miners.
+Actually no good programmers so I fuck up the difficulty adjustments but that's ok I have to mine 60% of the hashrate but that's ok, people won't know that I am centralizing this coin https://cryptovest.com/news/bitcoin-cash-watch/Collude with the other chinese miners to finally get rid of core developers, then I can increase miner reward easily https://twitter.com/ViaBTC/status/876047086533214208Rent russian social farm for a few days Pump up the price from a 0% fee exchange in korea by buying my own coins and trading 3x the actual sell book Finally get rid of the programmers who want to get rid of my advantage Once I have all the power, I can fork the coin to allow miner reward to be biggerhttps://medium.com/@WhalePanda/asicboost-the-reason-why-bitmain-blocked-segwit-901fd346ee9f
+copy paste fail
+Ok, I just read the whole article.
+There is a fair point there, except that it neglects to take into account the fact that nodes can decide if they will relay a block.
+I run a full node configured to reject non-segwit blocks, as well as blocks over a certain size.
+If the majority of nodes are rejecting blocks that try to use segwit addresses as AnyoneCanSpend addresses, those chains will orphan.
+There is then, a defense against the attack.
+The current block limitations insures that Segwit has a stranglehold on transaction speeds and fees.
+Thus basically all nodes are configured for it.
+Even if the defense works out the way you're saying it does, why was the risk necessary anyway?
+Scaling works just fine with a block increase at this time in bitcoins development.
+8MB isn't a barrier to entry for node operators and it certainty isn't for miners already running a node.
+Although some small block reward could be allotted to node operators in the future to offset costs, if it becomes more of a barrier to entry.
+Wait til bitpay announces they'll support bitcoin cash this week.
+Dimon is a filthy kike.What's new?
+How does segwit have a stranglehold on fees?Do you run a node?
+If the block size was a full 8mb I would have to shut down my node.
+Because they present the argument of not increasing the blocksize to use their off chain solution, at least that's the case right now.8MB would be what a TB a year?
+That isn't much.
+mismanages 74M inheritance>woman gets 8B from law suitIs the US legal system retarded?
+8MB would be what a TB a year?
+That isn't muchYeah of storage... You do realize that as a node you are responsible for relaying the transactions and verifying them.
+I routinely have 40 or more connections to my node.
+It is already a stress on my network to run a node with the blocksize 1mb.
+It's not always bad, but when multiple blocks are mined in a short period of time from random variance, it causes a serious lag as the network catches up across all nodes.
+I will have to store 1tb a year, but upload significantly more, possibly as much as 40tb.
+Just clean out your innanet tubes so they can let more through.

@@ -1,0 +1,8 @@
+I'm confused.
+BCH is supposed to adjust every 10 minutes, right?
+And difficulty depends on the amount of miners - so the more hashpower is on BCH right now, the higher the difficulty and the lower the profit, right?So difficulty should stabilise at some baseline, where is more miners switch to BCH it will become unprofitable and miners will switch away, bringing it back down - and vice versa if the amount of miners falls below the baseline.
+Profit also depends on price of the coins, which is the only thing which could disturb this baseline.
+So can someone explain why suddenly BCH spiked in profitability?
+The price was falling extremely steadily, and there was a really small pump.
+BTC has been rising almost non-stop.
+What's up with the wild fluctuations in profitability?

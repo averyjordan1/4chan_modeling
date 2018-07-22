@@ -1,0 +1,6 @@
+I want a something that will populate and cancel buys on GDAX with a keystroke.
+What would you use for this?
+Is there a way to do it through the API?
+Should I just try to set something up with AutoHotKeys?
+I want to be able to quickly create maker orders on GDAX to avoid the commission.
+Then to be able to quickly cancel them if they don't go through.

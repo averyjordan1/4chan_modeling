@@ -1,0 +1,78 @@
+>make a few decent trades>make a few sort of bad trades>barely go in the positive as a result>started reading up about ichimoku cloud>no longer just looking at candles and winging it>figure i'd note down my imaginary earnings before trusting this shit especially since i've read people saying it doesn't apply to crypto>???????>profit?
+So, the results I got from about six hours of intraday trades were a positive of just over 0.046 from a 0.50BTC starting capital.
+But what surprised me was the consistency with which it could predict the trends.
+Can someone please tell me if I'm falling for some hidden bias or luck or something because surely, it can't be that effective or else everyone would be doing it?
+It predicted the downturn of yesterday very well.TL;DR: Does Ichimoku cloud apply to crypto?
+TA doesn't apply to low volume coins.
+Shhh, don't tell people about how easy it is to trade off Ichi.Also dom't tell anyone about the Ichi settings for crypto markets
+So it does apply to the ones with high volume?
+I only tested it with BTC yesterday.
+You are not missing anything.
+Ichimoku is one of the best indicators out there.
+Read a bit more in detail on how to trade with it.
+But it applies well to the most cryptos.
+open informative video on ichimoku-san>its a pajeet
+Pajeet weeb?
+https://www.dropbox.com/sh/jym1c7wbgcevdgw/AAC46EJc_6amHfs4KziY9e_sa?dl=0&preview=ichimoku_beginner_by_gabor_kovacs+-+Copy.pdfHere is a good short readup on the Ichi, enjoy.
+DELETE THIS
+ichimokuBANKAITENSA ZANGETSU
+.......am i gonna lose all my neo/link if i click that
+thanks
+Thanks, anon.
+Will read after dinner.
+kekked
+Posting usefull information on /biz/ anon?!!
+!How do you dare?!
+NO, ichimoku has been backtested a lot, and it's objectively the best indicator ever created
+And how do I apply it to an exchange?
+Utterly unacceptable.
+The only things which you need to know are pic related.
+44293764429471Teach me famalams, currently reading the chartschool article about it.
+I need to know the best time frame for high volume crypto (top 10 coins) and the settings (default periods)?
+anons answer me REEEEEEEEEEEEEEE
+Read the book that anon provided?
+It recommends cross-referencing different time-frames before an entry.
+[spoiler]I'm an ichibeginner and don't know how well it applies to crypto so i accept no responsibility for my post[/spoiler]
+Are you trading Neo on etherdelta lmao?
+You should instead buy this book from me for 1XMR, it makes you better trader guaranteed.
+4429902There's nothing special about ichimoku.
+I guarantee you 99% of people who use it can't explain how it's components are calculated They just look at the "cloud" and buy cloud bounces or cloud breakthroughs.
+Once above the cloud is bullish and the cloud itself is good support.The reason ichimoku works is because it's a self fulfilling prophecy - all you goons follow the same lines and buy at the same level, Ofcourse its going to bounce off that level, that's where you're all buying.There's no mystery.
+Proper settings for ichimoku are 3x larger than default settings Want crypto settings?
+If a parameter is 10 day, up it to 30.
+If a parameter is 1 day up it to 3.just triple every parameter and congrats you have ichimoku with crypto settings It's all non sense anyways
+Other way around imo, high volume means it's pump and dump time.
+The only thing you can predict with that is eventually it will come down.
+It's captures 80% of the trend brah.
+If you're riding the waves from the beginning and then gtfo when it's time to crash you'll do good.Really helps you GTFO when you bought into the parabolic, became euphoric from how much money you're making, and finding a proper exit to make sure it doesn't all go away.
+Don't give away our japanese secrets, OP
+Other way around imo, high volume means it's pump and dump time.
+The only thing you can predict with that is eventually it will come down.I think he was talking about cryptos which consistently have high volume.
+Ok thanks.
+I didn't download it because I don't trust anons with dl links.4431462I'll have to backtest it but from what I see, it doesn't seem to work.
+It's a kind of fancy multiple SMA setup, or maybe I'm missing something.
+Also what time frame are best for this?
+Days, hours, minutes?
+how do you chart w/ ichimoku with smaller cap coins that arent on tradingview?i trade exclusively on binance, btw
+all these fucking newfags
+(10, 30, 60, 30) or (20, 60, 120, 30).
+The latter gives cleaner graphs and less false breakouts.
+As someone who fucking kills it in day trading...Its just moving averages.
+Theyre all moving averages.
+The MACD.
+The Stoch RSI.
+Ichi.
+Its just fucking cross over strategies.Bollinger bands are just moving averages with 2 bands to show extreme pricing which is 2 standard deviations from the 20ema.Love it when the idiots start trying to buy and sell because it slows down and the Stoch RSI is overbought/sold!!!!
+OMFG!?!?
+there was a guy here yesterday that was killing it doing that yesterday w/ btc/bcc trades
+thisyou literally just need 1 simple moving average and thats your TA
+What has been your most useful indicator/trading strategy then?
+Guyz, Im tryin to make my very own trading script.
+Could yo please suggest what periods I should consider for MA crossovers?
+3 days vs 1 day?
+10 days vs 3 days?
+typically it's a 4:1 ratio.
+Just back test a bunch of them to find one that seems to work for you / your situation.
+Thx manSure I'm gonna backtest, just wanted a tip to know if I end up in the ballpark when I'm done tweaking the parameters.Also, so far I'm using cryptocompare.
+Are tgere any other api-services for crypto?More specifically, I'm interested in ED data, but its high-low is full of fat fingers.
+If only there was an ED DB with fat fingers filtered out

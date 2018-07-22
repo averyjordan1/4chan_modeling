@@ -1,0 +1,14 @@
+So if I were to cash out some of my stack to pay for taxes this year, wouldn't that current crypto -> fiat transaction create a new taxable event and create an infinite loop of taxable events and never-ending money owed?
+I know crypto is treated similar to stocks so it can't be that difficult but I remain confused by all of this.
+Yes.
+Taxes in crypto are pants on head retarded and everyone knows it.
+Not necessarily.
+Depends on the cost basis of the coins you cashed out for fiat.
+>Buy BTC for $1000>Trade for $7000 worth of ETH while ETH is $300>Now you owe $6000*0.25= $1500 (depends on tax bracket)>If you sell $1500 worth of those ETH for fiat right away while the price is $300, the capital gain for that sale will be 0 because the cost basis was the same.>If you sell when the price is $350, then you will realize a capital gain on selling the ETH and will have to cash out a little more to cover the tax.
+wtf do we do then
+The new tax event will go on next year's taxes.
+Also, daytrade less.
+Locking in gains also means locking in taxes.
+At least if you hodl you can pay the long term rate after a year.
+I don't daytrade.
+But I bought ETH back in March and have been moving it around.

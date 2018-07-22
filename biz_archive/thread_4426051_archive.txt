@@ -1,0 +1,51 @@
+Do you know which coin doesn't have the centralization problems that are causing all the political in-fighting over BTC and BCH?Vertcoin
+I will fork it.
+Vertcoin cash.
+I’m offering contracts on your fork, vert cash contracts.
+asic resistance is a meme
+Why?
+Proof of work has become the meme
+Because you can buy the damn things.
+minimal asic run investment is 100k.
+people drop that on a blackjack hand.
+If it makes economic sense to invest in an asic run, it will be done, you just won't hear about it if the coin devs have announced asic development will result in a pow switch.
+it's a foundational cornerstone of the system which is presently being tested all the way to failure.let's see if it's really a meme.
+this tbqhwyfam
+I doubt anyone will drop 100k if they know the devs will fork the coin to another pow.
+IThe essence of VTC is to decentralize mining and as long as they achieve that goal, even if there are "private asics", it wont matter as they would be easily outnumbered.
+Did you miss the part where I said "you won't hear about it" ?
+They'll just do the run in private and with an NDA binding the fab that executes it.
+The essence of VTC is to decentralize mining and as long as they achieve that goal, even if there are "private asics", it wont matter as they would be easily outnumbered
+No.. that's not how it works.
+I'll walk you through the math by example both so I can validate my position and educate anyone who is listening.According to https:// en.bitcoin.it/wiki/List_of_Bitcoin_mining_ASICs the earliest introduced ASIC was December 2012, at the time the best performing GPU miners were I believe Radeon chips from AMD, and lining up the timelines you get *about* the Radeon HD 7000 series as the tip of the spear competing with the asics.
+I ran a small mine using HD7950's.
+Trying to look up the hash rate of that right now I can't even find it but I have vague memories of about 300 million hashes per second.and I do note that the R7 260X which was the furthest back I could find benchmarks in SHA256 for was 220 mhash so that's about right, also if I recall correctly price was around the 500 dollar mark for a card.By comparison that first generation shit tier ASIC miner made slightly more hash than that at a cost of about 120 dollars if I recall correctly.
+So right out of the gate it was already almost five times more cost effective than the best GPU mining hardware, increasing mining profitability instantly 5x by comparison, and it just accelerated from there.
+Having no visibility into the supply chain on this thing would actually help with centralisation because a ghost mine with a basic ASIC could control the vast majority of production hashing power and nobody would be the wiser.It's also way more energy efficient.
+It basically boils down to this; if you're running a business, and you see an easy path to 5x profitability out of the gate and accelerating as time proceeds, what reason would you have not to take it?
+I get that, but once hashrates are seemingly dominated by these "private asics", wouldn't the dev team easily notice this and immediately issue a fork?
+If they don't dominate the hashpower since they are trying to keep it in the down low to avoid suspicion, then they are no cause for issue.
+How can you tell?
+hash rates are statistically derived based on the observed block time.
+They come in via the network and hashes from a CPU look the same as from a GPU as from an FPGA as from an ASIC.There's just no way to know period.
+And just because I was curious and really wanted to put the boot into this idea once and for all I just looked up the SHA256 hash rate *right now* for a 1080ti which is a 1k USD item when deployed, it's 980MH/sec vs the best present production ASIC @ 14*T*H/sec and is about a 1500 USD item.That's 0.0007% as effective as the ASIC now that we're well and truly down the efficiency line.
+Think about how easy it would be to 51% a blockchain protected only by GPU's with that ASIC efficiency lead in your pocket.And the critical thing to understand about this is that everyone who control significant stake already grasps it very well, meaning they're not going to push large amounts of money into blockchains protected by "asic resistant" algorithms.
+Which by extension limits their potential maximum market caps by a lot.
+long story short sorry guys sell your bags it's not going anywhere.
+oh and last of all incidentally all of the above is why bitcoin gold is complete shit.
+Isn't the solution mandatory change of algorithm every 6 weeks or something?
+There's only so many proof of work algorithms in regular use.
+At some point in time there's a threshold you pass with profitability just like the GPU / ASIC barrier, it's just a question of time.And at the end of the day, what it really comes down to is there is already a solution to this problem.
+ASIC *friendly* algorithms.
+When no vendor has a monopoly on ASIC production and they're a dime a dozen it takes the equilibrium to where it really should be.
+Anyone can be a part of the system and it's just a business like any other that keeps the players with skin in the game, the competition becomes the production of proof of work with the most efficiency, driving eventual margins low and keeping the system stable.Everyone freaks out because they look at the situation in just slices rather than in the long term.
+In the long term mining on ASIC friendly algorithms will just be en masse deployed by economically enormous actors in order to both profit and protect their strategic interests.
+There's not going to be just one guy with a fairly agile ASIC fab churning out the only competitive readily available chips.That's where we're going to end up, so people should stop freaking out about it and if they want to do anything at all, put together a consortium to actually compete in the ASIC space and profit out of the present situation just like GMO and DMM are doing in Japan.
+interesting.
+Thanks for the informative posts.
+I had a bit of cash in VTC but I think I'll dump it.
+Your're right, human greed will always overtake the visual of decentralisation in this case - it's hard to force people to use inefficient tech like GPUs when there are ASICs available
+No problem.
+Consider this though; human greed is what is supposed to ensure a long term decentralised equilibrium, dispersal of the stake amongst many disparate actors ensuring that the best solutions must be adopted in a darwinian process.I could be wrong of course, but presently that's my view.
+Don’t dump now anon.
+Wait until the halving you can easily get more profit that way.

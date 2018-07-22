@@ -1,0 +1,2 @@
+How do i create my own LINK fork?
+copy-paste the code

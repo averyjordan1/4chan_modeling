@@ -1,0 +1,22 @@
+Is there a way to just type in how much of each coin you're holding?
+I find the buy and sell function gives me inaccurate balances.
+Just type it in once on the buy retard
+Ok but then say I trade some ETH for ARK let's say.
+I use the sell and deduct from ETH and they balance is off by a bit.
+Would anyone be interested in a blockfolio alternative that isn't fucking a pain in the ass to use?>Majority of the altcoin prices don't update>Charts allow only several timeframesI plan on solving these problems.
+Also I would like the option to add stocks and metals as well.
+Please respond.
+Would you use this instead of blockfolio?
+Yes.
+I want to just type in my current holding of each coin and have it show the total value.
+I mean, you can already do that with blockfolio but it's of course less intuitive than it should be.
+You add a buy, then if you sell some of it, you can just edit the buy and subtract what you sold.
+With mine there will be an option to simply have current holdings, like you said.
+There's a pretty massive gap in crypto portfolio trackers atm.
+They are all missing some key feature making them shit.> non shit UI with actual valuable information> (((API support))) who the fuck wants to manually log trades unless you're a forever poor hodler> doesn't cost $300/yearRight now cointracking.info is hands down the best but $300/year is a joke for something you could make in a week.
+The problem with having API support for all the popular exchanges is that each and every one is set up differently, so it would take me a while to program that in.
+But yes I could do that.
+I'm just going to start with the simple stuff, I'll make it a blockfolio clone that takes its prices from the coinmarketcap API so that they are actually updated properly.
+I'll also add stocks and metals support.
+Then I'll release it and just update it periodically with the more complex stuff like charts and auto trade logging.
+Thanks for your input.

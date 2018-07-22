@@ -1,0 +1,41 @@
+>He still thinks BCH isn't a scam.
+>Hillary Clinton has more experience
+https://github.com/Bitcoin-ABC/bitcoin-abc
+Hide Blockstream shill threadsDo not reply to Blockstream shill posters
+lol!
+They'll be rolling back old commits at this rate.
+Nice try, SEC.
+implying you want something people rely on as a currency to be changing constantly...why?
+I mean, it's not like the shit Core is adding is actually useful.
+Bitcoin ABC is an agnostic node compatible with Bitcoin protocol.
+It's linked to Bitcoin Cash the same as it's linked to Bitcoin Core or Bitcoin Gold.You found this link on reddit, right?
+Get out of /r/btc as fast as you can, it's compromised, most of the accounts there only ever posted about BCH during the previous pump and dump and then became active again few days ago.
+> brags about number of github commits to Bitcoin>Bitcoin hasn't forked or added any new code in years
+Holy shit you are dumb.
+Software engineers oftentimes push out major updates weekly since there's often a bevy of things to work on at any given point.
+Pretty unreal that bitcoincash hasn't had an update in that long, yet got pumped like that.
+I'd be worried if I had BCC.
+Big time.
+found on googlefirst result
+What is worrisome is that the code stays where it was during the fork.
+Not a single minute of work was put in it since then.Core rolled out a major update yesterday in response to blockchain spam.
+So how will the update be applied without a fork?
+I thought forks were bad?
+I know there is UASFs but those can only take things so far.
+BTC = establishment = Hillary Clinton
+I work in Information Security for a multinational bank.
+I deal with the reality of enabling secure, consistent, reliable exchanges of large volumes/sums of money.
+A key aspect of this is being able to consistently predict the outcome of an input because you've done it hundreds/thousands/millions of times.
+Changes get in the way of this consistency/reliability aspect.As an example: I have reviewed platform security for both our general ledger and our credit card processing functions.
+Neither of those platforms gets touched more than once a quarter.
+You know how long it takes to implement a new server on one of those platforms?
+6 months, sometimes more.
+You know why?
+Because if you aren't up 100% of the time, you're losing money.
+You're losing customers.Pushing constant updates is a great way to break a platform.
+Change control is more important than changes, and you NEVER want to make changes for the sake of making changes.
+You need a purpose.>holy shit you are dumbHow ironic.
+Since most of the nodes are running core or some other coin agnostic solutions any way, updates usually have to do with wallet code, its security or introduction and compliance with the new standards.I don't think anyone will disagree with you.
+It's just that I've seen arguments here that BTC is bad, because core team is sluggish with updates.
+Yesterday they've reacted pretty quickly and released a fix very timely.
+At the same time BCH still has no technology of its own except for some old BTC code and rumours about a revolutionary wallet which nobody has seen yet.

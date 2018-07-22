@@ -1,0 +1,14 @@
+Long before the network gets anywhere near as large as that, it would be safe for users to use Simplified Payment Verification (section 8) to check for double spending, which only requires having the chain of block headers, or about 12KB per day.
+Only people trying to create new coins would need to run network nodes.
+At first, most users would run network nodes, but as the network grows beyond a certain point, it would be left more and more to specialists with server farms of specialized hardware.
+A server farm would only need to have one node on the network and the rest of the LAN connects with that one node.The bandwidth might not be as prohibitive as you think.
+A typical transaction would be about 400 bytes (ECC is nicely compact).
+Each transaction has to be broadcast twice, so lets say 1KB per transaction.
+Visa processed 37 billion transactions in FY2008, or an average of 100 million transactions per day.That many transactions would take 100GB of bandwidth, or the size of 12 DVD or 2 HD quality movies, or about $18 worth of bandwidth at current prices.If the network were to get that big, it would take several years, and by then, sending 2 HD movies over the Internet would probably not seem like a big deal.Satoshi Nakamotohttps://www.mail-archive.com/cryptography@metzdowd.com/msg09964.htmlThink about this when you think BTC is the real bitcoin.
+You are following something that strayed from its own creator's plan.
+BTC is just a scam like bitconnect, only 10 times less profitable.
+yup.
+then you immediately have people pointing to how the price keeps going up.
+Just because it goes up doesn't mean it's not a scam.
+It goes up at 10% the rate in which bitconnect does.
+It has also risen less than BCH since the time of the fork (bought BCH at $300)

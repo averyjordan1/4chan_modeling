@@ -1,0 +1,2 @@
+How would a futures contracts for bitcoin even work?
+If a buy the contract for may at 10k, and then a buy one for december for 25k... would this cause the price to hardcore stabilize?

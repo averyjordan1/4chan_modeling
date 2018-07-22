@@ -1,0 +1,96 @@
+With 8mb blocks we have 25tx/s Visa can processo 40k TX/s.So if bitcoin cash become adopted as a pagamento system for normal transactions lets do some calculus.You need 80mb blocks for 250tx, 800mb blocks for 2500 and 8gb blocks for 25k tx/s.8 gb blocks means the blockchain grows 48gb per hour, 1tb a day (it's 1152gb but lets make it a round number).
+30tb a month, 360tb a year.Now i know harddrives are cheap but who the fuck would be running a node volontarily at home?Remember nodes have 0 economic incentives, they can do it for 1)enthusiasm 2)political PowerSince n. 1 can bè rulled out for avatar people , nodes would ran by big players and special intetest Groupama.How can you call that decentralized?
+Avatar hahaha fucking Italian spellcheck.
+Also it's grups not Groupama.
+Kek
+So bigger blocks just make storage a hassle, huh?
+Thanks for the breakdown.
+whoa is this true?
+I thought 8MB blocks allowed for way way way more than 25 tx/s.Can anyone confirm?
+Fucking google it!
+Some wisdom amongst all the retarded BCH shills.
+Yeah.
+Dont know wtf are people thinking, who is going to run these nodes in the future?
+Only banks, financial institutions and maybe governments - yes crypto lets go back licking our jew masters boots.
+To be honest can datacenters even handle 30TB a month?
+What does a small/medium size datacenter usually add per month in terms of data usage?
+How much more storage would Visa, for example, add per month to save data?
+I guess it's pretty insignificant for super large data centers but can even small and medium ones handle this, nevermind home users?
+Mining is already centralized, especially asic mining.
+It's a problem with proof of work in general and applies to mining pools as well.
+They can also decide what the network will do without having any stake in the coin itself.
+Can sell all their stuff and then sabotage a network and skip their mining power to another.
+Which is what they are doing now.Miners are oligarchs and have been for some time.
+After the flippening, a lot of discussion will arise around miner politics, because a lot of people will have had pain from this when others had gain.
+In the end, it will cause another flippening to ETH after ETH goes proof of stake, and discredit proof of work long-term.
+Which is good.
+Proof of work needs to die.The politics dominated by people who don't have a direct stake in a network being good and competitive has to end.
+How can you pretend the segwit side of the argument is even remotely better?
+You're also purposefully leaving out 0 conf technologies.
+Increasing block size = postphoning the problem.
+Off-chain scaling will be the way to go, there is no doubt about it.
+Dont know anon but 360tb is a lot.
+Not only $ wise but also simply phisical space, electricity costs, heat..... Only big organizations could do it...and they are the reason we invented crypto - to get the fuck away from them.
+so fucking happy i read this, nice to see someone rational and logical on 4chan
+>>full nodeYou fell for the blockstream meme
+And it's just a kike shill thread
+absolutely agree
+What the fuck is this, a sane thread?
+I haven't seen this in a long time.
+How do coins like LTC have such a small size blockchain in comparison?
+Do those newer alts have some fundamentally better tech that compresses data more, or has LTC just been used that much less over it's lifespan compared to BTC?
+Satoshis wallet is POS, what then?
+The problem is deflation not the proof
+haha ikr this is amazing
+Offchain state chanels are also stupid - i would need to have a chanel with every merchant im buying stuff from - and also btc in every one of those chanels separately.
+Its ok if you have a chanel opened with Amazon and similar but absolutely stupid for everyday irl purchases
+http://www.trustnodes.com/2017/11/06/andresen-presents-graphene-compression-address-bitcoin-scalability-bandwidth-bottlenecksThey are planning to use graphene block compression.
+It will help to some extent at least.
+Ok im listening....seriously, explain.
+We've had the same discussions right around the time of BCH fork.
+But yes, I don't think increasing the block sizes are going to help in the long run.
+I've mostly been seeing the whole situation as miner centralization vs alleged network centralization towards Lightning Network.The latter in which I only seen amount to making Blockstream into a boogeyman.
+Adam admitting ithttps://twitter.com/adam3us/status/923309367260274688ex bitcoin mod admitting ithttp://tpbit.blogspot.com/2017/10/blockstream-vs-miners-looking-at.htmlThere is undeniable developer centralization on bitcoin.
+These aren't allegations if they've already admitted to it.
+Computing power is scaling exponentially.
+Two decades ago a 1MB blocksize would be unrealistic.
+Today it works.
+Tomorrow, larger block sizes will still work.Until we hit a limit, why worry about it.
+Sacrificing scaling now (blocksize increase) to fix potential scaling problems in the future isn't worth it.
+Buying things with Bitcoin directly is as absurd as shaving off flakes of gold to buy your coffee.
+Plenty of cryptos do/will exist that will work as a layer on top of Bitcoin that will allow for easy/cheap/fast payments and user interfacing.
+Bitcoin is better off staying slow and expensive.
+As far as I know, Lightning Network gives users economic incentives to run a full node.
+E.g it is compensated when it catches a double spend.
+Whether or not, it's a proprietary solution I don't fully know.
+Litecoin was going to have it, but afterwards haven't heard about it.I don't know who Adam is.
+But the second blog where Blockstream intends on selling its proprietary solutions isn't very different from the current situation where ASIC manufactuers and miners sell ASIC mining hardware, etc.
+Adam beck is the ceo of blockstream
+Yes i agree, although i gravitare more towards the blockstreem side, i think both sides are wrong at the same time.
+Because proof of work is stupid and will due off in the future...it wont happen soon but in the next 3-5 years it will get replaced by something else...pos is not a good storage of value because it's inflationary by nature.
+Maybe some dag like iota could be the answer.
+Or eventualy pow coins will be only a store of value and some dag will bè currency.
+Can someone answer this?
+Bumping for common sense.
+Harddrive space is actually less of a problem, it's bandwidth in lesser developed countries as well as CPU power to verify 48GB transactions (or arguably much more) each hour.
+Pretty simple- these are maximum blocksizes.
+An 8MB blocksize limit doesn't mean every block is 8MB- it's only 8MB if you have enough transactions.No one uses Litecoin and a lot of other currencies so their blocks and blockchain is small.
+So bitcoin is good as a shitty version of ethereum with less features.
+OK.
+Thanks
+Few transactions = small actual blocks = small blockchain.The same is true for BCH, the current size of BCH blocks is tiny.
+4293748So the fact that the LTC blockchain is only like 9 GB is strictly because of how much less it has been used compared to BTC?
+LTC doesn't have any tech whatsoever that is better at compressing data?I'm just surprised LTC has seen that many fewer transactions.
+Many hodlers, few places accept it for purchase.
+Not really a big day trader or pump and dump coin.
+You can use Ethereum but that's not much different than using cash today.
+Ethereum is neither immutable (as it has proven in the past and will prove again in a few days or weeks for the $300 million lost wallet funds), and is not truly decentralized.There is no magical technique that can compress transactions to the degree you are probably imagining.
+Some things you actually can do is to use optimization techniques like Schnorr signatures (and MAST) which are going to be implemented in Bitcoin.If you are surprised about LTC, just look at BCH, which is possible used more at the moment.Currently, the average block size of BCH is about 20 times smaller than that of Bitcoin.https://fork.lol/tx/txs
+https://www.reddit.com/r/btc/comments/6z61mm/nonmining_nodes_have_no_power_in_the_system_of/The “non mining full nodes are good” meme was invented by block$tream to argue against bigger blocks
+So, if this is true, why did the B2X team start a couple hundred full nodes on Amazon Webservices a few weeks ago?
+Ethereum is more decentralized than asic friendly POW coins and when it becomes proof of stake, any validator entity will have to have ethereum in order to change anything about it and can't hold the blockchain hostage computational power wise.
+They could only launch a phyrric attack where they destroy the value of their own assets.
+This is not true for miners, who can sell off their assets on a blockchain while still setting the rules for it and being able to abandon it at will without loss.POS with a low minimum amount to stake will also always be more decentralized than asic resistant POW coins because they invariably end up mining in pools that are controlled by few people.
+4294120Also, you are misrepresenting what happened.
+The 300 million wasn't lost, they were rendered inaccessible due to the multisignature wallets made by parity being written to have to call on a library in a smart contract that was destroyed with a kill command in order to access their own smart contracts that acted as multisig wallets.As far as ethereum is concerned, the ethereum exists within the addresses are still there.
+Blaming ethereum for it just because it was possible to create a smart contract multisig wallet that contained such bugs is as unfair as blaming bitcoin for someone having created a buggy hardware wallet that lost people's funds or deleted their keys.

@@ -1,0 +1,5 @@
+What is the preferred method of cold storage for safeguarding all my cryptos against exchange shenanigans?
+Porkchop sandwiches.
+i DON'T UNDERSTAND HOW IT'S POSSIBLE FOR THE BITADDRESS.ORG THING TO avoid collision of addresses given that people always insist you run it offline.HOW
+storing your private key on paper is like hoarding cash in your house.cash that can get thrown in the garbage by your wife, or deteriorate.If it gets broken into, you're hosed.if you store it on your computer a virus could steal all your money.just keep it in fiat, much more secure.
+you can encrypt the keys with BIP38 which is password protection

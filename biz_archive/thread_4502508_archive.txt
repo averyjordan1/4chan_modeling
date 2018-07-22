@@ -1,0 +1,142 @@
+> be me> 1st time crypto investor> buys 1 eth worth of LINK> visits etherdelta and buys more shit coins> goes to bed dreaming about lambos> wakes up and cant find LINK in account> frantically investigates> finds out wallet was compromised and some one has stolen it all> had wallet key in a note document on labtop> cries out in despair> still plans to buy more LINK but with a new wallet.LAMBOS 2019, aint nothing nor no one going to stop the LINK dream
+On a more serious note, has anyone ever had this happen to them before after using etherdelta?Was my biggest mistake using a MAC labtop to do crypto shit?
+Or simply copy and pasting my key into a document on my computer.I am too new to this shit to realise where I went wrong.Is nano S Ledger the appropriate solution?
+BUMP 4 advice pls
+First, it's laptop not labtop.Second, you either just miss clicked something in etherdelta, or your computer is badly compromised.You should not have your private keys saved in plain text anywhere, except for a piece of paper that your wrote on with PEN.My guess is the money isn't gone.
+You just don't understand EtherDelta well enough.
+Its not the easiest thing to use.
+Lock that shit down better anon.
+Fuck I’ve had the same ED wallet with my key saved on an open txt file for with no issues
+Mac is far wiser than windows, but yes get a ledger asap.
+You bought LINK originally on ED?Open ED and click on the LINK option inside of ED.
+Wait till it loads.
+You don't see any LINK balance at all?
+There is a number under the "transfer" column and a number under the "withdraw" column.
+It says 0.00 under both?If so, did you ever submit a request to "transfer"?
+That is the only was a token will leave ED and go to another wallet.
+Are you sure you didn't just fuck up and log out of ED or clear your cache or something?
+Try login to the wallet on MEW with your private key
+How did you manage to get malware on a mac?
+You must be fucking retarded.
+Thanks for the advice!
+I think it must have been something from ether delta as I had 0 problems till I went on etherdelta last night, then all of a sudden I woke up and my coins had been deposited into etherdelta wallet then sold for ether, withdrawn and sent to the hackers account.Is it safe to say I shouldnt ever use my laptop again now for crypto related stuff?
+its an apple MAC so i assumed it had good security
+etherdelta is more complicated to use than to make money in the cryptomarket.
+Another possibility is that your Browser is clearing it's history every time you close.
+That means every time you visit ED you get a new empty wallet.
+Open ED.
+At the top right corner it shows your wallet address.
+Is this the same wallet address you originally sent 1 eth to so that you could buy the LINK?
+If it's a different address (and you didn't write down the private key to your first address) then you are screwed.
+I didnt even buy the LINK on etherdelta.
+I bought some other coins last night on that exchange, went to bed then 3 hours later while I slept someone accessed my personal wallet on MEW then sent all my link to the exchange promptly sold it for ether, withdrew it back to my wallet and then sent it to his.
+I spent 3 hours trying to figure out what exactly happened.
+Etherdelta rep was really helpful but once I followed the transaction it was clear what had happened.He left me 0.212 LINK in my wallet which was nice...
+I literally cant answer that I am sorry.
+Must be some thing from ether delta?
+seriously how much chainlinks i would have to buy to be a millionaire in the future, 100, 1000, a million?
+very urgently respond this question please
+Sounds like you may have been fished.Are you 100% sure you were on MyEtherWallet.com and not some MyEitherWallet imposter?
+There are tons of clones sites out there that steal your keys when you type them in.Get a Ledger or Trezor so you never have to expose your private keys anymore.
+If LINK got to $50 it would be at Eths current market cap.
+You do the math.
+4502539>has anyone ever had this happen to them before after using etherdelta?Yes, I had 20k Link stolen just because I opened a blog url on /biz/.
+Can someone do the damn math..I dont get it.
+But you are meme legend
+Pretty much.I'm the origin of the "WHERE'S MY LINK AAAAAAAAAAAA" meme.Except my actual reaction was "Did my link just get stolen?".
+thought somebody stole 120k LINK from me, turned out Windows update had just deleted my cookies etc, so MEW didn't show any tokens.
+Thanks Windows, I almost had a heart attack / committed suicide.
+Etherdelta had a vulnerability where you could put a script at the end of the url, and have your keys sent to the attacker.So I wouldn't store your tokens on etherdelta for that long.
+And remove the wallet when you're done, to prevent this sort of attack.
+I honestly can't sell this shitcoin, I genuinely want to tell people I got rich on a meme.
+Oh fuck, I was there for that.
+That was intense.
+Your post literally saved my ass.
+are enough
+>tfw my 30k LINK are safe in MEW and key is stored in a place where nobody would ever find it
+That was intense.You bet.
+I was sweating like crazy.
+It's probably not ed per say, but a phishing attack that you unknowingly were victim of.
+Happened to me through mew.That is why I'm one of the people who constantly shills hardware wallets.
+I learned the hard way after losing everything I had to a phishing and key logger attack.So I will repeat myself for the millionth time.
+Buy a fucking hardware wallet ffs.
+Stop being a fucking idiot.
+>be me yesterday>moved 4 days ago>lost seed words while moving>kk transfer all cryptos from ledger to binance>lazy to reset>...>stoned af>read on the chan about usdt crashing all exchanges>panic>reset ledger>copy paste old ledger adress>send 29k link, 80k req and 12eth>when email confirm asks I see my adress which I got used to>click send>realize>collapse>cry for about an hourWell, in the end I found my seed keys at the bottom of one of my cardboard boxes.Never ever going to make fun of ppl who fuck up on ed, shit was so stressing.Oh and also not going to send anything while being on drugs anymore!
+Check your browse history and find out what the exact url of the EtherDelta website was that you went to for the last time when you still had your ETH/LINK.There are phising websites out there that look 100% the same as the original EtherDelta website.
+Except there moght be a very small, barely noticeable change in the url or something.Look for very small differences, like a small dot below the "h" of etherdelta.comI had my 1 ETH stolen that way when I just started out.
+Using a wallet like MetaMask would block the website for you because it recognises it as phising.
+I used MEW though, which doesn't block it.Always go to such sites securely and through typing them in yourself (and doublechecking) or bookmark it once and always use that link (don't click anything you see elsewhere on the internet or 4chan for that matter, I clicked a link on /biz/ where the ED url was underlined and the underline blocked the small dot (.)
+below the "h").
+this thread scares me.
+does anyone know how to keep LINK offline?
+is it possible yet?
+also, can you walk me through it with details that an autist like me could understand?
+i'll send u some link for helping me out.
+im talking about a secure way to store LINK offline, like something that everyone would use and trust.
+not some backwater service that will go under in a few years.
+i need something stable that will be around when i cash out my LINK.
+Sober up faggot
+install the plugin etheraddressookup if you use MEW on chrome.
+Its easier to go from 500k to 1m than from 100 to 1m.
+That said, it's theoretical possibly to do it with any amount of money.
+My links are gone.
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Ledger Nano S....
+NOOOOOOOOOOOOOOOOOOOOOOOOO ALL MY LINK IS GONEAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+is it safe to use windows 10 with crypto??
+4505781I've never seen anyone else say this but this should work in theory:>Download the ethereum wallet from https://ethereum.org/ (I think it's called Geth or something)>Disconnect from internet>Generate a wallet with Geth or whatever the ethereum wallet is called>Move newly generated UTC file and password to USB device>Remove USB device>Delete ethereum wallet from PC (you could even wipe the whole hard drive if you're really paranoid)>Send ETH to address on USBCan anyone tell me any security issues with doing it this way?
+can the wallet hold LINK tho?
+can the wallet hold LINK tho?It's not a physical thing.
+A 'wallet' is just a fancy way of describing the combination of a public and private key (as far as I know).
+So, if you generate a 'wallet' via Geth you can use that same wallet on MEW or any other compatible 'wallet' serviceI generated my original wallet via Geth but use MEW to send ETH because you have to wait forever for Geth to syncPlease someone correct me if I'm misunderstanding anything
+Generate a wallet with Geth or whatever the ethereum wallet is calledinteresting you can generate the wallet offline?
+This wallet-hacking-stealing-shitting-disappearing-bullshit really makes me wanna trade on normie exchangers
+Use these apps>littlesnitch for port security>onyx for cleanliness>malwarebytes for basic sweeps
+idk man that would be Mr.
+Robot lvl alr.
+but should work
+interesting you can generate the wallet offline?I think so.
+This was back in February.
+I generated the wallet via Geth and then panicked because Geth wouldn't sync and I thought I'd lost the ETH sent to the newly generated wallet.It turned out the ETH was there when I figured out how to use MEW though - even though the Geth wallet never synced.
+So, if it never synced, my guess would be that you can generate wallet offline.I don't know how wallets are generated though.
+When you create a wallet via Geth you access it via a combination of passphrase and UTC file that I believe is generated locally (i.e.
+offline) on your PC.
+Pic related is how you access a wallet generated in Geth using MEW.
+just bought a ledger, thanks for reminding me
+OP
+A dude I knew was going through divorce, liquidated his mutual funds and maxed out his CCs to buy btc and then he wanted to hide it from his wife so he put it all into a tumbler on the deepweb and it was a scam, dude lost his life savings before even making a single trade.
+Went on to try and kill himself, I rang his place of business and it still says hes not there, I think hes in the hospital dying from liver failure now.
+Bummed me out because I was giving him advice and he was a good man but I didn't find out he did that until a few days after he stopped responding (it was a day or two before I met him).
+Sad
+wait a minute, im a day trader and not the famous hacker know as 4chan so i might just be autistic with this question but here it is:what prevents hackers from using offline coin wallets to literally generate coins out of thin air?
+i mean, that sounds like something the hacker 4chan would do.
+Might be a retarded question but can you store link on your nano ledger?
+is there any chance that you could lose your wallet this way tho?
+i mean, not be able to transfer your LINK from the USB drive to your online account?
+what is the risk level of using an offline wallet?
+is this how whales lock up their coin?
+what prevents hackers from using offline coin wallets to literally generate coins out of thin air?When you generate a new wallet, the balance will be 0 ETH.
+You can generate as many wallets as you like but you won't generate any ETH in doing so.The only way you could get free ETH is if, by sheer coincidence, you generated a wallet that already existed and had ETH in it.
+I'm pretty sure that's a mathematical impossibilityis there any chance that you could lose your wallet this way tho?
+i mean, not be able to transfer your LINK from the USB drive to your online account?
+what is the risk level of using an offline wallet?
+is this how whales lock up their coin?The ETH isn't stored in a physical wallet.
+The USB drive isn't the wallet.
+A wallet is an abstract thing, basically just a password.
+You can store your wallet's details in a bunch of different ways but this doesn't create new wallets.In theory you could create a wallet, memorise the public and private key, and not have it stored anywhere physical.
+This is the most surefire way to not get hacked but the risk is you'll forget the details lolPic related
+4506763From https://ethereum.stackexchange.com/questions/15975/is-it-common-practice-to-have-multiple-wallets>Wallets are just a way to store your private keys.
+Ether is stored (besides smart contract code and data) in addresses on the blockchain, or rather, records like "address X has amount Y of Ether".>From this follows that wallet is just a way to access this information.
+You should always export and safely save your private keys; that way you can always control your Ether if you lose access to a particular wallet.
+Sorry to keep bombarding you with replies but I'm working this out myselfBasically, wallets are generated mathematically, so can therefore be generated offline.
+Mist is one way of doing this.
+myetherwallet.com is another way of generating a wallet, sending ether etc.
+But, you can actually download the website itself and use the underlying mathematics to generate a wallet OFFLINE.This link explains it well https://hackernoon.com/securely-generating-and-storing-an-ethereum-wallet-907bcbd8e5ae
+ million
+hurf durf u so funnee
+This.
+Download Kaspersky (does that even work on crapples?
+I assume it does) and only bother with a nano for over 5ETH IMO or meh.
+Just use MEW, coinbase or some BTC wallet or keep it on exchanges for that amount.
+If that is your life savings then a nano will cost you 1/3 of an ETH anyway.
+My 0.0000001BTC

@@ -1,0 +1,9 @@
+I am looking for a blockchain programmer to make mobile wallets and websites for a cryptocurrency, any recommendations?https://twitter.com/unifycrypto/status/932252568092397569
+using a deprecated openssl versionyikes
+the "vulnerability" is found in the CBigNum class where you do direct operations on the BN, new api is much safer and should be upgraded to immediately if you want your coin to be taken seriously
+how does one go about doing this?
+by actually reading the openssl documentation and not being a pajeethttps://www.openssl.org/docs/man1.1.0/crypto/BN_new.htmlbye
+ok
+I'm an ethereum freelancer, I work on the ethereum project and find bug bounties/do code audits.
+Depending on the level of your project I'd be willing to take on more work right now.
+Leave an email here and maybe a description of what you're trying to do and I will be in touch

@@ -1,0 +1,6 @@
+The Bolenum Exchange is currently under development and it will be hosted on the domain www.bolenumexchange.com.
+This has been secured and hosting work is underway.
+The initial phase of the design work has been completed and admin and users dashboard have also been done(hotwallet set up, user logon validation, login verification link, password reset etc, controller classes for user privilege etc).
+Major trading pairs and deposit wallets have been configured.
+only 10 million coins
+Also officially beta testing begins Dec 15.BLN deposit is working now.

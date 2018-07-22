@@ -1,0 +1,2 @@
+>this token has an infinitely increasing value
+0x8dbb8863b8e9b72ca56a00d7294618305f1b43aa

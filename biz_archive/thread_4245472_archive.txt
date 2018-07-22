@@ -1,0 +1,83 @@
+someone just hacked all the private keys of bitcoin, thank god i just got out of cryptohttp://directory.io/
+Somebody explain the implications to me
+all the private keys with your bitcoin in them are now public knowledge, someone can just go and take them, making bitcoin worthless.
+private keys of bitcoinA private key in the context of Bitcoin is a secret number that allows bitcoins to be spent.
+Every Bitcoin wallet contains one or more private keys, which are saved in the wallet file.
+The private keys are mathematically related to all Bitcoin addresses generated for the wallet.
+old and fake and gay kill yourselfhttps://www.reddit.com/r/Bitcoin/comments/1ruk0z/dont_panic_directoryio_thing_is_fake/
+That's still only a tiny portion of the addressesYou have no idea about the amount of addresses/keys that can be generated.
+it's not fake
+love all the bitcoiners trying to cope with bitcoin being an easily hacked shitcoin
+Its not fake, but it doesn't matter.
+Better hope nobody stumbles upon your address in that list of 17 quintillion.
+Start panicking faggot I'm coming for you
+have fun i already cashed out upon hearing this news
+bro...your hd must have some spyware/adwares/viruses... and have an unprotected os
+i am the brown asshole boy
+This is old news.
+Go ahead and use this info to make free money.
+Your chances literally precisely 1 in 157900000000000000000000000000000000000000000000000000000000000000000000000000 per guess, retard.
+Look up bitcoin address collision probability sometime if you want to see some mind-boggling examples.
+directory.io is an utterly insignificant spec of the possible bitcoin addresses, and forever will be.
+my friend already had their bitcoins stolen this way
+?How is directory.io not all of them
+To generate and store every possible bitcoin address: "if you could use the entire planet as a hard drive, storing 1 byte per atom, using stars as fuel, and cycling through 1 trillion keys per second, you'd need 37 octillion Earths to store it, and 237 billion suns to power the device capable of doing it, all of which would take you 3.6717 octodecillion years.
+"Source: https://www.reddit.com/r/Bitcoin/comments/1ruk0z/dont_panic_directoryio_thing_is_fake/
+you're a dumbass you just want the lambo moon but guess what it's not happening bitcoin is hacked :)
+nevermind just figured it outdirectory.io is only 1.158E34/1.158E77 of all possible values...if your friend got heir shit stolen that way, that's fucking hilariousthe attacker had to check a trillion trillion trillion addresses to get 0.001% chance of getting any single wallet
+so how do i capitalize on this shit?
+or is just a false alarm?
+do you think it'll ever be more profitable to turn mining computation power towards cracking 256bit private keys instead of just mining with it?
+BTC would have to basically unminable at that point, but I wonder...
+So is this what those fake giveaway faggots were trying to get?
+addresses they can cross check the list with?
+there's only one coin that is still safe
+hfw
+Oh I sincerely hope so because the utter hopelessness of that strategy is both hilarious and astoundingly stupid.
+36^32=6.33402867e49good luck with that
+And just to put that in perspective, even if total possible values was "only" 1.158E58, directory.io would still have only a TRILLIONTH of a TRILLIONTH all addresses.
+directory.io has 904625697166532776746648320380374280100293470930272690489102837043110636675 pages, and 128 per page the fuck is this 36^32 number
+every wallet has a private key and a public keythe public key is the one you can freely give out to people so that they can send you cryptothe private key is just for you, you must never, ever give it out, it acts as the masterkey to your wallet, anyone with your private key can steal everything you have, and there's no way to change your private key.
+In the event that your private key is compromised, you should immediately create a brand new wallet and send your crypto there.
+Since all private keys were just hacked, bitcoin is now worth nothing
+If this was the case, the hackers would go for the biggest wallets first.None are hacked, gg.
+it was hacked like 5 minutes ago... check again in the morningall wallets will be drained.
+problem is, the hackers wallets are also hacked, so when someone transfers bitcoins from one wallet to another, someone else just transfers out of that one too, it'll be an endless loop.
+are posts like these just meant to shoo away crypto noobs?because i'd rather have them FOMO my raising alts desu.jokes aside, i really fail to see the motivation behind these threads
+Ok, relax.This is just a shit load of generated addresses and keys, none of them are users accounts.Not a single one.
+kek, found one with 1.3 btc
+No you didn't they are all empty wallets.I've already scanned 40k of them
+SELL SELL SELL BITCOIN IS HACKED ITS DONE SELL BEFORE THE WHALES FIND OUT
+starting from page one and going from there isnt the best strat bud, better just rand a page then scan it then rand a page again
+Why the fuck would I start at page 1?
+Bitcoin has around 10^77 possible private keys and this site has them all.The amount of atoms in the universe is approximated to be around the same number.
+I have made a script that generates random keys and checks from electrum-nodes if there are any transactions made with that key, and if so I write the public+private key combination into a file.
+Depending on the amount and throttling the of electrum-nodes you connect to, it can check roughly a few million keys per node per day.I'd probably have a better chance of winning 2-3 Superball jackpots with 3 tickets in the same draw than finding a private key with prior transactions running this script for the rest of my life.
+grats you scanned like 1% of the walletsi've already found multiple with positive balance, you have to start searching near the middle of the address list since most people run their scans either starting from beginning or endso far 0.85 BTC in one, 3.21 BTC in another, and 0.09 BTC in the last.
+Still searching and accumulating as we speak
+Proof?You are talking bullshit.
+I second this, proof.
+you can't be serious
+4246204Creating a script doing this automatically is fairly easy.
+I recommend python for the retards of you.Probably you're too retarded anyway, so just search by hand.
+heh.
+You're a fucking nigglet lool, statistics say that the chance of you being born with 2 dicks is greater than what you just lied about
+nice larp
+4246275I never said doing this would be a good idea.I just said you could automate this with some script.Hehe
+We know, but the chances are still non existent of you finding an address this century.The guy claims to have found three already.
+Let the retards search
+If there are more private keys than there are atoms in the universe, how comes that the universe isn't made out of private keys?
+it's real mate but good luck finding a private key with btc, if they would give out the database I wouldn't mind figuring out a way to scan all private keys and check if any is > 0 kek
+
+how do you know it's not?
+maybe what we perceive as particles could be interpreted as strings.
+alright since everyone is fucking with youeach page is auto generatedthis is just how it worksthere are trillions of combinations
+They are, string theory bruh
+Whoa faggot you’re a little bit late on this one... also do you not understand math?!
+thanks just stole 100k
+nICE JUST Bought 100k
+4245472I'M GOING ALL IN
+if your wallet has a password it's not safe right?
+wow here's the same thing with the actual balances listed made 2 fucking years agohttp://btcdirectory.azurewebsites.net/2
+All this FUD is hilarious.
+I'm thinking OP is angry that his alt baggies are heavy.

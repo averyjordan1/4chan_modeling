@@ -1,0 +1,4 @@
+https://www.pymnts.com/news/b2b-payments/2017/b2b-payments-swift-supply-chain/amp/This article seems to refer to a third phase that "focus on emerging technologies such as those tied to distributed ledgers" This is close to a confirmation that chainlink will be used by Swift.
+Linkie brainlet here who bought in for the memes, explain wtf this is and how it confirms links usage please?
+explain what it isYour ticket to lamboland
+This article is about GPI; Chainlink is not (directly) related to this project.Swift just did some tests, using blockchain tech (Hyperledger) for GPI and it looks promising, but they might not use Hyperledger after all.In any case, this is not related to Chainlink, so if Swift decides not to use blockchain tech for GPI, nothing changes for Chainlink.

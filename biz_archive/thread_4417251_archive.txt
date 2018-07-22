@@ -1,0 +1,18 @@
+/CPG/ - Clear Poll General - ClearPoll is a great new way to have your say.
+Simply install the app, browse for polls, and vote on global, national or local issues.
+It’s quick, easy and most of all – secure.
+Using blockchain technology, your votes cannot be tampered with.
+The results of a poll are also 100% secure.>Is there a roadmap and when is the ClearPoll launch date?poll recently moved the launch date forward by 2 months, to May 2018.
+Development is moving very quickly and ahead of schedule, and the roadmap can be found at the site clearpoll.io>What are POLL tokens used for?1) Node rewards.
+We pay our nodes in POLL for their services.2) Advertising.
+The ClearPoll Advertising network offers ad space to corporate clients, in exchange for POLL tokens.3) ClearPoll Plus.
+Ad advanced poll results metrics service designed for journalists and marketing professionals, accessible only with POLL tokens.4) Sponsored Polls.
+Corporate clients can create sponsored polls, accessible only with POLL tokens.
+These polls appear in their own special section and feature advanced data metrics to provide great marketing insights.>How many tokens are burned, and when?We have reserved 1 million POLL tokens (10% of all in existence) to be burned at a rate of 100 every time a poll is completed on the ClearPoll app, but that has recently been increased to 1000!>Who decides the poll questions?The users decide the poll questions.
+They create topics, and then other users vote on the topic to decide if it should become a poll question.
+This way, we have no say in what issues deserve to be addressed.
+People decide what’s important and then they vote on it.>How do you stop multiple voting or bot voting?e use a great system of mobile verification to validate the users.
+In order to vote multiple times on a poll you would need multiple mobile numbers, multiple devices and multiple ClearPoll accounts.
+Bots will not get past our validation system either.
+HST is already doing that; combining voting system with blockchain.
+Why would I need to invest in CPG?

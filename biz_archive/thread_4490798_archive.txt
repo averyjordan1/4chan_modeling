@@ -1,0 +1,5 @@
+What's the best way to track your crypto portfolio?
+I've been using Blockfolio, but it's becoming a hassle to manually input trades into the app.
+How the fuck do I use .csv files?
+Are you looking for a mobile or desktop solution ?I currently have no mobile solution as I'm not a fan of bloclfolio,but for desktop I'm forking the cryptop repo, making it specifically for bittrex, and making it auto-fetch your holdings from there.
+Not sure how much interest there is in this though because it's a curses 'terminal app' :)

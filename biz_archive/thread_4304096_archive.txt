@@ -1,0 +1,157 @@
+
+Yes.
+And don't let any legacymarine convince you that BCH is more centralized than BTC, the BTC development team has embraced centralization openly.
+Dumb vs dumber
+All you need is one upgrade to bitcoin to kill BCH forever.
+Can BTC and BCH just kill each other and we can start over with an alt that's better than both?
+I don't fucking care which it is I want non-shit crypto running things
+Yup.
+Just ignore the fact that BCH's chain will be 1 TB big in no time, and any on-chain scaling solution will end up at 70 Petabytes in size
+chinks are natural born traders/ merchant/ profit makersjews only seek power
+Too bad the upgrade that kills btc is already in play
+Is it bigger blocks?
+Kek.
+Maybe the upgrade is everyone abandoning the coin, that'll make things a heck of a lot easier to process
+implying a terabyte a year is cost prohibitive and high fees aren't
+YES.
+bcash has simply devalued their network by bloating their blocksizes, but they don't understand that.
+they've made the cost of storing and relating (potentially) huge amounts of data significantly more expensive for anyone on the network, while they get compensated even less for doing so.you don't need to store somebody's $10 transaction for eternity
+you don't need to store somebody's $10 transaction for eternityyes you do, or jews will fuck you up.
+do i have to explain it to you idiots step by step?bitcoin core at least understands a big blockchain won't work.a Visa scale bitcoin node would have a blockchain 70 petabytes.
+That's $16 million in today's hard drive space.Bitcoin doesn't have time for moores law to catch up, there are a dozen bitcoin competitors RIGHT NOWOff chain scaling is the only solution, and neither bitcoin fork has it, so they're both irrelevant.
+but it isn't physically possible to do so.what you want to store is transactions up until the total reaches a certain dollar amount, then you commit those transactions to make sure they cant be fucked with.by storing everything immediately you're creating so much overhead you're doing nothing but hurting true scaling long term
+I want /pol/ to get out of /biz/
+this guy gets it
+Fuck off kike.
+/pol/ is /biz/ and /biz/ is /pol/
+There’s room for bothAs a.
+Decentralized store of value Btc Is far and away betterAs a better PayPal that’s where BCH comes in
+4304333Satoshi already addressed these arguments.
+Bitcoin isn't transacting at Visa levels and neither is Segwit, but by the time it is, Moore's law will have met storage demands.
+You're argument is invalid.
+This is /bizpol/ kike.What you shills don't understand is the BCH network is free to scale however it needs to, if some second layer solution is a good option it will be added but you will not be forced to use it and have to pay your toll to some filthy cryptokikes.
+I want Marxists to get the fuck out of crypto
+but it isnt, if it wanted to be it wouldn't have clone bitcoin.
+10 minute block times, worse mining and value centralization doesn't make for a better paypal.there are hundreds of alts that are technically better than bitcoin, cloning it and making a couple of tweaks doesn't change the fact that if you're not looking for a store of value you shouldn't even be looking at bitcoin.
+That's the thing if LN futures proves to be the superior coin in 2 years when they get it.
+Then the market will adapt.
+by the timeit simply wont, not even close.
+do you even understand the requirements for a visa throughput system where everyone has to receive and verify transactions and keep up with the network?
+BTC is our last hope against them all.
+BCH is obviously chink miners, but S2X was jews.
+They blinked because other jews had too much skin in the game.
+he thinks the market is just going to patiently wait for 20 years for moores law to catch up while others have already figured it out.Listen to someone smart, brainlet
+It’s the low fees and faster transaction times that make it a better PayPal ding dong
+you're retarded if you think BTC devs will develop anything for BCH, which has no devs btw, only a guy who changed a line of code.And they even fucked up the difficulty algorithm
+You seriously need to do research and shut the fuck up.
+BCH is bitcoin before they soft forked and added segwit.
+Segshit LN futures are the ones who tweaked bitcoin.
+BCH is a store of value and a functional currency.
+How do you come at 70 petabytes?
+bitcoin tx = 500 bytes.# of visa transactions = 140 billion.
+you need to stop being so emotionally attached to your coin and think about it logically.bcash forked before segwit, but then they broke the most important rule of proof of work, the difficulty algorithm.bcash is more of an altcoint than bitcoin with segwit, and that's a pure and simple fact.
+/biz/ is a /pol/ colony.
+Accept it or go to plebbit
+No it's really not a fact whatsoever.
+They stripped bitcoin of it's old technologies like 0 conf and butchered block storage and signatures.
+>b-but it's still more like bitcoin because I said so!KYS
+block size increase is just a patch, but it's not a real solution for scalability, which is the whole problem that BTC faces.You can make 100 MB blocks, it still won't be even near VISA levels.
+Off-loading small transactions (people's coffees) onto another "blockchain", and aggregating a bunch of transactions into one is the proposed solution (Lightning Network)It's actually pretty complicated to implement, or even understand or explain, but suddenly a lot of retards think they can understand it and say that it's a terrible thing.But it's just the best way to increase transactions per second and reduce fees to nearly 0.This is one example of some people working on it:http://blog.lightning.engineering/announcement/2017/10/12/test-blitz.htmlAnd obviously wallets will do the whole process much more simple for normal users.
+Whiny cuck.
+Just shut up and invest.
+Again Satoshi already addressed this.
+Could have transactions verified in less than 10 seconds with less fraud than current credit cards.
+Merchants would use listeners to quickly confirm transactions on the network.
+https://twitter.com/adam3us/status/923309367260274688>kike takeover of bitcoinCheck>profiting from users ignoranceCheck>not coming for 2 yearsCheck>not a scaling solutionCheck
+ billion?
+Since it started or what?http://www.altcointoday.com/bitcoin-ethereum-vs-visa-paypal-transactions-per-second/Here it says 150 million a day.
+BTC does 300000 a day so VISA does 500 times as much.Thus with a 500MB blocksize bitcoin could handle VISA transaction size.Bitcoin's blockchain grew with 51GB in the past year: https://blockchain.info/charts/blocks-size?timespan=1yearSo we'd have a yearly growth of 26 TB of blockchain.
+And it's not like if we scale the blockchain we'll see VISA number of transactions within the next 5 years.PS average bitcoin tx's are more around 226 bytes, I thought
+BCH has 5 separate dev teams what the fuck are you talking about?
+And I'm certainly not referring to a kiked banking layer(segwit), I mean real second layer solutions, developed by the decentralized BCH dev teams.Core can go fucking die.
+Yeah.
+Fuck off newfag /pol/.
+Find small exploit on bitcoin PoW.> Make ASIC miners that take advantage of that.> Patent it so I can sue other people who try to copy me.> Upgrade to bitcoin would nullify my exploit (Segwit)https://medium.com/@WhalePanda/asicboost-the-reason-why-bitmain-blocked-segwit-901fd346ee9f> Spam the network with small fee transactions to clog the mempoolhttp://i.imgur.com/cmRIBIM.png (embed)https://jochen-hoenicke.de/queue/#24hhttps://bitcoin.stackexchange.com/questions/58166/who-is-spamming-the-bitcoin-cash-mempool-and-why> Tell people that we need bigger blocks and not the new upgrade> Fork the coin so I can keep mining it with my special miners.> Actually no good programmers so I fuck up the difficulty adjustments but that's ok> I have to mine 60% of the hashrate but that's ok, people won't know that I am centralizing this coinhttps://cryptovest.com/news/bitcoin-cash-watch/> Collude with the other chinese miners to finally get rid of core developers, then I can increase miner reward easilyhttps://twitter.com/ViaBTC/status/876047086533214208> Rent russian social farm for a few days> Pump up the price from a 0% fee exchange in korea by buying my own coins and trading 3x the actual sell book> Finally get rid of the programmers who want to get rid of my advantage> Once I have all the power, I can fork the coin to allow miner reward to be biggerIf you buy BCH, you are being manipulated.
+/pol/ is the largest and fastest board since November 2016.It's the new /b/
+This.
+Retards are acting like adoption happens tomorrow and Visa level transaction/storage issues even matter right now.
+It's the new /b/You say that like it's a good thing.
+/pol/ is absolute shit.
+i'll I need is for them to actually flip in price, or hell just meet in the middle, for me to have made several thousand dollars
+You got segwit what the fuck else do you want?The miners gave it to you and you faggots started a no 2x campaign.
+LN isn't coming for 2 years and there is a demand to transact bitcoin.
+In order to spam the mempool and increase fees you need to pay large amounts in fees in the first place.
+The miners would collect but would lose electricity and every single one of them would need to be in on it.
+Then we move on to the centralization debate that starts with fear mongering and ends with the miners never going against their best financial interests.
+Blockstream has complete developer centralization which is far more dangerous than miner centralization because of one single fact.
+The developers don't hold stakes in bitcoin and only profit off flat rate transaction fees on a non scaling sidechain.
+You're a complete fucking retard.
+not 100MB, 500MB.Sure it's difficult to run a node from home for someone who hasnt made decent money of bitcoin, but by the time it surpasses VISA we'll all be rich and some techies will just throw a couple of grand to just run a node.26TB per year, that's how much it would increase at VISA levels of transaction.
+It's on the limit but I would say it can wait for Moore's law.Put it differently, an off the shelf 8TB drive that you can buy sub 200 bucks can store 160 years of bitcoin blockchain at current growth rate.
+I say there's still room to scale on chain.
+There is a lot of room.
+reddit faggot please go and stay go
+WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATHE POL BULLIES ARE BEING MEAN TO ME AGAIN MOOOOOOOOOOMMYYYYYYYYYYYYYYWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGET THEM JANNY GET THEM OUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUT!THIS IS A NEOGAF SAFE SPACEMAAAAAAAAAAAAAAAAMMMMMMMAAAAAAAAAAAAAAWHY CANT THE MODS JUST BE FROM FYADI HATE YOU POL MEANIE POO POO HEADS!!!!!!!!!
+!WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGOOK MOOT HIRE SA NEOFAG MODS NOWWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATOXIC GAMERGOOBERS ARE RUINING MY BOARDWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPOL IS BULLYING ME AGAIN MUMMYMUMMMMYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY GOOFYGOOGLES MUMMYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA*PPPPBBBRRRRRRRRRFRFFFFFFFFFFTTTTTTT* *BBBBBVVVBRBRRRRFFFFFFFFFSSHHHHTTTTTT* MOOOOOOOOOOOOOOMMMMMYYYYYYYYY*BBBBBBBBFFFFFFRFRRRRRRRPPPPPPPHHHHFFFFFFFSSHHSHHHHNNNTTTTTTTT* MOOOOOOMMMMMYYYI POO POO'D MY DIAPIES BECAUSE MUH POL MEANIES TRIGGERED ME CAUSE MUH IN-KAHN-TIN-NEN-SSBAAAAAAWWWWWWWWWWWW I WANT MUH SAFE SPACE I WANT MUH COLORING BOOKS I WANT MUH TRANNY DOLLS AND MUH PLAYDOH*FFFFFFFRRRRRRRRRRFFFFFFTTTTTTTT* I WANT MY MOMMYMEANIE POL PEE PEE HEADS ARE TRIGGERING ME WAAAAAAAAA I HATE IT I HATE IT I HATE YOU ALT-RIGHT MEANIE BUTT HEADSMMMMMMMMMMMMMUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUMMMMMMMMMMMMMMMMMMMMYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYMMMMMMMMUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHPOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL!WAAAAAAAAAAAAAAAAAAAAAAAA WAHAHAHAAAAAAAAAAAAAAAAAAAAAAAAAA...WAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!
+You mean Jews vs Jews
+god he's so fucking uglyCan you believe people in r/btc look up to this faggot?
+Nobody says that like its a good thing.>Macintosh plays>Its all in your head
+IBM partnering with stellar lumens banks partnering with ripple>retailers dropping bitcoin left and rightAdoption is yesterday.Visa scale is 2000 tps minimum 10k tps peak, VISA can handle 100k tps if it needs to.2k - 10k tps is 1.4 - 7.0 GB a day
+Riding then dumping my fried.
+it can go to 1.5K
+43048454304435Absolute fucking cancer the lot of you
+They will grow out of their edgy teenager phase sooner or later.
+4305008It seems the world has gone crazy, thank you for reminding me I'm the sane one
+Not realising people become more conservative as they ageYou stupid nigger I'm over 30, I think you'll find the average age of /pol/ is higher than almost all boards except /mlp/
+People also become more reserved.
+They dont sperg out at every thing.>I think you'll find the average age of /pol/ is higher than almost all boards Dude.
+Half of /pol/s traffic is literally underage rthedonald fags.
+Age does not equal maturity.Look at the US right now for example
+It's a good thing because they were brothers in arms ( real world).
+Now Jews are cozying up to pajeets
+If were gonna redefine maturity then sure
+4305041boomer retards
+Sure, as soon as you stop shilling BTC on /pol/
+Good god, is /pol/ retarded or what?
+Jesus
+Mental maturity or physical maturity
+Both maturity is based off of society consensus and social norms.
+It means a different thing in every community.
+On 4chan acting against 4chan culture would be considered immature.
+If you consider many americans immature according to your standards that doesn't make them immature in theirs.
+It used to be that Jews were the same and the wealthy ones you see today are their descendants.
+But now all they care about is power and keeping it.
+how do you know when to dump
+You don't.The rich hands that pumped it will dump it all at once.It can lose 90% of its value in 5 minutes.Only a stop-loss can save you
+can you help me out, i am a bit lost.
+should i keep my btc?
+what is your prediction
+I want communists to get out.
+soon BCH won't be so profitable to mine, and then things will go back to normal.This has happened like 3 times already before.But this time they're really trying hard with the russian social media farms (they're easy to spot because their comments don't make any sense)
+Fuck off faggot
+I think you'll find the average age of /pol/ is higher than almost all boards except /mlp/ExactlyBluepilled cucks BTFO
+Check these for example:430544743050854304845There's no way regular people talk like this.This is just people who sit in front of the Pc and get paid to spout some nonsense for some bigger purpose.
+(In this case, Jihan Wu trying to control bitcoin and get rid of programmers)
+First day on 4chan faggot?
+Fuck off
+Welcome to 4chan.
+kill yourself.
+4305573I rest my case
+welcome to 4chan normie boomer retardnow get the fuck out
+You dont This.
+though i wont stop loss because its moving around like a mother fucker.
+1.5K is good gains in my book and it should match closely up with btc low.
+Though i do admin fiat would be better but thats 15% going to tax that i would have to pay by cashing out again.
+kys you're so fucking stupid it pisses me off
+Kys my dude
+die you fucking triggered nigger
+Wrong.
+Literally the smartest on Earth (Jews, average IQ ~120) vs. one of the smartest on Earth (the Chinese, average IQ ~105 with an bonus elevated aptitude for math) Check worldwide IQ distribution.
+I'll give you Jews but chinks are insectoid subhuman brain dead and soulless bug people.
+the Chinese, average IQ ~105The average Chinese person is an illiterate rice farmer and those tests were taken in cities.
+You see where this brings us?
+Can we get a ban on fuckers who say this shit alreadyNobody cares if your precious feelings are offended because kikes and chinks are mentioned.
+This is a board for making money, and objective truth matters.
+Go back to your safe places like /v/ or /b/
+Jews, average IQ ~120Kek.
+/pol is your father

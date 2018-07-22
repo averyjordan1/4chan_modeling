@@ -1,0 +1,16 @@
+So I want to margin trade BTC.
+I watch the order book on bfxdata and i want a quick way to buy/sell so i can hit relatively near the prices i'm looking at on the order book.I feel like coinbase would be the best place to do this since its quick, easy and simple.. Only problem is i'm in Canada and can't sell on coinbase.
+I'm ultimately asking 2 questions...1.
+Whats my best option as an alternative to coinbase?2.
+If theres none that i like using, would it be hypothetically possible to spoof my IP and trick coinbase to thinking i'm ordering from the US?
+Bitmex
+It lets you do from 10x to 100x, dabbled a little myself but I don't have enough for margin trading :/Best of luck mate.
+bitfinex?
+Also anyone form the US banned from bitfinex yet?
+Do not ever go to bitmex.Do not go margin trading at bitmex op.I mean it.You can and will lose your entire deposit inb4 first 2-hour candle closes.Trust me op.
+Bitmex has a harsh, but fruitful learning curve.
+Do not enter a single trade before getting used to their trading system on their testnet.
+And by having read every single guide.
+k rally dayst deposit to bitmex>crossmargin is the standard option>rekt in a lil bit sideways>wallet gone
+Ok, you could also check out 1broker..
+I'm from Canada myself eh.

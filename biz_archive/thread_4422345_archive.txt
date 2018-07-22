@@ -1,0 +1,18 @@
+>that one guy who built a bot to list coins 1 sat above the next highest/lowest and buys from himself all daycan someone explain why people do this?
+it pisses me the FUCK off
+depends on the exchange, but he could be trying to get his account leveled up to pay lower trade fees before going ham on things, let me dig up the rates
+I've been seeing it on binance which doesn't have variable fees
+Never heard of that.
+Link?
+Thinking of writing a bot to immediately scoop up accidental/fat finger trades.
+I imagine there's already hundreds of chinese bots doing the same shit though.
+4422370i mean look at the SAVINGS once you get enough trades under your belt
+then its probably a change script like shapeshift or changelly
+what's the problem pussy?
+just one up me if you're so butt flustered
+It's called red tape.
+It's to trick other trader (mostly other algo traders though) into moving the price into a certain direction or concealing what their actual intentions are.Also, faking volume for pump and dumps.
+This was and is my plan as soon as it's profitable with one of my bots strategies.Beside that: >Thinking about a website where everyone can trade with highest fee discount level on every exchange.
+All trades are made with the same account.
+Website traffic is payed with ads.
+yeah not gonna happen, for that to work everyone would have to transfer their coins to your website "trading" account on all exchanges, good luck with that

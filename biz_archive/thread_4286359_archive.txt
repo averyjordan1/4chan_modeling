@@ -1,0 +1,16 @@
+Smart contracts mimicks the logic of a contract, however, they are not legally binding.
+How to bridge the real world with smart contract technology?
+Welcome Agrello.
+They want to introduce something they call the smart agreement.
+A smart contract is difficult to create; you must first learn object oriented programming, then you must learn Solidity.
+Agrello is the platform that introduces such smart contract developers to produce smart contracts that mimick real world contractual agreements, such as: leasing agreements, employment agreements, or even digitizing a Will for your children to inherit automatically through the blockchain (NEO is trying to add this functionality to their blockchain...).
+Here is a link to their MVP (minimal viable product) https://www.youtube.com/watch?v=SnFPVQryg3g&t=29s Contract templates will be wide and varied.
+Smart contract developers and legal experts will both be incentivized.
+Developers earn DLT as their templates get used by pairs of people or entities, while legal experts earn DLT by reviewing the final template to ensure that the code unambiguously extrapolates exactly the portion of the applicable laws and codes.
+Agrello is making what was once financially burdensome and inaccessible, now affordable and globally available.
+On top of that, they aim to offer products and services at the industry level.
+They will be releasing the results of the INCAP endeavor later this year in Q4.
+The ICO finished back in mid August, and it seems that they will be releasing news about progress with current partnerships in addition to the alpha release of their product.
+On top of Binance's listing today, a new website is expected today as well.
+The potential energy in this project has just been building up, and today's 100%+ jump in a couple hours should indicate huge interest.
+well fuck it does have that sweet Illuminati triangle, those haven't failed yet ffs.

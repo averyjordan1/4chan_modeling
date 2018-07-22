@@ -1,0 +1,77 @@
+Is...
+This... Real?https://www.youtube.com/watch?v=SRCsQUyR7_Ihttps://halongmining.com
+probably not
+Turns out it is.
+Plenty of high profile names in the Bitcoin world are vouching for it now.
+Interesting
+stayaway from tha scam.ps you do know genesis-mining.com btc contracts are back right?
+Use "faXjuF" code for (3% discount)
+That's just an antminer S9 with a new logo on the side.https://www.google.co.uk/search?q=antminer+S9&tbm=ischIt's identical.
+Pause at 0:34 on that video.
+That thing is runnin at 16.26Th/s, whilst drawing only 1470W.
+That's mindblowing.
+Yeah that's what I found out tooFucking lame
+so this is operation dragon slayer?
+That would be awesome.
+Actually it's not.
+Look more closely.
+Top connectors look similar, but it's a different case.
+It's very very similar.
+No reinforcing ribs on the side and a slightly narrower power supply(?)
+on top.
+That might just be differences in S9 production over time.
+Damn looks like it doesnt ship till March 2018 god damnit
+Website created yday, fake.FakeFake
+It actually looks more like one of these
+Thanks for the tip OP.
+Got my preorder in
+Nah man, this IS the Dragon.
+Jihan Wu and his bcash butt-buddies are trying to slay it.
+I hope you didn't actually pay them that much.
+Enjoy losing 7k anon!
+Not fake :)https://bitcoinmagazine.com/articles/bitcoin-developer-about-take-mining-hardware-industry/
+Its real bro
+
+It's really real
+Operation Dragonslayer xD
+So how does Jihan plan on slaying that dragon?
+<- just noticed this.We would like to see other Bitcoin mining hardware manufacturers compete equally although it is currently quite challenging due to both heavy competition and prohibitive startup costs.
+One of the ways we can assist is by publishing board designs and software to allow newcomers to iterate on already advanced design.
+Production of competitive ASIC chips is a whole different level of difficulty, so we believe this can be alleviated by making chips available in bulk to competitors.
+Bitcoin is inherently collaborative and we believe the incentives are aligned to promote a healthy mining ecosystem that is still profitable for the participants.
+How much Bitcoin can you mine on this thing in one day?
+I'm just looking for an approximation to get a general idea.
+Tempted to get a loan to buy 5 of them.
+depends on how many other people are mining and the difficultyand you will end up paying a lot in electricity so you have to take that into account
+Ok, but just a total ballpark figure.
+At current bitcoin prices / current difficulty would you make 5 USD a day?
+10?
+20?
+I know it depends, but just trying to get an approximation.
+I've never mined before.
+Adam back backs themThis is huge
+Around $20
+.003
+Also, I don't pay electricity under my current apartment lease, so I'm not too worried about that aspect.
+Calculation for 5 of them:https://www.cryptocompare.com/mining/calculator/btc?HashingPower=80&HashingUnit=TH%2Fs&PowerConsumption=7160&CostPerkWh=0.12
+when the bill is $1000 trust me, you will be worried about it
+4506083Ok, thanks.
+Sucks that you have to buy a minimum of 5 at this point.
+they are supposedly very loud and hot, if you can tolerate it in a small space like an apartment..
+once these start to ship, expect difficulty to double, so calculate half of this
+Looking at around 7k in electric a year.
+Because fuck you earth.
+No, what I'm saying is that under my current lease electric and water are covered under the base rent, so I don't pay directly for electric.
+So, unless my landlord notices a big uptick in electric costs and tries to kick me out or something, that doesn't affect me one way or another.
+I'll have to check my lease if there's any grounds for him saying I'm using "too much" power anyway.
+But, I probably won't start mining anyway because the noise/heat would probably be too much for my 1br Manhattan apartment.
+https://alloscomp.com/bitcoin/calculator16.26 TH/s
+Very true.
+That's also not accounting for whatever the value of btc will be in a year.
+It might offset the reduction in earnings a little.
+Or not.
+4506153I was just brainstorming.
+All around it probably wouldn't be worthwhile for me in my current set-up.
+Your landlord/whoever pays for the electricity will soon be very concerned about that.
+It won't be sustainable if you go this route, I guarantee it.
+you'll get sued or booted when you have some huge electrical bill you better tell your landlord you'll pay the difference or get ready for a huge head ache

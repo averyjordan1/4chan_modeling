@@ -1,0 +1,22 @@
+>Confido works by using smart contracts with a unique shipment tracking feature.>When a new transaction is made by a user, Confido will generate a smart contract using a secure smart contract template and the data entered by the user.>That smart contract will act as the escrow between buyer and seller.
+Once the funds have been received by the smart contract the seller is prompted to submit a shipment tracking code to the smart contract (which is all done inside the app).
+>Our smart contract will continuously track the delivery status of the package and will release the funds 24 hours after the package has been delivered.
+In case of a wrong or faulty product the buyer can put the transaction on hold.this idea has a 10 million dollar market cap right now
+BUY BUY BUY!!!!!
+Take my money!!!
+Shills confido.>Mainly shills link within it.
+Is this like BitBay?
+It's better
+bought at .0024 ether right before it dipped and held.
+Only 402 confidos but its pretty comfy right now.
+I see a possible 4-5x still here.
+why?
+can you list a few reasons?
+Basically this relies on a buyer not being an asshole, and a seller not being an asshole.
+And thus, a reputation system needs to be in place, and a mediation system and....oh, Confido won't work because it can only work in a perfect world.
+Unless both parties want to lose a deposit on top of losing the initial trade...I doubt we'll see the same amount of bad trades like we do on ebay.
+What percentage of the sale does the deposit represent?
+I think it could be set by the seller.
+No it doesn't, it has a a mediation system in place already.That's like saying cars will only work in a perfect world because a handful of people will run people over for no benefit.
+Will be listed in Binance on Tuesday
+its 10 million dollars

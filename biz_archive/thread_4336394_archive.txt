@@ -1,0 +1,2 @@
+Having trouble getting a MEW address to show some ico tokens.I have entered the contract address, sometimes they show up but then i log in again and they aren't there.if i try and type in add token, it knows its already there but again shows up, but doesnt if i log out and log in again.any ideas ?
+now it shows up if i click 'load tokens'.It used to be there all the time

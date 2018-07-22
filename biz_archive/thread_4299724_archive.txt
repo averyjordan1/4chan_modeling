@@ -1,0 +1,6 @@
+Just made this.
+It is a minable ethereum token inspired by bitcoinereum, but it can only be mined for the first week of every year for the next 120 years.
+It's really just a novelty and the first solidity program I ever wrote.
+There are 100,000,000 total tokens and with 10,000,000 set as the reward for the first 5 years and halving every 5 years.
+The mining reward starts at 100 and halves every year, hopefully I didn't fuck anything up.
+x47ca7dc9336c0fB403f18B39fF29F5c5532744B0

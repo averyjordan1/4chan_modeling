@@ -1,0 +1,3 @@
+Not specifically about investing but relevant for those who do banking, trading, etc.
+on their devices.Who to set up security the best way?Any recommended scanners beside Malwarebytes to check if the system (Windows in this case) is clean?
+Any recommended scanners>hosts file

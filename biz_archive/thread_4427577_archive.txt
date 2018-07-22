@@ -1,0 +1,24 @@
+Hello I'm new, I want to deposit 500€, but Coinbase has insane fee, Bitstamp even worse, I don't know what's out there also that can reduce it.I want to buy ETH and then some coins on exchanges, how do I get through the cheapest way?
+gdax limit buy order
+Use a referral code for coinbase so after you transfer more than $100 to them you get £10 back.
+this
+Bitstamp even worseBank remittance is completely free on here.
+bitstamp has free bank transfer for euros lol.tard.
+Send usd from bank to coinbase which is free.
+Next send usd to gdax and buy bitcoin on gdax.
+Next send bitcoin to coinbase.
+Gdax is owned and used by coinbase.
+Coinbase trades your money on gdax exclusively pretty sure
+4427664Can only use Credit Card, because I'm still student.
+I have another question, that I'm not sure about.
+When I create new Wallet on MyEtherWallet, how do I backup my wallet?
+Do I just download the Keystore File and Copy it onto USB and is that understood as backed up?
+buying ETHyou watch marxist cp too while youre at it?
+are you really this retarded?
+I guess.
+As much as I've understood, you download the github ETH folder, put into Keystore File, also make text file with Private Key Address and that's it.
+I'm just unsure about 'back up' terminology in general.
+Is that it basically?
+Just want to make 100% sure.
+Create an address with MEW using Keystore / JSON File and with a passwordSave the address and private key (and maybe password if you are using one you are likely to forget) in a text fileSave the Keystore / JSON File on your computerAny time to want to open the wallet to send or check the balance you login by uploading your Keystore / JSON File followed by your password.If you just want to check your balance it would be easier to make a bookmark for your address on etherscan.ioThe whole geth thing is if you are downloading the blockchain for a standalone full wallet (e.g.
+Parity, Ethereum Wallet, MIST, etc) but there is no point with MyEtherWallet (MEW).

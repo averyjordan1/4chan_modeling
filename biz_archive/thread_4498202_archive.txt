@@ -1,0 +1,14 @@
+So what is the best bitcoin wallet currently out there?I'm still new to all this, but is it preferred to use multiple wallets for regular use?
+https://ELI5Bitcoin.com/wallets
+if you're just buying bitcoin and HODLing unironically just leave it on Coinbase
+I have a main wallet and several other wallets for varying purposes.
+Say I need a safe haven.
+I can send to a premade wallet or create a fresh one on the spot to ensure no one has the PK.
+Wouldn't recommend leaving coins on an exchange because they're not really your coins.
+Unless you know the private key of the wallet storing them, they're not yours.May not be a bad idea for norms who will fully verify ID and all that.
+Coinbase has the law & regulators breathing down their neck and (probably) wouldn't rob your coins.
+Friend set me up with a Ethereum wallet and i've memorized the seed.How safe/unsafe are my coins left in there?
+memorizedSorry for your loss.
+Oh wow, thanks.
+That will definitely help.
+Kek, but seriously.

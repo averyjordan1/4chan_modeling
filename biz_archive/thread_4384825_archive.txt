@@ -1,0 +1,7 @@
+Guys, please.
+Is there a Bitcoin wallet I can download that allows me to easily group a lot of outgoing transactions together to cut down on fees?
+yeah bch
+If you have your private keys you can use electrum or the core client.
+If you don't then enjoy your bags m8.
+Thank you, downloading Electrum now.
+yeah it's called ethereum wallet

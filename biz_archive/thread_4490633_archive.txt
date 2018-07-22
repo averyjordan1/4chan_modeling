@@ -1,0 +1,10 @@
+With the launch of the first atomic swap between Litecoin and Bitcoin this month, it’s only a matter of time before this cryptocurrency could start seeing an extreme level of mainstream adoption.
+With the current transaction costs of Bitcoin getting more and more expensive, this way of transacting between the two currencies is a revolutionary way of getting the best of both worlds between the two coins.Litecoin is a coin that is able to be sent and received extremely fast.
+At the “speed of light”.
+Litecoin runs on the Lightning Network.
+Lightning Network technology creates a few new opportunities when it comes to cross-chain atomic swaps.
+For one, the Lightning Network boasts a special payment type referred to as Hashed Timelocked Contracts.
+They allow Lightning payments and even atomic swaps to be performed in a very different manner from regular on-chain swaps.
+These contracts allow any party to cash out at any time as long as they broadcast their swap commitment transactions to the blockchain.
+http://oracletimes.com/why-litecoin-will-be-used-everywhere-very-soon/
+>Marginally better BTC>Gonna be used everywhereMan I haven't heard that one before

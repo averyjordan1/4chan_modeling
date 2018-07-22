@@ -1,0 +1,1 @@
+>Continuous liquidity platform solving the double coincidence of wants problem via asynchronous price discovery smart contracts

@@ -1,0 +1,48 @@
+TREZOR vs Ledger Nano S and why?TREZOR allows for 10 number pin instead of just 8 so that makes me want it.
+i saw some videos of TREZOR in use, the secret 25th passphrase word looked like it was entered on the computer, is that the same for the ledger nano s or is that entered on the unit?
+This is kind of a big deal, I want to keep everything on the unit and off the computer.
+Ledger Nano S pass phrase is entered on the device itself.
+The one on the ledger only shows you asterisks on the PC, if the pc is compromised it's still safe to use it
+Anyways, in the end, both are good.
+The differences aren't that big between both, but it's good to have 2 choices in the market.I like that the ledger looks like a regular usb so people won't care if they don't know what it is.I changed my screen in the trezor so that it shows as a blank image when you plug it in, so it would look like it's broken or not working.
+Just a little extra safeguard.In the end all that matters is that your keys are generated offline and never put anywhere in any other device, these devices do the signing in the device so the keys never leave it.Make a copy of your words in an obfuscated way, and your coins are 100% safe
+Trezor already got hacked Ledger not yet.
+I'll say no more
+It bothers me how much incentive the competing companies have to break each others encryption
+Lel so on the trezor you key your seed into a computer?
+Lmao what a joke.
+Glad i got a ledger
+I have bothI prefer the trezor's functionality/wallet, but the ledger supports more coins.eth and btc on trezor, everything else on ledger
+For what it's worth: "Celebrating Bitcoin Black Friday with 21% OFF all Nano S orders.
+Immediate shipping from Europe, USA and Hong Kong."
+@ www.ledgerwallet.comWorked out to be free shipping for me.
+just ordered my ledger, how does it work with mew, do i still need the json and the codes?
+if you enter your seed phrase into the device to recover your wallet how will you recover it if you lose your ledger or it gets stolen?
+hahaha holy shit glad I didn't buy 10 hours ago when I was eyeing itthanks anon
+enter the passphrase on a new ledger
+the trezor bug was fixed already though, and the attacker would still need to steal your device, and not be 99.999% of the population who doesn't know about the bugNoyou don't enter your seed anywhere, this is the pin, which is used to access the device, and you are only shown a matrix with asterisks.
+The numbers are shown in the device only.
+Every time being different.
+Having a compromised computer won't do anything to your trezor.Is it true that on the ledger, even though you can have more types of coins, you can only have like 5 because of the memory or something?
+I don't know if this is the same for the trezor though.That's pretty good.
+They didn't have any in stock when I wanted to buy so I went with trezor.
+Not like I regret it, but a 21% off is nice.The seed phrase is a standard BIP39 passphrase.
+Many wallets can accept it already (I mean software wallets too)
+Fixed or not Trezor was vulnerableand when you care about security you cant accept it.
+What about Parity fiasco.
+dildo nano S
+Trezor look more like a dickhead look closely
+nice
+Fuck outta here with your referral links faggot.
+you can report him for doing referrals
+No lol, what would be the point of that?
+I want to fucking shoot myself, I bought it at full price last week.Goddamn it, I buy high even in real life.
+YES, we got his wallet!>time to start punching in all 10,000,000 pin combinations until we unlock those sweet sweet crypto monies!
+Prepare the bot!
+>oh no sir, looks like he has a 10 digit instead of a 8 digit!!!!>blast!
+All our plans have been foiled!
+Reality:>tell me the pin or I will cut off your balls
+Why do they want 30 euros for shipping.
+How gay is that wtf.Also where the fuck did the nano S PAIR go?
+One looks cool and one looks like a turkey thermostat.
+Easy choice

@@ -1,0 +1,11 @@
+Any traders here?I use Bittrex for shitcoins and I'm trying to trade but not sure if I'm doing it right.After you enter a trade, how do you manage your position?
+Do you put a stop loss, or a order to sell at your profit target?
+Can't do both, I wish it could be either/or.I'm thinking of putting a stop loss and then just have alerts for when the coin reaches the profit target I want to sell atPic unrelated
+I don't think Bittrex has stop loss
+It does, you make a conditional order to sell when the price goes below a certain amount.
+I use them all the time, just not sure what I should be setting for when I can't check the price every 2 minutes
+I too wish that conditional implied that you could set many conditions for it to follow, like up or down.
+I do what you said, I'm setting a stop loss so I don't get justed, and a notification when it goes up enough to catch my interest
+What do you use for alerts?
+I've found that Bittrex lags like hell.
+Is blockfolio instant?

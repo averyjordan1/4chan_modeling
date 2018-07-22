@@ -1,0 +1,40 @@
+i keep trying to set up 2FA with Google Auth so that I can make a withdrawal from Binance... and pic related happens.any other anons know what to do/experienced similar issues & can help?
+your money is gone bro
+why does everyone shill this exchange when the grammar is in broken english, it looks like a maplestory site circa 2007, and only requires 2FA on withdrawals not deposits?fuck
+he fell for the binance meme
+Bittrex or Coinbase dont require 2FA on deposits either, the fuck you talkin bout Willis?
+Binance apparently does
+try NOT scanning the QR code and just manually enter the key.....the QR code is just there for convenience and may not be functioning properly...
+Resync the app, you genius
+>he fell for the 2fa meme
+You can deposit on bittrex without any verification and if you never get verified its stuck there forever because you can't take anything out.Their customer support takes weeks to answer.Binance takes a day or so.
+They only enforce 2FA to protect their customers against phising and hacks.
+If you continuously fail setting it up, try to use the authy desktop client, but be sure to have backups of your 2FA.
+Nigga you need to fix the clock on your authentication app, click on the three dots, and sync time.
+Shit works fine for me.
+Your shit must just be fucked up or retarded bro
+why are you showign your qr code.
+thats not smart dont show even parts of the qr code.
+theres ways to brute force it with knowing even a piece of it.
+tried that, same as beforeI re-synced the time twice, each time Google told me my internal clock was already sync'dstrangely enough, bittrex withdrawal worked perfectly fine for me.
+seamless (IMO)already tried:(wat
+Can anyone confirm if WinAuth works with Binance?Also, for anyone using the phone app and not getting it to set up correctly, I remember something about syncing system clocks fixing it in some reddit thread.
+binance
+give login and password op and I'll check if it works for me
+Can somebody rate the exchanges from best one to the shittiest one?
+For example Coinbase>bittrex>Kraken
+no worrie, binant very trust with customer moneys!send in bitcoin u buy everything available now on binance
+Hey mate - I'm a Binance volunteer.
+Come join the telegram and we'll get your 2fa sorted for you right away.
+sorry for the issue.
+t.me/binanceexchange
+Are you the guy who took my LINK?
+Give it back!
+No one took your LINK.If your account is missing any funds and binance can verify that it was indeed an error on our behalf we'd be happy to credit you the amount.
+Google it, it took me less than 2 minutes to fix the problem.
+Remove the current auth and make a new one.
+Have you tried using a different browser?I was having trouble using 2FA on firefox, so I had to switch to chrome.
+Their support staff said they werent gonna fix it and i had to just use chrome lol
+I had the same problems as OP.
+I was using chrome and had to switch to IE to activate it.
+Worked fine after that

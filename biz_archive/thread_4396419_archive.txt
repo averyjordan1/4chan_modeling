@@ -1,0 +1,54 @@
+Hey guys, currently own a mining farm with about 500 RX570/580's, ~80 GTX1070, ~120 GTX 1080 and ~50 GTX 1080ti's.
+I'm currently about 150k in profit and I wanna expand further.Should I buy more RX570/580's or get some of those Vega cards running XMR/Electroneum?
+I'd prefer not having any more Nvidia cards, not profitable enough.
+how about some "fat chance" with some"no fucking way"?pics or it didnt happen faggot
+It's not that hard to believe.
+He's "small time" compared to some people that have been at this for years.I mean shit, cave-anon was grossing $120k a month back when Monero spiked a few months ago with his blade server farm.
+if you ask biz what cards you should get for mining you are a credible person.
+i should know im a credible person myself and can tell belive me.
+Newfag here...How much initial investment is required to be profitable mining Monero??
+LOL at the all the gamers that can't play high res games because you snapped up their GPUs.
+Well thanks for all the help guys, I'm just asking for some extra input, since there's not much difference in price to return between the RX Vega cards and RX570/580 maybe someone had experiences with Vega rigs since I well.... don't.You can build an 8 card RX570 rig for like 2300$ and earn about 15$/day before electricity atm, so that could be a good place to start.
+RX570's are in stock atm for 220$, the mining craze is long gone.
+I picked up most of my cards before the boom anyway, main reason I'm up quite a bit already.
+Bump because noone is helping, does anyone have experience with Vega rigs?
+Probably gonna buy a couple of those since they hash insanely at XMR but I just want some experiences, haven't dealt with super-hot cards like 390/fury/vega in mining operations before.
+Vega is impossible to make work on linux, if you use linux for your rig OS.
+It also has some weird quirks on windows like requiring 16GB RAM PER CARD to get full hashrate and not being able to use more than four per rig.My Vega is sitting in its box until AMD resolve these driver issues.
+See now this is the type of stuff I wanted to hear, I'll wait out on Vega for now then.Knew it needed a lot of RAM on windows, but 16GB per card is insane, especially with current RAM prices.
+Definitely gonna get some more RX570rigs then.
+What’s the kWh useage roughly on a 8 card rig?
+4397336This was all fixed in latest drivers and with latest miner.
+You can now use 8 Vegas per system provided you have the power.
+Also you can just use an unlicensed copy of Windows 10 forever.
+Just has a watermark but it's not like you'll be looking at it much.
+Source: been doing that on my modest mining rig for almost a year.
+Really, unless Monero crashes or your electricity prices are very high (in which case you probably shouldn't be mining anyway) then Vega crushes Polaris right now for profitability.
+It certainly didn't work for me on Linux with the 17.40 amdgpu-pro drivers.
+I even did a full OS reinstall.
+Simply doesn't detect the Vega as an openCL device.
+I've been trying to find out the hash rates for various cards mining various coins and I can't find very many solid numbers.
+Makes it difficult to use a mining calculator when you could be off by an order of magnitude.Where do you anons research such things?
+Has made $150k in profit>Comes to biz for adviceYeah, not fucking buying it.
+3/larp.
+You make best guesses off hearsay and rumours.
+If you want facts, you buy GPUs and try them out.For example I read that Vega gets 2000H/s XMR, so I bought one.It gets 0H/s on Linux because it doesn't work, and 1200H/s on Windows because errr, dunno.Looks like I'll be sticking with my 19xRX480 for now.
+12600H/s for 2100W power.
+Losing over half my profits to electric costs, but meh, keeps my room warm.
+On this subject, does anyone know where to get a 20 inch box fan in the UK?
+I don't fancy importing them from the US with shipping three times the value of the item.
+Are the Monero benchmarks linked from their site valid?
+I have some money to put in... willing to spend 4K with a 6 month ROI... my electricity is at $0.28 per kWh...
+The benchmark claims a 8X SAPPHIRE RX VEGA 64 8GB HBM2 has H/s of 16,032 at 1396W.
+Using a hashrate calculator, that’s ~$31 a day before electricity.
+Almost $1,000 per month revenue generated at current XMR price sounds delicious!
+(For reference those stats are using “AMD XMR MINER V0.62B.
+VEGA`S WITH MODDED REGISTRY FILES.” Per the Monero benchmarks site).
+(Benchmarks were set in October for that rig).First, have you tested against those benchmarks at all...Second, as price of the unit goes up, how is profitablity affected?
+I know it’s not linear because number of miners, difficulty adjustments, etc but in your experience mining this, how volatile is the profitability for mining this?
+my electricity is $0.11 per kWh, I use my 1060 in my gaming rig to mine XMR when I'm not using it.I'm thinking about buying more to increase my profits.
+I could feasibly mine all the time (even while gaming) by using the extra GPUs to mine and using the primary for the game.
+It won't work on Linux last I checked.
+I believe the mining driver needs to be used and as far as I know that only has a Windows release, which seems backwards.
+According to the benchmarks on their site, you should be hitting H/s of 449... what do you get?
+Mine ETP, basically mining eth from the start ?

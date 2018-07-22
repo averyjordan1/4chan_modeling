@@ -1,0 +1,403 @@
+How the FUCK do they expect to launch the main net by Q2 2018 if they're literally rewriting their entire software NOW??
+Absolutely ridiculous
+Those were my thoughts as well.
+I lost my confidence in Link today.
+Sergey can't do it.
+He fucked up.I'll be selling my stack either today or tomorrow before it dumps down to nothing.
+It's just copy pasting guys,Don't worry we still are going to make it rrrright?
+but now they already have some reference on how to do some things, they won't completely start over.
+Can't really complain since that gives me more time and I have other plans till then
+They dontthis is the reason why the team doesnt hype the project and Rory refuses to give any time estimates It will likely be completed closer to Q3-Q4 2018, at which point the price might be less than 50% its current sat value
+Poor fag with only 20k link, looks like im gonna be poor for a while :(
+this will be like Augur and Golem 2.0 ... project delayed forever while the Dev team doesn't give a fuck about people holding the coin
+I see ya'll scrubs never done any serious work in software.
+They ain't rewriting from scratch here.
+They just PORTIN' over to Go.
+It's not that hard.
+I say ya'll just foolin' 'round.
+Give it a rest.
+LINK is already shapin' up, almost back to 2k.
+I rec'mend ya'll stop clownin' round and get on board soon.
+Time's a-waistin'.
+Remember: we got a real shot here.
+Don't mess it up.
+youll be a millionare when it hits 50 tho
+They PORTIN over to Go which isn't that hard, but they haven't even been able to hire a dev to do it.
+Also mentioning about "challenges arising".
+Still not sure if i'll risk missing out, but the opportunity cost is huge atm
+LINK is a complete vaporware shit coin with only 2 fucking idiots on the dev team
+I do say.
+This gentleman seems to be speaking the truth.
+There is simply nothing to worry about in this state, upon this place, you are merely hearing the inane ramblings of cretins who wish to acquire the legal tender of 'Link' at a discounted fee
+
+Holy fuck, this fud is as intense as it is stupid.Something has these people rattled to the core.
+PORTIN over to Go>Less developers write Go>Less library support ( https://golang.org/pkg/ )>Less support for secure protocols (TLS)At this late stage in the game why except>buy more time to form an exit strategy>Implement json parser in go will make the github graphs go UPholy shit please sell what little link you have before you get CONfidio'd
+I just dropped my link.
+This project lacks transparency and without transparency, they are not worth 50-60 million.
+I’ll reassess daily, but for now I’m out of link.
+It shows a fundamental disrespect to the community that they do not update the people who gave them 32 million.
+The community has been far too patient.
+We don’t expect fake hype, but the fact they causually drop shit like they haven’t even hired a programmer who can rework their ruby into GO in a slack post is bush league bullshit.
+There is no way they’ll have a production mainnet before Q2 or Q3.
+I’d recommend waiting and watching for news.
+If there is none, expect this to flirt with 10 cents.
+4489899why is it stupid?I believe in the project but don't know anything about programming
+there won't be an exit scam.
+just look at the team.
+however it could be buying more time to land some other partnerships if SWIFT isn't happening.
+only speculation here, but this scenario would be very challenging.
+the use cases for this project are wide, but given the hype around the possible SWIFT partnership it might be hard to recover.
+What is FUD?
+They are clearly further behind than most people thought.
+Most people in this thread say they believe in the project but that it’s disappointing them and they are exiting for now?
+The fear uncertainty and doubt is fucking warranted when they are so terrible at communicating and we can expect it to either stay at this price or to drop in the near future.
+It's an abstract kind of hodl.
+you got memed fren
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+This project lacks transparency and without transparency, they are not worth 50-60 millionThey're about as transparent as any major company.When was the last time google, Apple, Microsoft, ... delivered daily updates on their flagship projects?Moron.They are clearly further behind than most people thought.You're a retard.They just did their ICO two months ago, what did you think they needed that funding for, if not for massive future development?
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+They're developing, shit like porting into a different language is extremely normal.
+They said it was mostly done.
+Not "we need to rewrite the whole thing in a meme language".
+Why can't they just rewrite the slow parts in go?
+Why even use go at all there's about 1000000 devs who know C and c++, what's the point if using this language that few people know?
+Is it likely to take a long time?
+How big a job is this?
+I have no context for this announcement but it doesn't sound good
+They said it was mostly done.1) they pretty much are mostly done if they're releasing the full network early next year2) post source plsIt's not an announcement.It's Rory repeating the fact that they're looking to hire more people.
+What is fud?Lurk moar cunt
+No one expects daily updates.
+They expect one monthly or weekly DETAILED, CONCRETE PLAN OF ACTION.
+I don’t give a shit that they’re behind where I thought they were.
+I give a shit that if I didn’t follow their slack I wouldn’t be able to know what they’re working on.
+All of their updates are in disjointed Rory whispering to hyperactive neets.
+Just do a biweekly or monthly update saying this is what we’re going to do.
+Post it to slack, twitter, make a Reddit page and post it there.
+It would take thirty minutes and would be time much better spent than Rory babysitting the slack.
+It’s a lot more professional and would make people outside biz feel comfortable investing.Maybe I had unrealistic expectations.
+Most people did, hence the push to .50 leading up to SIBOS.
+We expected massive future development, but the way this is all being communicated makes me uncomfortable.
+I’ll likely buy back in after holding eth and trading.
+I’m not trying to FUD link.
+I just think it’s not meeting short term expectations.
+Several major twitter outages have been due to lack of scalability of Ruby.
+The fact that you mention C as a language that can be used as the language for a large scale project like what LINK wants to do either means you don't know jackshit about software development or are a first year CS student.
+I meant what is unreasonable FUD in this thread.
+If you read the full post you would have seen me explain dipshit.
+Get baited fagit
+They expect one monthly or weekly DETAILED, CONCRETE PLAN OF ACTION.When's the last time Google, Microsoft, Apple, Swift, ... gave monthly or weekly detailed, concrete plans of action?We know exactly what they're working on right now: the network.The first (testnet) version of which was finished before the presale, and used in the Swift PoC at Sibos.
+I meant what is unreasonable FUD in this thread.For starters the notion that this somehow means they're "behind" on anything.Post specific arguments proving they're behind.
+It’s 2017.
+Don’t use that word.
+just look at the team.
+people and a bot...
+Are you retarded?
+Every operating system on the planet is written in C. Linux, Windows, all the drivers that interact with your hardware.Wow guess those must not be scalable or fast!
+Guess every language isn't compared to C because C is the closest to the metal language there is, aka fastest besides hand-tuned assembly.
+Guess they aren't trying to use Intel SGX and they need to INTERFACE WITH SGX HARDWARE.C runs the internet you fucking amateur.
+It's everywhere for a reason.
+Go is a meme language developed by Google so they could get amateur developers to write simple webapps faster and "microservices".
+It was never meant to be used to develop secure enclave software you fucking retard.
+I want to know what that fat fuck Sergei had for breakfast or else I'm dumping this scam!
+Better be quick!
+it is going to be under 9cents by tomorrow.
+Link is not a publicly traded, multi billion dollar corporation in the US.
+It is registered in the Caiman islands.
+Also, do you think initial investors in those companies didn’t ride their ass in the early days?
+A lot of people, myself included didn’t see the Ruby Go rework happening.
+There is no timeline from the team, so congrats, you got me.
+I can’t prove their behind since they could just take all your money and run and never be behind schedule since they do not have a CONCRETE, DETAILED PLAN.
+So in the short term, I understand people reducing or dropping their bags.
+And xrp
+Take a man to admit his mistake, good on you anon.As for the timing thing; they just did their ICO two months ago, and they were occupied with Sibos until like a month ago, so it was always obvious there would still be work to be done.You would've known that if you actually knew what you were trying to talk about.
+I don’t really look on it as too big a mistake.
+I swung trade my stack and wasn’t all in so I didn’t lose money.
+It’s just aggravating how cultish every link holder is.
+> hey u, fatso, cmere> yes swift-san> i wanna u to rewrite ur shit in google language> but swift-san, we're almost done.
+if i press this button, we gonna release our mainnet oracle network and sail off to a new crypto epoch> shuddup fatso, im not done accumulatin.
+now finish ur sammich and dont even think about being done till i say so> yes, swift-san
+The mistake was trying to imply Chainlink was somehow behind on anything.
+Can someone just give a concise answer.
+Is their code a joke ?
+Is this Go language a meme ?
+Swapping codes is commonplace, especially during development.It's like an F1 driver trying out different setups during training.
+Go language is an improvement upon C, providing brevity and better security.
+why go lang thoi read that the DAO accident was caused (in part) by ambiguities in golang definitions
+The latest "update" is so poorly construed that it is difficult to even understand.
+Anyone who's on Slack has any information on the subjects communicated on this "update"?
+What the fuck is going on?
+"Talking about individuals not uncommon, but you want them experienced.
+May be great so you may need for a short time or permanently."
+He's just blabbing around and the post is full of typos.
+Just comes thru as unprofessional.
+Is he in a constant hurry or why is this?
+Sounds like they're only just now starting work on the final product.They made a prototype in ruby for sibos, and now they are making the actual working product using go.Go is not a meme language but it is a new language with little support, so sounds like they're having trouble finding qualified peopleOther people can weigh in if this is a fair assessment
+Yes here's why.
+You aren't a programmer right?
+But you've heard of java and maybe c++ right?That's because they have been stable and in development for decades.
+All the edge cases are known.
+There's large pool of experienced developers.Go on the other hand is a new language that has only been around for a few years.
+It's still changing rapidly, there's more edge cases that can go wrong, and there's far fewer developers available.Now ask yourself, it you were trying to sell software to a Bank, one if the slowest moving and risk-adverse companies, and you told them your code is written in Go, a language they have never heard of, they don't use, and have no experience with in either sysadmin maintenance or development, why would you choose go over java or c++.
+Every bank has tons of software and experience in these two languages.It's a bad choice imo.
+2 stuttering potheadsIt ain't a meme for nothing
+Not really, it has a different use case.
+C is faster than go.
+Go is just "easier" to develop with.
+But go also has a runtime which makes it unsuitable for bare metal programming.Modern C techniques, especially on a project from scratch, can be highly secure, especially with the great toolchains such as clang available right now.
+Calm down faggot, this was just a post by Rory in the slack, he was responding to someone.The fuck is wrong with you?Sounds like they're only just now starting work on the final product.No it doesn't.Nice fud attempt.The banks won't give a flying fuck what it's coded in; they'll have nothing at all to do with the backend.And if Go is fit for purpose then that's all that matters.
+Fuuuuuuck.
+This Is the first time im doubting this project
+Your lack of software design knowledge is showing again, retard.
+I didn't say C was fucking useless.
+Every CS student has written an operating system in C and knows its uses for embedded systems.
+C ISN'T USED FOR WEB ENTERPRISE APPLICATIONS LIKE WHAT LINK WANTS TO BE.
+C doesn't run the internet you dipshit, name a modern non-hardware company that writes primarily in C.>Guess they aren't trying to use Intel SGX and they need to INTERFACE WITH SGX HARDWARE.Stop talking about things you don't know about, retard.
+They're using Town Crier which utilizes the Intel SGX hardware.
+To spell it out for your dumbass, Town Crier interacts with the hardware for you so your applications don't have to.
+pffffhahahaha
+I just don't understand what is it that he wants to say in his message.
+It's so poorly construed.
+Comes thru unprofessional.
+I'd like to know if he has said anything about any of that in some more understandable manner?
+If it's fast, cheap, secure, and stable, why the fuck would the banks care what language was used?
+The bank devs aren't going to be tinkering with the code.
+All they need to know is how to write a Smart Contract.
+The banks are not BUYING any software from LINK.
+They are customers.
+I just don't understand what is it that he wants to say in his message.It's not that hard.He's just repeating what was already said a few weeks ago because people kept asking.
+that just looks like he's asking to get fucked, not that he is fucked
+anyone with CS experience should join this chat room and ask Steve Ellis questions directly, to better gauge where things are athttps://gitter.im/smartcontractkit-chainlink/Lobby
+Just sell and buy back more cheaper.
+This news isn’t priced in yet.
+Why do the banks care about the prog.
+language?They won't be touching or maintaining a single line of code.The only thing that the banking IT staff needs to know is Solidity which is used for the smart contracts on the Ethereum network.
+Do you mind explaining what it is then, anon?
+I'd appreciate it
+They're still hiring and they're in the process of moving from Ruby to Go.
+What don't you understand?Post the message you're talking about.
+What do you think Sergey is doing with our money right now?
+invest in vaporware>be surprised it takes a while to create
+Big Macs and big booty prostitutes while Rory sits in the corner fapping his pencil dick.
+Steve is wondering where they are while he frantically tries to learn GO.
+You're a faggot.
+It's obvious you haven't worked at a site handling 100k+ requests per second.Everything is C++ on the backend at Facebook and Google.
+Cloudflare uses C to handle all the web traffic that goes through it.
+They scrape and parse the web in C because they aren't faggots and want to go fast.You have no idea what you're talking about.
+If you want to build the most efficient implimentation you use C. If you want to be a hipster faggot, you can use Go and hire one of the 10 people outside Google who actually use it in production.
+Also good luck finding blockchain devs who are good at fucking go lol.
+Most blockchain work is c++.Can you use go for this?
+Sure.
+Should you?
+No.
+linkies never fail to make me laugh
+im a dev, should I apply to help them?
+join this and ask for a job, seriously.
+https://gitter.im/smartcontractkit-chainlink/Lobby
+Facebook is written in PHP and Google is mostly Java though.
+Thank you!
+What a bizarre way from him to be saying that tho.
+Alarming that they haven't hired yet
+Reason I say they're just starting work on the final project is because I suspect what they did in ruby was for the demo at sibos.
+Now that they have funding they're writing the production ready code in Go.
+What that would imply is we have AT LEAST a year to go before we see the main net, since work on the FINAL product is only noe happening
+Blows my mind that people think Chainlink lacks transparency, while Steve is discussing the technicals of the project with the community pretty much 24/7.
+Alarming that they haven't hired yetWho says they haven't?All he says is they're still hiring.Reason I say they're just starting work on the final project is because I suspect what they did in ruby was for the demo at sibos.They finished Chainlink v1.0 before the presale.
+Fuck off to lefty pol fagg!
+Its 2017 like that means anything.
+they want the skateboardsthey want the stickersthey think these are things they deserve in return for their money.
+Can you use go for this?
+Sure./thread
+The way they communicate is too confusing.
+I'm out for now.
+Thanks Anon!
+You're obviously a retard when you point out C++ uses when we were talking C. They are completely different things and anyone who assumes the two are the same doesn't know jackshit about software.Cloudflare uses C for certain use cases.
+It's funny how you shit on Go but even the only example you gave of C usage, Cloudflare, uses Go as well:https://blog.cloudflare.com/go-hack-nights/Tell me why Chainlink needs to interface with hardware.
+Again, you can point out a million embedded software uses but you can't point out a major web company that primarily uses C (not fucking C++ you fucking pleb they're used completely differently these days).
+when*ifAhhaha stay Poor
+I'm debating whether it's a good thing to try and dispel this specific "hurdur no transparency" fud.Maybe it's somehow for the best that these fuckwads believe it.It was a casual reply in the slack.
+It was never meant to be Hemingway.
+This is a pretty meaningless comment considering they could use literally any meme language on the planet.
+It does not mean every language is equally suited to the task at hand.
+In 2007.
+Now they deploy massive 5GB compiled blobs of c++ with "php" glued on the to the front barely.They basically gutted php and it's nothing like regular php.
+Just because the URL ends in .php means nothing about the immense computing blob under the hood.
+I interned at Google, a good portion of the code base is written in Javayou're a fucking idiot
+Take your programming language discussion to /g/.It's as useless and dumb as "AK vs AR" discussions on /k/.
+kek
+No one ever said LINK was short term...
+Yeah, but has anyone really been far even as decided to use even go want to do look more like?
+Uhhhhh cloudflare?
+I just gave you an example.
+Last I heard they run a lot of web traffic through their C code.I said use c++, c or java, pick one.
+I know they are different you retard.Do you think the ChainLink is a webapp or something?
+You seem to think they are rewriting their webapp code in go.
+They aren't writing a webapp you idiot, they are building server software.
+C++, C, and Java's bread and butter.They aren't writing a webapp, they are writing the webserver the webapps run on top of.
+Look at any major webserver, Apache, Nginx, tomcat, IIS.
+All C, C++, and a little java.Please get educated, write some high performance code, and come back when you understand the difference between a webapp and a webserver.
+I liked what I read about goAlso, easier coding wouldnt help the node operators?
+Making it more mainstream?
+It's just compiled into C++ using HHVM.
+The source is written in their own PHP based language.
+Oh you mean it's not written in go?
+It's written in one of the three languages I suggested?
+Wow it's almost like I was right or something.Thanks for reinforcing my point.
+Go is a new language that even the creators of the language are barely using except for low risk stuff.Sergey should have picked java, c++, or c if he wanted to find developers to write server software.
+Everything is C++ on the backend at Facebook and Google.Just stop now before you embarrass yourself any more
+Here is their source code:https://github.com/smartcontractkit/chainlinkIt's literally ALL in ruby.
+If they say they are porting all of this to Go they have a ton of work ahead of them.
+I got 15,000+ links, should is till be holding this?
+or just set it and forget it?
+JUST
+ITT: Mostly retards that have no clue about software development, who suddenly give a fuck about the programming language of a software project.
+A car manufacturer is going to build a really nice car, and you like it very much.
+You decide that you want to buy that car when it's finished.
+Now, the manufacturer decides to use different materials than previously announced, because it works better for the car and makes the car run better overall.
+The concept of the car does not change at all, the roadmap to getting it finished is still the same, and it will look the same to you when it's done.
+Would you also question the decision of the manufacturer, even though you have no idea how cars are even built?Would you change your decision and not buy the car now?
+Fuck no, because you trust the manufacturer to know what's best for the car, they have been building cars for years after all and have the knowledge and experience to make that decision.So, don't worry about it and enjoy your fucking car.
+HODL
+Fuuuck i wish I knew more programming to understand if my investment is fucked
+yo retard, chinlink headquartered in SFO/bay area, not in shithole county.
+if they throw the money they get very good competitive resources.
+Having written it in Ruby from the start is quite the noob move, depending on when they started.
+Moving to Go is a very good thing since it's the most suitable language for the job in terms of speed etc.
+ITT: Mostly retards that have no clue about software development, who suddenly give a fuck about the programming language of a software project.This.When was the last time you saw /biz/ (Business & Finance) discussing the programming and technical decisions of some crypto project?
+ITS GONNA BE A SHITTY CONSOLE PORT
+4491481Man I wish I knew what you were all fucking talking aboutI'm just a retard that doesn't know computer but knows just enough to buy memecoins in the hope that I can move out of my parents house before the age of 40 because im too dumb to get a decent paying jobhelp me out guys, should i throw some money into link?
+i aint invested anything yet but you guys sound very smart
+This.Most people in this thread have no idea what all of this means, not to mention this is OLD news.
+Why bring it up now?
+lo, u retard looks like 5-10 years behind probably not in bay area, here companies like netflix, walmart labs, verizon ...etc all biggies using go lang for core components.
+lol okay.
+Google's web crawler is c++, search engine algos are all c++, their high performance stuff is c++.I can't believe I'm having this debate.
+It's well known that c and c++ are the highest performance languages to use.
+They also have a large number of devs who know the language.The fact they chose a language no one uses to build blockchain to build a blockchain seems dumb to me.Do whatever you want, but I'm not gonna screw around and flush my money down the toilet waiting for them to hire meme developers instead of just hiring some c++ blockchain devs who already exist.
+Set it and forget it meme guy here from what they are saying here it sounds like a set back but over all not a scam or anything the staff is small and has a lot of work to do and prob won't make the deadline.
+But that bei mg said it's going to be a long hodl no matter what.
+You could sell half and still be good if any breaking news happens.
+But if I were you keep track with all the news and be ready to drop your life savings in when the time is right.
+Buy the rumor sell the news.
+And don't sell you principal.
+Is that fair biz?
+https://en.wikipedia.org/wiki/Go_(programming_language)#Projects_using_Go
+Fuck he's right.
+Forgive me for doubting Sergey.
+I'm going all in
+What that would imply is we have AT LEAST a year to go before we see the main netRIP.
+Link will literally be 1 cent if we have a year of nothing ahead of us.
+I've never seen such an extreme dissection of a crypto project on this board...everything else is just "wooooo partnership with x, new website, the x industry is HUGE, going to the fucking moon", but with chainlink every little detail needs to be fucking perfect.
+talk about double standards.
+It's Link.
+It's going to be scrutinized from top to bottom.
+If they see one fucking typo in a comment they are going to shout it's trash.The things that are being scrutinized at this point should really tell you how strong the project is.
+Yeah, you gave an example that USES C ALSO USES GO as well.
+So the one example you gave uses the language that you were shitting on this entire time for no reason.
+Still waiting for an something written in C like we were talking about.I pointed out that C was a retarded choice for Chainlink to use, not C++ or Java.
+Stop changing the subject to C++/Java just because you can't find any similar uses of C.You're also retarded if you think they're creating a server from scratch.
+Chainlink is closer to an application than a fucking server as its meant to connect the external resources to the blockchain.Stop pointing out C++ use cases when we're talking about C.
+The fact they chose a language no one uses to build blockchain to build a blockchain seems dumb to me.LOL you think they are building a blockchain?
+What planet are you on mate?They are building a oracle network, not a blockchain.
+God you are stupid.>Google's web crawler is c++, search engine algos are all c++, their high performance stuff is c++.You said "everything" was in c++, I'm saying they're using c++, java and python for most projects.Also going to mention that more and more projects at Google are using Go now.
+t. linkie shill
+LMAOthis entire drama sounds exactly like Wagerrlike its exactly the same way it played out with them>genuinely good idea, grandiose promises>turns out devs are completely incompetent>fuck up everything>bagholders become more and more delusional as they realize they bet on a losing horse>coin is in the toilet and bagholders are still jerking each other off waiting for muh mainnet releasewait you never heard about Wagerrr?Well there you go...
+More like Golang shill, but ok
+Look, you can write a server in brainfuck for all I care.The fact is, there are way more developers experienced in C, c++, and java than meme go.
+Right now they are having problems hiring people to program in go.
+I am simply pointing out that if they instead chose a more widely accepted language, they would have been able to hire talent faster.
+Because of this misstep, the price will go down.
+It's just a JSON parser.
+Why wouldn't it be ready by 2018?
+SameGeneral feel I get is it's not a big deal
+Thank you, I am really trying to help non developers understand just how much work a rewrite is.
+It is NOT trivial at all.
+Anyone making it sound like it is, is shilling you.
+I don't see anywhere that they're having problems hiring developers, which always takes time.
+I don't doubt finding experienced devs is tough but that would be for any crypto company given the early stage of blockchain tech.
+They're not worried about the short time price going down anyways.
+What does that tell you about the real motives of the shitposters?
+Go lang is a popular choice for networked applications, it was invented by google.it makes me more comfortable than having it in ruby.
+It's been around for 8 years, its not exactly new.the language was made to be as simple as possible to make bugs harder to write.I'm not a big fan of C++ or java, haven't tried Go myself but heard good things about it.
+Regardless of this, I'm a bit concerned that Rory can't take the time to avoid making blatant spelling mistakes in his messages when talking to the community - this doesn't look very professional to me desu
+dont even bother anonI spent months talking to deluded bagholders they are victims of a psychological phenomenon thats similar to stockholm syndromethey would do anything to not face the fact that they fucked up and are gonna lose their moneyso they will do everything to keep their fantasy going that ONE DAY their shitcoin is going to mars.believe me its not worth it you will get nothing but ridicule and outright hatred from these poor souls
+I can't fucking wait until 2018, I will post a pic of my lambo with my chanlink gainz and my 10/10 trophy wife with fake tits.Screen cap this.
+this project is probably taking ages because the code they write is full of spelling errors.
+You said "Everything is C++ on the backend at Facebook and Google.
+"You weren't right at all lmao.
+Is Rory a Dev?
+I thought he was more like a community manager or smth
+If the manufacturer now using different materials means you're not getting the car in Q1 2018 but will have to wait to the end of 2018/2019 that's a material change.I think that was what the bitching was about.
+Worried about having to wait even longer for ship moonlamboland to take off.
+That's all he is.
+Oh linkies.
+What would the world of cryptocurrencies be without you?
+What do, we owe the honour.
+The promise of Link seemed promising at first.
+The premise of 'rent free' was surely innovative and ahead of its time.
+But, as time showed us, this coin was nothing more than a pump and dump that inadvertently created the most deranged community of bag holders known to man.
+A community that incessantly screeches "rent free" whenever they feel threatened, which is very common.
+To be a linkie is to be deranged.
+Having lost everything, whether it be your house, marriage, wife's sons college money or life-savings surely takes a toll on the mental serenity of a linkie's mind.
+Slight threats critiquing the developers of Chainlink sets the common linkie into a state of neurosis that can only be cured by euthanasia or the eventual revaluing of this godforsaken currency.
+However, once the price reaches 10 cents, the value will continue falling.
+This crash will be catalyzed by the fact that thousands of wallets will be lost as a mass suicide of linkies, causing the price to dip even further.
+Don't be deranged, don't be a linkie.
+4492163porting code>"fucking everything up"Lol fuders getting desperate.Don't you have anything better to do than play good samaritan, warning us poor sheeple of impending doom out of the kindness of your hearts?Fuck off and stay fuck off.
+a production line with 5000+ employees and millions of mechanical / logistical connections is != switching a basic blockchain code to another language.
+Does anyone actually take the time to read these posts?
+What makes you think they aren't on schedule?Be specific.
+Fuck off and stay fuck off.exhibit Abagholders get triggered once you threaten their golden ticket
+I feel like this is the kind of messages you send to someone when your gf breaks up with you.
+psychotic people.
+Have they even hired a single Go dev yet?
+Why did they choose a language their team has NO experience in?
+lmao reading the wagerr subreddit is comedy gold >update about a minor update >any timeframe?>"no"
+proof?
+Spoof?
+Yeah a sports betting coin doesn't compare to what chainlink does
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Why does it say "you" may need.
+Speaking hypothetically?
+fuders so desperate they have to create controversy over casual reiterative slack posts like this
+All alts are down so I can't tell if its working or not.
+Reminder.
+These faggots were partners with Confido.Might want to exit.Sorry.
+check out their thread on bitcointalk too while youre at itits the biggest shitshow in crypto and that means something!
+Confido was a customer, not partner.
+Can't believe I fell for this scam They have been hiring people for 3 months now and they haven't found anyoneNot a single person in 3 months with 32 million to spendLet That sink in
+transitioningRory and Sergey becoming a trans?
+#4CHNallday
+how long does it take to "trans" their program?will Chainlink mainnet launch before Star Citizen?
+B-b-but... muh sibos, muh devcon, muh money belly.
+3 monthsThey only started looking after Sibos, and you don't know whom they hired so far.
+Rory has stated that it is crucial to have proper working MainNet as their interested parties will be eyeing it closely.
+If it takes another 4-5 months idgaf, as long as they get it right.
+sergey hires lots of whores who feed him pizza all day>rory snorting coke from a nigressess tits in some rundown strip club in philly>both have been seen in several sportscar dealerships>steve is reviewing bongs on youtube>meanwhile us (pic related)
+The typos bugged me too.
+If it helps, it wasn't a formal press release kind of update - it was a reply in conversation in telegram.
+I assume he was using his phone.
+Looking like Q2 2018 or later.
+200k LINK holder here
+Donate some over here?
+Roy what the fuck is going on man
+Please get educated, write some high performance code, and come back when you understand the difference between a webapp and a webserver.k>tfw neet>tfw bagholder in digital play dough money posting on taiwanese basket weaving forum >tfw checking portfolio and it's probing the deepest depths of the Mariana trench >tfw dgaf, will write good code for anon-san in the meantime while I'm financially propelled to Andromeda galaxy by LINK gains
+Geth is implemented in Go, most ethereum nodes run on Go.
+Go is compiled, statically-typed, Ruby is the opposite.
+Ruby was adequate for PoC but was never going to be suitable for the end product.
+How long we thinking on a full rewrite?
+With go if they hire 2 or 3 devs that know go?
+Q2 2018 or a little earlier at current pace.
+If they get a few developers it will probably be out in February or March.
+-5%
+Sell me your bags
+> -5.83Rip LINK
+>give 50million to a company with 2 employees, no revenue no working product oh linkies
+We don’t know cause they don’t tell us anything.
+Their PR is just Rory saying noncommittal BS.
+For all I know, Sergey’s 9-5 consists of getting a double quarter pounder, supersized fries, xl pop and a high priced hooker which he can now afford with the 32 million you gave him.
+I bet he’s chilling in a hot tub of melted Nutella, and eating chocolate off some bbws’ buttocks whole you are frying your eyes on your monitor looking for some gleam of hope while this shit flushes down the toilet.
+why would anyone who could finish LINK go work for LINK?
+just fuckin write it and release your own token and get rich.
+Sold my salt and req breaking roughly even to buy during this dip.Going to bed.This might be the dumbest thing I ever do.
+I believe in you Sergei!

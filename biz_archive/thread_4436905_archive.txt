@@ -1,0 +1,3 @@
+I heard here that bitcoin was a really good investment, so after reading a few articles and looking at the price chart I finally invested $100 into it.
+But I don't know if it went into my account.
+Can someone please check for me?public key:1CLdSb3iVR7KDB1sgzqsqdTAKFsXNWHwTnprivate key:L2w6ChMm7zS6YhjisN2EJr3H4gFDTLH4gJFF9RuHd9EQboqCa7mU(This should be enough to find the balance, I won't give you my password :P)

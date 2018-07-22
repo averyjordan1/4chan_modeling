@@ -1,0 +1,6 @@
+How many of you actually earn neat little profits from people not knowing how to use Ether Delta and fat fingering their trades?
+0All the fatfingered trades are scooped by a bot
+Well I meant people here selling their coins for ridiculously high amounts of ether, and people buying it accidentally since they don't know ED.
+4357757ive sniped some little things (.2-.5 eth)but gonna have to agree with this.
+the bot snipes it with like 7,000 GWEI (aka like 600$) or more depending on how big the order.unless there is a way to adjust gwei after clicking the order?can you adjust gwei after a tx is created and shows up in etherscan?
+If you ask that question you should probably not try to scoop up fat fingers

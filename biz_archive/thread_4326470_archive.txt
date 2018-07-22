@@ -1,0 +1,6 @@
+Do any of you know how to scrape price data from TradingView?It's delivered through a websocket as a sequence of binary packets and then rendered to a canvas.
+I have no idea how to capture and decode the raw binary data though - any ideas?
+you do know they got api's for that right?
+for real?
+I thought they only share their charting library - not their data
+anyone?

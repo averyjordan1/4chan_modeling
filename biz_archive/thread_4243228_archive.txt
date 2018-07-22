@@ -1,0 +1,6 @@
+>In the world of cryptocurrency, the common malicious contracts have qualities such as infinite minting, or transfers of tokens without balance checks.
+This is deliberately implemented by nefarious developers to cheat their own buyers out of their ETH.
+Other times it's unintentional, and the issues are actually programming errors.
+eBTC is an example where through a programming error, there is accidental infinite printing.
+eDOGE is another example, which had a centralized locking mechanism that prevented trading, and allowed for manipulation of the market.Well maybe, just maybe, if we had a system where Ethereum Blue was in place, we could have prevented the fuck up that multi-sig wallets cause.300 million dollars worth of Ethereum wouldn't be out un a dark abyss if we had Ethereum Blue.Just sayin
+Your thoughts?

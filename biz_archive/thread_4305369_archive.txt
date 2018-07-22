@@ -1,0 +1,3 @@
+How big do blocks have to be to be able to handle 256,000 transactions per second?This happened in china yesterday, 11/11 Alibaba had this huge yearly sale.How big do blocks have to be?How many transactions per second can BCH handle?How many can you handle with Lightning Network?
+1GB a block
+Bitcoin network can process roughly 3 transactions per second with 1 MB blocks.This means roughly 24 transactions per second with 8 MB blocks.To get near 256,000 transactions per second, you'd have to increase the block sizes 30,000 times that of BCH's.

@@ -1,0 +1,3 @@
+Which is the best hardware wallet for ETH?
+ledger
+Just buy a usb drive to store your keys

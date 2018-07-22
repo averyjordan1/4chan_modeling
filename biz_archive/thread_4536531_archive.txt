@@ -1,0 +1,15 @@
+Could a huge whale actually kill bitcoin through spam transactions?lets say you had 1 million bitcoin, could you just start a "run on the bank" creating tons of spam transactions starting at $5 and gradually increasing to over $1000 each.If you were sophisticated and planned it out to not look like spam?
+Spamming is easy.
+Just send bitcoin to another address you own with very low or no fees.
+These transactions will stay in the mempool for weeks
+The answer is yes, and this is why BTC is not a safe recommendation at all.
+It doesn't even require spamming, just regular excessive use will flood the mempool and tx fees will go exponential.Consider that BTC has trouble processing more than 350k tx/day.
+Imagine New York City, a city of 8.5mil, offered some kind of promotion where subway tickets were cheaper if bought with bitcoins, and 1mil people tried to do that.
+It would take over 3 days just to process those transactions, and anyone else adding tx's during that time would see increasing fees, eventually so high that it would deter people from even trying to move BTC.
+Just like surge pricing killed Uber, eh?With my first billion I will give free logic classes to muppets like you
+If the fees get large enough it could incentivize more miners to mine BTC.
+But unlike Uber, these increased miners do not increase the throughput of bitcoin transactions, since the difficulty will scale.
+It simply wastes even more electricity to divide the rewards among even more miners.
+brb killing bitcoin
+we are down $15 already... i can do this!
+no only short term.

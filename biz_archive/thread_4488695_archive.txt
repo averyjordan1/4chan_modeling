@@ -1,0 +1,1 @@
+I hate to ask a really newbie question, but what's a good miner for someone starting out?I've tried Nicehash, but it didn't accept my GPU, and I tried GUI miner but it's just simply too old to compete with the newer miners.

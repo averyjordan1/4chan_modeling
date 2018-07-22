@@ -1,0 +1,137 @@
+Perhaps some of you have seen the announcement of the HOLD10-index, a basket of the 10 cryptocurrencies with the highest market cap, recalculated for inflation and with a minimum % traded in the last 3 months.I have actually been playing with the same idea for a few months now and would like to ask /biz/ how they feel about the business idea.Quick terms & info on the business I am going to start with a friend of mine:- Team info: I have been working as senior analyst & partner at a large private bank & later on at a well-known family office and investment offce.
+I also have a background in marketing (started and sold my own business during and after university) My business partner is a senior programmer at a large auditing firm.
+We are both close to 30.- Geography: We are located in a European country where there is no regulation on cryptocurrencies with the exception that no derivates are allowed.
+This is not an issue as we will be offering direct exposure.
+This means we can offer the product with no minimum requirements (nor accredited status) to anyone in our country.
+Quite a few if not all EU countries may follow if we get some quick legal advice on the matter (@ EUR 1000 - 2000 per country so quite minimal).continued....
+- The product: We offer a fully automated pooled wallet which consists out of the 15 largest cryptocurrencies by market cap.
+We exclude pegged currencies and currencies which do not have enough liquidity (exact parameters to be decided upon).
+This wallet is rebalanced at the end of every month.
+We are targetting long-term investors that wish to have cheap and easy exposure to the broad cryptocurrency market.
+We are not targetting experienced traders who wish to speculate and don't mind setting up their own wallet for each currency.- Conditions: 2 transaction moments per week.
+We bundle all transactions which are entered via a login on the website where customers can see their current share of wallet and estimated value (using live data) and enter their orders.
+During startup phase we will close orders for the next transaction moment 48 hours before it takes place and will require customers to wire the funds they wish to invest before the transaction moment takes place.
+Later on we can facilitate this by getting a credit line from banks.
+This offers a reasonable amount of liquidity without making it a trading product.
+Pooling all customer transactions into 1 order drastically reduces costs and time spent.- Entry Fee: We will probably start with 0% entry fee (aside from transaction costs on the used exchange) to attract customers.
+Once we reach a set volume, we will charge a discretionary fee of 0%-1,5% mostly depending on the amount invested but we are free to waive this fee.- Management Fee: Yearly 1,5% on investment value < EUR 100.000, Yearly 1% on investment value > EUR 100.000.
+Management fee is charged monthly and based on average NAV of wallet in that month.continued....
+- Performance Hurdle/Preferred Return: 10% yearly with high watermark.
+(for the new guys: this means that until 10% return is achieved, the manager will not charge any fees.
+Also if at the end of year 1 the value is 110% and in year 2 the value drops to 90%, the manager will only start charging new fees once the value rises above 121% of invested value.- Profit share: After hurdle / watermark is reached there will be 10%/90% profit split between manager and investor up to 20% return.
+20/80% profit split between manager and investor above 20% return.- Skin in the game: Management is going to commit a significant amount of money in the product taking in regard their personal finances.- Security: Management is currently looking for a partner to offer cold-storage security solutions.
+Product will only be launched after sufficient security level is attained.- Leverage: No leverage will be allowed due to regulations.What do you think /biz/?
+Do we have a shot at fame at fortune if we play the marketing of this product well?
+In short: We facilitate broad exposure to the broad cryptocurrency market and reduce transaction costs and time spent by pooling everyone's investment in 1 automated wallet.
+The management will only make big money once the investor has a 10% yearly return in investment.
+Management commits a significant amount of money in the product themselves to prove their faith in the product and associated market.
+how do you calculate wallwr peecentages?lets say you start with 8 dollars of your own then someone invests 2. now you own 80% and them 20%.
+then you make $8 profit and someone else buys in for $2.
+what percentage does everyone get?
+NAV is calculated at every transaction moment (so twice a week).
+On top of that NAV is calculated at a fixed time every day (in order to calculate the monthly management fee correctly).So to answer your question:- At the "Transaction Moment" the NAV is calculated using the then ruling prices.
+The difference between the NAV before and after the transaction, using the same prices, corrected for transaction costs which are split pro rata among everyone who is selling and buying, is allocated to the new investors and substracted from exiting investors depending on their order.Like I mentioned we're not selling a trading tool so if you're afraid of losing tons of money in the few minutes it takes to perform our 15 buy or sell orders in the mentioned currencies you're probably not a suitable customer.
+So to give you an example:T=0: I invest 100T=1: Price goes up so wallet is worth 110 (net actual value at ruling prices at this moment)T=1: New customer invests 50T=1: Wallet is now worth approximately 160My share is 68,75%, customer's share is 31,25%
+What do you offer that's better than the DAAs proposed by the Iconomi platform ?Do you have a professional background that will make people trust you with their money, considering that there is almost 0 legal protection for lost/stolen crypto ?Genuinely interested btw, I've been thinking about launching this kind of product in my side of Europe.
+If you had run this strategy for the last 3yrs what would the result have been?
+What about 3mnths?The idea is interesting because I'm a hodler through risk adversity (and yet I hodl just BTC) and lack of time.
+So I would also interested how you assess the risk of your strategy.
+(IE, something more quantifiable than "less than")Would I buy?
+Probably not.
+But then most here probably won't.
+So to whom could you sell?
+I wonder if your marketing would best be put towards the exposure/risk averse hands in the general finance industry
+Once a month??
+You realize that's a decade in cryptotime right?
+Investors will gtfo after the first major dip.
+Normies can't handle crypto swings.
+We are located in a European countryEveryone knows that as soon as you don't say which European country, that means it is some eastern block shit country like Poland.
+Just tell your friends to sign up for bitconnect
+I'm going to save this thread, cool idea.
+You're probably well aware that others will be attempting the same sort of thing.
+Where did you read once a month?
+People can get in or out twice a week if they are afraid of price swings.You shouldn't enter this kind of product if you actively want to manage your investments though.
+Just like you shouldn't buy ETF's in that case.We offer transaction possibilities twice a week (to start off with) and may add to that frequency as soon as the wallet volume rises to higher values.We are currently considering a redemption fee which decreases over time to discourage "trading" at price swing.
+Again, we are not aiming at people who want to invest on the short term.If you are talking about rebalancing moments than you are not cut out for long term investments at all.
+If you want to trade or balance on every heavy price swing you should not invest in this type of product.
+Like I said, we are aiming to provide easy access for people who don't have the time or knowledge but believe in the overall rise of cryptocurrencies in the coming years.Its actually not the type of country you are referring to.
+As I am not ready yet to launch the product nor am aware of all legal aspects in other EU countries I prefer not to disclose the exact country.
+I will read into this.
+I am not fully aware of what they offer and how automated the transactions are.
+The big USP we provide is that you automatically get your wallet rebalanced every monthApproximately 845% YTD compared to 680% for Bitcoin.
+I don't have shorter or longer time-span comparisons ready at this moment I'm sorry.
+You need a decent network, credibility, legal advice and a pretty decent starting capital to pull this off.We are going to write a full prospectus (even though its not needed) and grab a proper legal and fiscal team to get this done in combination with a high quality security system.I doubt many of /biz/'s visitors have the means and network to pull it off nor do I think most of them are willing to do much effort beyond "begging for coinz" desu.If someone beats me to it and gets succesful I won't be bitter in my defeat.
+I have a full time occupation as partner.
+This is a side-project with possible huge potential, that's all.Bitconnect does not nearly offer anything close to what our product does.
+Generally, since there is no lower limit (we are probably gonna go with EUR 1.000 as a minium) you can reach anyone who reads one of the over 9000 newspaper (online and offline) articles on cryptocurrencies booming right now.It really seems to be reaching the general public more and more.
+People who have barely heard of other coins besides Bitcoin, Ripple and Ethereum and don't have the time or will to study it, actively trade it or build their own portfolio.Its literally a self-rebalancing ETF.
+Looking at the popularity increase of ETF's in the last decade this stuff should sell like candy to the general public once they start believing in the power of these digital currencies.
+Bitwise (https://www.bitwiseinvestments.com/) is already doing so and announced it in the USA.Believe it or not, this was 2 months after we started working on our own plan.Their problem is US regulations which means they can only sell to accredited investors (aka make 300k a year or own > 1M in financial assets).
+Thus they can only sell to extremely wealthy people, which makes it a product unattainable for an average Joe with a couple of k to spare on speculative investments.Seems like we have more freedoms here after all.
+And yes I am aware that the EU will probably follow suit but generally they are years behind which means we have all the time we need to grow the company and prepare for getting the required permits once the law gets changed.
+awhat happens when third customer deposits?
+how would yoi calculate his percentage?
+Sorry I only answered half your question before.As partner in a family/investment office I plan to start out by getting friends & family to join aside from my own investment and that of my partner.
+Once our volume exceeds a few hundred thousand and a track record of a few months with transactions has been built I will start trying to get my professional network to join in with bigger tickets.Most of my clients are old entrepreneurs who are interested in fun investments like VC/PE and real estate and they have often mentioned their interests in cryptocurrencies but generally don't want to spend too much time trading it or actively managing a portfolio.If I can get to the point where my professional network joins in this thing can easy get tens of milions in investments and as its not regulated I can then invest a good amount of the profits in marketing campaigns to make this huge.
+I've been working on something similar for personal use.
+Does portfolio rebalance using w/ atomic swaps and RSK.
+What do you mean exactly by that?If a third customer would deposit 50 as well for T=1 (transaction moment) it would be as follows:T=0: I invest 100T=1: Price is 110 NAVT=1: New customer 1 invests 50, New customer 2 invests 50T=1: New wallet is now approximately 210My share is ~52,38%, the customers both own ~23,81%.On T=2 same thing happens for the new customers (or exiting ones)
+We are looking into this.
+My partner is responsible for the IT-side.
+I will discuss this in our next meeting on Thursday.
+Ideally the answer would be yes.
+4247177>We offer a fully automated pooled wallet which consists out of the 15 largest cryptocurrencies by market cap.
+We exclude pegged currencies and currencies which do not have enough liquidity (exact parameters to be decided upon).I think you might do well to also exclude crypto with a notable inflation.
+E.g.
+XLM and STRAT (iirc) both have 5% inflation yearly, so the only gains you can reasonably expect are due to the current general speculative environment.This is in contrast to the actual hard currencies / store of value coins like Bitcoin, Litecoin etc.
+Buying these is always a hedge against fiat inflation at the very worst, so it will theoretically remain interesting indefinitely.
+Iconomi have you beat
+are you from the Netherlands?
+Checked it out a bit:Our product VS Iconomi:1) Iconomi charges absurd management fees (6%) for a comparable product compared to our 1,5% or even 1% for larger investors.
+Instead of scamming people's money like banks have been doing with their investment products before investors make a dime we will make our money after clients have already achieved a proper return which exceeds the average yearly stock market return.
+2) We have skin in the game as we invest heavily ourselfs.
+Iconomi clearly states they do not trade crypto's themselves.
+This does not really provide any form of trust or feeling that they are on the same side as their investors.3) Tt also sounds like they are using a form of derivative seeing that they clearly state that their so-callled DAA's may not be considered as cryptocurrency.
+That would make the product forbidden by definition in my country and a few others that I know of.
+I'm pretty sure that 1 call to the authorities here in this country would screw them over, which I will certainly do if they prove to be a threat to my product.4) You need to deposit Bitcoin or Ethereum to trade via Iconomi.
+This is a huge step for small/new investors.
+We simply let them wire EUR to our account (not in a third world country like Czechoslovakia as they are doing).
+People don't need to venture into crypto's to invest with us.
+They can keep using their EUR for everything.5) Having random managers access your products sounds absurd to me.
+What credibility do these random, no-faced parties have?
+We will have a proper website with easy-to-use platform and visible people with a background, experience and career throughout the existence of the product.6) "In any case, our and our affiliates’ and licensors’ aggregate liability under this agreement will be limited to 100,00 EUR per user.
+".
+This is absolutely ridiculous and shows how little risk they want to take.So no, they are not offering anything with the same benefits as we are.
+I work with the AFM in The Netherlands often and they would probably be one of the early markets we will target.But whether I am from the Netherlands I will not comment on until the product is released.
+Tl;dr version: we believe in our product and in the potential of this market while Iconomi is literally copying the absurd pre-profit models banks have been using for decades which makes them despicable in my eyes and in the eyes of most of my clients.You can't say you need 6% management fee to operate an automated product.
+BLX, which is Iconomi's DAA's fees are 3%, not 6%.
+There is a portfolio available with a 1% fee.Currently, yes, you must invest in BTC or ETH.
+They are working on their 'fiat gateway' to alleviate this issue.
+I don't know whether this would require wiring, or be even more simple.The skin in the game argument is nebulous at best, as they wouldn't be offering crypto services at all if they didn't think it was worth putting "skin in the game".
+The random managers point is fine, if there were a limit to the number of portfolios that were available.
+As is, the objective is to provide a platform to allow a manager marketplace - experience pales in comparison to performance when it comes to credibility.You are in a european country with no regulation for cryptocurrency, which means there is no current framework to evaluate whether you outfit will be considered legal in 5 years time, surely?
+And while I'm 'rebutting' your points, good luck.
+Thanks for your points.
+I really don't mind a critical view.
+It helps a lot.I will try to answer below:1) Skin in the game is what has made our private equity / venture capital company become succesful.
+People are done with paying banks or managers money for doing nothing.
+They want someone who is on their side and celebrates when they are celebrating but makes no money when they are bleeding.
+You'd be very surprised what difference it makes in a world where people want the lowest fees possible and don't believe in active management anymore.
+2) The portfolio's with fees remotely comparable to ours do not include 15 cryptocurrencies and on top of that do not rebalance using strict rules.
+If there is any rebalancing at all in the ICO portfolio then it seems to be done pretty much at will of the manager which means you're dealing with active management.
+This is exactly what we wish to avoid and what made ETF's so popular.
+Most of the portfolio's have high fees though.3) You are comparing a platform with endless amounts of possibilities thought up by random people to a very simple straightfoward product with no bullshit.
+The people we are targeting don't want to have to compare 200000 solutions and then pick the best when comparing past performance (which has no use in cryptocurrency anyways).
+Our 1 product is made by us, operated by us and we are responsible.
+I like the sharing economy but I would never want to trust past performance of some anonymous obscure person over that of an established company with 1 focus.
+Maybe some people think differently but then they are not our target audience.Iconomi seems to miss the point of making the cryptomarket more accessible by offering a limitless amount of products, which essentially makes it almost just as easy for a customer to go study the cryptomarket and make their own wallet.
+Nice man, I admire your conviction.
+I'll be sure to look into your product when its ready.
+i have a big data base of investors, most of them are not in to crypto yet, or only own a some BTC as investment are you interested?Clients are from the Netherlands
+Please Do not mind my small grammar / spelling errors as I am at work right now and answering in between tasks and calls.For the record, a management fee of 3% and one of 1,5% or 1% can make a huge difference in long-term returns, especially once the cryptocurrency markets cool to normal growth levels so I do not think the BLX portfolio is comparable to ours regarding that aspect.
+I am obviously extremely interested.I will meet with my IT partner tomorrow and I am urging him to finish our platform asap.I could quickly create a gmail address to which you could send your contact info if you are really interested.Our prospectus allows for a finder's fee / referall fee (at the cost of the investors and/or a portion of the profit share) so we can probably make an arrangement.
+make the mail ill contact you
+Cool!
+For that matter if you have a catchy yet "trustworthy" name in mind we haven't concluded on that yet.I will surely be posting on this forum and many financial fora once it is ready for launch.
+crypto4chanbiz12@gmail.comThanks!
+Will be busy most of the night but I will surely respond when I got the time.

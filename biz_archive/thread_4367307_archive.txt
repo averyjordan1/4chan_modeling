@@ -1,0 +1,11 @@
+The current Chancoin is little more than a Litecoin clone with some very small changes (diff retarget time is 2 blocks, testnet min diff, etc).
+Obviously, in order to actually provide features and usability for the coin, we need to change that.
+Andy decided to fork a very old version of litecoin (0.8.7) which doesn’t even have the features we want, so we’re going to need to change that as well.The biggest point on our unannounced roadmap is updating Chancoin’s codebase to the latest version of Litecoin.
+This will allow us to actually start doing stuff, and name has gotten a pretty good beta version working already - we just need to squash some bugs and that’s it.
+Once we have the updated client, we can start working on real features, most notably, blockchain-based data storage and Cloverhash, our new mining algorithm.Cloverhash will solve many, many issues, most notably the complete domination of ASICs.
+In the current Chancoin mining scene, it’s practically impossible to get a block mined using a regular GPU.
+Cloverhash, based on Dagger (the same mining algorithm that Ethereum, Zcash and many other coins use) and Lyra2RE (Vertcoin), makes it extremely easy for the end user to mine Chancoins using their normal graphics cards and immensely helps with decentralization of the network.
+Needs faster transactions, fuck.
+fork ripple
+You can tip with it on 4chan
+Fork ur mum

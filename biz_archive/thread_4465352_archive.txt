@@ -1,0 +1,2 @@
+blockchain.info seems to be down due to "too many requests".Is there some kind of DDOS:ing going on or is EVERYONE rushing to buy bitcoins suddenly?
+I mean, the site should be able to handle even larger than average traffic, right?

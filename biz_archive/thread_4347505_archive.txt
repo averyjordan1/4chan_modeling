@@ -1,0 +1,32 @@
+So now that BCH can retarget diff at every block and BTC has to wait for 1691 blocks (right now)... what will happen if "malicious actors" dump a whole lot (has to be an extreme amount) of BTC for BCH, increasing BCH price thereby attracting more miners (again instantly stabilizing the block time because of the new algo).
+Can this death spiral BTC?
+.
+miners aren't stupid2.
+they have to wait 100 blocks to transfer their coins3.
+They can mine BTC easily while everyone else is mining BCH, and sell them after the price goes up again.No more mempool problems for BTC after this
+What is inflationThis only gives short term gains for BCH and thereby proves it really its a PnD, think about it, if it really was viable to just change difficulty why not permanently set difficulty to 1?
+Everyone instantly can mine all the coins!
+This is the blockchain equivalent of the government printing money asap, because Jihan is gonna dump harder than anyone has dumped before.
+.
+No but they mine whichever pays the much (current market price converted to USD).2.
+Uh, no.
+About 6 tops.
+BCH blocks are regular forever now.3.
+They can, but why would they?
+Diff doesn't lower fast on BTC...
+The issue here is that the BCH algorithm adjusts quickly guaranteeing a block comes out about every 10 minutes, while if BTC loses a lot of hashpower block emission rate slows down a lot.
+Can this death spiral BTC?Yes.
+Turn all your BTC into BCC right now before it's too late
+2.
+Uh, no.
+About 6 tops.
+BCH blocks are regular forever now.nomined blocks have to mature for 100 blocks, or did Bcash change this too?3.
+They can, but why would they?
+Diff doesn't lower fast on BTC...But it increases quickly in BCH, which for all intents and purposes is the sameIf you mean "difficulty is same so miners get the same result" you're just wrong.Difficulty might be whatever, but if I'm the only one mining it, I get all the blocks, making it profitable to me.
+If the hashrate kept the same as it was when the diff changed, then I would lose money, but the hashrate is lower in total.
+I'm the only mining, same difficulty, but all the blocks are mine now
+this.
+do it RIGHT NOW.
+Go all in and become rich and then laugh at all the pink wojacks after.
+It's GOING to happen.Go in big anon!
+Yes but the death spiral will be slow as it will involve losses in consumer / whale confidence, which takes time to develop.As far as I can tell the death spiral is already locked in, it's just a matter of time (weeks).

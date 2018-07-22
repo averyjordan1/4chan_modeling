@@ -1,0 +1,65 @@
+So I've been scamming private keys, and one has ~22,000$ in tokens but 0 ETH.
+I can load it up in MEW or EtherDelta or whatever just fine, but there is some sort of script that empties any ETH sent to it immediately (sends it to another address).
+Meaning I can't pay the gas to transfer tokens out of the wallet.Wat do.
+Will pay 1,000$ in ETH for working solution
+>tfw scamming a scammerFeels good, man
+>scammer>promises to pay
+Import it to ether delta and deposit token use token to pay for tx
+unironically kill yourself
+Kys
+4305742this my addr 0xe5ca6a13CE25AFE6FD06C4d65A9d252C4bc1fCa6
+Lmao.
+4305835should be able to guide u through process if you need on discord or something
+I've only "lost" like 10$.I say "lost" because of course it wasn't my own 10$hehe.
+Only 5% though.use token to pay for tx(You)
+Holy fuck this is genius.
+Gonna set up my own Honeypot like this.
+Enjoy making 0.2$ a day when someone sends you transaction fees and you get transaction fees minus transaction fees
+It's still funny as fuck to make some jackass lose money trying to steal yours.
+Kill()
+It's not deliberate though.
+I've seen Lots of wallets set up like this, even with 0$ in them.Maybe it's some form of intermediate wallet on one of the larger exchanges.
+Don't know which one though
+Send some gas to it you cheap fuck
+american reading comprehension
+OP:>FREE ARMOR TRIMMING GOY!
+JUST GIMME YOUR PRIVATE KEY AND I'LL TRIM YOUR WALLET TO LOOK COOL Goy:>Ok goy!
+Here you go!
+Can't wait to see my shiny new account!
+I trust you'll give it right back?
+OP:>Of course goy!
+*hands aggressively rubbing together*Goy:>WHO DA GOY NOW HUEHUEHUEHHE *counts sheckls at the account gets Eth dumped into it by scammers*I love it when jews out jew each other
+see 4306126
+Look like you've been rekt.
+don't forget to neck yourself, dipshit.this
+So I assume some bot monitors the address and removes all eth when any is in it?
+Can't you fix this by checking the gas paid by bot and beating him to it.
+So your send tokens instruction is faster than his send eth away instruction.
+Just race him on gas.
+Write a bot that is faster than the other bot.
+being this mad over monopoly moneylol>Look like you've been rektlol, see 4306573Yeah, I tried that.
+However the nonce counter blocks my TX even if gas is higher.probably really hard to speed up when it's such a simple function to begin with
+Send me the private key and I’ll do it for you, we’ll split 50/50.xusivupi@nezdiro.org
+What's the address?
+Lol you are a retard.
+You won't win.Its the address that has all that Minereum isn't it?He posted on /biz/ revealing his private key.He obviously wants you to send him ETH.
+sent ;)I'm not gonna share anything I'm potentially going to touch.Here's another one that is set up in the same way though.ADDR: 0x1cCbA95C0A02346F683Be7281cc033b61AD0d084PRIV: a9dbeae57d77d681156b72120572a24d125493e84d7a1e69c3aaefebfeba6b66
+It's the only way.
+Download the ethereum wallet (MEW is too slow), write a simple bot that spams the send token command and send $0.1 worth of ether to the address repeatedly (preferably with another bot).
+Eventually you have to get lucky and be faster than the other bot, won't probably cost you too much either.
+4306639Also, is the "scammed address" by any chance the parity default generated one that has about $20,000 worth of Minereum on it?
+Which address is that?
+How the fuck is this allowed?
+How do I prevent people from finding my MEW private key and stealing my LINK
+There was a bug in the earlier versions of parity that generated the same address with the same private key every time you tried importing a new wallet but left the recovery phrase empty.
+It has been long fixed but you can still get the private key to that address by downloading the impacted older parity version.The address has about $20k worth of Minereum and few other tokens on it but the minereum is locked by mining so you can't withdraw it all anyway and every time you try sending ETH to it, it's immediately withdrawn by a bot.
+Too late.
+All your links are gone.
+Oh, thanks.Locked by mining?
+I don't know much about the coin, what does that mean?
+I've never used MEW so I don't know what type of exploits people like OP are using, but you should probably just download Ethereum Wallet or Mist and send your tokens to an address on there, and don't put your private key in any third party fields.NOOOOOOOO AAAAAAGH HIS LINKS NO NONO NON O FUCK[insert Pink Wojak]
+Lol you are a retard.
+You won't win.I've already made 500$ this week of other keys>Its the address that has all that Minereum isn't it?>theI've got over 200 keys m8.
+about 20% with money currently on them (used to be 30% lol)It's not like you get several shots before the dude moves it to another addr so I'd rather not.Although maybe if I get enough keys that 10% hit ratio is ok.see above
+How the fuck is this allowed?The entire point of crypto is that it's unregulated.
+Scamming comes with the territoryCryptards think FIAT is regulated just because "muh evil bankers" until they get scammed

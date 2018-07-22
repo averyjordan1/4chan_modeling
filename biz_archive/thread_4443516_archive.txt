@@ -1,0 +1,75 @@
+Which is considered the most secure out of the two, and which one do you prefer?
+neither i keep everything on binance :D :D
+fucking casualI keep everything in tether on bitfinex
+trezor master race checking in
+These things are like $100 USD and they aren't even waterproofed.
+I'll wait till they're actually enclosed in waterproof/damage resistant shells before buying one.Fucking expensive pieces of shit
+Just leave all your coins on Coinbase, friend
+lol yeah.
+I'm also waiting.
+A good software wallet + mew will do just as well as these.
+thiswhy the fuck aren't they fuck-proof
+I have a ledger.
+It's great.
+I don't actually get it out very often since I don't daytrade.
+All you need is the deposit address and you can top it up all day long wherever you've left it in the world.I keep it locked in a drawer and rarely get it out.
+No need for it to be waterproofed or bomb proofed like some people are saying ffs.
+You have the recovery seed if you accidentally leave it in north korea when the nukes hit so there's no need to bitch at the company for not making it thermonuclear war proof.
+software walletat least when you lose your money it wont be very much, because you werent willing to spend $100 to protect it properly
+ledger nano s works pretty well for my nuls atm
+4443892It's not a black box flight recorderIt's a fucking USB stick
+4443892We don't all live in huts.
+the seed is water proof
+I have both.I find the Trezor slightly better to use, but both are great.The TREZOR apparently got hacked by a guy recently, unsure of the details though...It does always surprise me that fags on here won't spend 100 dollars to secure it.I bought a fireproof safe (2000 dollars) and two hard ware wallets (200 dollars).That's like 1 percent of my holdings, worth it.
+This is the true chad way of storing shitcoins
+its whatever is cheapest to get shipped to your country pretty much
+this.
+the device secures your transactions, you secure the coins
+We aren't all made of money autismo
+I got my trezor recently and just put the money there, but you can easily (and 100% securely) send transactions with it.My seed key is "encrypted" and secure.The trezor has the pin and I know where it is at all times too.
+not using paper walletsfucking kill yourselves
+If you have 2FA you're not really in the wrong.
+You'll be doing that brah when you lose that little piece of paper.
+I am thinking of getting a Ledger Nano SCan I deposit ERC20 tokens directly into EtherDelta from it?
+I know EtherDelta has some kind of Ledger Nano compatibility, but I am not sure of the extent.Basically, I want to be able to move my ERC20 tokens as fast as possible onto ED order book without having to fuck around with MEW and Metamask etc so I can get my Ether out fast.
+yeah, no exchanges have been hacked/lost user's moneyEVER!
+I made two handwritten copies, both stored in secured places in separate houses.
+No worries here and no way for anyone to access my internet moneyStay mad getting hacked digifags
+Dude how dry is your asshole.
+Mine is moist as fuck, safety first.
+If someone got a hold of those papers, can they get your coins?
+No because the only people who would find them are dumb burglars looking for cash or jewellery.
+If they found a piece of paper with some letters and numbers on it they won't even know what it is.
+And as soon as I notice the paper is stolen I can move the funds to another wallet
+I encrypted mine and then printed out.
+No way to decrypt for someone else.
+What I mean is that you should still encode it somehow.Like change the last word for the first one or something like that.
+A ledger and an a4 fireproof document box will cost you less than $100.
+someone respond please
+Was it shown on your screen?do you have internet connection on that device?then you can't be 100% sure.That's what's good about hardware wallets.
+Do you have any sources or info on how to encrypt a paper wallet?
+I want to make one but in the case someone finds it I dont want to make it so easy that they already have my private keys at full sight
+tresor is open source, must be many independent producers and low price
+It wasn't really "hacked" per se.
+Basically, if an expert got physical hold of your Trezor, they could somehow open it up and get your private keys.
+I am not really worried at this point about that sort of thing.
+I am more likely to just fuck up a transaction and lose everything than a hacker getting physical hold of my wallet.It wasn't really that impressive of an exploit, but it caused a bit of drama and I think SatoshiLabs is coming out with a new Trezor model now.
+While I agree that that would be more secure, the papers are already in a safe, which itself is hidden in my very messy attic.The chances of a burglar finding the safe, unscrewing it from the floor, opening it, AND knowing about crypto and private keys are 0.00%
+I bought the Nano S but couldn’t set it up on PC or Mac.
+Kept getting errors.
+I already have my BTC bags in Electrum which I believe is causing the Nano S setup bug ?Anyway I gave up (was pressed for time when it arrived).
+Will try again at some point in the future but hopefully Electrum doesn’t 404 or get hacked or whatever.
+buy ledger nano s> lose ithow is that fucking thing secureI'd rather write my private keys in a file, encrypt it and upload it in my cloud
+You can buy a new Ledger Nano S and restore the previous one with backup phrases.
+you have a seed that you can use to put into another ledger if you lose it.Just dont be a fucking imbecile and lose every place you wrote your seed down and the physical device.its way safer than having it on an exchange or on your computer.
+4445972SOMEONE FUCKING RESPOND TO ME NOW!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+4445867CALM DOWN BUDDYYeah it works the same as any other wallet, you just need to confirm on the device.
+Thank you anon
+My asshole is actually very fucking dry.Thank you for asking.
+You still have to use MEW to transfer tokens, I don't see a way to transfer tokens through the ledger software
+Do the ERC20 tokens not appear in your "wallet" on the left when selecting the token from the drop down menu?
+He's talking about etherdelta, obviously you need some software to interface with the device.They do.
+They do.Awesome.
+Using MetaMask was getting to be a bit tedious and having to keep my eye on gas costs etc.
+Nice to know that I can deposit directly into ED from the nano.
+Thanks anon.

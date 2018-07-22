@@ -1,0 +1,7 @@
+ing clearly interested in crypto paymentshttps://www.ing.com/Newsroom/All-news/Blockchain-transactions-just-got-a-whole-lot-safer.htm
+Looks like they BTFO zksnarks?
+Is this an in-house effort?How does it relate to REQt?
+Yes it's in house.
+No it has no relation to REQ at all.No it's not that they BTFO zksnarks.
+It's just that they found a much less computationally expensive way of proving what they want most of the time (basically like: 'is your salary <$30000' yes/no).
+zksnarks will still be used for other things where they actually need the exact salary figure for taxes, etc.

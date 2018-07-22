@@ -1,0 +1,6 @@
+Looking to take my BTC, and other Alts and holding onto and not touching them for about 5-7 years.
+What’s the best way to go about storing my crypto in an off line wallet?
+Buy a ledger/trezor, or just use paper wallets
+Get a hardware wallet, such as Ledger or Trezor.
+literalle all you need is a private key, aka a string of text.
+print it, or save it on a usb stick.>inb4 ledget/trezor etc, if you don't intend on moving your coins all the time, this add 0 value

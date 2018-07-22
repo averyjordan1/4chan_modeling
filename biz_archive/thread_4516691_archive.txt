@@ -1,0 +1,5 @@
+Am I retarded or something?Why is my Monero wallet stuck on the test net?I spent all day syncing the wrong blockchain or something?How do I switch to the main net?Also, casual Monero thread
+You checked a box that said testnet when you downloaded
+Monegro
+so i gotta download this whole fucking blockchain again?
+https://downloads.getmonero.org/blockchain.raw

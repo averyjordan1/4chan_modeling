@@ -1,0 +1,14 @@
+What's with these alternating buy/sell walls on BTC?
+Are the Chinese manipulating the market at the moment?
+My, would you look at the time.
+whales spoofing the market in both direction: set buy wall and push the market up into the whales sell orders than put up a sell wall to push the price down into buy orders and then repeat until the whale is done feeding.
+Is there even any money to be made by buying at 7225 and selling at 7250?
+That's 0.3% gains - i'm pretty sure gdax will take 0.25% or something too.
+maker fees are 0 on gdax so it's still profitable to do
+It doesn't even matter because 99% of the time the wall never gets touched.
+Buy, sell, spin around it doesn't matter because they have full control of your psychology.
+The wall is not meant to be touched.
+The whale sets small sell order(s) a couple dollars away.
+He then puts up a buy wall.
+Those who want to get executed now naturally jump in front of the buy wall pushing into his sells.
+He then does the reverse to close the trade.

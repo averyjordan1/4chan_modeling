@@ -1,0 +1,280 @@
+>What is Chancoin (4CHN)Chancoin is a community driven digital currency made for imageboards, discord and edgy internet communities across the web, that integrates tipping, gaming and lots of other fancy features.
+Check out for more here: http://chancoin.org/http://github.com/chancoin-core/CHANCOIN-TippingExtension>The tipping extentions for Chrome and FirefoxChrome : https://github.com/VladimirPewtin/CHANCOIN-TippingExtension/releases/download/0.0.5/CHANCOIN_TippingExtension.crxFirefox : https://github.com/VladimirPewtin/CHANCOIN-TippingExtension/releases/download/0.0.5/CHANCOIN_TippingExtension.xpi>Wallet https://github.com/chancoin-core/chancoin/releases/tag/v1.1.3>Discordhttps://discord.gg/wCA5wN5>Marketshttps://www.cryptopia.co.nz/Exchange?market=4CHN_BTChttps://tradesatoshi.com/Exchange/?market=4CHN_BTChttps://novaexchange.com/market/BTC_4CHN/>How do I earn free coins?Just reply to this thread with "Chancoin wallet address" in your name field.
+You can also contribute to the project, just join the Discord.
+Or you can be a great /biz/ contributor - give solid advice, post epic maymay and get tipped by fellow Chancoiners!>Follow us on Twitter!https://twitter.com/chancoindev>JS/Ruby/C/C++ developers are welcome in our core dev team!
+$0.02nice
+Please do not run a virus scanner on our wallet, only download and run.
+Don't worry ;)
+why does nano have his own chancoin discord?
+Some Anti-Virus alerts the user, because the wallet has a miner built-in, so antivirus software detects it and flags it as a virus.Devs haven't changed the PoW (uses scrypt FFS)---------------------------------------------------------The current Chancoin is little more than a Litecoin clone with some very small changes (diff retarget time is 2 blocks, testnet min diff, etc).
+Obviously, in order to actually provide features and usability for the coin, we need to change that.
+Andy decided to fork a very old version of litecoin (0.8.7) which doesn’t even have the features we want, so we’re going to need to change that as well.The biggest point on our unannounced roadmap is updating Chancoin’s codebase to the latest version of Litecoin.
+This will allow us to actually start doing stuff, and name has gotten a pretty good beta version working already - we just need to squash some bugs and that’s it.
+Once we have the updated client, we can start working on real features, most notably, blockchain-based data storage and Cloverhash, our new mining algorithm.Cloverhash will solve many, many issues, most notably the complete domination of ASICs.
+In the current Chancoin mining scene, it’s practically impossible to get a block mined using a regular GPU.
+Cloverhash, based on Dagger (the same mining algorithm that Ethereum, Zcash and many other coins use) and Lyra2RE (Vertcoin), makes it extremely easy for the end user to mine Chancoins using their normal graphics cards and immensely helps with decentralization of the network.
+Stuck here.Wut do?
+Hello there.
+If you want a quicker response then join the Discord and present this issue on the #dev-talk channel.
+the wallet has a miner built-inHow do I access this??
+shit, do trips give extra coin?
+Chancoin!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+CHANCOIN!
+4CHN!
+chancoin>when chan users ask for support on chan, says "lol go to discord"W E W
+linking the concept of tipping more and more
+Buying 100k on Tradesatoshi
+There you will get a response a lot quicker.
+It is a technical question.
+and technicians sit in the Discord.
+They occasionally come here thou.
+So what events can increase or decrease you currency's value?
+Should I get 4CHN now and just sit and wait?
+i deposited Chancoin into cryptotopia for near future.
+i clicked deposit and sent all Chancoins I had to address they provided me.now it doesn't show it in Cryptotopia balances.how long do i have to wait or did i screw up something?
+actually it showed now.
+wew lad.
+now i just wait for confirmation.
+Blockchain-based data storage is another very interesting feature we are exploring.
+Using OP_RETURN and transaction metadata, we can store long strings of information on the blockchain, without any central server.
+With this, we can then develop:- Tripcodes and usernames stored on the blockchain!
+This eliminates the need for those huge ‘$4CHN:’ names on imageboards and allows us to link usernames on other websites (Twitch, Youtube, Twitter, etc) to a specific Chancoin address, which can then be sent coins to using the tripcodes stored on the blockchain.- A blockchain-based chan archive, in which users pay a certain amount of coins to upload a post to the blockchain, thus effectively archiving and storing it *forever*.- An imageboard, or forum, stored completely on the blockchain.Based on the fact that the community is ever growing, more and more people start to buy 4CHN and the developers are actually developing - I would say, buy 4CHN now and cash out rich next year.
+I'm replying...
+4357958No need to use the ''4CHN'' prefix in your ''name field.
+<-- Click on this shuffle man and watch it!
+Join the CHANCOIN BOOSTER discord!
+!https://discord.gg/FE3n5X
+is this legit?
+It is not, this one is scam.
+Also, checked.
+Moon mission lets golambos on mars
+Put more energy in your text.
+You look like a zombie.
+CHAAAAAAAANCOOOOOOOOIN!!!!!!!
+!

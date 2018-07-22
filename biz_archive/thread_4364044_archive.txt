@@ -1,0 +1,5 @@
+If I set a big sell order below the current price, will EtherDelta only sell at the price I listed, or will it also clear the order book above my sell price
+Try it and see
+each sell is individual.
+it will only clear your order.
+You mean below the current bid I guess.It doesn't have automatic ordermatching, so It will only sell at the price listed.

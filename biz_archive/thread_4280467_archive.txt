@@ -1,0 +1,63 @@
+Can someone explain ark to me?I'm a brainlet.
+Is it trying to be like ethereum?
+The "Ark Ecosystem" is a collection of Ark forks and Smartbridged blockchains.If you look on the roadmap, one of the items is "Push button deployable blockchains."
+This means anyone can literally change a few settings like the number of delegates, blocktime, number of coins, etc.
+and press a button to spin off their own fork of Ark.
+This Ark fork will be its own independent blockchain that will automatically be able to communicate with Ark (via the Smartbridge) and any other Ark-forked chain.
+The Ark blockchain and token will be the intermediary between these chains.Imagine two banks setting up and deploying their own private blockchains with the push of a button.
+Their blockchains are keeping track of their customers' balances.
+A customer at Bank A wants to transfer some money to a customer at Bank B.
+When they do that, it fires off a transaction at Bank A's backend blockchain that debits that user and sends a transaction over Ark to Bank B's blockchain telling them about their customer's new funds.You can also think of it like Ethereum's ERC20 tokens except Ark's push-button deployed coins will have their own independent blockchain whereas all of Ethereum's tokens must rely on the Ethereum blockchain which bogs it down as we've seen happen during popular ICOs like Bancor.
+Yes, people will be able to create their own ICOs using Ark and all of them will be automatically Smartbridge-enabled.
+e.g.
+its going to be useless next year
+Not to be a deluded linkie, but it would be interesting to see chainlink oracles compatible with the ARK network.
+Would do a lot of good for both tokens and it seems pretty plausible.
+e.g.>example given its going to be useless next yearIt has a lot of potential but it doesnt seem to be targeting its market very well.
+It's driven towards user friendliness but its users are likely going to be people familiar with blockchain tech etc.
+anyway.
+Its not like a big bank is going to pass on developing its own blockchain to wait for ark because its too hard, they have the money to hire people to make it for themselves.
+However, it does have the scalability to overtake ethereum for the sake of ICOs and so on, and for communication inter-blockchain.
+It has its flaws, it has its pros.
+If the devs can make it happen fast & effectively enough, it could be the next ETH.
+If they're slow and don't market properly, we're gonna see DGB 2.0
+Chainlink is centralized, oracles cannot function in a decentralized manner.
+ArkVM will have oracles specifically for transferring tokens across blockchain in a decentralized way using Ark, but that is different from Chainlink using centralized oracles for arbitrary data because it will only be used for a specific set of data - it gets significantly more complicated for arbitrary sets.
+Fucking deluded.
+Excuse me does your shitcoin have corporate interest?
+Has Ark even been mentioned once by a multibillion dollar IT company?
+Nope.
+Comparing this shitcoin to LINK and even saying its better lmao the utter delusion.
+Dont fuck up an actual informative discussion with your insecurity.
+Not once did he even say LINK is worse than ARK you fucking 13 year old, stick mommys money back on her visa before you get caughtHas ArkVM's use of oracles been announced anywhere?
+I didnt know they were shooting to do that in-house.
+I wasnt speaking in relation to chainlinks oracles being decentralised, though - I just think if they're as user friendly to make as they seem it would have some synergy with ARK.
+I thought the whole purpose of oracles was to make off-chain data readable on the chain though, with this in mind, would chainlink working on ark not be achievable?
+If it is developed in such a way to be compatible with Ark, would that not simply mean ArkVM would be able to interact arbitrary oracles without further development on Ark's end?
+(You)They don't advertise it as an "oracle" because they have one specific purpose.
+It's just the technical definition of what it does classifies it as an oracle, but it won't be used in the same way as ChainLink because it's delegated to being an oracle for Ark related functions only, not a catch-all centralized solution, so there's no reason to advertise it as something it isn't.
+For whatever reason, ARK is one of the few coins that doesn't spread hype prematurely (I don't necessarily think this is a good thing for the price - but it might be long term, we'll see).An oracle is just a buzzword for a node or endpoint that serves data that can't be independently verified (because the data isn't stored on the blockchain).
+Ark tackles this in a unique way by using a semi-decentralized set of 51 delegates vs 1 point of failure.
+It's a sort of middle ground solution that DPoS has a unique way of tackling.
+no.
+it doesn't have potential for shit.
+it's literally just budding off of itself and masturbating with itself.
+it's like an ugly infectious disease.this is not how blockchains will be bridged.
+this means that every other blockchain has to be rewritten.what needs to happen is a core protocol needs to be added to the current existing blockchains.
+just like the atomic swap protocol there needs to be an API/Bridge protocol...Ark is fucking retarded for trying to force everyone to re-write their service under its stupid standard.
+True.
+Makes Ark look really promising in terms of scalability with inter-chain communication, it will open some new doors in the next ICO boom.
+I need to ride out a couple of alt waves before I can get back in, pretty cut about its mini-moon, sold at 46k post BCG fork
+Arkies are fucking deluded /thread
+every other blockchain has to be rewritten.>what needs to happen is a core protocol needs to be added to the current existing blockchains.>atomic swap protocolArkVM removes the need for updates to existing chains and is self-contained, and functions in a way similar to Atomic Swaps, without the requirement for both coins having Bitcoin's low level scripting language.
+Atomic swaps use dumb contracts that exist in every existing UTXO coin already.
+You literally have no idea what you're talking about.
+True long term but for future projects ARK provides a good bridge, to achieve bridging before it becomes widely adopted
+ArkVM?
+Kill yourself.This buzzworded its way to $100mill cap
+
+So many fucking buzzwords used by Arkies just to appear smart and useful lmao.
+retarded brainlet
+Just another shitcoin that does nothing good.
+Lots of ark holders around here, which is why it's shilled so much.
+every other blockchain has to be rewritten

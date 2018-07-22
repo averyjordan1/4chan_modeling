@@ -1,0 +1,5 @@
+http://vcash.info/https://github.com/openvcash/https://bittrex.com/Market/Index?MarketName=BTC-XVC1.
+completely independent code base (not a fork of any shitcoin or bitcoin)2. clean development footprint3.
+well-structured code4.
+PoS requires 10000 XVC to participate (~ 1 BTC)5. cross-platform wallet6.
+listed on BittrexCan someone give me a reason why is the price so fucking low in comparison to other shit coins?

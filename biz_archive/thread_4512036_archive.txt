@@ -1,0 +1,1 @@
+Trying to use the coinmarketcap api call running for btg and it just returns the same usd price as btc.What gives?

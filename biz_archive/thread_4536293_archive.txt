@@ -1,0 +1,51 @@
+Sorry, not really understanding what I am reading here.
+Browsing the Iota tangle, specifically the top 100 addresses, started running into this tag.https://thetangle.org/tag/9999STOLEN9IOTAS999FUCK9YOULike, was there a huge hack?
+Some of these 19 000 pending transactions are in the millions of US dollars.https://thetangle.org/transaction/MP9E9OATFBUFAVCVZPYVAMA99NTYMKBOAVXZMUKKABCBHVUTSTJNYGYHIXKUGVTNISJXAVQXCYPL99999https://thetangle.org/transaction/GUZDISJJXRXZTCNMAMPK9BCQFHXKVGAJHMSASTQGRGVVDSVEWPJUSIKBNCUCITYCMSAHFZTJBCOAA9999
+Nobody?
+Many seem to be routed to this address, in 145.8 GIota bundles (about 100k USD).
+Those aren't repeated transactions, they're all from different addresses.https://thetangle.org/address/XWHSRRMKZKLHQZJCRBGOVESSUNBUX9H9HUHLFQLCMLMRRHLHMVGUJZ9QX9SOHTZMNRNGGLFWNWUYHCAWDLike about 50 x 145.8 GIota?
+So, over five million being transferred to this address?
+damn
+https://www.google.com/search?q=9999STOLEN9IOTAS999FUCK9YOU&filter=0&biw=1600&bih=730fucking tons of it.
+i see this tag all the time, and i have no fucking clue why other people havent asked this question
+Actually, there are 12 000 more transactions not displayed, so it's probably a lot more than that.
+Some of these pending transactions are less than a day old...https://thetangle.org/transaction/KFSHOGUPWUNSLROREKDXFRDIRPTOWUETAF9XBWPBMMITIVTGQQMIJJVW9JOODBDFDWBYBDTLPRKB99999
+DUMP IOTAI haven't seen the team respond to this yet even though this like a huge breach.
+Well, they announced today that they are hiring a cryptographic security company.https://blog.iota.org/iota-foundation-hires-cybercrypt-615d2df79001Bitfinex meanwhile, announced that Iota withdrawals should be good to go... Maybe the entire tangle was frozen, locked into pending transaction status?Am I crazy?
+This seems like it would be huge.
+All day (before this flash crash) Binance had an alert on IOTA saying "network congestion / withdrawal times may be delayed"...this was the ONLY coin with this alert...
+HOURS AND HOURS AGOFrom the other thread.
+Honestly everyone needs to dump IOTA now before they get rekt hard.
+But nobody can.
+Everybody has to create a new address with a new seed, then reclaim their...Holy fuck, they were definitely fucking hacked.
+And they're covering it up.
+It's pretty obvious whoever is making these transactions has malicious intent.
+I'd be very careful
+post this shit on reddit.
+that dev fag is always on the iota subreddit defending his bs crypto
+It's pretty obvious whoever is making these transactions has malicious intent.
+I'd be very carefulmalicious intent to spread coordinated fud and scoop up cheap iota from weak hands probably
+when i transferred 1 giota to okex, i was redirected to the GUZDISJJXRXZTCNMAMPK9BCQFHXKVGAJHMSASTQGRGVVDSVEWPJUSIKBNCUCITYCMSAHFZTJBCOAA9999 transaction when checking the status even though that is not my transaction ID.
+it is fixed now though??
+real people who have had iota stolen under this tag:https://www.reddit.com/r/Iota/comments/7e0gu8/186gi_stolen_from_android_wallet/https://www.reddit.com/r/Iota/comments/7da10b/iota_light_wallet_hacked/
+I'm sorry
+it changed back to a legitimate transaction, what do you think that means?
+I am not sure why you are sorry but its okay
+real people who have had iota stolen under this tag:>https://www.reddit.com/r/Iota/comments/7e0gu8/186gi_stolen_from_android_wallet/>https://www.reddit.com/r/Iota/comments/7da10b/iota_light_wallet_hacked/one dude confirmed he reused adressanother one used some shady online seed generatorit's like blaming etherdelta for fatfingering your order
+two completely different scenarios.bad seed generatoraddress reusesame stolen tag.also no one can explain to me why using the same receiving address multiple times can put your seed at risk.
+clarify pls
+ITS AN EXIT SCAMSELL SELL SELL SELL
+Isnt IOTA the same crypto that had a huge vulnerability discovered by an MIT professor?
+I’ll be staying clear of that garbage have fun getting your money tangled into nothing
+fuck it, went straight to the source.theyre shit transactions
+
+same stolen tag.well duhit's not like the whole world is targeting iotaprobably one hacker or a group>also no one can explain to me why using the same receiving address multiple times can put your seed at risk.
+clarify plsevery outgoing transaction it sends part of the private key with one time signature which degrades every time it reused making it vulnurable to reverse bruteforce
+vulnurable to reverse bruteforcethat doesn't compromise your whole wallet thoughonly this one address
+Well.
+That's kind of reassuring.
+Except that the sheer spam transaction overload may be grinding the network to a crawl.
+A currency that can have your funds stolen if you use it twice.
+Lol this shit is going to be mainstream adopted tomorrow!
+Stay poor
+its supposed to be machine-adopted so it wouldn't be difficult to automate address re-generation after transactionthey are working on this, right now I think there aren't many nodes
