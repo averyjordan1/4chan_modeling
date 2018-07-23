@@ -1,6 +1,7 @@
 """
 Helpers for functional programming style.
 """
+import itertools
 
 
 def head(l):
@@ -12,3 +13,9 @@ def head(l):
     else:
         return []
 
+
+def nth(generator, n):
+    """
+    Return the nth element of a generator.
+    """
+    return list(itertools.islice(generator, n))[n-1]

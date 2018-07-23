@@ -1,6 +1,7 @@
 import string
 
 import requests
+import nltk
 # import nltk.data
 # from scrapper import parse_thread, simple_parse
 import os
@@ -9,6 +10,7 @@ import gensim
 import re
 import logging
 import csv
+import itertools
 from markovipy import MarkoviPy
 from copy import deepcopy
 
@@ -20,14 +22,15 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 
 # CODE for importing the SSL thing to fix a nltk error
 
-# import ssl
-# try:
-#     _create_unverified_https_context = ssl._create_unverified_context
-# except AttributeError:
-#     pass
-# else:
-#     ssl._create_default_https_context = _create_unverified_https_context
-# nltk.download('punkt')
+import ssl
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
+nltk.download('stopwords')
+nltk.download('wordnet')
 
 def add_data_files():
     # Get all of the archived threads on 4chan/biz
@@ -79,8 +82,7 @@ def clean_existing_files():
             f.write(" ".join(new_sent) + '\n')
 
 
-
-# Simple iterator class for using less intense memory usage
+# Generator to avoid having to store all the threads in memory for iteration
 class MySentences(object):
     def __init__(self, dirname):
         self.dirname = dirname
@@ -98,11 +100,24 @@ lemma = WordNetLemmatizer()
 
 
 def clean(doc):
-    doc = " ".join(doc)
-    stop_free = " ".join([i for i in doc.lower().split() if i not in stop])
-    punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
-    normalized = " ".join(lemma.lemmatize(word) for word in punc_free.split())
-    return normalized.split()
+    """
+    Given a list representation of a document, cleans that string and returns the doc as a list.
+    """
+    # doc = " ".join(doc)
+    # stop_free = " ".join([i for i in doc.lower().split() if i not in stop])
+    # punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
+    # normalized = " ".join(lemma.lemmatize(word) for word in punc_free.split())
+    # return normalized.split()
+
+    cleaned_doc = []
+    for word in doc:
+        word = word.lower()
+        if word not in stop and len(word) < 25:
+            cleaned_doc.append(word.strip(exclude))
+
+    return list(map(lemma.lemmatize, cleaned_doc))
+
+
 
 class MyThreads(object):
     def __init__(self, dirname):
@@ -114,7 +129,7 @@ class MyThreads(object):
                 lines = []
                 for line in open(os.path.join(self.dirname, fname), encoding='utf-8'):
                     lines.append(line)
-                yield clean(lines)
+                yield clean(" ".join(lines).split())
 
 
 
