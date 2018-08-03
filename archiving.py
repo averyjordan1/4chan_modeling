@@ -13,6 +13,7 @@ import csv
 import itertools
 from markovipy import MarkoviPy
 from copy import deepcopy
+import string
 
 from nltk import WordNetLemmatizer
 from nltk.corpus import stopwords
@@ -112,8 +113,10 @@ def clean(doc):
     cleaned_doc = []
     for word in doc:
         word = word.lower()
-        if word not in stop and len(word) < 25:
-            cleaned_doc.append(word.strip(exclude))
+        if word not in stop and 25 > len(word) > 1:
+            s = re.sub(r'[^\w\s]', '', word)
+            if s:
+                cleaned_doc.append(s)
 
     return list(map(lemma.lemmatize, cleaned_doc))
 
