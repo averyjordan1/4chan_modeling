@@ -92,7 +92,7 @@ class MySentences(object):
         for fname in os.listdir(self.dirname):
             if fname.endswith('.txt'):
                 for line in open(os.path.join(self.dirname, fname), encoding='utf-8'):
-                    yield " ".join(clean(line.split()))
+                    yield clean(line.split())
 
 
 stop = set(stopwords.words('english'))
@@ -141,7 +141,7 @@ def train(s, c, fname=None, dir_name=None):
     sentences = MySentences(dir_name)
 #     phrases = gensim.models.Phrases(sentences)
 #     bigrams = gensim.models.phrases.Phraser(phrases)
-    model = gensim.models.Word2Vec(sentences, size=s, workers=8, min_count=c, hs=1, max_vocab_size=1000000)
+    model = gensim.models.Word2Vec(sentences, size=s, workers=4, min_count=c, hs=1)
     if fname:
         model.save('{}_model'.format(fname))
     else:
