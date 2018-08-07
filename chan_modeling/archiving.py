@@ -181,6 +181,10 @@ def analyze(s, c, vector_fname=None, test_file_name=None):
             f.write("Test: similarity to '{}'\n".format(sim))
             for word in vectors.similar_by_word(sim, topn=10):
                 f.write(str(word) + "\n")
+                
+def get_single_vector(word, vector_fname):
+    vectors = gensim.models.KeyedVectors.load(vector_fname)
+    return vectors.similar_by_word(word, topn=10)
 
 
 def parse_result_file(file):
