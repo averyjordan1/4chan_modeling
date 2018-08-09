@@ -11,7 +11,6 @@ import re
 import logging
 import csv
 import itertools
-from markovipy import MarkoviPy
 from copy import deepcopy
 import string
 
@@ -181,10 +180,22 @@ def analyze(s, c, vector_fname=None, test_file_name=None):
             f.write("Test: similarity to '{}'\n".format(sim))
             for word in vectors.similar_by_word(sim, topn=10):
                 f.write(str(word) + "\n")
-                
+
+
 def get_single_vector(word, vector_fname):
+    """Returns the list of a single words similar vectors from the given vector file"""
     vectors = gensim.models.KeyedVectors.load(vector_fname)
     return vectors.similar_by_word(word, topn=10)
+
+
+def get_vector_list(word_list, vector_fname):
+    """Returns the list of multiple words similar vectors from the given vector file"""
+    vec_list = []
+    for word in word_list:
+        vectors = gensim.models.KeyedVectors.load(vector_fname)
+        vec_list.append(vectors.similar_by_word(word, topn=10))
+    return vec_list
+
 
 
 def parse_result_file(file):
@@ -208,8 +219,6 @@ def evaluate_test_results():
         for result in all_results:
             writer.writerow(result)
 
-
-# evaluate_test_results()
 
 def find_similarities(model_nums, word):
     vectors = gensim.models.KeyedVectors.load(
