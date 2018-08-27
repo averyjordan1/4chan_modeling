@@ -122,16 +122,24 @@ def clean(doc):
 
 
 class MyThreads(object):
-    def __init__(self, dirname):
+    def __init__(self, dirname, specific_files=None):
         self.dirname = dirname
+        self.specific_files = specific_files
 
     def __iter__(self):
-        for fname in os.listdir(self.dirname):
-            if fname.endswith('.txt'):
+        if self.specific_files:
+            for fname in self.specific_files:
                 lines = []
                 for line in open(os.path.join(self.dirname, fname), encoding='utf-8'):
                     lines.append(line)
                 yield clean(" ".join(lines).split())
+        else:
+            for fname in os.listdir(self.dirname):
+                if fname.endswith('.txt'):
+                    lines = []
+                    for line in open(os.path.join(self.dirname, fname), encoding='utf-8'):
+                        lines.append(line)
+                    yield clean(" ".join(lines).split())
 
 
 
