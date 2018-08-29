@@ -8,17 +8,12 @@ import os
 import time
 import gensim
 import re
-import logging
 import csv
 import itertools
 from copy import deepcopy
 import string
-
 from nltk import WordNetLemmatizer
 from nltk.corpus import stopwords
-
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
-
 
 # CODE for importing the SSL thing to fix a nltk error
 
