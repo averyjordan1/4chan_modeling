@@ -2,3 +2,5 @@ models/*
 .idea
 .ipynb_checkpoints/
 __pycache__/*
+short_archive/
+medium_archive/

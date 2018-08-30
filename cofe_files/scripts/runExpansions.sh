@@ -6,12 +6,15 @@ caches=$home/caches
 dataExpanded=$home/data_expanded
 nAdjs=10
 
+# Setup directories for expanded data sets
 for i in 1 2 3 4 5; do
   if [[ ! -d $dataExpanded/$i ]] ; then
     mkdir $dataExpanded/$i
   fi
 done
 
+
+# loop over all the different data sets and run expand on them
 for input in `ls ${datasets}/*/*/*.csv`; do
   if [[ $input == *"All"* || $input == *"all"* || $input == *"Fold"* || $input == *"loseitComments"* || $input == *"Posts"* || $input == *"Full"* ]] ; then
     continue
@@ -33,6 +36,8 @@ for input in `ls ${datasets}/*/*/*.csv`; do
     python $home/scripts/expand.py $input $dataExpanded/$i/$dataset.csv $caches/$dataset-graph.txt $i
   done
 done
+
+
 
 for input in `ls ${datasets}/*/*.csv`; do
   if [[ $input == *"All"* || $input == *"all"* || $input == *"Fold"* || $input == *"loseitComments"* || $input == *"Posts"* || $input == *"Full"* ]] ; then
