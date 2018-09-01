@@ -3,6 +3,7 @@ import numpy as np
 import time
 from joblib import Parallel, delayed
 import multiprocessing
+from collections import defaultdict
 
 # inverted index for dataset
 def createIndex(threads):
@@ -21,49 +22,63 @@ def createIndex(threads):
     return index
 
 
-def inner_loop(i1, vocab, index, graph):
-    for i2 in range(i1 + 1, len(vocab)):
-        w1 = vocab[i1]
-        w2 = vocab[i2]
+def inner_loop(values, vocab, index):
+    graph = defaultdict(list)
+    for i1 in values:
+        for i2 in range(i1 + 1, len(vocab)):
+            w1 = vocab[i1]
+            w2 = vocab[i2]
 
-        docs1 = index[w1]
-        docs2 = index[w2]
+            docs1 = index[w1]
+            docs2 = index[w2]
 
-        intersec = len(docs1.intersection(docs2))
-        union = len(docs1.union(docs2))
-        jacc = intersec / float(union)
+            intersec = len(docs1.intersection(docs2))
+            union = len(docs1.union(docs2))
+            jacc = intersec / float(union)
 
-        if intersec > 0:
-            graph[i1].append((jacc, i2))
-            graph[i2].append((jacc, i1))
+            if intersec > 0:
+                graph[i1].append((jacc, i2))
+                graph[i2].append((jacc, i1))
+    return graph
+
+
+def chunks(l, n):
+    """Yield successive n-sized chunks from l."""
+    for i in range(0, len(l), n):
+        yield l[i:i + n]
 
 # creates word similarity graph with Jaccard index
 # graph is an adjacency list
 # indexes in list comes from word indexes in sorted vocab
 def createGraph(index, nAdjs):
     start = time.time()
-    print('entered create graph at {}'.format(start))
+    print('entered create graph')
     vocab = [*index]
     vocab.sort()
-    graph = [[] for i in range(len(vocab))]
-    print('sorted vocabulary and initialized graph after {}'.format(time.time() - start))
+    num_cores = multiprocessing.cpu_count()
+    print("num cores = {}".format(num_cores))
+    print("vocabulary size = {}".format(len(vocab)))
     
-#     num_cores = multiprocessing.cpu_count()
+    graphs = Parallel(n_jobs=num_cores)(delayed(inner_loop)(vals, vocab, index) for vals in chunks(range(len(vocab) - 1), 4000))
+        
+    graph = defaultdict(list)
+ 
+    print('initialized graph after {}'.format(time.time() - start))
     
-#     Parallel(n_jobs=num_cores)(delayed(inner_loop)(i1, vocab, index, graph) for i1 in range(len(vocab) - 1))
-    for i1 in range(len(vocab) - 1):
-        inner_loop(i1, vocab, index, graph)
-        
-        
-    print('sorted vocabulary and initialized graph after {}'.format(time.time() - start))
+    for small_graph in graphs: 
+        for key, value in small_graph.items():
+            graph[key].extend(value)
+
+    
+    print('sorted vocabulary after {}'.format(time.time() - start))
    
     # keeps only the nAdjs best adjs for each word
     for i1 in range(len(vocab) - 1):
         graph[i1].sort(reverse=True)
         if len(graph[i1]) > nAdjs:
             graph[i1] = graph[i1][:nAdjs]
-    end = time.time()
-    print("excited create graph after {}".format(end-start))
+    
+    print("excited create graph after {}".format(time.time() - start))
 
     return graph, vocab
 

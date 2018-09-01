@@ -4,3 +4,4 @@ models/*
 __pycache__/*
 short_archive/
 medium_archive/
+one_k_files/
