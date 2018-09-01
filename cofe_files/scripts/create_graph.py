@@ -1,6 +1,8 @@
 import os, sys
 import numpy as np
 import time
+from joblib import Parallel, delayed
+import multiprocessing
 
 # inverted index for dataset
 def createIndex(threads):
@@ -19,6 +21,22 @@ def createIndex(threads):
     return index
 
 
+def inner_loop(i1, vocab, index, graph):
+    for i2 in range(i1 + 1, len(vocab)):
+        w1 = vocab[i1]
+        w2 = vocab[i2]
+
+        docs1 = index[w1]
+        docs2 = index[w2]
+
+        intersec = len(docs1.intersection(docs2))
+        union = len(docs1.union(docs2))
+        jacc = intersec / float(union)
+
+        if intersec > 0:
+            graph[i1].append((jacc, i2))
+            graph[i2].append((jacc, i1))
+
 # creates word similarity graph with Jaccard index
 # graph is an adjacency list
 # indexes in list comes from word indexes in sorted vocab
@@ -29,21 +47,14 @@ def createGraph(index, nAdjs):
     vocab.sort()
     graph = [[] for i in range(len(vocab))]
     print('sorted vocabulary and initialized graph after {}'.format(time.time() - start))
+    
+#     num_cores = multiprocessing.cpu_count()
+    
+#     Parallel(n_jobs=num_cores)(delayed(inner_loop)(i1, vocab, index, graph) for i1 in range(len(vocab) - 1))
     for i1 in range(len(vocab) - 1):
-        for i2 in range(i1 + 1, len(vocab)):
-            w1 = vocab[i1]
-            w2 = vocab[i2]
-
-            docs1 = index[w1]
-            docs2 = index[w2]
-
-            intersec = len(docs1.intersection(docs2))
-            union = len(docs1.union(docs2))
-            jacc = intersec / float(union)
-
-            if intersec > 0:
-                graph[i1].append((jacc, i2))
-                graph[i2].append((jacc, i1))
+        inner_loop(i1, vocab, index, graph)
+        
+        
     print('sorted vocabulary and initialized graph after {}'.format(time.time() - start))
    
     # keeps only the nAdjs best adjs for each word
@@ -62,7 +73,7 @@ def createGraph(index, nAdjs):
 # word:adj;sim adj2;sim adj3;sim
 def storeGraph(filename, name_output, graph, vocab, nAdjs):
     name_output += "_graph" + '.txt'
-    with open(name_output, 'w') as fout:
+    with open(name_output, mode='w', encoding='utf-8') as fout:
         fout.write("%s %s\n" % (filename, nAdjs))
         for i in range(len(vocab)):
             w = vocab[i]
