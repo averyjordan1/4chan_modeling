@@ -56,10 +56,12 @@ def createGraph(index, nAdjs):
     vocab = [*index]
     vocab.sort()
     num_cores = multiprocessing.cpu_count()
+
     print("num cores = {}".format(num_cores))
     print("vocabulary size = {}".format(len(vocab)))
     
-    graphs = Parallel(n_jobs=num_cores)(delayed(inner_loop)(vals, vocab, index) for vals in chunks(range(len(vocab) - 1), 4000))
+    chunk_size = len(vocab) // num_cores
+    graphs = Parallel(n_jobs=num_cores)(delayed(inner_loop)(vals, vocab, index) for vals in chunks(range(len(vocab) - 1), chunk_size))
         
     graph = defaultdict(list)
  

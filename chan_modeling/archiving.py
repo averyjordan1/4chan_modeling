@@ -108,21 +108,30 @@ def clean(doc):
     for word in doc:
         word = word.lower()
         if word not in stop and 25 > len(word) > 1:
-            s = re.sub(r'[^\w\s]', '', word)
-            if s:
-                cleaned_doc.append(s)
+            s = re.sub(r'[^\w\s]', ' ', word.strip())
+            t = re.sub(r'[0-9]', ' ', s.strip())
+            cand = t.strip().split()
+            if cand:
+                for c in cand:
+                    if c not in stop and 25 > len(c) > 1:
+                        cleaned_doc.append(c)
 
-    return list(map(lemma.lemmatize, cleaned_doc))
+    cleaned = list(map(lemma.lemmatize, cleaned_doc))
+    return cleaned
 
 
 
 class MyThreads(object):
-    def __init__(self, dirname, specific_files=None):
+    def __init__(self, dirname, specific_files=None, single_file=None):
         self.dirname = dirname
         self.specific_files = specific_files
+        self.single_file = single_file
 
     def __iter__(self):
-        if self.specific_files:
+        if self.single_file:
+            for thread in open(self.single_file, encoding='utf-8'):
+                yield thread.split()
+        elif self.specific_files:
             for fname in self.specific_files:
                 lines = []
                 for line in open(os.path.join(self.dirname, fname), encoding='utf-8'):
@@ -251,8 +260,7 @@ def test_accuracy(words_list):
         for s in range(50, 301, 5):
             for c in range(5, 11, 5):
                 # Get the requisite models vectors
-                vectors = gensim.models.KeyedVectors.load(
-                    '/Users/averyjordan/PycharmProjects/4chan_scrapping/models/4chan_biz_vectors_size_{}_count_{}'.format(
+                vectors = gensim.models.KeyedVectors.load( '/Users/averyjordan/PycharmProjects/4chan_scrapping/models/4chan_biz_vectors_size_{}_count_{}'.format(
                         s, c))
 
                 # Set up the row dictionary with file name

@@ -38,15 +38,35 @@ def train_lda_model(n_topics, dictionary, doc_term_matrix, n_passes, n_print_wor
 
 
 def get_topics_for_document(doc, model, dictionary):
+    """
+    Returns the topics associated with a given document from a given model.
+    """
     bow = dictionary.doc2bow(doc)
     return model.get_document_topics(bow)
 
 
-def prepare_dictionary_from_specific_files(all_files_directory, specific_files_text_file):
-    f_names = None
-    with open(specific_files_text_file) as f:
-        f_names = f.readlines()
+def prepare_dictionary_from_specific_files(all_files_directory, f_names):
+    """
+    Given a list of specific file names (e.g., that have been selected on some condition), create a 
+    document term matrix, and a dictionary for training an LDA model. 
+    """
     cleaned_f_names = list(map(str.rstrip, f_names))    
     threads = MyThreads(all_files_directory, cleaned_f_names)
     dtm, dictionary = prepare_dictionary(threads)
     return dtm, dictionary
+
+
+def select_files_on_word_count(all_files_counts, predicate):
+    """
+    From a file containing the counts of each possible thread, selects the desired files based on a user 
+    given predicate that filters on length. Predicate should return true given a length that is desired.
+    """
+    selected_files = []
+    with open(all_files_counts) as f:
+        for txt_file in f:
+            length, file_name = txt_file.lstrip().split(' ')
+            if predicate(int(length)):
+                selected_files.append(file_name.strip())
+    return selected_files
+                
+            
